@@ -96,6 +96,240 @@
       "demo": "https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4"
     },
     {
+      "templateId": 606,
+      "repositoryId": "314486",
+      "repository": "https://github.com/motiontemplates/314486",
+      "website": "https://motiongit.com/@adunext/template-01-integrated-portrait",
+      "commit": "fb852b270cd2c3375f02a6194c92c500962764a6",
+      "version": "2.5.2",
+      "title": {
+        "zh": "现代图文 · 口播讲解 · 竖屏",
+        "en": "Modern Editorial · Narrated Explainer · Portrait"
+      },
+      "summary": {
+        "zh": "用现代图文版式、文字强调和信息拆解配合口播，适合观点、证据与步骤讲解。",
+        "en": "Support narration with modern editorial layouts, text emphasis and information breakdowns."
+      },
+      "group": "talk",
+      "width": 1080,
+      "height": 1920,
+      "fps": 60,
+      "ratio": "9:16",
+      "orientation": "portrait",
+      "openSource": false,
+      "preview": "https://raw.githubusercontent.com/motiontemplates/314486/fb852b270cd2c3375f02a6194c92c500962764a6/assets/preview.gif",
+      "poster": "https://motiongit.com/media/covers/606/draft-zh-ceb203a3fa61.jpg",
+      "demo": "https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4"
+    },
+    {
+      "templateId": 607,
+      "repositoryId": "358192",
+      "repository": "https://github.com/motiontemplates/358192",
+      "website": "https://motiongit.com/@adunext/template-02-expanded",
+      "commit": "337b7fdfafac3856c191d71a501b880636dfe256",
+      "version": "2.5.2",
+      "title": {
+        "zh": "纸面透视 · 口播讲解",
+        "en": "Paper Perspective · Narrated Explainer"
+      },
+      "summary": {
+        "zh": "用纸面透视、卡片层次和图文关系配合口播，适合方法拆解与结构化知识。",
+        "en": "Support structured explanations with paper perspective, layered cards and text-image relationships."
+      },
+      "group": "talk",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "ratio": "16:9",
+      "orientation": "landscape",
+      "openSource": false,
+      "preview": "https://raw.githubusercontent.com/motiontemplates/358192/337b7fdfafac3856c191d71a501b880636dfe256/assets/preview.gif",
+      "poster": "https://motiongit.com/media/covers/607/draft-zh-b7af2ac6dee6.jpg",
+      "demo": "https://media.openaicut.com/previews/607/draft-en-c751c296f78b.mp4"
+    },
+    {
+      "templateId": 608,
+      "repositoryId": "295450",
+      "repository": "https://github.com/motiontemplates/295450",
+      "website": "https://motiongit.com/@adunext/template-02-expanded-portrait",
+      "commit": "747500c1008dec139f539348a0192af1822aea1f",
+      "version": "2.5.2",
+      "title": {
+        "zh": "纸面透视 · 口播讲解 · 竖屏",
+        "en": "Paper Perspective · Narrated Explainer · Portrait"
+      },
+      "summary": {
+        "zh": "用纸面透视、卡片层次和图文关系配合口播，适合方法拆解与结构化知识。",
+        "en": "Support structured explanations with paper perspective, layered cards and text-image relationships."
+      },
+      "group": "talk",
+      "width": 1080,
+      "height": 1920,
+      "fps": 60,
+      "ratio": "9:16",
+      "orientation": "portrait",
+      "openSource": false,
+      "preview": "https://raw.githubusercontent.com/motiontemplates/295450/747500c1008dec139f539348a0192af1822aea1f/assets/preview.gif",
+      "poster": "https://motiongit.com/media/covers/608/draft-zh-499f0ea3a15e.jpg",
+      "demo": "https://media.openaicut.com/previews/608/draft-en-a5200442ba79.mp4"
+    },
+    {
+      "templateId": 609,
+      "repositoryId": "304634",
+      "repository": "https://github.com/motiontemplates/304634",
+      "website": "https://motiongit.com/@adunext/template-03-native",
+      "commit": "5b38a2c810563df76af1767b72588e8faad8614a",
+      "version": "2.5.2",
+      "title": {
+        "zh": "深色立体 · 多屏展陈",
+        "en": "Dark Dimensional Stage · Multi-screen Story"
+      },
+      "summary": {
+        "zh": "用深色立体舞台、多屏和空间层次展示口播内容，适合产品、案例与媒体素材讲解。",
+        "en": "Present products, examples and media on a dark dimensional stage with layered screens."
+      },
+      "group": "talk",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "ratio": "16:9",
+      "orientation": "landscape",
+      "openSource": false,
+      "preview": "https://raw.githubusercontent.com/motiontemplates/304634/5b38a2c810563df76af1767b72588e8faad8614a/assets/preview.gif",
+      "poster": "https://motiongit.com/media/covers/609/draft-zh-0b9cc00ce402.jpg",
+      "demo": "https://media.openaicut.com/previews/609/draft-en-70e2fe808e0c.mp4"
+    },
+    {
+      "templateId": 610,
+      "repositoryId": "569615",
+      "repository": "https://github.com/motiontemplates/569615",
+      "website": "https://motiongit.com/@adunext/template-03-native-portrait",
+      "commit": "c4c5b3fd41345e4f2d3bd78da4b9c20f364bbdd1",
+      "version": "2.5.2",
+      "title": {
+        "zh": "深色立体 · 多屏展陈 · 竖屏",
+        "en": "Dark Dimensional Stage · Multi-screen Story · Portrait"
+      },
+      "summary": {
+        "zh": "用深色立体舞台、多屏和空间层次展示口播内容，适合产品、案例与媒体素材讲解。",
+        "en": "Present products, examples and media on a dark dimensional stage with layered screens."
+      },
+      "group": "talk",
+      "width": 1080,
+      "height": 1920,
+      "fps": 60,
+      "ratio": "9:16",
+      "orientation": "portrait",
+      "openSource": false,
+      "preview": "https://raw.githubusercontent.com/motiontemplates/569615/c4c5b3fd41345e4f2d3bd78da4b9c20f364bbdd1/assets/preview.gif",
+      "poster": "https://motiongit.com/media/covers/610/draft-zh-14409c15ade1.jpg",
+      "demo": "https://media.openaicut.com/previews/610/draft-en-9785b0f9679c.mp4"
+    },
+    {
+      "templateId": 611,
+      "repositoryId": "553346",
+      "repository": "https://github.com/motiontemplates/553346",
+      "website": "https://motiongit.com/@adunext/template-04-dark-console",
+      "commit": "574c8817b2f882ee2e3ff8eca156232f32e501bf",
+      "version": "2.5.2",
+      "title": {
+        "zh": "科技控制台 · 口播讲解",
+        "en": "Tech Console · Narrated Explainer"
+      },
+      "summary": {
+        "zh": "用科技控制台、紫色玻璃质感与动态信息组件配合口播，适合技术与数据说明。",
+        "en": "Support technical and data explanations with a console layout and purple glass-like motion graphics."
+      },
+      "group": "talk",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "ratio": "16:9",
+      "orientation": "landscape",
+      "openSource": false,
+      "preview": "https://raw.githubusercontent.com/motiontemplates/553346/574c8817b2f882ee2e3ff8eca156232f32e501bf/assets/preview.gif",
+      "poster": "https://motiongit.com/media/covers/611/draft-zh-65a8230140c1.jpg",
+      "demo": "https://media.openaicut.com/previews/611/draft-en-d24046938118.mp4"
+    },
+    {
+      "templateId": 612,
+      "repositoryId": "738182",
+      "repository": "https://github.com/motiontemplates/738182",
+      "website": "https://motiongit.com/@adunext/template-04-dark-console-portrait",
+      "commit": "a9242c6fe04aa58a7ca848d06a42241df55adc19",
+      "version": "2.5.2",
+      "title": {
+        "zh": "科技控制台 · 口播讲解 · 竖屏",
+        "en": "Tech Console · Narrated Explainer · Portrait"
+      },
+      "summary": {
+        "zh": "用科技控制台、紫色玻璃质感与动态信息组件配合口播，适合技术与数据说明。",
+        "en": "Support technical and data explanations with a console layout and purple glass-like motion graphics."
+      },
+      "group": "talk",
+      "width": 1080,
+      "height": 1920,
+      "fps": 60,
+      "ratio": "9:16",
+      "orientation": "portrait",
+      "openSource": false,
+      "preview": "https://raw.githubusercontent.com/motiontemplates/738182/a9242c6fe04aa58a7ca848d06a42241df55adc19/assets/preview.gif",
+      "poster": "https://motiongit.com/media/covers/612/draft-zh-8ff0115c7088.jpg",
+      "demo": "https://media.openaicut.com/previews/612/draft-en-23e30d7e2c28.mp4"
+    },
+    {
+      "templateId": 613,
+      "repositoryId": "960723",
+      "repository": "https://github.com/motiontemplates/960723",
+      "website": "https://motiongit.com/@adunext/template-05-native",
+      "commit": "37ef164182b5d01331fe9a46854aa74a025da619",
+      "version": "2.5.2",
+      "title": {
+        "zh": "鲜色角色 · 叙事讲解",
+        "en": "Vivid Characters · Narrative Explainer"
+      },
+      "summary": {
+        "zh": "用鲜明配色、角色素材与叙事动效配合口播，适合故事、观点和情境解释。",
+        "en": "Support stories and contextual explanations with vivid colors, character assets and narrative animation."
+      },
+      "group": "talk",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "ratio": "16:9",
+      "orientation": "landscape",
+      "openSource": false,
+      "preview": "https://raw.githubusercontent.com/motiontemplates/960723/37ef164182b5d01331fe9a46854aa74a025da619/assets/preview.gif",
+      "poster": "https://motiongit.com/media/covers/613/draft-zh-23a19c51650d.jpg",
+      "demo": "https://media.openaicut.com/previews/613/draft-en-e06d1f42b0b9.mp4"
+    },
+    {
+      "templateId": 614,
+      "repositoryId": "293151",
+      "repository": "https://github.com/motiontemplates/293151",
+      "website": "https://motiongit.com/@adunext/template-05-native-portrait",
+      "commit": "57cfd0a33d7c412fe797ca205adf23666c5a3f1d",
+      "version": "2.5.2",
+      "title": {
+        "zh": "鲜色角色 · 叙事讲解 · 竖屏",
+        "en": "Vivid Characters · Narrative Explainer · Portrait"
+      },
+      "summary": {
+        "zh": "用鲜明配色、角色素材与叙事动效配合口播，适合故事、观点和情境解释。",
+        "en": "Support stories and contextual explanations with vivid colors, character assets and narrative animation."
+      },
+      "group": "talk",
+      "width": 1080,
+      "height": 1920,
+      "fps": 60,
+      "ratio": "9:16",
+      "orientation": "portrait",
+      "openSource": false,
+      "preview": "https://raw.githubusercontent.com/motiontemplates/293151/57cfd0a33d7c412fe797ca205adf23666c5a3f1d/assets/preview.gif",
+      "poster": "https://motiongit.com/media/covers/614/draft-zh-3f92eea2b709.jpg",
+      "demo": "https://media.openaicut.com/previews/614/draft-en-6f4079db7a76.mp4"
+    },
+    {
       "templateId": 623,
       "repositoryId": "762139",
       "repository": "https://github.com/motiontemplates/762139",
@@ -354,6 +588,32 @@
       "preview": "https://raw.githubusercontent.com/motiontemplates/394243/7af54f6d70e1a80942f6e8c5871ac5413bd752cc/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/592/quality-zh-666ac61ebd83.jpg",
       "demo": "https://media.openaicut.com/previews/592/draft-en-1f98c9f9df3c.mp4"
+    },
+    {
+      "templateId": 615,
+      "repositoryId": "381814",
+      "repository": "https://github.com/motiontemplates/381814",
+      "website": "https://motiongit.com/@prism-studio/visual-art-a-halftone",
+      "commit": "cd0af842ee47c43737211e43d7cd3084b98c885d",
+      "version": "2.5.2",
+      "title": {
+        "zh": "半调网点 · 人像标题",
+        "en": "Halftone Dots · Portrait Title"
+      },
+      "summary": {
+        "zh": "三张人像化为流动的双色网点，散开后重新汇聚成标题，适合人像与主题开场。",
+        "en": "Turn three portraits into flowing two-color halftone dots that disperse and regroup into a title."
+      },
+      "group": "art",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "ratio": "16:9",
+      "orientation": "landscape",
+      "openSource": false,
+      "preview": "https://raw.githubusercontent.com/motiontemplates/381814/cd0af842ee47c43737211e43d7cd3084b98c885d/assets/preview.gif",
+      "poster": "https://motiongit.com/media/covers/615/draft-zh-2de1eb992fcf.jpg",
+      "demo": "https://media.openaicut.com/previews/615/draft-en-a549a50aa6eb.mp4"
     },
     {
       "templateId": 616,
