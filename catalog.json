@@ -35,7 +35,7 @@
           "repository": "https://github.com/motiontemplates/385712",
           "website": "https://motiongit.com/@adunext/385712",
           "commit": "30a070172a65c8885b51e7e3dbe89517e287f5f8",
-          "version": "0.2.10-open-beta",
+          "version": "0.2.19-open-beta",
           "title": {
             "zh": "酷炫科技风 · 中文竖屏",
             "en": "Kinetic Tech · Chinese Portrait"
@@ -63,331 +63,19 @@
             "orientation": "landscape"
           },
           "editionNote": {
-            "zh": "官网中文竖屏 v0.2.10-open-beta；GitHub 开源包 v0.2.7-open-beta（16:9）。",
-            "en": "Official Chinese portrait v0.2.10-open-beta; GitHub source edition v0.2.7-open-beta (16:9)."
+            "zh": "官网中文竖屏 v0.2.19-open-beta；GitHub 开源包 v0.2.7-open-beta（16:9）。",
+            "en": "Official Chinese portrait v0.2.19-open-beta; GitHub source edition v0.2.7-open-beta (16:9)."
           }
         }
       ]
-    },
-    {
-      "templateId": 605,
-      "repositoryId": "336980",
-      "repository": "https://github.com/motiontemplates/336980",
-      "website": "https://motiongit.com/@adunext/template-01-integrated",
-      "commit": "f6d4b53f712f1ae979559b429b43c8b43ee53488",
-      "version": "2.5.4",
-      "title": {
-        "zh": "现代图文 · 口播讲解",
-        "en": "Modern Editorial · Narrated Explainer"
-      },
-      "summary": {
-        "zh": "用现代图文版式、文字强调和信息拆解配合口播，适合观点、证据与步骤讲解。",
-        "en": "Support narration with modern editorial layouts, text emphasis and information breakdowns."
-      },
-      "group": "talk",
-      "width": 1920,
-      "height": 1080,
-      "fps": 60,
-      "ratio": "16:9",
-      "orientation": "landscape",
-      "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/336980/f6d4b53f712f1ae979559b429b43c8b43ee53488/assets/preview.gif",
-      "poster": "https://motiongit.com/media/covers/605/draft-zh-7942d81ce917.jpg",
-      "demo": "https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4"
-    },
-    {
-      "templateId": 606,
-      "repositoryId": "314486",
-      "repository": "https://github.com/motiontemplates/314486",
-      "website": "https://motiongit.com/@adunext/template-01-integrated-portrait",
-      "commit": "54e1dd4fc983d74158aaa436dcdf4a0b41f8c293",
-      "version": "2.5.4",
-      "title": {
-        "zh": "现代图文 · 口播讲解 · 竖屏",
-        "en": "Modern Editorial · Narrated Explainer · Portrait"
-      },
-      "summary": {
-        "zh": "用现代图文版式、文字强调和信息拆解配合口播，适合观点、证据与步骤讲解。",
-        "en": "Support narration with modern editorial layouts, text emphasis and information breakdowns."
-      },
-      "group": "talk",
-      "width": 1080,
-      "height": 1920,
-      "fps": 60,
-      "ratio": "9:16",
-      "orientation": "portrait",
-      "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/314486/54e1dd4fc983d74158aaa436dcdf4a0b41f8c293/assets/preview.gif",
-      "poster": "https://motiongit.com/media/covers/606/draft-zh-ceb203a3fa61.jpg",
-      "demo": "https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4"
-    },
-    {
-      "templateId": 607,
-      "repositoryId": "358192",
-      "repository": "https://github.com/motiontemplates/358192",
-      "website": "https://motiongit.com/@adunext/template-02-expanded",
-      "commit": "08dacbb4c1473ff6043ff00caaaefeacfb5b534b",
-      "version": "2.5.4",
-      "title": {
-        "zh": "纸面透视 · 口播讲解",
-        "en": "Paper Perspective · Narrated Explainer"
-      },
-      "summary": {
-        "zh": "用纸面透视、卡片层次和图文关系配合口播，适合方法拆解与结构化知识。",
-        "en": "Support structured explanations with paper perspective, layered cards and text-image relationships."
-      },
-      "group": "talk",
-      "width": 1920,
-      "height": 1080,
-      "fps": 60,
-      "ratio": "16:9",
-      "orientation": "landscape",
-      "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/358192/08dacbb4c1473ff6043ff00caaaefeacfb5b534b/assets/preview.gif",
-      "poster": "https://motiongit.com/media/covers/607/draft-zh-b7af2ac6dee6.jpg",
-      "demo": "https://media.openaicut.com/previews/607/draft-en-c751c296f78b.mp4"
-    },
-    {
-      "templateId": 608,
-      "repositoryId": "295450",
-      "repository": "https://github.com/motiontemplates/295450",
-      "website": "https://motiongit.com/@adunext/template-02-expanded-portrait",
-      "commit": "64d815ca6ff21772d3bfb4937555c82567723561",
-      "version": "2.5.4",
-      "title": {
-        "zh": "纸面透视 · 口播讲解 · 竖屏",
-        "en": "Paper Perspective · Narrated Explainer · Portrait"
-      },
-      "summary": {
-        "zh": "用纸面透视、卡片层次和图文关系配合口播，适合方法拆解与结构化知识。",
-        "en": "Support structured explanations with paper perspective, layered cards and text-image relationships."
-      },
-      "group": "talk",
-      "width": 1080,
-      "height": 1920,
-      "fps": 60,
-      "ratio": "9:16",
-      "orientation": "portrait",
-      "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/295450/64d815ca6ff21772d3bfb4937555c82567723561/assets/preview.gif",
-      "poster": "https://motiongit.com/media/covers/608/draft-zh-499f0ea3a15e.jpg",
-      "demo": "https://media.openaicut.com/previews/608/draft-en-a5200442ba79.mp4"
-    },
-    {
-      "templateId": 609,
-      "repositoryId": "304634",
-      "repository": "https://github.com/motiontemplates/304634",
-      "website": "https://motiongit.com/@adunext/template-03-native",
-      "commit": "cd2bd23409da3847a5c14418527f5ed87af96ea9",
-      "version": "2.5.4",
-      "title": {
-        "zh": "深色立体 · 多屏展陈",
-        "en": "Dark Dimensional Stage · Multi-screen Story"
-      },
-      "summary": {
-        "zh": "用深色立体舞台、多屏和空间层次展示口播内容，适合产品、案例与媒体素材讲解。",
-        "en": "Present products, examples and media on a dark dimensional stage with layered screens."
-      },
-      "group": "talk",
-      "width": 1920,
-      "height": 1080,
-      "fps": 60,
-      "ratio": "16:9",
-      "orientation": "landscape",
-      "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/304634/cd2bd23409da3847a5c14418527f5ed87af96ea9/assets/preview.gif",
-      "poster": "https://motiongit.com/media/covers/609/draft-zh-0b9cc00ce402.jpg",
-      "demo": "https://media.openaicut.com/previews/609/draft-en-70e2fe808e0c.mp4"
-    },
-    {
-      "templateId": 610,
-      "repositoryId": "569615",
-      "repository": "https://github.com/motiontemplates/569615",
-      "website": "https://motiongit.com/@adunext/template-03-native-portrait",
-      "commit": "30ec7f2ac17e20d0bb1b052add67e065c9d882f1",
-      "version": "2.5.4",
-      "title": {
-        "zh": "深色立体 · 多屏展陈 · 竖屏",
-        "en": "Dark Dimensional Stage · Multi-screen Story · Portrait"
-      },
-      "summary": {
-        "zh": "用深色立体舞台、多屏和空间层次展示口播内容，适合产品、案例与媒体素材讲解。",
-        "en": "Present products, examples and media on a dark dimensional stage with layered screens."
-      },
-      "group": "talk",
-      "width": 1080,
-      "height": 1920,
-      "fps": 60,
-      "ratio": "9:16",
-      "orientation": "portrait",
-      "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/569615/30ec7f2ac17e20d0bb1b052add67e065c9d882f1/assets/preview.gif",
-      "poster": "https://motiongit.com/media/covers/610/draft-zh-14409c15ade1.jpg",
-      "demo": "https://media.openaicut.com/previews/610/draft-en-9785b0f9679c.mp4"
-    },
-    {
-      "templateId": 611,
-      "repositoryId": "553346",
-      "repository": "https://github.com/motiontemplates/553346",
-      "website": "https://motiongit.com/@adunext/template-04-dark-console",
-      "commit": "6e91047103c7042d39964bdad1d3e01667477173",
-      "version": "2.5.4",
-      "title": {
-        "zh": "科技控制台 · 口播讲解",
-        "en": "Tech Console · Narrated Explainer"
-      },
-      "summary": {
-        "zh": "用科技控制台、紫色玻璃质感与动态信息组件配合口播，适合技术与数据说明。",
-        "en": "Support technical and data explanations with a console layout and purple glass-like motion graphics."
-      },
-      "group": "talk",
-      "width": 1920,
-      "height": 1080,
-      "fps": 60,
-      "ratio": "16:9",
-      "orientation": "landscape",
-      "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/553346/6e91047103c7042d39964bdad1d3e01667477173/assets/preview.gif",
-      "poster": "https://motiongit.com/media/covers/611/draft-zh-65a8230140c1.jpg",
-      "demo": "https://media.openaicut.com/previews/611/draft-en-d24046938118.mp4"
-    },
-    {
-      "templateId": 612,
-      "repositoryId": "738182",
-      "repository": "https://github.com/motiontemplates/738182",
-      "website": "https://motiongit.com/@adunext/template-04-dark-console-portrait",
-      "commit": "acab8833dd5fccb715cea20416434fae0e73a7b1",
-      "version": "2.5.4",
-      "title": {
-        "zh": "科技控制台 · 口播讲解 · 竖屏",
-        "en": "Tech Console · Narrated Explainer · Portrait"
-      },
-      "summary": {
-        "zh": "用科技控制台、紫色玻璃质感与动态信息组件配合口播，适合技术与数据说明。",
-        "en": "Support technical and data explanations with a console layout and purple glass-like motion graphics."
-      },
-      "group": "talk",
-      "width": 1080,
-      "height": 1920,
-      "fps": 60,
-      "ratio": "9:16",
-      "orientation": "portrait",
-      "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/738182/acab8833dd5fccb715cea20416434fae0e73a7b1/assets/preview.gif",
-      "poster": "https://motiongit.com/media/covers/612/draft-zh-8ff0115c7088.jpg",
-      "demo": "https://media.openaicut.com/previews/612/draft-en-23e30d7e2c28.mp4"
-    },
-    {
-      "templateId": 613,
-      "repositoryId": "960723",
-      "repository": "https://github.com/motiontemplates/960723",
-      "website": "https://motiongit.com/@adunext/template-05-native",
-      "commit": "23743f8ca4ed6ebfbc2b79393b104001deed827b",
-      "version": "2.5.4",
-      "title": {
-        "zh": "鲜色角色 · 叙事讲解",
-        "en": "Vivid Characters · Narrative Explainer"
-      },
-      "summary": {
-        "zh": "用鲜明配色、角色素材与叙事动效配合口播，适合故事、观点和情境解释。",
-        "en": "Support stories and contextual explanations with vivid colors, character assets and narrative animation."
-      },
-      "group": "talk",
-      "width": 1920,
-      "height": 1080,
-      "fps": 60,
-      "ratio": "16:9",
-      "orientation": "landscape",
-      "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/960723/23743f8ca4ed6ebfbc2b79393b104001deed827b/assets/preview.gif",
-      "poster": "https://motiongit.com/media/covers/613/draft-zh-23a19c51650d.jpg",
-      "demo": "https://media.openaicut.com/previews/613/draft-en-e06d1f42b0b9.mp4"
-    },
-    {
-      "templateId": 614,
-      "repositoryId": "293151",
-      "repository": "https://github.com/motiontemplates/293151",
-      "website": "https://motiongit.com/@adunext/template-05-native-portrait",
-      "commit": "d23b19bfca666dd27d479ad4e18606e4b1fc8b1b",
-      "version": "2.5.4",
-      "title": {
-        "zh": "鲜色角色 · 叙事讲解 · 竖屏",
-        "en": "Vivid Characters · Narrative Explainer · Portrait"
-      },
-      "summary": {
-        "zh": "用鲜明配色、角色素材与叙事动效配合口播，适合故事、观点和情境解释。",
-        "en": "Support stories and contextual explanations with vivid colors, character assets and narrative animation."
-      },
-      "group": "talk",
-      "width": 1080,
-      "height": 1920,
-      "fps": 60,
-      "ratio": "9:16",
-      "orientation": "portrait",
-      "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/293151/d23b19bfca666dd27d479ad4e18606e4b1fc8b1b/assets/preview.gif",
-      "poster": "https://motiongit.com/media/covers/614/draft-zh-3f92eea2b709.jpg",
-      "demo": "https://media.openaicut.com/previews/614/draft-en-6f4079db7a76.mp4"
-    },
-    {
-      "templateId": 623,
-      "repositoryId": "762139",
-      "repository": "https://github.com/motiontemplates/762139",
-      "website": "https://motiongit.com/@adunext/vibrant-poster",
-      "commit": "89332411362d587d745492b6a92e83834ef5cf90",
-      "version": "2.5.4",
-      "title": {
-        "zh": "活力海报 · 口播讲解",
-        "en": "Vibrant Poster · Narrated Explainer"
-      },
-      "summary": {
-        "zh": "用高对比海报、大字、清单和图形关系配合口播，含原生动画与新增组件，横屏独立编排。",
-        "en": "Support narration with high-contrast posters, bold type, lists and graphic relationships in a dedicated landscape layout."
-      },
-      "group": "talk",
-      "width": 1920,
-      "height": 1080,
-      "fps": 60,
-      "ratio": "16:9",
-      "orientation": "landscape",
-      "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/762139/89332411362d587d745492b6a92e83834ef5cf90/assets/preview.gif",
-      "poster": "https://motiongit.com/media/covers/623/draft-zh-6b4b2398b532.jpg",
-      "demo": "https://media.openaicut.com/previews/623/draft-en-e9dd279eebe9.mp4"
-    },
-    {
-      "templateId": 624,
-      "repositoryId": "721489",
-      "repository": "https://github.com/motiontemplates/721489",
-      "website": "https://motiongit.com/@adunext/vibrant-poster-portrait",
-      "commit": "5997231e0531176277e955aadd3931306b04bbc8",
-      "version": "2.5.4",
-      "title": {
-        "zh": "活力海报 · 口播讲解 · 竖屏",
-        "en": "Vibrant Poster · Narrated Explainer · Portrait"
-      },
-      "summary": {
-        "zh": "用高对比海报、大字、清单和图形关系配合口播，含原生动画与新增组件，竖屏独立编排。",
-        "en": "Support narration with high-contrast posters, bold type, lists and graphic relationships in a dedicated portrait layout."
-      },
-      "group": "talk",
-      "width": 1080,
-      "height": 1920,
-      "fps": 60,
-      "ratio": "9:16",
-      "orientation": "portrait",
-      "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/721489/5997231e0531176277e955aadd3931306b04bbc8/assets/preview.gif",
-      "poster": "https://motiongit.com/media/covers/624/draft-zh-01638b2220a1.jpg",
-      "demo": "https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4"
     },
     {
       "templateId": 585,
       "repositoryId": "128610",
       "repository": "https://github.com/motiontemplates/128610",
       "website": "https://motiongit.com/@motiongit/motiongit-promo-main",
-      "commit": "db91ac606a84e6de6f974e5e1b552c163c25c4e0",
-      "version": "2.5.3",
+      "commit": "b431e03b4fe4878c24e2beee117702517e64c2ce",
+      "version": "2.5.5",
       "title": {
         "zh": "多屏拼贴 · 品牌宣传",
         "en": "Screen Collage · Brand Story"
@@ -403,7 +91,7 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/128610/db91ac606a84e6de6f974e5e1b552c163c25c4e0/assets/preview.gif",
+      "preview": "https://raw.githubusercontent.com/motiontemplates/128610/b431e03b4fe4878c24e2beee117702517e64c2ce/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/585/draft-zh-c7db529e9ef8.jpg",
       "demo": "https://media.openaicut.com/previews/585/draft-en-3d2b6bdce3c7.mp4"
     },
@@ -412,8 +100,8 @@
       "repositoryId": "252912",
       "repository": "https://github.com/motiontemplates/252912",
       "website": "https://motiongit.com/@motiongit/motiongit-promo-pixel",
-      "commit": "b3f63f95a47e1fa7ddb0b5165abb8471820ae77e",
-      "version": "2.5.3",
+      "commit": "18d3fef344be93d3c7d0c6b0f7aef82e3cf563fc",
+      "version": "2.5.5",
       "title": {
         "zh": "像素闯关 · 产品宣传",
         "en": "Pixel Platformer · Product Introduction"
@@ -429,7 +117,7 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/252912/b3f63f95a47e1fa7ddb0b5165abb8471820ae77e/assets/preview.gif",
+      "preview": "https://raw.githubusercontent.com/motiontemplates/252912/18d3fef344be93d3c7d0c6b0f7aef82e3cf563fc/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/586/quality-zh-086e631771b2.jpg",
       "demo": "https://media.openaicut.com/previews/586/draft-en-45375e2037e0.mp4"
     },
@@ -438,8 +126,8 @@
       "repositoryId": "867595",
       "repository": "https://github.com/motiontemplates/867595",
       "website": "https://motiongit.com/@motiongit/motiongit-promo-velocity",
-      "commit": "c343e537f4c2b31f0cd6c626efd7811d58eb4cfc",
-      "version": "2.5.3",
+      "commit": "3f519deded040f2841dc6de66e18c423b6259395",
+      "version": "2.5.5",
       "title": {
         "zh": "明暗快切 · 产品宣传",
         "en": "Light and Dark Cuts · Product Promotion"
@@ -455,7 +143,7 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/867595/c343e537f4c2b31f0cd6c626efd7811d58eb4cfc/assets/preview.gif",
+      "preview": "https://raw.githubusercontent.com/motiontemplates/867595/3f519deded040f2841dc6de66e18c423b6259395/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/587/quality-zh-89ff4394136c.jpg",
       "demo": "https://media.openaicut.com/previews/587/draft-en-389d2163ab5f.mp4"
     },
@@ -464,8 +152,8 @@
       "repositoryId": "670021",
       "repository": "https://github.com/motiontemplates/670021",
       "website": "https://motiongit.com/@motiongit/motiongit-promo-user",
-      "commit": "2cb029c396ccecb432bbca8ef0ae56dff9642808",
-      "version": "2.5.3",
+      "commit": "eca3df10d09597e8a2965f658f5d3974c8eb6b18",
+      "version": "2.5.5",
       "title": {
         "zh": "流程演示 · 产品教程",
         "en": "Workflow Demo · Product Tutorial"
@@ -481,7 +169,7 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/670021/2cb029c396ccecb432bbca8ef0ae56dff9642808/assets/preview.gif",
+      "preview": "https://raw.githubusercontent.com/motiontemplates/670021/eca3df10d09597e8a2965f658f5d3974c8eb6b18/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/588/quality-zh-aa230abfebe6.jpg",
       "demo": "https://media.openaicut.com/previews/588/draft-en-2422d5a878da.mp4"
     },
@@ -490,8 +178,8 @@
       "repositoryId": "452365",
       "repository": "https://github.com/motiontemplates/452365",
       "website": "https://motiongit.com/@motiongit/motiongit-promo-creator",
-      "commit": "7172990434912731216baab77d7796c7eb61a46c",
-      "version": "2.5.3",
+      "commit": "3cacf7a7b9e42122e63cac1ca935468788c4ece1",
+      "version": "2.5.5",
       "title": {
         "zh": "模块拼贴 · 创作者宣传",
         "en": "Modular Collage · Creator Tools"
@@ -507,7 +195,7 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/452365/7172990434912731216baab77d7796c7eb61a46c/assets/preview.gif",
+      "preview": "https://raw.githubusercontent.com/motiontemplates/452365/3cacf7a7b9e42122e63cac1ca935468788c4ece1/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/589/quality-zh-879117ad36da.jpg",
       "demo": "https://media.openaicut.com/previews/589/draft-en-9fbec6ff121c.mp4"
     },
@@ -516,8 +204,8 @@
       "repositoryId": "213827",
       "repository": "https://github.com/motiontemplates/213827",
       "website": "https://motiongit.com/@motiongit/motiongit-promo-blueprint",
-      "commit": "83cbcf1fc0c4ffa756f59d9c3d807fa0daa3e33a",
-      "version": "2.5.3",
+      "commit": "a965bbec937aebdc5ab9ca602280051cc73f64e0",
+      "version": "2.5.5",
       "title": {
         "zh": "工程蓝图 · 产品拆解",
         "en": "Engineering Blueprint · Product Breakdown"
@@ -533,7 +221,7 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/213827/83cbcf1fc0c4ffa756f59d9c3d807fa0daa3e33a/assets/preview.gif",
+      "preview": "https://raw.githubusercontent.com/motiontemplates/213827/a965bbec937aebdc5ab9ca602280051cc73f64e0/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/590/quality-zh-d5509b8e4f82.jpg",
       "demo": "https://media.openaicut.com/previews/590/draft-en-99059891101e.mp4"
     },
@@ -542,8 +230,8 @@
       "repositoryId": "667934",
       "repository": "https://github.com/motiontemplates/667934",
       "website": "https://motiongit.com/@motiongit/motiongit-promo-keynote",
-      "commit": "40971e0569e9243d91521672c33879ea8da9ef13",
-      "version": "2.5.3",
+      "commit": "19d1c706d9b89565080ce805f3b6fc2523293665",
+      "version": "2.5.5",
       "title": {
         "zh": "发布会舞台 · 产品演示",
         "en": "Keynote Stage · Product Demo"
@@ -559,7 +247,7 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/667934/40971e0569e9243d91521672c33879ea8da9ef13/assets/preview.gif",
+      "preview": "https://raw.githubusercontent.com/motiontemplates/667934/19d1c706d9b89565080ce805f3b6fc2523293665/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/591/quality-zh-da4888e5e350.jpg",
       "demo": "https://media.openaicut.com/previews/591/draft-en-28eb07a5a332.mp4"
     },
@@ -568,8 +256,8 @@
       "repositoryId": "394243",
       "repository": "https://github.com/motiontemplates/394243",
       "website": "https://motiongit.com/@motiongit/motiongit-promo-ink",
-      "commit": "e6700ff8801676dd2c480452ad0a420c8b504bb1",
-      "version": "2.5.3",
+      "commit": "b551403de425ff307d60f8091bac5d3260bfc1f9",
+      "version": "2.5.5",
       "title": {
         "zh": "宣纸手卷 · 品牌叙事",
         "en": "Paper Scroll · Brand Story"
@@ -585,7 +273,7 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/394243/e6700ff8801676dd2c480452ad0a420c8b504bb1/assets/preview.gif",
+      "preview": "https://raw.githubusercontent.com/motiontemplates/394243/b551403de425ff307d60f8091bac5d3260bfc1f9/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/592/quality-zh-666ac61ebd83.jpg",
       "demo": "https://media.openaicut.com/previews/592/draft-en-1f98c9f9df3c.mp4"
     },
@@ -594,8 +282,8 @@
       "repositoryId": "381814",
       "repository": "https://github.com/motiontemplates/381814",
       "website": "https://motiongit.com/@prism-studio/visual-art-a-halftone",
-      "commit": "0630c3af43161800aa5f67d088c4d51b7f07b53b",
-      "version": "2.5.3",
+      "commit": "7ac203c44f3da953eaaa780a7acf0f86f2f214c8",
+      "version": "2.5.5",
       "title": {
         "zh": "半调网点 · 人像标题",
         "en": "Halftone Dots · Portrait Title"
@@ -611,7 +299,7 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/381814/0630c3af43161800aa5f67d088c4d51b7f07b53b/assets/preview.gif",
+      "preview": "https://raw.githubusercontent.com/motiontemplates/381814/7ac203c44f3da953eaaa780a7acf0f86f2f214c8/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/615/draft-zh-2de1eb992fcf.jpg",
       "demo": "https://media.openaicut.com/previews/615/draft-en-a549a50aa6eb.mp4"
     },
@@ -620,8 +308,8 @@
       "repositoryId": "460349",
       "repository": "https://github.com/motiontemplates/460349",
       "website": "https://motiongit.com/@prism-studio/visual-art-b-mosaic",
-      "commit": "0184f6a21b10c3b0c24ed2f17aef26475b4ff5be",
-      "version": "2.5.3",
+      "commit": "313e23a8e88d4be714f8a14e43a1820de459ee60",
+      "version": "2.5.5",
       "title": {
         "zh": "照片马赛克 · 拼图揭幕",
         "en": "Photo Mosaic · Image Reveal"
@@ -637,7 +325,7 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/460349/0184f6a21b10c3b0c24ed2f17aef26475b4ff5be/assets/preview.gif",
+      "preview": "https://raw.githubusercontent.com/motiontemplates/460349/313e23a8e88d4be714f8a14e43a1820de459ee60/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/616/draft-zh-b95e73a79f9c.jpg",
       "demo": "https://media.openaicut.com/previews/616/draft-en-74fac1697ce7.mp4"
     },
@@ -646,8 +334,8 @@
       "repositoryId": "907345",
       "repository": "https://github.com/motiontemplates/907345",
       "website": "https://motiongit.com/@prism-studio/visual-art-c-collage",
-      "commit": "11a503d4fb1457cf74a5da9a761b7c2e6a951353",
-      "version": "2.5.3",
+      "commit": "77ae93dd3589f0136983b66f2769b9e9fc4bc17c",
+      "version": "2.5.5",
       "title": {
         "zh": "几何拼贴 · 动态海报",
         "en": "Geometric Collage · Animated Poster"
@@ -663,139 +351,9 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/907345/11a503d4fb1457cf74a5da9a761b7c2e6a951353/assets/preview.gif",
+      "preview": "https://raw.githubusercontent.com/motiontemplates/907345/77ae93dd3589f0136983b66f2769b9e9fc4bc17c/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/617/draft-zh-84c721155840.jpg",
       "demo": "https://media.openaicut.com/previews/617/draft-en-b232ff8db7c6.mp4"
-    },
-    {
-      "templateId": 618,
-      "repositoryId": "328828",
-      "repository": "https://github.com/motiontemplates/328828",
-      "website": "https://motiongit.com/@prism-studio/visual-art-d-brushwork",
-      "commit": "aa5659bf8758f5a132345505088a0b89e1121bb7",
-      "version": "2.5.3",
-      "title": {
-        "zh": "笔触重绘 · 艺术照片",
-        "en": "Brush Repainting · Art Photo"
-      },
-      "summary": {
-        "zh": "用三层定向笔触重绘照片，与原图对照后呈现署名标题，适合摄影与艺术展示。",
-        "en": "Repaint a photo with three directional brush layers, compare it with the original and reveal a signed title."
-      },
-      "group": "art",
-      "width": 1920,
-      "height": 1080,
-      "fps": 60,
-      "ratio": "16:9",
-      "orientation": "landscape",
-      "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/328828/aa5659bf8758f5a132345505088a0b89e1121bb7/assets/preview.gif",
-      "poster": "https://motiongit.com/media/covers/618/draft-zh-c88f1a5a67a8.jpg",
-      "demo": "https://media.openaicut.com/previews/618/draft-en-30b4688562e9.mp4"
-    },
-    {
-      "templateId": 619,
-      "repositoryId": "638039",
-      "repository": "https://github.com/motiontemplates/638039",
-      "website": "https://motiongit.com/@prism-studio/visual-art-e-glitch",
-      "commit": "a13a90d6cc4db0fb1cdf0f3298f9b081ac4bb7bc",
-      "version": "2.5.3",
-      "title": {
-        "zh": "信号故障 · 照片转场",
-        "en": "Signal Glitch · Photo Transition"
-      },
-      "summary": {
-        "zh": "用像素排序、RGB 分离和扫描线改造照片，并以 CRT 关机效果收尾，适合科技视觉片段。",
-        "en": "Transform photos with pixel sorting, RGB splits and scanlines, ending with a CRT shutdown."
-      },
-      "group": "art",
-      "width": 1920,
-      "height": 1080,
-      "fps": 60,
-      "ratio": "16:9",
-      "orientation": "landscape",
-      "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/638039/a13a90d6cc4db0fb1cdf0f3298f9b081ac4bb7bc/assets/preview.gif",
-      "poster": "https://motiongit.com/media/covers/619/draft-zh-b96f0b6469fe.jpg",
-      "demo": "https://media.openaicut.com/previews/619/draft-en-e3aaf5ab5ba1.mp4"
-    },
-    {
-      "templateId": 620,
-      "repositoryId": "800829",
-      "repository": "https://github.com/motiontemplates/800829",
-      "website": "https://motiongit.com/@prism-studio/visual-art-f-double",
-      "commit": "4751585f8891ab4ca9b90e009900d9b14ec150fe",
-      "version": "2.5.3",
-      "title": {
-        "zh": "双重曝光 · 人像叠影",
-        "en": "Double Exposure · Portrait Layers"
-      },
-      "summary": {
-        "zh": "以风景填充人像剪影，双层画面反向漂移，标题从薄雾显现，适合诗意人像叠影。",
-        "en": "Fill a portrait silhouette with scenery, drift the layers in opposite directions and reveal a title through mist."
-      },
-      "group": "art",
-      "width": 1920,
-      "height": 1080,
-      "fps": 60,
-      "ratio": "16:9",
-      "orientation": "landscape",
-      "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/800829/4751585f8891ab4ca9b90e009900d9b14ec150fe/assets/preview.gif",
-      "poster": "https://motiongit.com/media/covers/620/draft-zh-d8cadbd1b296.jpg",
-      "demo": "https://media.openaicut.com/previews/620/draft-en-8b1d45590a57.mp4"
-    },
-    {
-      "templateId": 621,
-      "repositoryId": "743702",
-      "repository": "https://github.com/motiontemplates/743702",
-      "website": "https://motiongit.com/@prism-studio/visual-art-g-gallery",
-      "commit": "c9ff6628ea0b3b6c06fcffdcab90144aab892bd3",
-      "version": "2.5.3",
-      "title": {
-        "zh": "空间画廊 · 回忆相册",
-        "en": "Spatial Gallery · Photo Memories"
-      },
-      "summary": {
-        "zh": "穿行带有文字说明的立体照片画廊，最后推进主照片并揭示全屏标题，适合回忆与作品集。",
-        "en": "Travel through a dimensional photo gallery with captions, then move into the main image and a full-screen title."
-      },
-      "group": "art",
-      "width": 1920,
-      "height": 1080,
-      "fps": 60,
-      "ratio": "16:9",
-      "orientation": "landscape",
-      "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/743702/c9ff6628ea0b3b6c06fcffdcab90144aab892bd3/assets/preview.gif",
-      "poster": "https://motiongit.com/media/covers/621/draft-zh-78b8670e7b7d.jpg",
-      "demo": "https://media.openaicut.com/previews/621/draft-en-d730d56fb8f4.mp4"
-    },
-    {
-      "templateId": 622,
-      "repositoryId": "551805",
-      "repository": "https://github.com/motiontemplates/551805",
-      "website": "https://motiongit.com/@prism-studio/visual-art-h-kaleido",
-      "commit": "3a2f4d75bd9b337f7ff7d44ca42238b5868e6556",
-      "version": "2.5.3",
-      "title": {
-        "zh": "镜像万花筒 · 照片变幻",
-        "en": "Mirror Kaleidoscope · Photo Motion"
-      },
-      "summary": {
-        "zh": "将两张照片镜像成旋转的十二分段万花筒，经扩张圆环转场再展开原图，适合视觉主题片。",
-        "en": "Mirror two photos into a rotating twelve-segment kaleidoscope, transition through expanding rings and unfold the originals."
-      },
-      "group": "art",
-      "width": 1920,
-      "height": 1080,
-      "fps": 60,
-      "ratio": "16:9",
-      "orientation": "landscape",
-      "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/551805/3a2f4d75bd9b337f7ff7d44ca42238b5868e6556/assets/preview.gif",
-      "poster": "https://motiongit.com/media/covers/622/draft-zh-f09b29170a66.jpg",
-      "demo": "https://media.openaicut.com/previews/622/draft-en-660c051c4b14.mp4"
     }
   ]
 }
