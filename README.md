@@ -2,7 +2,7 @@
 
 # MotionGit 模板合集
 
-**29 个模板** · [在线播放全部 Demo](https://motiontemplates.github.io/templates/) · [English](README.en.md)
+**29 个模板** · [在线播放全部 Demo](https://motiontemplates.github.io/all/) · [English](README.en.md)
 
 浏览模板的实际样片、输出规格与技术资料。选择模板后，在对应页面查看素材要求和完整 `.motion`；取得模板后按包内 README 与制作指南制作。
 

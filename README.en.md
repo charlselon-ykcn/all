@@ -2,7 +2,7 @@
 
 # MotionGit Template Collection
 
-**29 templates** · [Watch all demos](https://motiontemplates.github.io/templates/en.html) · [中文](README.md)
+**29 templates** · [Watch all demos](https://motiontemplates.github.io/all/en.html) · [中文](README.md)
 
 Browse actual demos, output specifications and technical documentation. Open a template for its required inputs and complete `.motion`, then follow the README and production guide inside the package.
 
