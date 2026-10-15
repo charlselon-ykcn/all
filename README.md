@@ -2,7 +2,7 @@
 
 # MotionGit 模板合集
 
-**29 个模板 · 30 个 Demo** · [在线播放全部 Demo](https://motiontemplates.github.io/all/) · [English](README.en.md)
+**11 个模板 · 12 个 Demo** · [在线播放全部 Demo](https://motiontemplates.github.io/all/) · [English](README.en.md)
 
 浏览模板的实际样片、输出规格与技术资料。选择模板后，在对应页面查看素材要求和完整 `.motion`；取得模板后按包内 README 与制作指南制作。
 
@@ -32,83 +32,6 @@
 
 
 ## 口播与讲解
-
-<h3><a href="https://motiongit.com/@adunext/template-01-integrated">现代图文 · 口播讲解</a></h3>
-<a href="https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/336980/4ada4691dd847bb202e3d8f93f889e3ad3757ee1/assets/preview.gif" width="640" alt="现代图文 · 口播讲解 — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.2 · .motion</sub></p>
-<p>用现代图文版式、文字强调和信息拆解配合口播，适合观点、证据与步骤讲解。</p>
-<p><a href="https://motiongit.com/@adunext/template-01-integrated">https://motiongit.com/@adunext/template-01-integrated</a></p>
-
-<p><a href="https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/336980">GitHub 技术资料</a></p>
-
-
----
-
-<h3><a href="https://motiongit.com/@adunext/template-01-integrated-portrait">现代图文 · 口播讲解 · 竖屏</a></h3>
-<a href="https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/314486/fb852b270cd2c3375f02a6194c92c500962764a6/assets/preview.gif" width="240" alt="现代图文 · 口播讲解 · 竖屏 — Demo"></a>
-<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v2.5.2 · .motion</sub></p>
-<p>用现代图文版式、文字强调和信息拆解配合口播，适合观点、证据与步骤讲解。</p>
-<p><a href="https://motiongit.com/@adunext/template-01-integrated-portrait">https://motiongit.com/@adunext/template-01-integrated-portrait</a></p>
-
-<p><a href="https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/314486">GitHub 技术资料</a></p>
-
-
----
-
-<h3><a href="https://motiongit.com/@adunext/template-02-expanded">纸面透视 · 口播讲解</a></h3>
-<a href="https://media.openaicut.com/previews/607/draft-en-c751c296f78b.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/358192/337b7fdfafac3856c191d71a501b880636dfe256/assets/preview.gif" width="640" alt="纸面透视 · 口播讲解 — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.2 · .motion</sub></p>
-<p>用纸面透视、卡片层次和图文关系配合口播，适合方法拆解与结构化知识。</p>
-<p><a href="https://motiongit.com/@adunext/template-02-expanded">https://motiongit.com/@adunext/template-02-expanded</a></p>
-
-<p><a href="https://media.openaicut.com/previews/607/draft-en-c751c296f78b.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/358192">GitHub 技术资料</a></p>
-
-
----
-
-<h3><a href="https://motiongit.com/@adunext/template-02-expanded-portrait">纸面透视 · 口播讲解 · 竖屏</a></h3>
-<a href="https://media.openaicut.com/previews/608/draft-en-a5200442ba79.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/295450/747500c1008dec139f539348a0192af1822aea1f/assets/preview.gif" width="240" alt="纸面透视 · 口播讲解 · 竖屏 — Demo"></a>
-<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v2.5.2 · .motion</sub></p>
-<p>用纸面透视、卡片层次和图文关系配合口播，适合方法拆解与结构化知识。</p>
-<p><a href="https://motiongit.com/@adunext/template-02-expanded-portrait">https://motiongit.com/@adunext/template-02-expanded-portrait</a></p>
-
-<p><a href="https://media.openaicut.com/previews/608/draft-en-a5200442ba79.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/295450">GitHub 技术资料</a></p>
-
-
----
-
-<h3><a href="https://motiongit.com/@adunext/template-03-native">深色立体 · 多屏展陈</a></h3>
-<a href="https://media.openaicut.com/previews/609/draft-en-70e2fe808e0c.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/304634/5b38a2c810563df76af1767b72588e8faad8614a/assets/preview.gif" width="640" alt="深色立体 · 多屏展陈 — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.2 · .motion</sub></p>
-<p>用深色立体舞台、多屏和空间层次展示口播内容，适合产品、案例与媒体素材讲解。</p>
-<p><a href="https://motiongit.com/@adunext/template-03-native">https://motiongit.com/@adunext/template-03-native</a></p>
-
-<p><a href="https://media.openaicut.com/previews/609/draft-en-70e2fe808e0c.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/304634">GitHub 技术资料</a></p>
-
-
----
-
-<h3><a href="https://motiongit.com/@adunext/template-03-native-portrait">深色立体 · 多屏展陈 · 竖屏</a></h3>
-<a href="https://media.openaicut.com/previews/610/draft-en-9785b0f9679c.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/569615/c4c5b3fd41345e4f2d3bd78da4b9c20f364bbdd1/assets/preview.gif" width="240" alt="深色立体 · 多屏展陈 · 竖屏 — Demo"></a>
-<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v2.5.2 · .motion</sub></p>
-<p>用深色立体舞台、多屏和空间层次展示口播内容，适合产品、案例与媒体素材讲解。</p>
-<p><a href="https://motiongit.com/@adunext/template-03-native-portrait">https://motiongit.com/@adunext/template-03-native-portrait</a></p>
-
-<p><a href="https://media.openaicut.com/previews/610/draft-en-9785b0f9679c.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/569615">GitHub 技术资料</a></p>
-
-
----
-
-<h3><a href="https://motiongit.com/@adunext/template-04-dark-console">科技控制台 · 口播讲解</a></h3>
-<a href="https://media.openaicut.com/previews/611/draft-en-d24046938118.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/553346/574c8817b2f882ee2e3ff8eca156232f32e501bf/assets/preview.gif" width="640" alt="科技控制台 · 口播讲解 — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.2 · .motion</sub></p>
-<p>用科技控制台、紫色玻璃质感与动态信息组件配合口播，适合技术与数据说明。</p>
-<p><a href="https://motiongit.com/@adunext/template-04-dark-console">https://motiongit.com/@adunext/template-04-dark-console</a></p>
-
-<p><a href="https://media.openaicut.com/previews/611/draft-en-d24046938118.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/553346">GitHub 技术资料</a></p>
-
-
----
 
 <h3><a href="https://motiongit.com/@adunext/template-04-dark-console-portrait">科技控制台 · 口播讲解 · 竖屏</a></h3>
 <a href="https://media.openaicut.com/previews/612/draft-en-23e30d7e2c28.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/738182/a9242c6fe04aa58a7ca848d06a42241df55adc19/assets/preview.gif" width="240" alt="科技控制台 · 口播讲解 · 竖屏 — Demo"></a>
@@ -166,8 +89,8 @@
 ## 品牌与产品
 
 <h3><a href="https://motiongit.com/@motiongit/motiongit-promo-main">多屏拼贴 · 品牌宣传</a></h3>
-<a href="https://media.openaicut.com/previews/585/draft-en-3d2b6bdce3c7.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/128610/c2456d336b2a2465a2520a634ff19ebc27d85263/assets/preview.gif" width="640" alt="多屏拼贴 · 品牌宣传 — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.2 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/585/draft-en-3d2b6bdce3c7.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/128610/db91ac606a84e6de6f974e5e1b552c163c25c4e0/assets/preview.gif" width="640" alt="多屏拼贴 · 品牌宣传 — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.3 · .motion</sub></p>
 <p>用多屏拼贴、版面切换和品牌收尾展示产品与创作流程，适合品牌介绍和工具宣传。</p>
 <p><a href="https://motiongit.com/@motiongit/motiongit-promo-main">https://motiongit.com/@motiongit/motiongit-promo-main</a></p>
 
@@ -177,8 +100,8 @@
 ---
 
 <h3><a href="https://motiongit.com/@motiongit/motiongit-promo-pixel">像素闯关 · 产品宣传</a></h3>
-<a href="https://media.openaicut.com/previews/586/draft-en-45375e2037e0.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/252912/a5648188cb7046bcad04393fa0b52aa9d35a41bf/assets/preview.gif" width="640" alt="像素闯关 · 产品宣传 — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.2 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/586/draft-en-45375e2037e0.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/252912/b3f63f95a47e1fa7ddb0b5165abb8471820ae77e/assets/preview.gif" width="640" alt="像素闯关 · 产品宣传 — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.3 · .motion</sub></p>
 <p>像素城市、角色闯关和复古游戏音色组成产品介绍，适合数字工具与功能说明。</p>
 <p><a href="https://motiongit.com/@motiongit/motiongit-promo-pixel">https://motiongit.com/@motiongit/motiongit-promo-pixel</a></p>
 
@@ -188,8 +111,8 @@
 ---
 
 <h3><a href="https://motiongit.com/@motiongit/motiongit-promo-velocity">明暗快切 · 产品宣传</a></h3>
-<a href="https://media.openaicut.com/previews/587/draft-en-389d2163ab5f.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/867595/e8d7f4c603ef325757cb2eea7097b3ff102d71f2/assets/preview.gif" width="640" alt="明暗快切 · 产品宣传 — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.2 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/587/draft-en-389d2163ab5f.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/867595/c343e537f4c2b31f0cd6c626efd7811d58eb4cfc/assets/preview.gif" width="640" alt="明暗快切 · 产品宣传 — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.3 · .motion</sub></p>
 <p>明暗画面快速切换，结合大字和界面展示突出产品功能，适合节奏鲜明的宣传片。</p>
 <p><a href="https://motiongit.com/@motiongit/motiongit-promo-velocity">https://motiongit.com/@motiongit/motiongit-promo-velocity</a></p>
 
@@ -199,8 +122,8 @@
 ---
 
 <h3><a href="https://motiongit.com/@motiongit/motiongit-promo-user">流程演示 · 产品教程</a></h3>
-<a href="https://media.openaicut.com/previews/588/draft-en-2422d5a878da.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/670021/115f6d98997c54d7000309548c37d2616dba4056/assets/preview.gif" width="640" alt="流程演示 · 产品教程 — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.2 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/588/draft-en-2422d5a878da.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/670021/2cb029c396ccecb432bbca8ef0ae56dff9642808/assets/preview.gif" width="640" alt="流程演示 · 产品教程 — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.3 · .motion</sub></p>
 <p>沿着选择模板、提供内容、生成视频的流程讲解产品使用，适合工具教程和上手演示。</p>
 <p><a href="https://motiongit.com/@motiongit/motiongit-promo-user">https://motiongit.com/@motiongit/motiongit-promo-user</a></p>
 
@@ -210,133 +133,12 @@
 ---
 
 <h3><a href="https://motiongit.com/@motiongit/motiongit-promo-creator">模块拼贴 · 创作者宣传</a></h3>
-<a href="https://media.openaicut.com/previews/589/draft-en-9fbec6ff121c.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/452365/8d6cb1200bdfd2d6f11c439dd1ad1ad70cb15f3d/assets/preview.gif" width="640" alt="模块拼贴 · 创作者宣传 — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.2 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/589/draft-en-9fbec6ff121c.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/452365/7172990434912731216baab77d7796c7eb61a46c/assets/preview.gif" width="640" alt="模块拼贴 · 创作者宣传 — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.3 · .motion</sub></p>
 <p>以模块拼贴呈现内容、素材和动画的组合关系，适合创作者工具与工作方式介绍。</p>
 <p><a href="https://motiongit.com/@motiongit/motiongit-promo-creator">https://motiongit.com/@motiongit/motiongit-promo-creator</a></p>
 
 <p><a href="https://media.openaicut.com/previews/589/draft-en-9fbec6ff121c.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/452365">GitHub 技术资料</a></p>
-
-
----
-
-<h3><a href="https://motiongit.com/@motiongit/motiongit-promo-blueprint">工程蓝图 · 产品拆解</a></h3>
-<a href="https://media.openaicut.com/previews/590/draft-en-99059891101e.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/213827/f605f4e7a4b3b36019a1c64a94b67f497e6a4fec/assets/preview.gif" width="640" alt="工程蓝图 · 产品拆解 — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.2 · .motion</sub></p>
-<p>以工程蓝图、结构示意和模块拆解展示产品组成，适合技术产品与工作流讲解。</p>
-<p><a href="https://motiongit.com/@motiongit/motiongit-promo-blueprint">https://motiongit.com/@motiongit/motiongit-promo-blueprint</a></p>
-
-<p><a href="https://media.openaicut.com/previews/590/draft-en-99059891101e.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/213827">GitHub 技术资料</a></p>
-
-
----
-
-<h3><a href="https://motiongit.com/@motiongit/motiongit-promo-keynote">发布会舞台 · 产品演示</a></h3>
-<a href="https://media.openaicut.com/previews/591/draft-en-28eb07a5a332.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/667934/cb967181df6d9bec9cd85e4a8e53b2e19dd1413e/assets/preview.gif" width="640" alt="发布会舞台 · 产品演示 — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.2 · .motion</sub></p>
-<p>以发布会舞台和大屏展示组织产品演示，适合新品介绍、功能发布与品牌展示。</p>
-<p><a href="https://motiongit.com/@motiongit/motiongit-promo-keynote">https://motiongit.com/@motiongit/motiongit-promo-keynote</a></p>
-
-<p><a href="https://media.openaicut.com/previews/591/draft-en-28eb07a5a332.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/667934">GitHub 技术资料</a></p>
-
-
----
-
-<h3><a href="https://motiongit.com/@motiongit/motiongit-promo-ink">宣纸手卷 · 品牌叙事</a></h3>
-<a href="https://media.openaicut.com/previews/592/draft-en-1f98c9f9df3c.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/394243/7af54f6d70e1a80942f6e8c5871ac5413bd752cc/assets/preview.gif" width="640" alt="宣纸手卷 · 品牌叙事 — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.2 · .motion</sub></p>
-<p>沿宣纸手卷展开品牌故事，以水墨意象和卷轴转场营造东方叙事。</p>
-<p><a href="https://motiongit.com/@motiongit/motiongit-promo-ink">https://motiongit.com/@motiongit/motiongit-promo-ink</a></p>
-
-<p><a href="https://media.openaicut.com/previews/592/draft-en-1f98c9f9df3c.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/394243">GitHub 技术资料</a></p>
-
-
-## 照片与视觉
-
-<h3><a href="https://motiongit.com/@prism-studio/visual-art-a-halftone">半调网点 · 人像标题</a></h3>
-<a href="https://media.openaicut.com/previews/615/draft-en-a549a50aa6eb.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/381814/cd0af842ee47c43737211e43d7cd3084b98c885d/assets/preview.gif" width="640" alt="半调网点 · 人像标题 — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.2 · .motion</sub></p>
-<p>三张人像化为流动的双色网点，散开后重新汇聚成标题，适合人像与主题开场。</p>
-<p><a href="https://motiongit.com/@prism-studio/visual-art-a-halftone">https://motiongit.com/@prism-studio/visual-art-a-halftone</a></p>
-
-<p><a href="https://media.openaicut.com/previews/615/draft-en-a549a50aa6eb.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/381814">GitHub 技术资料</a></p>
-
-
----
-
-<h3><a href="https://motiongit.com/@prism-studio/visual-art-b-mosaic">照片马赛克 · 拼图揭幕</a></h3>
-<a href="https://media.openaicut.com/previews/616/draft-en-74fac1697ce7.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/460349/bedb0860b34b687052497f2f1497f1f5063eeafa/assets/preview.gif" width="640" alt="照片马赛克 · 拼图揭幕 — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.1 · .motion</sub></p>
-<p>多张照片组成主视觉，从局部照片拉远揭示完整马赛克，适合集体回忆与拼图揭幕。</p>
-<p><a href="https://motiongit.com/@prism-studio/visual-art-b-mosaic">https://motiongit.com/@prism-studio/visual-art-b-mosaic</a></p>
-
-<p><a href="https://media.openaicut.com/previews/616/draft-en-74fac1697ce7.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/460349">GitHub 技术资料</a></p>
-
-
----
-
-<h3><a href="https://motiongit.com/@prism-studio/visual-art-c-collage">几何拼贴 · 动态海报</a></h3>
-<a href="https://media.openaicut.com/previews/617/draft-en-b232ff8db7c6.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/907345/ec06cbfdc762a0dac14fc53017d848a35d712ead/assets/preview.gif" width="640" alt="几何拼贴 · 动态海报 — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.1 · .motion</sub></p>
-<p>将四张照片裁成几何形状，在三组包豪斯动态海报中重组，适合活动与视觉主题展示。</p>
-<p><a href="https://motiongit.com/@prism-studio/visual-art-c-collage">https://motiongit.com/@prism-studio/visual-art-c-collage</a></p>
-
-<p><a href="https://media.openaicut.com/previews/617/draft-en-b232ff8db7c6.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/907345">GitHub 技术资料</a></p>
-
-
----
-
-<h3><a href="https://motiongit.com/@prism-studio/visual-art-d-brushwork">笔触重绘 · 艺术照片</a></h3>
-<a href="https://media.openaicut.com/previews/618/draft-en-30b4688562e9.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/328828/25d792428797f3bbb482e43176edd19f2e5937eb/assets/preview.gif" width="640" alt="笔触重绘 · 艺术照片 — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.1 · .motion</sub></p>
-<p>用三层定向笔触重绘照片，与原图对照后呈现署名标题，适合摄影与艺术展示。</p>
-<p><a href="https://motiongit.com/@prism-studio/visual-art-d-brushwork">https://motiongit.com/@prism-studio/visual-art-d-brushwork</a></p>
-
-<p><a href="https://media.openaicut.com/previews/618/draft-en-30b4688562e9.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/328828">GitHub 技术资料</a></p>
-
-
----
-
-<h3><a href="https://motiongit.com/@prism-studio/visual-art-e-glitch">信号故障 · 照片转场</a></h3>
-<a href="https://media.openaicut.com/previews/619/draft-en-e3aaf5ab5ba1.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/638039/78cc277692b51e2f55c0e846f19f31d21995428b/assets/preview.gif" width="640" alt="信号故障 · 照片转场 — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.1 · .motion</sub></p>
-<p>用像素排序、RGB 分离和扫描线改造照片，并以 CRT 关机效果收尾，适合科技视觉片段。</p>
-<p><a href="https://motiongit.com/@prism-studio/visual-art-e-glitch">https://motiongit.com/@prism-studio/visual-art-e-glitch</a></p>
-
-<p><a href="https://media.openaicut.com/previews/619/draft-en-e3aaf5ab5ba1.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/638039">GitHub 技术资料</a></p>
-
-
----
-
-<h3><a href="https://motiongit.com/@prism-studio/visual-art-f-double">双重曝光 · 人像叠影</a></h3>
-<a href="https://media.openaicut.com/previews/620/draft-en-8b1d45590a57.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/800829/84d61f96b516d43deba731da1286a3018c1fa665/assets/preview.gif" width="640" alt="双重曝光 · 人像叠影 — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.1 · .motion</sub></p>
-<p>以风景填充人像剪影，双层画面反向漂移，标题从薄雾显现，适合诗意人像叠影。</p>
-<p><a href="https://motiongit.com/@prism-studio/visual-art-f-double">https://motiongit.com/@prism-studio/visual-art-f-double</a></p>
-
-<p><a href="https://media.openaicut.com/previews/620/draft-en-8b1d45590a57.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/800829">GitHub 技术资料</a></p>
-
-
----
-
-<h3><a href="https://motiongit.com/@prism-studio/visual-art-g-gallery">空间画廊 · 回忆相册</a></h3>
-<a href="https://media.openaicut.com/previews/621/draft-en-d730d56fb8f4.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/743702/72bfe85e571a275d765574af402614ebfeb516a2/assets/preview.gif" width="640" alt="空间画廊 · 回忆相册 — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.1 · .motion</sub></p>
-<p>穿行带有文字说明的立体照片画廊，最后推进主照片并揭示全屏标题，适合回忆与作品集。</p>
-<p><a href="https://motiongit.com/@prism-studio/visual-art-g-gallery">https://motiongit.com/@prism-studio/visual-art-g-gallery</a></p>
-
-<p><a href="https://media.openaicut.com/previews/621/draft-en-d730d56fb8f4.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/743702">GitHub 技术资料</a></p>
-
-
----
-
-<h3><a href="https://motiongit.com/@prism-studio/visual-art-h-kaleido">镜像万花筒 · 照片变幻</a></h3>
-<a href="https://media.openaicut.com/previews/622/draft-en-660c051c4b14.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/551805/399c8530f00dea998ac305380bc4ee3242ea2b10/assets/preview.gif" width="640" alt="镜像万花筒 · 照片变幻 — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.1 · .motion</sub></p>
-<p>将两张照片镜像成旋转的十二分段万花筒，经扩张圆环转场再展开原图，适合视觉主题片。</p>
-<p><a href="https://motiongit.com/@prism-studio/visual-art-h-kaleido">https://motiongit.com/@prism-studio/visual-art-h-kaleido</a></p>
-
-<p><a href="https://media.openaicut.com/previews/622/draft-en-660c051c4b14.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/551805">GitHub 技术资料</a></p>
 
 
 ---
