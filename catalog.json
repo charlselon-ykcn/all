@@ -256,8 +256,8 @@
       "repositoryId": "738182",
       "repository": "https://github.com/motiontemplates/738182",
       "website": "https://motiongit.com/@adunext/template-04-dark-console-portrait",
-      "commit": "a9242c6fe04aa58a7ca848d06a42241df55adc19",
-      "version": "2.5.2",
+      "commit": "6d22e89f945830d7cbfa8f7811f22fcf811e1d73",
+      "version": "2.5.3",
       "title": {
         "zh": "科技控制台 · 口播讲解 · 竖屏",
         "en": "Tech Console · Narrated Explainer · Portrait"
@@ -273,7 +273,7 @@
       "ratio": "9:16",
       "orientation": "portrait",
       "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/738182/a9242c6fe04aa58a7ca848d06a42241df55adc19/assets/preview.gif",
+      "preview": "https://raw.githubusercontent.com/motiontemplates/738182/6d22e89f945830d7cbfa8f7811f22fcf811e1d73/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/612/draft-zh-8ff0115c7088.jpg",
       "demo": "https://media.openaicut.com/previews/612/draft-en-23e30d7e2c28.mp4"
     },
@@ -282,8 +282,8 @@
       "repositoryId": "960723",
       "repository": "https://github.com/motiontemplates/960723",
       "website": "https://motiongit.com/@adunext/template-05-native",
-      "commit": "37ef164182b5d01331fe9a46854aa74a025da619",
-      "version": "2.5.2",
+      "commit": "00832efcafbed9ecf212c2ca2501564ec61bb805",
+      "version": "2.5.3",
       "title": {
         "zh": "鲜色角色 · 叙事讲解",
         "en": "Vivid Characters · Narrative Explainer"
@@ -299,7 +299,7 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/960723/37ef164182b5d01331fe9a46854aa74a025da619/assets/preview.gif",
+      "preview": "https://raw.githubusercontent.com/motiontemplates/960723/00832efcafbed9ecf212c2ca2501564ec61bb805/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/613/draft-zh-23a19c51650d.jpg",
       "demo": "https://media.openaicut.com/previews/613/draft-en-e06d1f42b0b9.mp4"
     },
@@ -308,8 +308,8 @@
       "repositoryId": "293151",
       "repository": "https://github.com/motiontemplates/293151",
       "website": "https://motiongit.com/@adunext/template-05-native-portrait",
-      "commit": "57cfd0a33d7c412fe797ca205adf23666c5a3f1d",
-      "version": "2.5.2",
+      "commit": "3d3be9e72db04937b5bafcf4bad758f2838df4ae",
+      "version": "2.5.3",
       "title": {
         "zh": "鲜色角色 · 叙事讲解 · 竖屏",
         "en": "Vivid Characters · Narrative Explainer · Portrait"
@@ -325,43 +325,17 @@
       "ratio": "9:16",
       "orientation": "portrait",
       "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/293151/57cfd0a33d7c412fe797ca205adf23666c5a3f1d/assets/preview.gif",
+      "preview": "https://raw.githubusercontent.com/motiontemplates/293151/3d3be9e72db04937b5bafcf4bad758f2838df4ae/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/614/draft-zh-3f92eea2b709.jpg",
       "demo": "https://media.openaicut.com/previews/614/draft-en-6f4079db7a76.mp4"
-    },
-    {
-      "templateId": 623,
-      "repositoryId": "762139",
-      "repository": "https://github.com/motiontemplates/762139",
-      "website": "https://motiongit.com/@adunext/vibrant-poster",
-      "commit": "43da9d060973d666198d0e83774e9aa54187b65f",
-      "version": "2.5.0",
-      "title": {
-        "zh": "活力海报 · 口播讲解",
-        "en": "Vibrant Poster · Narrated Explainer"
-      },
-      "summary": {
-        "zh": "用高对比海报、大字、清单和图形关系配合口播，含原生动画与新增组件，横屏独立编排。",
-        "en": "Support narration with high-contrast posters, bold type, lists and graphic relationships in a dedicated landscape layout."
-      },
-      "group": "talk",
-      "width": 1920,
-      "height": 1080,
-      "fps": 60,
-      "ratio": "16:9",
-      "orientation": "landscape",
-      "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/762139/43da9d060973d666198d0e83774e9aa54187b65f/assets/preview.gif",
-      "poster": "https://motiongit.com/media/covers/623/draft-zh-6b4b2398b532.jpg",
-      "demo": "https://media.openaicut.com/previews/623/draft-en-e9dd279eebe9.mp4"
     },
     {
       "templateId": 624,
       "repositoryId": "721489",
       "repository": "https://github.com/motiontemplates/721489",
       "website": "https://motiongit.com/@adunext/vibrant-poster-portrait",
-      "commit": "e1b9ed6e0d31cd7c305ef3a94621200cd24fd66f",
-      "version": "2.5.0",
+      "commit": "e0a1cec9e7e5fafc98149b8d508962610391ea25",
+      "version": "2.5.3",
       "title": {
         "zh": "活力海报 · 口播讲解 · 竖屏",
         "en": "Vibrant Poster · Narrated Explainer · Portrait"
@@ -377,7 +351,7 @@
       "ratio": "9:16",
       "orientation": "portrait",
       "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/721489/e1b9ed6e0d31cd7c305ef3a94621200cd24fd66f/assets/preview.gif",
+      "preview": "https://raw.githubusercontent.com/motiontemplates/721489/e0a1cec9e7e5fafc98149b8d508962610391ea25/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/624/draft-zh-01638b2220a1.jpg",
       "demo": "https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4"
     },
