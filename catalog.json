@@ -122,6 +122,32 @@
       "demo": "https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4"
     },
     {
+      "templateId": 607,
+      "repositoryId": "358192",
+      "repository": "https://github.com/motiontemplates/358192",
+      "website": "https://motiongit.com/@adunext/template-02-expanded",
+      "commit": "ce0650697e7bd41162caa90b79b7e72b9a540c90",
+      "version": "2.5.3",
+      "title": {
+        "zh": "纸面透视 · 口播讲解",
+        "en": "Paper Perspective · Narrated Explainer"
+      },
+      "summary": {
+        "zh": "用纸面透视、卡片层次和图文关系配合口播，适合方法拆解与结构化知识。",
+        "en": "Support structured explanations with paper perspective, layered cards and text-image relationships."
+      },
+      "group": "talk",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "ratio": "16:9",
+      "orientation": "landscape",
+      "openSource": false,
+      "preview": "https://raw.githubusercontent.com/motiontemplates/358192/ce0650697e7bd41162caa90b79b7e72b9a540c90/assets/preview.gif",
+      "poster": "https://motiongit.com/media/covers/607/draft-zh-b7af2ac6dee6.jpg",
+      "demo": "https://media.openaicut.com/previews/607/draft-en-c751c296f78b.mp4"
+    },
+    {
       "templateId": 608,
       "repositoryId": "295450",
       "repository": "https://github.com/motiontemplates/295450",
@@ -146,6 +172,84 @@
       "preview": "https://raw.githubusercontent.com/motiontemplates/295450/81da30895f590590c390830bebd8b652171c1f19/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/608/draft-zh-499f0ea3a15e.jpg",
       "demo": "https://media.openaicut.com/previews/608/draft-en-a5200442ba79.mp4"
+    },
+    {
+      "templateId": 609,
+      "repositoryId": "304634",
+      "repository": "https://github.com/motiontemplates/304634",
+      "website": "https://motiongit.com/@adunext/template-03-native",
+      "commit": "6d4ee3ebb2ffe9e27f9380dcdea424f3233e3d20",
+      "version": "2.5.3",
+      "title": {
+        "zh": "深色立体 · 多屏展陈",
+        "en": "Dark Dimensional Stage · Multi-screen Story"
+      },
+      "summary": {
+        "zh": "用深色立体舞台、多屏和空间层次展示口播内容，适合产品、案例与媒体素材讲解。",
+        "en": "Present products, examples and media on a dark dimensional stage with layered screens."
+      },
+      "group": "talk",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "ratio": "16:9",
+      "orientation": "landscape",
+      "openSource": false,
+      "preview": "https://raw.githubusercontent.com/motiontemplates/304634/6d4ee3ebb2ffe9e27f9380dcdea424f3233e3d20/assets/preview.gif",
+      "poster": "https://motiongit.com/media/covers/609/draft-zh-0b9cc00ce402.jpg",
+      "demo": "https://media.openaicut.com/previews/609/draft-en-70e2fe808e0c.mp4"
+    },
+    {
+      "templateId": 610,
+      "repositoryId": "569615",
+      "repository": "https://github.com/motiontemplates/569615",
+      "website": "https://motiongit.com/@adunext/template-03-native-portrait",
+      "commit": "b5fde12637de03cb4476d8479e8b7874d4c92e11",
+      "version": "2.5.3",
+      "title": {
+        "zh": "深色立体 · 多屏展陈 · 竖屏",
+        "en": "Dark Dimensional Stage · Multi-screen Story · Portrait"
+      },
+      "summary": {
+        "zh": "用深色立体舞台、多屏和空间层次展示口播内容，适合产品、案例与媒体素材讲解。",
+        "en": "Present products, examples and media on a dark dimensional stage with layered screens."
+      },
+      "group": "talk",
+      "width": 1080,
+      "height": 1920,
+      "fps": 60,
+      "ratio": "9:16",
+      "orientation": "portrait",
+      "openSource": false,
+      "preview": "https://raw.githubusercontent.com/motiontemplates/569615/b5fde12637de03cb4476d8479e8b7874d4c92e11/assets/preview.gif",
+      "poster": "https://motiongit.com/media/covers/610/draft-zh-14409c15ade1.jpg",
+      "demo": "https://media.openaicut.com/previews/610/draft-en-9785b0f9679c.mp4"
+    },
+    {
+      "templateId": 611,
+      "repositoryId": "553346",
+      "repository": "https://github.com/motiontemplates/553346",
+      "website": "https://motiongit.com/@adunext/template-04-dark-console",
+      "commit": "aaa91fdd1f2fb64a68fc6d29e9ad245d65bf0e9f",
+      "version": "2.5.3",
+      "title": {
+        "zh": "科技控制台 · 口播讲解",
+        "en": "Tech Console · Narrated Explainer"
+      },
+      "summary": {
+        "zh": "用科技控制台、紫色玻璃质感与动态信息组件配合口播，适合技术与数据说明。",
+        "en": "Support technical and data explanations with a console layout and purple glass-like motion graphics."
+      },
+      "group": "talk",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "ratio": "16:9",
+      "orientation": "landscape",
+      "openSource": false,
+      "preview": "https://raw.githubusercontent.com/motiontemplates/553346/aaa91fdd1f2fb64a68fc6d29e9ad245d65bf0e9f/assets/preview.gif",
+      "poster": "https://motiongit.com/media/covers/611/draft-zh-65a8230140c1.jpg",
+      "demo": "https://media.openaicut.com/previews/611/draft-en-d24046938118.mp4"
     },
     {
       "templateId": 612,
@@ -484,6 +588,214 @@
       "preview": "https://raw.githubusercontent.com/motiontemplates/394243/e6700ff8801676dd2c480452ad0a420c8b504bb1/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/592/quality-zh-666ac61ebd83.jpg",
       "demo": "https://media.openaicut.com/previews/592/draft-en-1f98c9f9df3c.mp4"
+    },
+    {
+      "templateId": 615,
+      "repositoryId": "381814",
+      "repository": "https://github.com/motiontemplates/381814",
+      "website": "https://motiongit.com/@prism-studio/visual-art-a-halftone",
+      "commit": "0630c3af43161800aa5f67d088c4d51b7f07b53b",
+      "version": "2.5.3",
+      "title": {
+        "zh": "半调网点 · 人像标题",
+        "en": "Halftone Dots · Portrait Title"
+      },
+      "summary": {
+        "zh": "三张人像化为流动的双色网点，散开后重新汇聚成标题，适合人像与主题开场。",
+        "en": "Turn three portraits into flowing two-color halftone dots that disperse and regroup into a title."
+      },
+      "group": "art",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "ratio": "16:9",
+      "orientation": "landscape",
+      "openSource": false,
+      "preview": "https://raw.githubusercontent.com/motiontemplates/381814/0630c3af43161800aa5f67d088c4d51b7f07b53b/assets/preview.gif",
+      "poster": "https://motiongit.com/media/covers/615/draft-zh-2de1eb992fcf.jpg",
+      "demo": "https://media.openaicut.com/previews/615/draft-en-a549a50aa6eb.mp4"
+    },
+    {
+      "templateId": 616,
+      "repositoryId": "460349",
+      "repository": "https://github.com/motiontemplates/460349",
+      "website": "https://motiongit.com/@prism-studio/visual-art-b-mosaic",
+      "commit": "0184f6a21b10c3b0c24ed2f17aef26475b4ff5be",
+      "version": "2.5.3",
+      "title": {
+        "zh": "照片马赛克 · 拼图揭幕",
+        "en": "Photo Mosaic · Image Reveal"
+      },
+      "summary": {
+        "zh": "多张照片组成主视觉，从局部照片拉远揭示完整马赛克，适合集体回忆与拼图揭幕。",
+        "en": "Reveal a photo mosaic by pulling back from individual pictures to the complete image."
+      },
+      "group": "art",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "ratio": "16:9",
+      "orientation": "landscape",
+      "openSource": false,
+      "preview": "https://raw.githubusercontent.com/motiontemplates/460349/0184f6a21b10c3b0c24ed2f17aef26475b4ff5be/assets/preview.gif",
+      "poster": "https://motiongit.com/media/covers/616/draft-zh-b95e73a79f9c.jpg",
+      "demo": "https://media.openaicut.com/previews/616/draft-en-74fac1697ce7.mp4"
+    },
+    {
+      "templateId": 617,
+      "repositoryId": "907345",
+      "repository": "https://github.com/motiontemplates/907345",
+      "website": "https://motiongit.com/@prism-studio/visual-art-c-collage",
+      "commit": "11a503d4fb1457cf74a5da9a761b7c2e6a951353",
+      "version": "2.5.3",
+      "title": {
+        "zh": "几何拼贴 · 动态海报",
+        "en": "Geometric Collage · Animated Poster"
+      },
+      "summary": {
+        "zh": "将四张照片裁成几何形状，在三组包豪斯动态海报中重组，适合活动与视觉主题展示。",
+        "en": "Recompose four photos as geometric shapes across three Bauhaus-inspired animated posters."
+      },
+      "group": "art",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "ratio": "16:9",
+      "orientation": "landscape",
+      "openSource": false,
+      "preview": "https://raw.githubusercontent.com/motiontemplates/907345/11a503d4fb1457cf74a5da9a761b7c2e6a951353/assets/preview.gif",
+      "poster": "https://motiongit.com/media/covers/617/draft-zh-84c721155840.jpg",
+      "demo": "https://media.openaicut.com/previews/617/draft-en-b232ff8db7c6.mp4"
+    },
+    {
+      "templateId": 618,
+      "repositoryId": "328828",
+      "repository": "https://github.com/motiontemplates/328828",
+      "website": "https://motiongit.com/@prism-studio/visual-art-d-brushwork",
+      "commit": "aa5659bf8758f5a132345505088a0b89e1121bb7",
+      "version": "2.5.3",
+      "title": {
+        "zh": "笔触重绘 · 艺术照片",
+        "en": "Brush Repainting · Art Photo"
+      },
+      "summary": {
+        "zh": "用三层定向笔触重绘照片，与原图对照后呈现署名标题，适合摄影与艺术展示。",
+        "en": "Repaint a photo with three directional brush layers, compare it with the original and reveal a signed title."
+      },
+      "group": "art",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "ratio": "16:9",
+      "orientation": "landscape",
+      "openSource": false,
+      "preview": "https://raw.githubusercontent.com/motiontemplates/328828/aa5659bf8758f5a132345505088a0b89e1121bb7/assets/preview.gif",
+      "poster": "https://motiongit.com/media/covers/618/draft-zh-c88f1a5a67a8.jpg",
+      "demo": "https://media.openaicut.com/previews/618/draft-en-30b4688562e9.mp4"
+    },
+    {
+      "templateId": 619,
+      "repositoryId": "638039",
+      "repository": "https://github.com/motiontemplates/638039",
+      "website": "https://motiongit.com/@prism-studio/visual-art-e-glitch",
+      "commit": "a13a90d6cc4db0fb1cdf0f3298f9b081ac4bb7bc",
+      "version": "2.5.3",
+      "title": {
+        "zh": "信号故障 · 照片转场",
+        "en": "Signal Glitch · Photo Transition"
+      },
+      "summary": {
+        "zh": "用像素排序、RGB 分离和扫描线改造照片，并以 CRT 关机效果收尾，适合科技视觉片段。",
+        "en": "Transform photos with pixel sorting, RGB splits and scanlines, ending with a CRT shutdown."
+      },
+      "group": "art",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "ratio": "16:9",
+      "orientation": "landscape",
+      "openSource": false,
+      "preview": "https://raw.githubusercontent.com/motiontemplates/638039/a13a90d6cc4db0fb1cdf0f3298f9b081ac4bb7bc/assets/preview.gif",
+      "poster": "https://motiongit.com/media/covers/619/draft-zh-b96f0b6469fe.jpg",
+      "demo": "https://media.openaicut.com/previews/619/draft-en-e3aaf5ab5ba1.mp4"
+    },
+    {
+      "templateId": 620,
+      "repositoryId": "800829",
+      "repository": "https://github.com/motiontemplates/800829",
+      "website": "https://motiongit.com/@prism-studio/visual-art-f-double",
+      "commit": "4751585f8891ab4ca9b90e009900d9b14ec150fe",
+      "version": "2.5.3",
+      "title": {
+        "zh": "双重曝光 · 人像叠影",
+        "en": "Double Exposure · Portrait Layers"
+      },
+      "summary": {
+        "zh": "以风景填充人像剪影，双层画面反向漂移，标题从薄雾显现，适合诗意人像叠影。",
+        "en": "Fill a portrait silhouette with scenery, drift the layers in opposite directions and reveal a title through mist."
+      },
+      "group": "art",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "ratio": "16:9",
+      "orientation": "landscape",
+      "openSource": false,
+      "preview": "https://raw.githubusercontent.com/motiontemplates/800829/4751585f8891ab4ca9b90e009900d9b14ec150fe/assets/preview.gif",
+      "poster": "https://motiongit.com/media/covers/620/draft-zh-d8cadbd1b296.jpg",
+      "demo": "https://media.openaicut.com/previews/620/draft-en-8b1d45590a57.mp4"
+    },
+    {
+      "templateId": 621,
+      "repositoryId": "743702",
+      "repository": "https://github.com/motiontemplates/743702",
+      "website": "https://motiongit.com/@prism-studio/visual-art-g-gallery",
+      "commit": "c9ff6628ea0b3b6c06fcffdcab90144aab892bd3",
+      "version": "2.5.3",
+      "title": {
+        "zh": "空间画廊 · 回忆相册",
+        "en": "Spatial Gallery · Photo Memories"
+      },
+      "summary": {
+        "zh": "穿行带有文字说明的立体照片画廊，最后推进主照片并揭示全屏标题，适合回忆与作品集。",
+        "en": "Travel through a dimensional photo gallery with captions, then move into the main image and a full-screen title."
+      },
+      "group": "art",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "ratio": "16:9",
+      "orientation": "landscape",
+      "openSource": false,
+      "preview": "https://raw.githubusercontent.com/motiontemplates/743702/c9ff6628ea0b3b6c06fcffdcab90144aab892bd3/assets/preview.gif",
+      "poster": "https://motiongit.com/media/covers/621/draft-zh-78b8670e7b7d.jpg",
+      "demo": "https://media.openaicut.com/previews/621/draft-en-d730d56fb8f4.mp4"
+    },
+    {
+      "templateId": 622,
+      "repositoryId": "551805",
+      "repository": "https://github.com/motiontemplates/551805",
+      "website": "https://motiongit.com/@prism-studio/visual-art-h-kaleido",
+      "commit": "3a2f4d75bd9b337f7ff7d44ca42238b5868e6556",
+      "version": "2.5.3",
+      "title": {
+        "zh": "镜像万花筒 · 照片变幻",
+        "en": "Mirror Kaleidoscope · Photo Motion"
+      },
+      "summary": {
+        "zh": "将两张照片镜像成旋转的十二分段万花筒，经扩张圆环转场再展开原图，适合视觉主题片。",
+        "en": "Mirror two photos into a rotating twelve-segment kaleidoscope, transition through expanding rings and unfold the originals."
+      },
+      "group": "art",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "ratio": "16:9",
+      "orientation": "landscape",
+      "openSource": false,
+      "preview": "https://raw.githubusercontent.com/motiontemplates/551805/3a2f4d75bd9b337f7ff7d44ca42238b5868e6556/assets/preview.gif",
+      "poster": "https://motiongit.com/media/covers/622/draft-zh-f09b29170a66.jpg",
+      "demo": "https://media.openaicut.com/previews/622/draft-en-660c051c4b14.mp4"
     }
   ]
 }

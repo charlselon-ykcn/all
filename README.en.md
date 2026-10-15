@@ -2,7 +2,7 @@
 
 # MotionGit Template Collection
 
-**17 templates · 18 demos** · [Watch all demos](https://motiontemplates.github.io/all/en.html) · [中文](README.md)
+**29 templates · 30 demos** · [Watch all demos](https://motiontemplates.github.io/all/en.html) · [中文](README.md)
 
 Browse actual demos, output specifications and technical documentation. Open a template for its required inputs and complete `.motion`, then follow the README and production guide inside the package.
 
@@ -55,6 +55,17 @@ Browse actual demos, output specifications and technical documentation. Open a t
 
 ---
 
+<h3><a href="https://motiongit.com/@adunext/template-02-expanded">Paper Perspective · Narrated Explainer</a></h3>
+<a href="https://media.openaicut.com/previews/607/draft-en-c751c296f78b.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/358192/ce0650697e7bd41162caa90b79b7e72b9a540c90/assets/preview.gif" width="640" alt="Paper Perspective · Narrated Explainer — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.3 · .motion</sub></p>
+<p>Support structured explanations with paper perspective, layered cards and text-image relationships.</p>
+<p><a href="https://motiongit.com/@adunext/template-02-expanded">https://motiongit.com/@adunext/template-02-expanded</a></p>
+
+<p><a href="https://media.openaicut.com/previews/607/draft-en-c751c296f78b.mp4">▶ Full demo</a> · <a href="https://github.com/motiontemplates/358192">GitHub documentation</a></p>
+
+
+---
+
 <h3><a href="https://motiongit.com/@adunext/template-02-expanded-portrait">Paper Perspective · Narrated Explainer · Portrait</a></h3>
 <a href="https://media.openaicut.com/previews/608/draft-en-a5200442ba79.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/295450/81da30895f590590c390830bebd8b652171c1f19/assets/preview.gif" width="240" alt="Paper Perspective · Narrated Explainer · Portrait — Demo"></a>
 <p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v2.5.3 · .motion</sub></p>
@@ -62,6 +73,39 @@ Browse actual demos, output specifications and technical documentation. Open a t
 <p><a href="https://motiongit.com/@adunext/template-02-expanded-portrait">https://motiongit.com/@adunext/template-02-expanded-portrait</a></p>
 
 <p><a href="https://media.openaicut.com/previews/608/draft-en-a5200442ba79.mp4">▶ Full demo</a> · <a href="https://github.com/motiontemplates/295450">GitHub documentation</a></p>
+
+
+---
+
+<h3><a href="https://motiongit.com/@adunext/template-03-native">Dark Dimensional Stage · Multi-screen Story</a></h3>
+<a href="https://media.openaicut.com/previews/609/draft-en-70e2fe808e0c.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/304634/6d4ee3ebb2ffe9e27f9380dcdea424f3233e3d20/assets/preview.gif" width="640" alt="Dark Dimensional Stage · Multi-screen Story — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.3 · .motion</sub></p>
+<p>Present products, examples and media on a dark dimensional stage with layered screens.</p>
+<p><a href="https://motiongit.com/@adunext/template-03-native">https://motiongit.com/@adunext/template-03-native</a></p>
+
+<p><a href="https://media.openaicut.com/previews/609/draft-en-70e2fe808e0c.mp4">▶ Full demo</a> · <a href="https://github.com/motiontemplates/304634">GitHub documentation</a></p>
+
+
+---
+
+<h3><a href="https://motiongit.com/@adunext/template-03-native-portrait">Dark Dimensional Stage · Multi-screen Story · Portrait</a></h3>
+<a href="https://media.openaicut.com/previews/610/draft-en-9785b0f9679c.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/569615/b5fde12637de03cb4476d8479e8b7874d4c92e11/assets/preview.gif" width="240" alt="Dark Dimensional Stage · Multi-screen Story · Portrait — Demo"></a>
+<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v2.5.3 · .motion</sub></p>
+<p>Present products, examples and media on a dark dimensional stage with layered screens.</p>
+<p><a href="https://motiongit.com/@adunext/template-03-native-portrait">https://motiongit.com/@adunext/template-03-native-portrait</a></p>
+
+<p><a href="https://media.openaicut.com/previews/610/draft-en-9785b0f9679c.mp4">▶ Full demo</a> · <a href="https://github.com/motiontemplates/569615">GitHub documentation</a></p>
+
+
+---
+
+<h3><a href="https://motiongit.com/@adunext/template-04-dark-console">Tech Console · Narrated Explainer</a></h3>
+<a href="https://media.openaicut.com/previews/611/draft-en-d24046938118.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/553346/aaa91fdd1f2fb64a68fc6d29e9ad245d65bf0e9f/assets/preview.gif" width="640" alt="Tech Console · Narrated Explainer — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.3 · .motion</sub></p>
+<p>Support technical and data explanations with a console layout and purple glass-like motion graphics.</p>
+<p><a href="https://motiongit.com/@adunext/template-04-dark-console">https://motiongit.com/@adunext/template-04-dark-console</a></p>
+
+<p><a href="https://media.openaicut.com/previews/611/draft-en-d24046938118.mp4">▶ Full demo</a> · <a href="https://github.com/motiontemplates/553346">GitHub documentation</a></p>
 
 
 ---
@@ -205,6 +249,94 @@ Browse actual demos, output specifications and technical documentation. Open a t
 <p><a href="https://motiongit.com/@motiongit/motiongit-promo-ink">https://motiongit.com/@motiongit/motiongit-promo-ink</a></p>
 
 <p><a href="https://media.openaicut.com/previews/592/draft-en-1f98c9f9df3c.mp4">▶ Full demo</a> · <a href="https://github.com/motiontemplates/394243">GitHub documentation</a></p>
+
+
+## Photo & visual
+
+<h3><a href="https://motiongit.com/@prism-studio/visual-art-a-halftone">Halftone Dots · Portrait Title</a></h3>
+<a href="https://media.openaicut.com/previews/615/draft-en-a549a50aa6eb.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/381814/0630c3af43161800aa5f67d088c4d51b7f07b53b/assets/preview.gif" width="640" alt="Halftone Dots · Portrait Title — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.3 · .motion</sub></p>
+<p>Turn three portraits into flowing two-color halftone dots that disperse and regroup into a title.</p>
+<p><a href="https://motiongit.com/@prism-studio/visual-art-a-halftone">https://motiongit.com/@prism-studio/visual-art-a-halftone</a></p>
+
+<p><a href="https://media.openaicut.com/previews/615/draft-en-a549a50aa6eb.mp4">▶ Full demo</a> · <a href="https://github.com/motiontemplates/381814">GitHub documentation</a></p>
+
+
+---
+
+<h3><a href="https://motiongit.com/@prism-studio/visual-art-b-mosaic">Photo Mosaic · Image Reveal</a></h3>
+<a href="https://media.openaicut.com/previews/616/draft-en-74fac1697ce7.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/460349/0184f6a21b10c3b0c24ed2f17aef26475b4ff5be/assets/preview.gif" width="640" alt="Photo Mosaic · Image Reveal — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.3 · .motion</sub></p>
+<p>Reveal a photo mosaic by pulling back from individual pictures to the complete image.</p>
+<p><a href="https://motiongit.com/@prism-studio/visual-art-b-mosaic">https://motiongit.com/@prism-studio/visual-art-b-mosaic</a></p>
+
+<p><a href="https://media.openaicut.com/previews/616/draft-en-74fac1697ce7.mp4">▶ Full demo</a> · <a href="https://github.com/motiontemplates/460349">GitHub documentation</a></p>
+
+
+---
+
+<h3><a href="https://motiongit.com/@prism-studio/visual-art-c-collage">Geometric Collage · Animated Poster</a></h3>
+<a href="https://media.openaicut.com/previews/617/draft-en-b232ff8db7c6.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/907345/11a503d4fb1457cf74a5da9a761b7c2e6a951353/assets/preview.gif" width="640" alt="Geometric Collage · Animated Poster — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.3 · .motion</sub></p>
+<p>Recompose four photos as geometric shapes across three Bauhaus-inspired animated posters.</p>
+<p><a href="https://motiongit.com/@prism-studio/visual-art-c-collage">https://motiongit.com/@prism-studio/visual-art-c-collage</a></p>
+
+<p><a href="https://media.openaicut.com/previews/617/draft-en-b232ff8db7c6.mp4">▶ Full demo</a> · <a href="https://github.com/motiontemplates/907345">GitHub documentation</a></p>
+
+
+---
+
+<h3><a href="https://motiongit.com/@prism-studio/visual-art-d-brushwork">Brush Repainting · Art Photo</a></h3>
+<a href="https://media.openaicut.com/previews/618/draft-en-30b4688562e9.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/328828/aa5659bf8758f5a132345505088a0b89e1121bb7/assets/preview.gif" width="640" alt="Brush Repainting · Art Photo — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.3 · .motion</sub></p>
+<p>Repaint a photo with three directional brush layers, compare it with the original and reveal a signed title.</p>
+<p><a href="https://motiongit.com/@prism-studio/visual-art-d-brushwork">https://motiongit.com/@prism-studio/visual-art-d-brushwork</a></p>
+
+<p><a href="https://media.openaicut.com/previews/618/draft-en-30b4688562e9.mp4">▶ Full demo</a> · <a href="https://github.com/motiontemplates/328828">GitHub documentation</a></p>
+
+
+---
+
+<h3><a href="https://motiongit.com/@prism-studio/visual-art-e-glitch">Signal Glitch · Photo Transition</a></h3>
+<a href="https://media.openaicut.com/previews/619/draft-en-e3aaf5ab5ba1.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/638039/a13a90d6cc4db0fb1cdf0f3298f9b081ac4bb7bc/assets/preview.gif" width="640" alt="Signal Glitch · Photo Transition — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.3 · .motion</sub></p>
+<p>Transform photos with pixel sorting, RGB splits and scanlines, ending with a CRT shutdown.</p>
+<p><a href="https://motiongit.com/@prism-studio/visual-art-e-glitch">https://motiongit.com/@prism-studio/visual-art-e-glitch</a></p>
+
+<p><a href="https://media.openaicut.com/previews/619/draft-en-e3aaf5ab5ba1.mp4">▶ Full demo</a> · <a href="https://github.com/motiontemplates/638039">GitHub documentation</a></p>
+
+
+---
+
+<h3><a href="https://motiongit.com/@prism-studio/visual-art-f-double">Double Exposure · Portrait Layers</a></h3>
+<a href="https://media.openaicut.com/previews/620/draft-en-8b1d45590a57.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/800829/4751585f8891ab4ca9b90e009900d9b14ec150fe/assets/preview.gif" width="640" alt="Double Exposure · Portrait Layers — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.3 · .motion</sub></p>
+<p>Fill a portrait silhouette with scenery, drift the layers in opposite directions and reveal a title through mist.</p>
+<p><a href="https://motiongit.com/@prism-studio/visual-art-f-double">https://motiongit.com/@prism-studio/visual-art-f-double</a></p>
+
+<p><a href="https://media.openaicut.com/previews/620/draft-en-8b1d45590a57.mp4">▶ Full demo</a> · <a href="https://github.com/motiontemplates/800829">GitHub documentation</a></p>
+
+
+---
+
+<h3><a href="https://motiongit.com/@prism-studio/visual-art-g-gallery">Spatial Gallery · Photo Memories</a></h3>
+<a href="https://media.openaicut.com/previews/621/draft-en-d730d56fb8f4.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/743702/c9ff6628ea0b3b6c06fcffdcab90144aab892bd3/assets/preview.gif" width="640" alt="Spatial Gallery · Photo Memories — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.3 · .motion</sub></p>
+<p>Travel through a dimensional photo gallery with captions, then move into the main image and a full-screen title.</p>
+<p><a href="https://motiongit.com/@prism-studio/visual-art-g-gallery">https://motiongit.com/@prism-studio/visual-art-g-gallery</a></p>
+
+<p><a href="https://media.openaicut.com/previews/621/draft-en-d730d56fb8f4.mp4">▶ Full demo</a> · <a href="https://github.com/motiontemplates/743702">GitHub documentation</a></p>
+
+
+---
+
+<h3><a href="https://motiongit.com/@prism-studio/visual-art-h-kaleido">Mirror Kaleidoscope · Photo Motion</a></h3>
+<a href="https://media.openaicut.com/previews/622/draft-en-660c051c4b14.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/551805/3a2f4d75bd9b337f7ff7d44ca42238b5868e6556/assets/preview.gif" width="640" alt="Mirror Kaleidoscope · Photo Motion — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.3 · .motion</sub></p>
+<p>Mirror two photos into a rotating twelve-segment kaleidoscope, transition through expanding rings and unfold the originals.</p>
+<p><a href="https://motiongit.com/@prism-studio/visual-art-h-kaleido">https://motiongit.com/@prism-studio/visual-art-h-kaleido</a></p>
+
+<p><a href="https://media.openaicut.com/previews/622/draft-en-660c051c4b14.mp4">▶ Full demo</a> · <a href="https://github.com/motiontemplates/551805">GitHub documentation</a></p>
 
 
 ---
