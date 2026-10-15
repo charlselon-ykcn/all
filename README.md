@@ -2,7 +2,7 @@
 
 # MotionGit 模板合集
 
-**29 个模板** · [在线播放全部 Demo](https://motiontemplates.github.io/all/) · [English](README.en.md)
+**29 个模板 · 30 个 Demo** · [在线播放全部 Demo](https://motiontemplates.github.io/all/) · [English](README.en.md)
 
 浏览模板的实际样片、输出规格与技术资料。选择模板后，在对应页面查看素材要求和完整 `.motion`；取得模板后按包内 README 与制作指南制作。
 
@@ -16,6 +16,16 @@
 <tr>
 
 <td width="50%" valign="top" align="center">
+<h3><a href="https://motiongit.com/@adunext/385712">酷炫科技风 · 横屏</a></h3>
+<a href="https://motiontemplates.github.io/385712/assets/demo.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/385712/30a070172a65c8885b51e7e3dbe89517e287f5f8/assets/preview.gif" height="190" alt="酷炫科技风 · 横屏 — Demo"></a>
+<p><sub>16:9 · 1920 × 1080 · 60 FPS · v0.2.7-open-beta · 含开源 .motion 包</sub></p>
+<p>金属立体字、光效与空间动效；中英横屏、中文竖屏，支持简单人脸居中和圆形署名。</p>
+<p><a href="https://motiongit.com/@adunext/385712">https://motiongit.com/@adunext/385712</a></p>
+
+<p><a href="https://motiontemplates.github.io/385712/assets/demo.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/385712">GitHub 技术资料</a></p>
+</td>
+
+<td width="50%" valign="top" align="center">
 <h3><a href="https://motiongit.com/@adunext/385712">酷炫科技风 · 中文竖屏</a></h3>
 <a href="https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4"><img src="https://motiongit.com/media/covers/626/0.2.9-open-beta-zh-b81b4798ad6a.jpg" height="190" alt="酷炫科技风 · 中文竖屏 — Demo"></a>
 <p><sub>9:16 · 1080 × 1920 · 60 FPS · v0.2.9-open-beta · 官网中文竖屏</sub></p>
@@ -24,8 +34,6 @@
 <p><sub>官网中文竖屏 v0.2.9-open-beta；GitHub 开源包 v0.2.7-open-beta（16:9）。</sub></p>
 <p><a href="https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/385712">GitHub 技术资料</a></p>
 </td>
-
-<td width="50%"></td>
 
 </tr>
 

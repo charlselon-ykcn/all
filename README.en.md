@@ -2,7 +2,7 @@
 
 # MotionGit Template Collection
 
-**29 templates** · [Watch all demos](https://motiontemplates.github.io/all/en.html) · [中文](README.md)
+**29 templates · 30 demos** · [Watch all demos](https://motiontemplates.github.io/all/en.html) · [中文](README.md)
 
 Browse actual demos, output specifications and technical documentation. Open a template for its required inputs and complete `.motion`, then follow the README and production guide inside the package.
 
@@ -16,6 +16,16 @@ Browse actual demos, output specifications and technical documentation. Open a t
 <tr>
 
 <td width="50%" valign="top" align="center">
+<h3><a href="https://motiongit.com/@adunext/385712">Kinetic Tech · Landscape</a></h3>
+<a href="https://motiontemplates.github.io/385712/assets/demo.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/385712/30a070172a65c8885b51e7e3dbe89517e287f5f8/assets/preview.gif" height="190" alt="Kinetic Tech · Landscape — Demo"></a>
+<p><sub>16:9 · 1920 × 1080 · 60 FPS · v0.2.7-open-beta · Open-source .motion included</sub></p>
+<p>Editable MotionGit .motion animation with the production guide included in the package.</p>
+<p><a href="https://motiongit.com/@adunext/385712">https://motiongit.com/@adunext/385712</a></p>
+
+<p><a href="https://motiontemplates.github.io/385712/assets/demo.mp4">▶ Full demo</a> · <a href="https://github.com/motiontemplates/385712">GitHub documentation</a></p>
+</td>
+
+<td width="50%" valign="top" align="center">
 <h3><a href="https://motiongit.com/@adunext/385712">Kinetic Tech · Chinese Portrait</a></h3>
 <a href="https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4"><img src="https://motiongit.com/media/covers/626/0.2.9-open-beta-zh-b81b4798ad6a.jpg" height="190" alt="Kinetic Tech · Chinese Portrait — Demo"></a>
 <p><sub>9:16 · 1080 × 1920 · 60 FPS · v0.2.9-open-beta · Official Chinese portrait</sub></p>
@@ -24,8 +34,6 @@ Browse actual demos, output specifications and technical documentation. Open a t
 <p><sub>Official Chinese portrait v0.2.9-open-beta; GitHub source edition v0.2.7-open-beta (16:9).</sub></p>
 <p><a href="https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4">▶ Full demo</a> · <a href="https://github.com/motiontemplates/385712">GitHub documentation</a></p>
 </td>
-
-<td width="50%"></td>
 
 </tr>
 

@@ -9,37 +9,65 @@
       "repository": "https://github.com/motiontemplates/385712",
       "website": "https://motiongit.com/@adunext/385712",
       "commit": "30a070172a65c8885b51e7e3dbe89517e287f5f8",
-      "version": "0.2.9-open-beta",
+      "version": "0.2.7-open-beta",
       "title": {
-        "zh": "酷炫科技风 · 中文竖屏",
-        "en": "Kinetic Tech · Chinese Portrait"
+        "zh": "酷炫科技风",
+        "en": "Kinetic Tech"
       },
       "summary": {
         "zh": "金属立体字、光效与空间动效；中英横屏、中文竖屏，支持简单人脸居中和圆形署名。",
         "en": "Editable MotionGit .motion animation with the production guide included in the package."
       },
       "group": "open",
-      "width": 1080,
-      "height": 1920,
-      "fps": 60.0,
-      "ratio": "9:16",
-      "orientation": "portrait",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "ratio": "16:9",
+      "orientation": "landscape",
       "openSource": true,
-      "preview": "https://motiongit.com/media/covers/626/0.2.9-open-beta-zh-b81b4798ad6a.jpg",
-      "poster": "https://motiongit.com/media/covers/626/0.2.9-open-beta-zh-b81b4798ad6a.jpg",
-      "demo": "https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4",
-      "sourceEdition": {
-        "version": "0.2.7-open-beta",
-        "width": 1920,
-        "height": 1080,
-        "fps": 60,
-        "ratio": "16:9",
-        "orientation": "landscape"
-      },
-      "editionNote": {
-        "zh": "官网中文竖屏 v0.2.9-open-beta；GitHub 开源包 v0.2.7-open-beta（16:9）。",
-        "en": "Official Chinese portrait v0.2.9-open-beta; GitHub source edition v0.2.7-open-beta (16:9)."
-      }
+      "preview": "https://raw.githubusercontent.com/motiontemplates/385712/30a070172a65c8885b51e7e3dbe89517e287f5f8/assets/preview.gif",
+      "poster": "https://raw.githubusercontent.com/motiontemplates/385712/30a070172a65c8885b51e7e3dbe89517e287f5f8/assets/compositions.jpg",
+      "demo": "https://motiontemplates.github.io/385712/assets/demo.mp4",
+      "additionalDemos": [
+        {
+          "templateId": 626,
+          "repositoryId": "385712",
+          "repository": "https://github.com/motiontemplates/385712",
+          "website": "https://motiongit.com/@adunext/385712",
+          "commit": "30a070172a65c8885b51e7e3dbe89517e287f5f8",
+          "version": "0.2.9-open-beta",
+          "title": {
+            "zh": "酷炫科技风 · 中文竖屏",
+            "en": "Kinetic Tech · Chinese Portrait"
+          },
+          "summary": {
+            "zh": "金属立体字、光效与空间动效；中英横屏、中文竖屏，支持简单人脸居中和圆形署名。",
+            "en": "Editable MotionGit .motion animation with the production guide included in the package."
+          },
+          "group": "open",
+          "width": 1080,
+          "height": 1920,
+          "fps": 60.0,
+          "ratio": "9:16",
+          "orientation": "portrait",
+          "openSource": true,
+          "preview": "https://motiongit.com/media/covers/626/0.2.9-open-beta-zh-b81b4798ad6a.jpg",
+          "poster": "https://motiongit.com/media/covers/626/0.2.9-open-beta-zh-b81b4798ad6a.jpg",
+          "demo": "https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4",
+          "sourceEdition": {
+            "version": "0.2.7-open-beta",
+            "width": 1920,
+            "height": 1080,
+            "fps": 60,
+            "ratio": "16:9",
+            "orientation": "landscape"
+          },
+          "editionNote": {
+            "zh": "官网中文竖屏 v0.2.9-open-beta；GitHub 开源包 v0.2.7-open-beta（16:9）。",
+            "en": "Official Chinese portrait v0.2.9-open-beta; GitHub source edition v0.2.7-open-beta (16:9)."
+          }
+        }
+      ]
     },
     {
       "templateId": 605,

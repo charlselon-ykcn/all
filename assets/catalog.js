@@ -6,16 +6,19 @@ const count = document.querySelector('#result-count');
 let group = 'all';
 function applyFilters() {
   const query = search.value.trim().toLowerCase();
+  const visibleTemplates = new Set();
   let visible = 0;
   for (const card of cards) {
     const show = (group === 'all' || group === card.dataset.group)
       && (orientation.value === 'all' || orientation.value === card.dataset.orientation)
       && card.dataset.search.includes(query);
     card.hidden = !show;
-    if (show) visible += 1;
-    else card.querySelector('video').pause();
+    if (show) {
+      visible += 1;
+      visibleTemplates.add(card.dataset.templateId);
+    } else card.querySelector('video').pause();
   }
-  count.textContent = `${visible} ${count.dataset.unit}`;
+  count.textContent = `${visibleTemplates.size} ${count.dataset.unit} · ${visible} ${count.dataset.demoUnit}`;
   document.querySelector('#empty').hidden = visible > 0;
 }
 for (const button of filters) {
