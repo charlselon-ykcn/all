@@ -2,7 +2,7 @@
 
 # MotionGit Template Collection
 
-**29 templates · 30 demos** · [Watch all demos](https://motiontemplates.github.io/all/en.html) · [中文](README.md)
+**19 templates · 20 demos** · [Watch all demos](https://motiontemplates.github.io/all/en.html) · [中文](README.md)
 
 Browse actual demos, output specifications and technical documentation. Open a template for its required inputs and complete `.motion`, then follow the README and production guide inside the package.
 
@@ -24,121 +24,22 @@ Browse actual demos, output specifications and technical documentation. Open a t
 
 <h3><a href="https://motiongit.com/@adunext/385712">Kinetic Tech · Chinese Portrait</a></h3>
 <a href="https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4"><img src="https://motiongit.com/media/covers/626/0.2.9-open-beta-zh-b81b4798ad6a.jpg" width="240" alt="Kinetic Tech · Chinese Portrait — Demo"></a>
-<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v0.2.9-open-beta · Official Chinese portrait</sub></p>
+<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v0.2.10-open-beta · Official Chinese portrait</sub></p>
 <p>Editable MotionGit .motion animation with the production guide included in the package.</p>
 <p><a href="https://motiongit.com/@adunext/385712">https://motiongit.com/@adunext/385712</a></p>
-<p><sub>Official Chinese portrait v0.2.9-open-beta; GitHub source edition v0.2.7-open-beta (16:9).</sub></p>
+<p><sub>Official Chinese portrait v0.2.10-open-beta; GitHub source edition v0.2.7-open-beta (16:9).</sub></p>
 <p><a href="https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4">▶ Full demo</a> · <a href="https://github.com/motiontemplates/385712">GitHub documentation</a></p>
 
 
 ## Narrated explainers
 
 <h3><a href="https://motiongit.com/@adunext/template-01-integrated">Modern Editorial · Narrated Explainer</a></h3>
-<a href="https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/336980/0dc4398c95bbf622ba52e183e1b479774f456388/assets/preview.gif" width="640" alt="Modern Editorial · Narrated Explainer — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.0 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/336980/4ada4691dd847bb202e3d8f93f889e3ad3757ee1/assets/preview.gif" width="640" alt="Modern Editorial · Narrated Explainer — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.2 · .motion</sub></p>
 <p>Support narration with modern editorial layouts, text emphasis and information breakdowns.</p>
 <p><a href="https://motiongit.com/@adunext/template-01-integrated">https://motiongit.com/@adunext/template-01-integrated</a></p>
 
 <p><a href="https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4">▶ Full demo</a> · <a href="https://github.com/motiontemplates/336980">GitHub documentation</a></p>
-
-
----
-
-<h3><a href="https://motiongit.com/@adunext/template-01-integrated-portrait">Modern Editorial · Narrated Explainer · Portrait</a></h3>
-<a href="https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/314486/2522ddde22e30fd2ac66625184b6e449a4f0b144/assets/preview.gif" width="240" alt="Modern Editorial · Narrated Explainer · Portrait — Demo"></a>
-<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v2.5.0 · .motion</sub></p>
-<p>Support narration with modern editorial layouts, text emphasis and information breakdowns.</p>
-<p><a href="https://motiongit.com/@adunext/template-01-integrated-portrait">https://motiongit.com/@adunext/template-01-integrated-portrait</a></p>
-
-<p><a href="https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4">▶ Full demo</a> · <a href="https://github.com/motiontemplates/314486">GitHub documentation</a></p>
-
-
----
-
-<h3><a href="https://motiongit.com/@adunext/template-02-expanded">Paper Perspective · Narrated Explainer</a></h3>
-<a href="https://media.openaicut.com/previews/607/draft-en-c751c296f78b.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/358192/064a4a8836b7b568c7c7408377a46e2aa5a85a79/assets/preview.gif" width="640" alt="Paper Perspective · Narrated Explainer — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.0 · .motion</sub></p>
-<p>Support structured explanations with paper perspective, layered cards and text-image relationships.</p>
-<p><a href="https://motiongit.com/@adunext/template-02-expanded">https://motiongit.com/@adunext/template-02-expanded</a></p>
-
-<p><a href="https://media.openaicut.com/previews/607/draft-en-c751c296f78b.mp4">▶ Full demo</a> · <a href="https://github.com/motiontemplates/358192">GitHub documentation</a></p>
-
-
----
-
-<h3><a href="https://motiongit.com/@adunext/template-02-expanded-portrait">Paper Perspective · Narrated Explainer · Portrait</a></h3>
-<a href="https://media.openaicut.com/previews/608/draft-en-a5200442ba79.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/295450/600ab80950b351c8bd6fb8a4727b458e964d8a90/assets/preview.gif" width="240" alt="Paper Perspective · Narrated Explainer · Portrait — Demo"></a>
-<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v2.5.0 · .motion</sub></p>
-<p>Support structured explanations with paper perspective, layered cards and text-image relationships.</p>
-<p><a href="https://motiongit.com/@adunext/template-02-expanded-portrait">https://motiongit.com/@adunext/template-02-expanded-portrait</a></p>
-
-<p><a href="https://media.openaicut.com/previews/608/draft-en-a5200442ba79.mp4">▶ Full demo</a> · <a href="https://github.com/motiontemplates/295450">GitHub documentation</a></p>
-
-
----
-
-<h3><a href="https://motiongit.com/@adunext/template-03-native">Dark Dimensional Stage · Multi-screen Story</a></h3>
-<a href="https://media.openaicut.com/previews/609/draft-en-70e2fe808e0c.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/304634/a9584a32f02ead5752e8f1dfc55af0310683298e/assets/preview.gif" width="640" alt="Dark Dimensional Stage · Multi-screen Story — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.0 · .motion</sub></p>
-<p>Present products, examples and media on a dark dimensional stage with layered screens.</p>
-<p><a href="https://motiongit.com/@adunext/template-03-native">https://motiongit.com/@adunext/template-03-native</a></p>
-
-<p><a href="https://media.openaicut.com/previews/609/draft-en-70e2fe808e0c.mp4">▶ Full demo</a> · <a href="https://github.com/motiontemplates/304634">GitHub documentation</a></p>
-
-
----
-
-<h3><a href="https://motiongit.com/@adunext/template-03-native-portrait">Dark Dimensional Stage · Multi-screen Story · Portrait</a></h3>
-<a href="https://media.openaicut.com/previews/610/draft-en-9785b0f9679c.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/569615/c46c81e9a35e596673bf9eac89520e81f79ab139/assets/preview.gif" width="240" alt="Dark Dimensional Stage · Multi-screen Story · Portrait — Demo"></a>
-<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v2.5.0 · .motion</sub></p>
-<p>Present products, examples and media on a dark dimensional stage with layered screens.</p>
-<p><a href="https://motiongit.com/@adunext/template-03-native-portrait">https://motiongit.com/@adunext/template-03-native-portrait</a></p>
-
-<p><a href="https://media.openaicut.com/previews/610/draft-en-9785b0f9679c.mp4">▶ Full demo</a> · <a href="https://github.com/motiontemplates/569615">GitHub documentation</a></p>
-
-
----
-
-<h3><a href="https://motiongit.com/@adunext/template-04-dark-console">Tech Console · Narrated Explainer</a></h3>
-<a href="https://media.openaicut.com/previews/611/draft-en-d24046938118.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/553346/6f5ce14517d40e3309a95a2259b30cc846c93016/assets/preview.gif" width="640" alt="Tech Console · Narrated Explainer — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.0 · .motion</sub></p>
-<p>Support technical and data explanations with a console layout and purple glass-like motion graphics.</p>
-<p><a href="https://motiongit.com/@adunext/template-04-dark-console">https://motiongit.com/@adunext/template-04-dark-console</a></p>
-
-<p><a href="https://media.openaicut.com/previews/611/draft-en-d24046938118.mp4">▶ Full demo</a> · <a href="https://github.com/motiontemplates/553346">GitHub documentation</a></p>
-
-
----
-
-<h3><a href="https://motiongit.com/@adunext/template-04-dark-console-portrait">Tech Console · Narrated Explainer · Portrait</a></h3>
-<a href="https://media.openaicut.com/previews/612/draft-en-23e30d7e2c28.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/738182/b4fed087e49a3be8902ea00384cd02c144021128/assets/preview.gif" width="240" alt="Tech Console · Narrated Explainer · Portrait — Demo"></a>
-<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v2.5.0 · .motion</sub></p>
-<p>Support technical and data explanations with a console layout and purple glass-like motion graphics.</p>
-<p><a href="https://motiongit.com/@adunext/template-04-dark-console-portrait">https://motiongit.com/@adunext/template-04-dark-console-portrait</a></p>
-
-<p><a href="https://media.openaicut.com/previews/612/draft-en-23e30d7e2c28.mp4">▶ Full demo</a> · <a href="https://github.com/motiontemplates/738182">GitHub documentation</a></p>
-
-
----
-
-<h3><a href="https://motiongit.com/@adunext/template-05-native">Vivid Characters · Narrative Explainer</a></h3>
-<a href="https://media.openaicut.com/previews/613/draft-en-e06d1f42b0b9.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/960723/d663c6163d84a2a986295581078f43b2bfe9233f/assets/preview.gif" width="640" alt="Vivid Characters · Narrative Explainer — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.0 · .motion</sub></p>
-<p>Support stories and contextual explanations with vivid colors, character assets and narrative animation.</p>
-<p><a href="https://motiongit.com/@adunext/template-05-native">https://motiongit.com/@adunext/template-05-native</a></p>
-
-<p><a href="https://media.openaicut.com/previews/613/draft-en-e06d1f42b0b9.mp4">▶ Full demo</a> · <a href="https://github.com/motiontemplates/960723">GitHub documentation</a></p>
-
-
----
-
-<h3><a href="https://motiongit.com/@adunext/template-05-native-portrait">Vivid Characters · Narrative Explainer · Portrait</a></h3>
-<a href="https://media.openaicut.com/previews/614/draft-en-6f4079db7a76.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/293151/164bca6d00a0c7e31493c9c8d4e93616b19e6573/assets/preview.gif" width="240" alt="Vivid Characters · Narrative Explainer · Portrait — Demo"></a>
-<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v2.5.0 · .motion</sub></p>
-<p>Support stories and contextual explanations with vivid colors, character assets and narrative animation.</p>
-<p><a href="https://motiongit.com/@adunext/template-05-native-portrait">https://motiongit.com/@adunext/template-05-native-portrait</a></p>
-
-<p><a href="https://media.openaicut.com/previews/614/draft-en-6f4079db7a76.mp4">▶ Full demo</a> · <a href="https://github.com/motiontemplates/293151">GitHub documentation</a></p>
 
 
 ---
@@ -166,8 +67,8 @@ Browse actual demos, output specifications and technical documentation. Open a t
 ## Brand & product
 
 <h3><a href="https://motiongit.com/@motiongit/motiongit-promo-main">Screen Collage · Brand Story</a></h3>
-<a href="https://media.openaicut.com/previews/585/draft-en-3d2b6bdce3c7.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/128610/aa3d7544068c05280900bce865c79880a1f983f8/assets/preview.gif" width="640" alt="Screen Collage · Brand Story — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.1 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/585/draft-en-3d2b6bdce3c7.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/128610/c2456d336b2a2465a2520a634ff19ebc27d85263/assets/preview.gif" width="640" alt="Screen Collage · Brand Story — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.2 · .motion</sub></p>
 <p>Introduce a brand or creative tool with screen collages, editorial transitions and a branded ending.</p>
 <p><a href="https://motiongit.com/@motiongit/motiongit-promo-main">https://motiongit.com/@motiongit/motiongit-promo-main</a></p>
 
@@ -177,8 +78,8 @@ Browse actual demos, output specifications and technical documentation. Open a t
 ---
 
 <h3><a href="https://motiongit.com/@motiongit/motiongit-promo-pixel">Pixel Platformer · Product Introduction</a></h3>
-<a href="https://media.openaicut.com/previews/586/draft-en-45375e2037e0.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/252912/d30815182c1cb91a3a32f3bf2030362ce9ab9f30/assets/preview.gif" width="640" alt="Pixel Platformer · Product Introduction — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.0 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/586/draft-en-45375e2037e0.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/252912/a5648188cb7046bcad04393fa0b52aa9d35a41bf/assets/preview.gif" width="640" alt="Pixel Platformer · Product Introduction — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.2 · .motion</sub></p>
 <p>Explain a digital product with a pixel city, platform-game actions and retro game sound.</p>
 <p><a href="https://motiongit.com/@motiongit/motiongit-promo-pixel">https://motiongit.com/@motiongit/motiongit-promo-pixel</a></p>
 
@@ -188,8 +89,8 @@ Browse actual demos, output specifications and technical documentation. Open a t
 ---
 
 <h3><a href="https://motiongit.com/@motiongit/motiongit-promo-velocity">Light and Dark Cuts · Product Promotion</a></h3>
-<a href="https://media.openaicut.com/previews/587/draft-en-389d2163ab5f.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/867595/b50ce8085999d8a07abd76823782bee9b74ab6f3/assets/preview.gif" width="640" alt="Light and Dark Cuts · Product Promotion — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.0 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/587/draft-en-389d2163ab5f.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/867595/e8d7f4c603ef325757cb2eea7097b3ff102d71f2/assets/preview.gif" width="640" alt="Light and Dark Cuts · Product Promotion — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.2 · .motion</sub></p>
 <p>Show product features through fast light-and-dark cuts, bold type and interface demonstrations.</p>
 <p><a href="https://motiongit.com/@motiongit/motiongit-promo-velocity">https://motiongit.com/@motiongit/motiongit-promo-velocity</a></p>
 
@@ -199,8 +100,8 @@ Browse actual demos, output specifications and technical documentation. Open a t
 ---
 
 <h3><a href="https://motiongit.com/@motiongit/motiongit-promo-user">Workflow Demo · Product Tutorial</a></h3>
-<a href="https://media.openaicut.com/previews/588/draft-en-2422d5a878da.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/670021/9ba34ad2e7950aa8c11434a81e72dfd65be07c79/assets/preview.gif" width="640" alt="Workflow Demo · Product Tutorial — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.1 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/588/draft-en-2422d5a878da.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/670021/115f6d98997c54d7000309548c37d2616dba4056/assets/preview.gif" width="640" alt="Workflow Demo · Product Tutorial — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.2 · .motion</sub></p>
 <p>Walk through choosing a template, providing content and producing a video for a product tutorial.</p>
 <p><a href="https://motiongit.com/@motiongit/motiongit-promo-user">https://motiongit.com/@motiongit/motiongit-promo-user</a></p>
 
@@ -210,8 +111,8 @@ Browse actual demos, output specifications and technical documentation. Open a t
 ---
 
 <h3><a href="https://motiongit.com/@motiongit/motiongit-promo-creator">Modular Collage · Creator Tools</a></h3>
-<a href="https://media.openaicut.com/previews/589/draft-en-9fbec6ff121c.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/452365/ef93984a7c12c94c4f8f7e12d53ec51200d9a1df/assets/preview.gif" width="640" alt="Modular Collage · Creator Tools — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.1 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/589/draft-en-9fbec6ff121c.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/452365/8d6cb1200bdfd2d6f11c439dd1ad1ad70cb15f3d/assets/preview.gif" width="640" alt="Modular Collage · Creator Tools — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.2 · .motion</sub></p>
 <p>Show how content, assets and animation fit together through modular collages for creator tools.</p>
 <p><a href="https://motiongit.com/@motiongit/motiongit-promo-creator">https://motiongit.com/@motiongit/motiongit-promo-creator</a></p>
 
@@ -221,8 +122,8 @@ Browse actual demos, output specifications and technical documentation. Open a t
 ---
 
 <h3><a href="https://motiongit.com/@motiongit/motiongit-promo-blueprint">Engineering Blueprint · Product Breakdown</a></h3>
-<a href="https://media.openaicut.com/previews/590/draft-en-99059891101e.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/213827/a3d98bdcbd8c29bdcba27c8dded983de69291479/assets/preview.gif" width="640" alt="Engineering Blueprint · Product Breakdown — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.1 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/590/draft-en-99059891101e.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/213827/f605f4e7a4b3b36019a1c64a94b67f497e6a4fec/assets/preview.gif" width="640" alt="Engineering Blueprint · Product Breakdown — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.2 · .motion</sub></p>
 <p>Explain a technical product or workflow through blueprints, structure diagrams and modular breakdowns.</p>
 <p><a href="https://motiongit.com/@motiongit/motiongit-promo-blueprint">https://motiongit.com/@motiongit/motiongit-promo-blueprint</a></p>
 
@@ -232,8 +133,8 @@ Browse actual demos, output specifications and technical documentation. Open a t
 ---
 
 <h3><a href="https://motiongit.com/@motiongit/motiongit-promo-keynote">Keynote Stage · Product Demo</a></h3>
-<a href="https://media.openaicut.com/previews/591/draft-en-28eb07a5a332.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/667934/51bbdf7aac7ec6701b54f2af5ca0823f66649b31/assets/preview.gif" width="640" alt="Keynote Stage · Product Demo — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.1 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/591/draft-en-28eb07a5a332.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/667934/cb967181df6d9bec9cd85e4a8e53b2e19dd1413e/assets/preview.gif" width="640" alt="Keynote Stage · Product Demo — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.2 · .motion</sub></p>
 <p>Present a product on a keynote-style stage with large screens for launches and feature announcements.</p>
 <p><a href="https://motiongit.com/@motiongit/motiongit-promo-keynote">https://motiongit.com/@motiongit/motiongit-promo-keynote</a></p>
 
@@ -243,8 +144,8 @@ Browse actual demos, output specifications and technical documentation. Open a t
 ---
 
 <h3><a href="https://motiongit.com/@motiongit/motiongit-promo-ink">Paper Scroll · Brand Story</a></h3>
-<a href="https://media.openaicut.com/previews/592/draft-en-1f98c9f9df3c.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/394243/8c4f4bd9d26be6153dca851ba5300fe85c45b35f/assets/preview.gif" width="640" alt="Paper Scroll · Brand Story — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.1 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/592/draft-en-1f98c9f9df3c.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/394243/7af54f6d70e1a80942f6e8c5871ac5413bd752cc/assets/preview.gif" width="640" alt="Paper Scroll · Brand Story — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.2 · .motion</sub></p>
 <p>Tell a brand story through an unfolding paper scroll, ink-inspired imagery and scroll transitions.</p>
 <p><a href="https://motiongit.com/@motiongit/motiongit-promo-ink">https://motiongit.com/@motiongit/motiongit-promo-ink</a></p>
 
@@ -252,17 +153,6 @@ Browse actual demos, output specifications and technical documentation. Open a t
 
 
 ## Photo & visual
-
-<h3><a href="https://motiongit.com/@prism-studio/visual-art-a-halftone">Halftone Dots · Portrait Title</a></h3>
-<a href="https://media.openaicut.com/previews/615/draft-en-a549a50aa6eb.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/381814/6dd61d519ba732857b57d4633aff62181d54ec2e/assets/preview.gif" width="640" alt="Halftone Dots · Portrait Title — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.1 · .motion</sub></p>
-<p>Turn three portraits into flowing two-color halftone dots that disperse and regroup into a title.</p>
-<p><a href="https://motiongit.com/@prism-studio/visual-art-a-halftone">https://motiongit.com/@prism-studio/visual-art-a-halftone</a></p>
-
-<p><a href="https://media.openaicut.com/previews/615/draft-en-a549a50aa6eb.mp4">▶ Full demo</a> · <a href="https://github.com/motiontemplates/381814">GitHub documentation</a></p>
-
-
----
 
 <h3><a href="https://motiongit.com/@prism-studio/visual-art-b-mosaic">Photo Mosaic · Image Reveal</a></h3>
 <a href="https://media.openaicut.com/previews/616/draft-en-74fac1697ce7.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/460349/bedb0860b34b687052497f2f1497f1f5063eeafa/assets/preview.gif" width="640" alt="Photo Mosaic · Image Reveal — Demo"></a>
