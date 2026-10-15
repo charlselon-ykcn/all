@@ -19,7 +19,7 @@
 <h3><a href="https://github.com/motiontemplates/385712">酷炫科技风</a></h3>
 <a href="https://motiontemplates.github.io/385712/assets/demo.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/385712/30a070172a65c8885b51e7e3dbe89517e287f5f8/assets/preview.gif" height="190" alt="酷炫科技风 — Demo"></a>
 <p><sub>16:9 · 1920 × 1080 · 60 FPS · v0.2.7-open-beta · 含开源 .motion 包</sub></p>
-<p>金属立体字、琥珀光与空间动效，适合真人口播和文字讲解；提供中英文 Demo。</p>
+<p>金属立体字、光效与空间动效；中英横屏、中文竖屏，支持简单人脸居中和圆形署名。</p>
 <p><a href="https://github.com/motiontemplates/385712">github.com/motiontemplates/385712</a></p>
 <p><a href="https://motiontemplates.github.io/385712/assets/demo.mp4">▶ 完整 Demo</a> · <a href="https://motiongit.com/@adunext/385712">模板详情与下载</a></p>
 </td>
