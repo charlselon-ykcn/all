@@ -2,7 +2,7 @@
 
 # MotionGit 模板合集
 
-**11 个模板 · 12 个 Demo** · [在线播放全部 Demo](https://motiontemplates.github.io/all/) · [English](README.en.md)
+**17 个模板 · 18 个 Demo** · [在线播放全部 Demo](https://motiontemplates.github.io/all/) · [English](README.en.md)
 
 浏览模板的实际样片、输出规格与技术资料。选择模板后，在对应页面查看素材要求和完整 `.motion`；取得模板后按包内 README 与制作指南制作。
 
@@ -32,6 +32,39 @@
 
 
 ## 口播与讲解
+
+<h3><a href="https://motiongit.com/@adunext/template-01-integrated">现代图文 · 口播讲解</a></h3>
+<a href="https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/336980/012ffdfa27e0608908adc88ef3a3f7c7157b9270/assets/preview.gif" width="640" alt="现代图文 · 口播讲解 — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.3 · .motion</sub></p>
+<p>用现代图文版式、文字强调和信息拆解配合口播，适合观点、证据与步骤讲解。</p>
+<p><a href="https://motiongit.com/@adunext/template-01-integrated">https://motiongit.com/@adunext/template-01-integrated</a></p>
+
+<p><a href="https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/336980">GitHub 技术资料</a></p>
+
+
+---
+
+<h3><a href="https://motiongit.com/@adunext/template-01-integrated-portrait">现代图文 · 口播讲解 · 竖屏</a></h3>
+<a href="https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/314486/20e86645c8cafa9edd9331e3d216fe4a70370f3c/assets/preview.gif" width="240" alt="现代图文 · 口播讲解 · 竖屏 — Demo"></a>
+<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v2.5.3 · .motion</sub></p>
+<p>用现代图文版式、文字强调和信息拆解配合口播，适合观点、证据与步骤讲解。</p>
+<p><a href="https://motiongit.com/@adunext/template-01-integrated-portrait">https://motiongit.com/@adunext/template-01-integrated-portrait</a></p>
+
+<p><a href="https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/314486">GitHub 技术资料</a></p>
+
+
+---
+
+<h3><a href="https://motiongit.com/@adunext/template-02-expanded-portrait">纸面透视 · 口播讲解 · 竖屏</a></h3>
+<a href="https://media.openaicut.com/previews/608/draft-en-a5200442ba79.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/295450/81da30895f590590c390830bebd8b652171c1f19/assets/preview.gif" width="240" alt="纸面透视 · 口播讲解 · 竖屏 — Demo"></a>
+<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v2.5.3 · .motion</sub></p>
+<p>用纸面透视、卡片层次和图文关系配合口播，适合方法拆解与结构化知识。</p>
+<p><a href="https://motiongit.com/@adunext/template-02-expanded-portrait">https://motiongit.com/@adunext/template-02-expanded-portrait</a></p>
+
+<p><a href="https://media.openaicut.com/previews/608/draft-en-a5200442ba79.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/295450">GitHub 技术资料</a></p>
+
+
+---
 
 <h3><a href="https://motiongit.com/@adunext/template-04-dark-console-portrait">科技控制台 · 口播讲解 · 竖屏</a></h3>
 <a href="https://media.openaicut.com/previews/612/draft-en-23e30d7e2c28.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/738182/a9242c6fe04aa58a7ca848d06a42241df55adc19/assets/preview.gif" width="240" alt="科技控制台 · 口播讲解 · 竖屏 — Demo"></a>
@@ -139,6 +172,39 @@
 <p><a href="https://motiongit.com/@motiongit/motiongit-promo-creator">https://motiongit.com/@motiongit/motiongit-promo-creator</a></p>
 
 <p><a href="https://media.openaicut.com/previews/589/draft-en-9fbec6ff121c.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/452365">GitHub 技术资料</a></p>
+
+
+---
+
+<h3><a href="https://motiongit.com/@motiongit/motiongit-promo-blueprint">工程蓝图 · 产品拆解</a></h3>
+<a href="https://media.openaicut.com/previews/590/draft-en-99059891101e.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/213827/83cbcf1fc0c4ffa756f59d9c3d807fa0daa3e33a/assets/preview.gif" width="640" alt="工程蓝图 · 产品拆解 — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.3 · .motion</sub></p>
+<p>以工程蓝图、结构示意和模块拆解展示产品组成，适合技术产品与工作流讲解。</p>
+<p><a href="https://motiongit.com/@motiongit/motiongit-promo-blueprint">https://motiongit.com/@motiongit/motiongit-promo-blueprint</a></p>
+
+<p><a href="https://media.openaicut.com/previews/590/draft-en-99059891101e.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/213827">GitHub 技术资料</a></p>
+
+
+---
+
+<h3><a href="https://motiongit.com/@motiongit/motiongit-promo-keynote">发布会舞台 · 产品演示</a></h3>
+<a href="https://media.openaicut.com/previews/591/draft-en-28eb07a5a332.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/667934/40971e0569e9243d91521672c33879ea8da9ef13/assets/preview.gif" width="640" alt="发布会舞台 · 产品演示 — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.3 · .motion</sub></p>
+<p>以发布会舞台和大屏展示组织产品演示，适合新品介绍、功能发布与品牌展示。</p>
+<p><a href="https://motiongit.com/@motiongit/motiongit-promo-keynote">https://motiongit.com/@motiongit/motiongit-promo-keynote</a></p>
+
+<p><a href="https://media.openaicut.com/previews/591/draft-en-28eb07a5a332.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/667934">GitHub 技术资料</a></p>
+
+
+---
+
+<h3><a href="https://motiongit.com/@motiongit/motiongit-promo-ink">宣纸手卷 · 品牌叙事</a></h3>
+<a href="https://media.openaicut.com/previews/592/draft-en-1f98c9f9df3c.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/394243/e6700ff8801676dd2c480452ad0a420c8b504bb1/assets/preview.gif" width="640" alt="宣纸手卷 · 品牌叙事 — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.3 · .motion</sub></p>
+<p>沿宣纸手卷展开品牌故事，以水墨意象和卷轴转场营造东方叙事。</p>
+<p><a href="https://motiongit.com/@motiongit/motiongit-promo-ink">https://motiongit.com/@motiongit/motiongit-promo-ink</a></p>
+
+<p><a href="https://media.openaicut.com/previews/592/draft-en-1f98c9f9df3c.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/394243">GitHub 技术资料</a></p>
 
 
 ---

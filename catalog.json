@@ -70,6 +70,84 @@
       ]
     },
     {
+      "templateId": 605,
+      "repositoryId": "336980",
+      "repository": "https://github.com/motiontemplates/336980",
+      "website": "https://motiongit.com/@adunext/template-01-integrated",
+      "commit": "012ffdfa27e0608908adc88ef3a3f7c7157b9270",
+      "version": "2.5.3",
+      "title": {
+        "zh": "现代图文 · 口播讲解",
+        "en": "Modern Editorial · Narrated Explainer"
+      },
+      "summary": {
+        "zh": "用现代图文版式、文字强调和信息拆解配合口播，适合观点、证据与步骤讲解。",
+        "en": "Support narration with modern editorial layouts, text emphasis and information breakdowns."
+      },
+      "group": "talk",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "ratio": "16:9",
+      "orientation": "landscape",
+      "openSource": false,
+      "preview": "https://raw.githubusercontent.com/motiontemplates/336980/012ffdfa27e0608908adc88ef3a3f7c7157b9270/assets/preview.gif",
+      "poster": "https://motiongit.com/media/covers/605/draft-zh-7942d81ce917.jpg",
+      "demo": "https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4"
+    },
+    {
+      "templateId": 606,
+      "repositoryId": "314486",
+      "repository": "https://github.com/motiontemplates/314486",
+      "website": "https://motiongit.com/@adunext/template-01-integrated-portrait",
+      "commit": "20e86645c8cafa9edd9331e3d216fe4a70370f3c",
+      "version": "2.5.3",
+      "title": {
+        "zh": "现代图文 · 口播讲解 · 竖屏",
+        "en": "Modern Editorial · Narrated Explainer · Portrait"
+      },
+      "summary": {
+        "zh": "用现代图文版式、文字强调和信息拆解配合口播，适合观点、证据与步骤讲解。",
+        "en": "Support narration with modern editorial layouts, text emphasis and information breakdowns."
+      },
+      "group": "talk",
+      "width": 1080,
+      "height": 1920,
+      "fps": 60,
+      "ratio": "9:16",
+      "orientation": "portrait",
+      "openSource": false,
+      "preview": "https://raw.githubusercontent.com/motiontemplates/314486/20e86645c8cafa9edd9331e3d216fe4a70370f3c/assets/preview.gif",
+      "poster": "https://motiongit.com/media/covers/606/draft-zh-ceb203a3fa61.jpg",
+      "demo": "https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4"
+    },
+    {
+      "templateId": 608,
+      "repositoryId": "295450",
+      "repository": "https://github.com/motiontemplates/295450",
+      "website": "https://motiongit.com/@adunext/template-02-expanded-portrait",
+      "commit": "81da30895f590590c390830bebd8b652171c1f19",
+      "version": "2.5.3",
+      "title": {
+        "zh": "纸面透视 · 口播讲解 · 竖屏",
+        "en": "Paper Perspective · Narrated Explainer · Portrait"
+      },
+      "summary": {
+        "zh": "用纸面透视、卡片层次和图文关系配合口播，适合方法拆解与结构化知识。",
+        "en": "Support structured explanations with paper perspective, layered cards and text-image relationships."
+      },
+      "group": "talk",
+      "width": 1080,
+      "height": 1920,
+      "fps": 60,
+      "ratio": "9:16",
+      "orientation": "portrait",
+      "openSource": false,
+      "preview": "https://raw.githubusercontent.com/motiontemplates/295450/81da30895f590590c390830bebd8b652171c1f19/assets/preview.gif",
+      "poster": "https://motiongit.com/media/covers/608/draft-zh-499f0ea3a15e.jpg",
+      "demo": "https://media.openaicut.com/previews/608/draft-en-a5200442ba79.mp4"
+    },
+    {
       "templateId": 612,
       "repositoryId": "738182",
       "repository": "https://github.com/motiontemplates/738182",
@@ -328,6 +406,84 @@
       "preview": "https://raw.githubusercontent.com/motiontemplates/452365/7172990434912731216baab77d7796c7eb61a46c/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/589/quality-zh-879117ad36da.jpg",
       "demo": "https://media.openaicut.com/previews/589/draft-en-9fbec6ff121c.mp4"
+    },
+    {
+      "templateId": 590,
+      "repositoryId": "213827",
+      "repository": "https://github.com/motiontemplates/213827",
+      "website": "https://motiongit.com/@motiongit/motiongit-promo-blueprint",
+      "commit": "83cbcf1fc0c4ffa756f59d9c3d807fa0daa3e33a",
+      "version": "2.5.3",
+      "title": {
+        "zh": "工程蓝图 · 产品拆解",
+        "en": "Engineering Blueprint · Product Breakdown"
+      },
+      "summary": {
+        "zh": "以工程蓝图、结构示意和模块拆解展示产品组成，适合技术产品与工作流讲解。",
+        "en": "Explain a technical product or workflow through blueprints, structure diagrams and modular breakdowns."
+      },
+      "group": "product",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "ratio": "16:9",
+      "orientation": "landscape",
+      "openSource": false,
+      "preview": "https://raw.githubusercontent.com/motiontemplates/213827/83cbcf1fc0c4ffa756f59d9c3d807fa0daa3e33a/assets/preview.gif",
+      "poster": "https://motiongit.com/media/covers/590/quality-zh-d5509b8e4f82.jpg",
+      "demo": "https://media.openaicut.com/previews/590/draft-en-99059891101e.mp4"
+    },
+    {
+      "templateId": 591,
+      "repositoryId": "667934",
+      "repository": "https://github.com/motiontemplates/667934",
+      "website": "https://motiongit.com/@motiongit/motiongit-promo-keynote",
+      "commit": "40971e0569e9243d91521672c33879ea8da9ef13",
+      "version": "2.5.3",
+      "title": {
+        "zh": "发布会舞台 · 产品演示",
+        "en": "Keynote Stage · Product Demo"
+      },
+      "summary": {
+        "zh": "以发布会舞台和大屏展示组织产品演示，适合新品介绍、功能发布与品牌展示。",
+        "en": "Present a product on a keynote-style stage with large screens for launches and feature announcements."
+      },
+      "group": "product",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "ratio": "16:9",
+      "orientation": "landscape",
+      "openSource": false,
+      "preview": "https://raw.githubusercontent.com/motiontemplates/667934/40971e0569e9243d91521672c33879ea8da9ef13/assets/preview.gif",
+      "poster": "https://motiongit.com/media/covers/591/quality-zh-da4888e5e350.jpg",
+      "demo": "https://media.openaicut.com/previews/591/draft-en-28eb07a5a332.mp4"
+    },
+    {
+      "templateId": 592,
+      "repositoryId": "394243",
+      "repository": "https://github.com/motiontemplates/394243",
+      "website": "https://motiongit.com/@motiongit/motiongit-promo-ink",
+      "commit": "e6700ff8801676dd2c480452ad0a420c8b504bb1",
+      "version": "2.5.3",
+      "title": {
+        "zh": "宣纸手卷 · 品牌叙事",
+        "en": "Paper Scroll · Brand Story"
+      },
+      "summary": {
+        "zh": "沿宣纸手卷展开品牌故事，以水墨意象和卷轴转场营造东方叙事。",
+        "en": "Tell a brand story through an unfolding paper scroll, ink-inspired imagery and scroll transitions."
+      },
+      "group": "product",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "ratio": "16:9",
+      "orientation": "landscape",
+      "openSource": false,
+      "preview": "https://raw.githubusercontent.com/motiontemplates/394243/e6700ff8801676dd2c480452ad0a420c8b504bb1/assets/preview.gif",
+      "poster": "https://motiongit.com/media/covers/592/quality-zh-666ac61ebd83.jpg",
+      "demo": "https://media.openaicut.com/previews/592/draft-en-1f98c9f9df3c.mp4"
     }
   ]
 }
