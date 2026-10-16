@@ -34,8 +34,8 @@ Browse actual demos, output specifications and technical documentation. Open a t
 ## Narrated explainers
 
 <h3><a href="https://motiongit.com/@adunext/template-01-integrated">Modern Editorial · Narrated Explainer</a></h3>
-<a href="https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/336980/83c3c0ca2810f7326e820456639e1d2c14dba7e2/assets/preview.gif" width="640" alt="Modern Editorial · Narrated Explainer — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.6 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/336980/c182d960df4b36cdd98144b44d81b156f233228a/assets/preview.gif" width="640" alt="Modern Editorial · Narrated Explainer — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.7 · .motion</sub></p>
 <p>Support narration with modern editorial layouts, text emphasis and information breakdowns.</p>
 <p><a href="https://motiongit.com/@adunext/template-01-integrated">https://motiongit.com/@adunext/template-01-integrated</a></p>
 
@@ -144,8 +144,8 @@ Browse actual demos, output specifications and technical documentation. Open a t
 ---
 
 <h3><a href="https://motiongit.com/@adunext/vibrant-poster">Vibrant Poster · Narrated Explainer</a></h3>
-<a href="https://media.openaicut.com/previews/623/draft-en-e9dd279eebe9.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/762139/52a453f871c5b8c59cefb86c9b63a1d0d8741277/assets/preview.gif" width="640" alt="Vibrant Poster · Narrated Explainer — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.6 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/623/draft-en-e9dd279eebe9.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/762139/6ca3e161b495563ac186735333df6d4f83d2f986/assets/preview.gif" width="640" alt="Vibrant Poster · Narrated Explainer — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.7 · .motion</sub></p>
 <p>Support narration with high-contrast posters, bold type, lists and graphic relationships in a dedicated landscape layout.</p>
 <p><a href="https://motiongit.com/@adunext/vibrant-poster">https://motiongit.com/@adunext/vibrant-poster</a></p>
 

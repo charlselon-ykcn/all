@@ -74,8 +74,8 @@
       "repositoryId": "336980",
       "repository": "https://github.com/motiontemplates/336980",
       "website": "https://motiongit.com/@adunext/template-01-integrated",
-      "commit": "83c3c0ca2810f7326e820456639e1d2c14dba7e2",
-      "version": "2.5.6",
+      "commit": "c182d960df4b36cdd98144b44d81b156f233228a",
+      "version": "2.5.7",
       "title": {
         "zh": "现代图文 · 口播讲解",
         "en": "Modern Editorial · Narrated Explainer"
@@ -91,7 +91,7 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/336980/83c3c0ca2810f7326e820456639e1d2c14dba7e2/assets/preview.gif",
+      "preview": "https://raw.githubusercontent.com/motiontemplates/336980/c182d960df4b36cdd98144b44d81b156f233228a/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/605/draft-zh-7942d81ce917.jpg",
       "demo": "https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4"
     },
@@ -334,8 +334,8 @@
       "repositoryId": "762139",
       "repository": "https://github.com/motiontemplates/762139",
       "website": "https://motiongit.com/@adunext/vibrant-poster",
-      "commit": "52a453f871c5b8c59cefb86c9b63a1d0d8741277",
-      "version": "2.5.6",
+      "commit": "6ca3e161b495563ac186735333df6d4f83d2f986",
+      "version": "2.5.7",
       "title": {
         "zh": "活力海报 · 口播讲解",
         "en": "Vibrant Poster · Narrated Explainer"
@@ -351,7 +351,7 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/762139/52a453f871c5b8c59cefb86c9b63a1d0d8741277/assets/preview.gif",
+      "preview": "https://raw.githubusercontent.com/motiontemplates/762139/6ca3e161b495563ac186735333df6d4f83d2f986/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/623/draft-zh-6b4b2398b532.jpg",
       "demo": "https://media.openaicut.com/previews/623/draft-en-e9dd279eebe9.mp4"
     },

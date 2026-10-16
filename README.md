@@ -34,8 +34,8 @@
 ## 口播与讲解
 
 <h3><a href="https://motiongit.com/@adunext/template-01-integrated">现代图文 · 口播讲解</a></h3>
-<a href="https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/336980/83c3c0ca2810f7326e820456639e1d2c14dba7e2/assets/preview.gif" width="640" alt="现代图文 · 口播讲解 — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.6 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/336980/c182d960df4b36cdd98144b44d81b156f233228a/assets/preview.gif" width="640" alt="现代图文 · 口播讲解 — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.7 · .motion</sub></p>
 <p>用现代图文版式、文字强调和信息拆解配合口播，适合观点、证据与步骤讲解。</p>
 <p><a href="https://motiongit.com/@adunext/template-01-integrated">https://motiongit.com/@adunext/template-01-integrated</a></p>
 
@@ -144,8 +144,8 @@
 ---
 
 <h3><a href="https://motiongit.com/@adunext/vibrant-poster">活力海报 · 口播讲解</a></h3>
-<a href="https://media.openaicut.com/previews/623/draft-en-e9dd279eebe9.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/762139/52a453f871c5b8c59cefb86c9b63a1d0d8741277/assets/preview.gif" width="640" alt="活力海报 · 口播讲解 — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.6 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/623/draft-en-e9dd279eebe9.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/762139/6ca3e161b495563ac186735333df6d4f83d2f986/assets/preview.gif" width="640" alt="活力海报 · 口播讲解 — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.7 · .motion</sub></p>
 <p>用高对比海报、大字、清单和图形关系配合口播，含原生动画与新增组件，横屏独立编排。</p>
 <p><a href="https://motiongit.com/@adunext/vibrant-poster">https://motiongit.com/@adunext/vibrant-poster</a></p>
 
