@@ -24,10 +24,10 @@ Browse actual demos, output specifications and technical documentation. Open a t
 
 <h3><a href="https://motiongit.com/@adunext/385712">Kinetic Tech · Chinese Portrait</a></h3>
 <a href="https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4"><img src="https://motiongit.com/media/covers/626/0.2.9-open-beta-zh-b81b4798ad6a.jpg" width="240" alt="Kinetic Tech · Chinese Portrait — Demo"></a>
-<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v0.2.22-open-beta · Official Chinese portrait</sub></p>
+<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v0.2.23-open-beta · Official Chinese portrait</sub></p>
 <p>Editable MotionGit .motion animation with the production guide included in the package.</p>
 <p><a href="https://motiongit.com/@adunext/385712">https://motiongit.com/@adunext/385712</a></p>
-<p><sub>Official Chinese portrait v0.2.22-open-beta; GitHub source edition v0.2.7-open-beta (16:9).</sub></p>
+<p><sub>Official Chinese portrait v0.2.23-open-beta; GitHub source edition v0.2.7-open-beta (16:9).</sub></p>
 <p><a href="https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4">▶ Full demo</a> · <a href="https://github.com/motiontemplates/385712">GitHub documentation</a></p>
 
 

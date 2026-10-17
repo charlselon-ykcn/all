@@ -35,7 +35,7 @@
           "repository": "https://github.com/motiontemplates/385712",
           "website": "https://motiongit.com/@adunext/385712",
           "commit": "30a070172a65c8885b51e7e3dbe89517e287f5f8",
-          "version": "0.2.22-open-beta",
+          "version": "0.2.23-open-beta",
           "title": {
             "zh": "酷炫科技风 · 中文竖屏",
             "en": "Kinetic Tech · Chinese Portrait"
@@ -63,8 +63,8 @@
             "orientation": "landscape"
           },
           "editionNote": {
-            "zh": "官网中文竖屏 v0.2.22-open-beta；GitHub 开源包 v0.2.7-open-beta（16:9）。",
-            "en": "Official Chinese portrait v0.2.22-open-beta; GitHub source edition v0.2.7-open-beta (16:9)."
+            "zh": "官网中文竖屏 v0.2.23-open-beta；GitHub 开源包 v0.2.7-open-beta（16:9）。",
+            "en": "Official Chinese portrait v0.2.23-open-beta; GitHub source edition v0.2.7-open-beta (16:9)."
           }
         }
       ]

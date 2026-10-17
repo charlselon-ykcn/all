@@ -24,10 +24,10 @@
 
 <h3><a href="https://motiongit.com/@adunext/385712">酷炫科技风 · 中文竖屏</a></h3>
 <a href="https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4"><img src="https://motiongit.com/media/covers/626/0.2.9-open-beta-zh-b81b4798ad6a.jpg" width="240" alt="酷炫科技风 · 中文竖屏 — Demo"></a>
-<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v0.2.22-open-beta · 官网中文竖屏</sub></p>
+<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v0.2.23-open-beta · 官网中文竖屏</sub></p>
 <p>金属立体字、光效与空间动效；中英横屏、中文竖屏，新增英文竖屏基础表达 B1–B4，支持人脸居中与圆形署名。</p>
 <p><a href="https://motiongit.com/@adunext/385712">https://motiongit.com/@adunext/385712</a></p>
-<p><sub>官网中文竖屏 v0.2.22-open-beta；GitHub 开源包 v0.2.7-open-beta（16:9）。</sub></p>
+<p><sub>官网中文竖屏 v0.2.23-open-beta；GitHub 开源包 v0.2.7-open-beta（16:9）。</sub></p>
 <p><a href="https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/385712">GitHub 技术资料</a></p>
 
 
