@@ -2,7 +2,7 @@
 
 # MotionGit Template Collection
 
-**26 templates · 27 demos** · [Watch all demos](https://motiontemplates.github.io/all/en.html) · [中文](README.md)
+**29 templates · 30 demos** · [Watch all demos](https://motiontemplates.github.io/all/en.html) · [中文](README.md)
 
 Browse actual demos, output specifications and technical documentation. Open a template for its required inputs and complete `.motion`, then follow the README and production guide inside the package.
 
@@ -144,8 +144,8 @@ Browse actual demos, output specifications and technical documentation. Open a t
 ---
 
 <h3><a href="https://motiongit.com/@adunext/vibrant-poster">Vibrant Poster · Narrated Explainer</a></h3>
-<a href="https://media.openaicut.com/previews/623/draft-en-e9dd279eebe9.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/762139/6ca3e161b495563ac186735333df6d4f83d2f986/assets/preview.gif" width="640" alt="Vibrant Poster · Narrated Explainer — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.7 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/623/draft-en-e9dd279eebe9.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/762139/5b610eb0931f64c7b3d2ecd59258a96e23cb8d80/assets/preview.gif" width="640" alt="Vibrant Poster · Narrated Explainer — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.6.0 · .motion</sub></p>
 <p>Support narration with high-contrast posters, bold type, lists and graphic relationships in a dedicated landscape layout.</p>
 <p><a href="https://motiongit.com/@adunext/vibrant-poster">https://motiongit.com/@adunext/vibrant-poster</a></p>
 
@@ -155,8 +155,8 @@ Browse actual demos, output specifications and technical documentation. Open a t
 ---
 
 <h3><a href="https://motiongit.com/@adunext/vibrant-poster-portrait">Vibrant Poster · Narrated Explainer · Portrait</a></h3>
-<a href="https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/721489/9b06cdd8d358fa3fbdba15c0caebbcbe94f123df/assets/preview.gif" width="240" alt="Vibrant Poster · Narrated Explainer · Portrait — Demo"></a>
-<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v2.5.7 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/721489/f9380532b580d10181fd2067c4c6e6ff4fbe47c4/assets/preview.gif" width="240" alt="Vibrant Poster · Narrated Explainer · Portrait — Demo"></a>
+<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v2.6.0 · .motion</sub></p>
 <p>Support narration with high-contrast posters, bold type, lists and graphic relationships in a dedicated portrait layout.</p>
 <p><a href="https://motiongit.com/@adunext/vibrant-poster-portrait">https://motiongit.com/@adunext/vibrant-poster-portrait</a></p>
 
@@ -297,9 +297,42 @@ Browse actual demos, output specifications and technical documentation. Open a t
 
 ---
 
+<h3><a href="https://motiongit.com/@prism-studio/visual-art-e-glitch">Signal Glitch · Photo Transition</a></h3>
+<a href="https://media.openaicut.com/previews/619/draft-en-e3aaf5ab5ba1.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/638039/9d859692f09db9ba3bc8ae5eead46d41880c28dd/assets/preview.gif" width="640" alt="Signal Glitch · Photo Transition — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.6.0 · .motion</sub></p>
+<p>Transform photos with pixel sorting, RGB splits and scanlines, ending with a CRT shutdown.</p>
+<p><a href="https://motiongit.com/@prism-studio/visual-art-e-glitch">https://motiongit.com/@prism-studio/visual-art-e-glitch</a></p>
+
+<p><a href="https://media.openaicut.com/previews/619/draft-en-e3aaf5ab5ba1.mp4">▶ Full demo</a> · <a href="https://github.com/motiontemplates/638039">GitHub documentation</a></p>
+
+
+---
+
+<h3><a href="https://motiongit.com/@prism-studio/visual-art-f-double">Double Exposure · Portrait Layers</a></h3>
+<a href="https://media.openaicut.com/previews/620/draft-en-8b1d45590a57.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/800829/245105e7c1f556747d3c51c2459b375673f29a1d/assets/preview.gif" width="640" alt="Double Exposure · Portrait Layers — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.6.0 · .motion</sub></p>
+<p>Fill a portrait silhouette with scenery, drift the layers in opposite directions and reveal a title through mist.</p>
+<p><a href="https://motiongit.com/@prism-studio/visual-art-f-double">https://motiongit.com/@prism-studio/visual-art-f-double</a></p>
+
+<p><a href="https://media.openaicut.com/previews/620/draft-en-8b1d45590a57.mp4">▶ Full demo</a> · <a href="https://github.com/motiontemplates/800829">GitHub documentation</a></p>
+
+
+---
+
+<h3><a href="https://motiongit.com/@prism-studio/visual-art-g-gallery">Spatial Gallery · Photo Memories</a></h3>
+<a href="https://media.openaicut.com/previews/621/draft-en-d730d56fb8f4.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/743702/d01475737433f07f322ee12289c195ac1022dd9f/assets/preview.gif" width="640" alt="Spatial Gallery · Photo Memories — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.6.0 · .motion</sub></p>
+<p>Travel through a dimensional photo gallery with captions, then move into the main image and a full-screen title.</p>
+<p><a href="https://motiongit.com/@prism-studio/visual-art-g-gallery">https://motiongit.com/@prism-studio/visual-art-g-gallery</a></p>
+
+<p><a href="https://media.openaicut.com/previews/621/draft-en-d730d56fb8f4.mp4">▶ Full demo</a> · <a href="https://github.com/motiontemplates/743702">GitHub documentation</a></p>
+
+
+---
+
 <h3><a href="https://motiongit.com/@prism-studio/visual-art-h-kaleido">Mirror Kaleidoscope · Photo Motion</a></h3>
-<a href="https://media.openaicut.com/previews/622/draft-en-660c051c4b14.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/551805/930e8081c2520887d09bff5c073137e0a0b92bdd/assets/preview.gif" width="640" alt="Mirror Kaleidoscope · Photo Motion — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.5 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/622/draft-en-660c051c4b14.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/551805/24bcfc83ff63a01d61d65b3d628abd9bddc0cf1f/assets/preview.gif" width="640" alt="Mirror Kaleidoscope · Photo Motion — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.6.0 · .motion</sub></p>
 <p>Mirror two photos into a rotating twelve-segment kaleidoscope, transition through expanding rings and unfold the originals.</p>
 <p><a href="https://motiongit.com/@prism-studio/visual-art-h-kaleido">https://motiongit.com/@prism-studio/visual-art-h-kaleido</a></p>
 

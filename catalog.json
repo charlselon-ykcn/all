@@ -334,8 +334,8 @@
       "repositoryId": "762139",
       "repository": "https://github.com/motiontemplates/762139",
       "website": "https://motiongit.com/@adunext/vibrant-poster",
-      "commit": "6ca3e161b495563ac186735333df6d4f83d2f986",
-      "version": "2.5.7",
+      "commit": "5b610eb0931f64c7b3d2ecd59258a96e23cb8d80",
+      "version": "2.6.0",
       "title": {
         "zh": "活力海报 · 口播讲解",
         "en": "Vibrant Poster · Narrated Explainer"
@@ -351,7 +351,7 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/762139/6ca3e161b495563ac186735333df6d4f83d2f986/assets/preview.gif",
+      "preview": "https://raw.githubusercontent.com/motiontemplates/762139/5b610eb0931f64c7b3d2ecd59258a96e23cb8d80/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/623/draft-zh-6b4b2398b532.jpg",
       "demo": "https://media.openaicut.com/previews/623/draft-en-e9dd279eebe9.mp4"
     },
@@ -360,8 +360,8 @@
       "repositoryId": "721489",
       "repository": "https://github.com/motiontemplates/721489",
       "website": "https://motiongit.com/@adunext/vibrant-poster-portrait",
-      "commit": "9b06cdd8d358fa3fbdba15c0caebbcbe94f123df",
-      "version": "2.5.7",
+      "commit": "f9380532b580d10181fd2067c4c6e6ff4fbe47c4",
+      "version": "2.6.0",
       "title": {
         "zh": "活力海报 · 口播讲解 · 竖屏",
         "en": "Vibrant Poster · Narrated Explainer · Portrait"
@@ -377,7 +377,7 @@
       "ratio": "9:16",
       "orientation": "portrait",
       "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/721489/9b06cdd8d358fa3fbdba15c0caebbcbe94f123df/assets/preview.gif",
+      "preview": "https://raw.githubusercontent.com/motiontemplates/721489/f9380532b580d10181fd2067c4c6e6ff4fbe47c4/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/624/draft-zh-01638b2220a1.jpg",
       "demo": "https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4"
     },
@@ -694,12 +694,90 @@
       "demo": "https://media.openaicut.com/previews/618/draft-en-30b4688562e9.mp4"
     },
     {
+      "templateId": 619,
+      "repositoryId": "638039",
+      "repository": "https://github.com/motiontemplates/638039",
+      "website": "https://motiongit.com/@prism-studio/visual-art-e-glitch",
+      "commit": "9d859692f09db9ba3bc8ae5eead46d41880c28dd",
+      "version": "2.6.0",
+      "title": {
+        "zh": "信号故障 · 照片转场",
+        "en": "Signal Glitch · Photo Transition"
+      },
+      "summary": {
+        "zh": "用像素排序、RGB 分离和扫描线改造照片，并以 CRT 关机效果收尾，适合科技视觉片段。",
+        "en": "Transform photos with pixel sorting, RGB splits and scanlines, ending with a CRT shutdown."
+      },
+      "group": "art",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "ratio": "16:9",
+      "orientation": "landscape",
+      "openSource": false,
+      "preview": "https://raw.githubusercontent.com/motiontemplates/638039/9d859692f09db9ba3bc8ae5eead46d41880c28dd/assets/preview.gif",
+      "poster": "https://motiongit.com/media/covers/619/draft-zh-b96f0b6469fe.jpg",
+      "demo": "https://media.openaicut.com/previews/619/draft-en-e3aaf5ab5ba1.mp4"
+    },
+    {
+      "templateId": 620,
+      "repositoryId": "800829",
+      "repository": "https://github.com/motiontemplates/800829",
+      "website": "https://motiongit.com/@prism-studio/visual-art-f-double",
+      "commit": "245105e7c1f556747d3c51c2459b375673f29a1d",
+      "version": "2.6.0",
+      "title": {
+        "zh": "双重曝光 · 人像叠影",
+        "en": "Double Exposure · Portrait Layers"
+      },
+      "summary": {
+        "zh": "以风景填充人像剪影，双层画面反向漂移，标题从薄雾显现，适合诗意人像叠影。",
+        "en": "Fill a portrait silhouette with scenery, drift the layers in opposite directions and reveal a title through mist."
+      },
+      "group": "art",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "ratio": "16:9",
+      "orientation": "landscape",
+      "openSource": false,
+      "preview": "https://raw.githubusercontent.com/motiontemplates/800829/245105e7c1f556747d3c51c2459b375673f29a1d/assets/preview.gif",
+      "poster": "https://motiongit.com/media/covers/620/draft-zh-d8cadbd1b296.jpg",
+      "demo": "https://media.openaicut.com/previews/620/draft-en-8b1d45590a57.mp4"
+    },
+    {
+      "templateId": 621,
+      "repositoryId": "743702",
+      "repository": "https://github.com/motiontemplates/743702",
+      "website": "https://motiongit.com/@prism-studio/visual-art-g-gallery",
+      "commit": "d01475737433f07f322ee12289c195ac1022dd9f",
+      "version": "2.6.0",
+      "title": {
+        "zh": "空间画廊 · 回忆相册",
+        "en": "Spatial Gallery · Photo Memories"
+      },
+      "summary": {
+        "zh": "穿行带有文字说明的立体照片画廊，最后推进主照片并揭示全屏标题，适合回忆与作品集。",
+        "en": "Travel through a dimensional photo gallery with captions, then move into the main image and a full-screen title."
+      },
+      "group": "art",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "ratio": "16:9",
+      "orientation": "landscape",
+      "openSource": false,
+      "preview": "https://raw.githubusercontent.com/motiontemplates/743702/d01475737433f07f322ee12289c195ac1022dd9f/assets/preview.gif",
+      "poster": "https://motiongit.com/media/covers/621/draft-zh-78b8670e7b7d.jpg",
+      "demo": "https://media.openaicut.com/previews/621/draft-en-d730d56fb8f4.mp4"
+    },
+    {
       "templateId": 622,
       "repositoryId": "551805",
       "repository": "https://github.com/motiontemplates/551805",
       "website": "https://motiongit.com/@prism-studio/visual-art-h-kaleido",
-      "commit": "930e8081c2520887d09bff5c073137e0a0b92bdd",
-      "version": "2.5.5",
+      "commit": "24bcfc83ff63a01d61d65b3d628abd9bddc0cf1f",
+      "version": "2.6.0",
       "title": {
         "zh": "镜像万花筒 · 照片变幻",
         "en": "Mirror Kaleidoscope · Photo Motion"
@@ -715,7 +793,7 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/551805/930e8081c2520887d09bff5c073137e0a0b92bdd/assets/preview.gif",
+      "preview": "https://raw.githubusercontent.com/motiontemplates/551805/24bcfc83ff63a01d61d65b3d628abd9bddc0cf1f/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/622/draft-zh-f09b29170a66.jpg",
       "demo": "https://media.openaicut.com/previews/622/draft-en-660c051c4b14.mp4"
     }

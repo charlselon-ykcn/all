@@ -2,7 +2,7 @@
 
 # MotionGit 模板合集
 
-**26 个模板 · 27 个 Demo** · [在线播放全部 Demo](https://motiontemplates.github.io/all/) · [English](README.en.md)
+**29 个模板 · 30 个 Demo** · [在线播放全部 Demo](https://motiontemplates.github.io/all/) · [English](README.en.md)
 
 浏览模板的实际样片、输出规格与技术资料。选择模板后，在对应页面查看素材要求和完整 `.motion`；取得模板后按包内 README 与制作指南制作。
 
@@ -144,8 +144,8 @@
 ---
 
 <h3><a href="https://motiongit.com/@adunext/vibrant-poster">活力海报 · 口播讲解</a></h3>
-<a href="https://media.openaicut.com/previews/623/draft-en-e9dd279eebe9.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/762139/6ca3e161b495563ac186735333df6d4f83d2f986/assets/preview.gif" width="640" alt="活力海报 · 口播讲解 — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.7 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/623/draft-en-e9dd279eebe9.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/762139/5b610eb0931f64c7b3d2ecd59258a96e23cb8d80/assets/preview.gif" width="640" alt="活力海报 · 口播讲解 — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.6.0 · .motion</sub></p>
 <p>用高对比海报、大字、清单和图形关系配合口播，含原生动画与新增组件，横屏独立编排。</p>
 <p><a href="https://motiongit.com/@adunext/vibrant-poster">https://motiongit.com/@adunext/vibrant-poster</a></p>
 
@@ -155,8 +155,8 @@
 ---
 
 <h3><a href="https://motiongit.com/@adunext/vibrant-poster-portrait">活力海报 · 口播讲解 · 竖屏</a></h3>
-<a href="https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/721489/9b06cdd8d358fa3fbdba15c0caebbcbe94f123df/assets/preview.gif" width="240" alt="活力海报 · 口播讲解 · 竖屏 — Demo"></a>
-<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v2.5.7 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/721489/f9380532b580d10181fd2067c4c6e6ff4fbe47c4/assets/preview.gif" width="240" alt="活力海报 · 口播讲解 · 竖屏 — Demo"></a>
+<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v2.6.0 · .motion</sub></p>
 <p>用高对比海报、大字、清单和图形关系配合口播，含原生动画与新增组件，竖屏独立编排。</p>
 <p><a href="https://motiongit.com/@adunext/vibrant-poster-portrait">https://motiongit.com/@adunext/vibrant-poster-portrait</a></p>
 
@@ -297,9 +297,42 @@
 
 ---
 
+<h3><a href="https://motiongit.com/@prism-studio/visual-art-e-glitch">信号故障 · 照片转场</a></h3>
+<a href="https://media.openaicut.com/previews/619/draft-en-e3aaf5ab5ba1.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/638039/9d859692f09db9ba3bc8ae5eead46d41880c28dd/assets/preview.gif" width="640" alt="信号故障 · 照片转场 — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.6.0 · .motion</sub></p>
+<p>用像素排序、RGB 分离和扫描线改造照片，并以 CRT 关机效果收尾，适合科技视觉片段。</p>
+<p><a href="https://motiongit.com/@prism-studio/visual-art-e-glitch">https://motiongit.com/@prism-studio/visual-art-e-glitch</a></p>
+
+<p><a href="https://media.openaicut.com/previews/619/draft-en-e3aaf5ab5ba1.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/638039">GitHub 技术资料</a></p>
+
+
+---
+
+<h3><a href="https://motiongit.com/@prism-studio/visual-art-f-double">双重曝光 · 人像叠影</a></h3>
+<a href="https://media.openaicut.com/previews/620/draft-en-8b1d45590a57.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/800829/245105e7c1f556747d3c51c2459b375673f29a1d/assets/preview.gif" width="640" alt="双重曝光 · 人像叠影 — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.6.0 · .motion</sub></p>
+<p>以风景填充人像剪影，双层画面反向漂移，标题从薄雾显现，适合诗意人像叠影。</p>
+<p><a href="https://motiongit.com/@prism-studio/visual-art-f-double">https://motiongit.com/@prism-studio/visual-art-f-double</a></p>
+
+<p><a href="https://media.openaicut.com/previews/620/draft-en-8b1d45590a57.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/800829">GitHub 技术资料</a></p>
+
+
+---
+
+<h3><a href="https://motiongit.com/@prism-studio/visual-art-g-gallery">空间画廊 · 回忆相册</a></h3>
+<a href="https://media.openaicut.com/previews/621/draft-en-d730d56fb8f4.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/743702/d01475737433f07f322ee12289c195ac1022dd9f/assets/preview.gif" width="640" alt="空间画廊 · 回忆相册 — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.6.0 · .motion</sub></p>
+<p>穿行带有文字说明的立体照片画廊，最后推进主照片并揭示全屏标题，适合回忆与作品集。</p>
+<p><a href="https://motiongit.com/@prism-studio/visual-art-g-gallery">https://motiongit.com/@prism-studio/visual-art-g-gallery</a></p>
+
+<p><a href="https://media.openaicut.com/previews/621/draft-en-d730d56fb8f4.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/743702">GitHub 技术资料</a></p>
+
+
+---
+
 <h3><a href="https://motiongit.com/@prism-studio/visual-art-h-kaleido">镜像万花筒 · 照片变幻</a></h3>
-<a href="https://media.openaicut.com/previews/622/draft-en-660c051c4b14.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/551805/930e8081c2520887d09bff5c073137e0a0b92bdd/assets/preview.gif" width="640" alt="镜像万花筒 · 照片变幻 — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.5 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/622/draft-en-660c051c4b14.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/551805/24bcfc83ff63a01d61d65b3d628abd9bddc0cf1f/assets/preview.gif" width="640" alt="镜像万花筒 · 照片变幻 — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.6.0 · .motion</sub></p>
 <p>将两张照片镜像成旋转的十二分段万花筒，经扩张圆环转场再展开原图，适合视觉主题片。</p>
 <p><a href="https://motiongit.com/@prism-studio/visual-art-h-kaleido">https://motiongit.com/@prism-studio/visual-art-h-kaleido</a></p>
 
