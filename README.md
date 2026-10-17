@@ -2,7 +2,7 @@
 
 # MotionGit 模板合集
 
-**28 个模板 · 29 个 Demo** · [在线播放全部 Demo](https://motiontemplates.github.io/all/) · [English](README.en.md)
+**29 个模板 · 30 个 Demo** · [在线播放全部 Demo](https://motiontemplates.github.io/all/) · [English](README.en.md)
 
 浏览模板的实际样片、输出规格与技术资料。选择模板后，在对应页面查看素材要求和完整 `.motion`；取得模板后按包内 README 与制作指南制作。
 
@@ -24,10 +24,10 @@
 
 <h3><a href="https://motiongit.com/@adunext/385712">酷炫科技风 · 中文竖屏</a></h3>
 <a href="https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4"><img src="https://motiongit.com/media/covers/626/0.2.9-open-beta-zh-b81b4798ad6a.jpg" width="240" alt="酷炫科技风 · 中文竖屏 — Demo"></a>
-<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v0.2.21-open-beta · 官网中文竖屏</sub></p>
+<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v0.2.22-open-beta · 官网中文竖屏</sub></p>
 <p>金属立体字、光效与空间动效；中英横屏、中文竖屏，支持简单人脸居中和圆形署名。</p>
 <p><a href="https://motiongit.com/@adunext/385712">https://motiongit.com/@adunext/385712</a></p>
-<p><sub>官网中文竖屏 v0.2.21-open-beta；GitHub 开源包 v0.2.7-open-beta（16:9）。</sub></p>
+<p><sub>官网中文竖屏 v0.2.22-open-beta；GitHub 开源包 v0.2.7-open-beta（16:9）。</sub></p>
 <p><a href="https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/385712">GitHub 技术资料</a></p>
 
 
@@ -88,6 +88,17 @@
 
 ---
 
+<h3><a href="https://motiongit.com/@adunext/template-03-native-portrait">深色立体 · 多屏展陈 · 竖屏</a></h3>
+<a href="https://media.openaicut.com/previews/610/draft-en-9785b0f9679c.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/569615/ead17b12520587269bd9ff8d73640514f14e9e9f/assets/preview.gif" width="240" alt="深色立体 · 多屏展陈 · 竖屏 — Demo"></a>
+<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v2.6.1 · .motion</sub></p>
+<p>用深色立体舞台、多屏和空间层次展示口播内容，适合产品、案例与媒体素材讲解。</p>
+<p><a href="https://motiongit.com/@adunext/template-03-native-portrait">https://motiongit.com/@adunext/template-03-native-portrait</a></p>
+
+<p><a href="https://media.openaicut.com/previews/610/draft-en-9785b0f9679c.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/569615">GitHub 技术资料</a></p>
+
+
+---
+
 <h3><a href="https://motiongit.com/@adunext/template-04-dark-console">科技控制台 · 口播讲解</a></h3>
 <a href="https://media.openaicut.com/previews/611/2.5.7-en-688a5e4511ae.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/553346/03149ea4ad140383d8690ed53c36cc72010e0adc/assets/preview.gif" width="640" alt="科技控制台 · 口播讲解 — Demo"></a>
 <p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.6.0 · .motion</sub></p>
@@ -100,8 +111,8 @@
 ---
 
 <h3><a href="https://motiongit.com/@adunext/template-04-dark-console-portrait">科技控制台 · 口播讲解 · 竖屏</a></h3>
-<a href="https://media.openaicut.com/previews/612/2.5.7-en-4414b3f06c06.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/738182/28254ebe3b4bb1d4adfb78d52d0405c0ad803d93/assets/preview.gif" width="240" alt="科技控制台 · 口播讲解 · 竖屏 — Demo"></a>
-<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v2.6.0 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/612/2.5.7-en-4414b3f06c06.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/738182/f8277875c352f740547bdc649176f8a896a8e90a/assets/preview.gif" width="240" alt="科技控制台 · 口播讲解 · 竖屏 — Demo"></a>
+<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v2.6.1 · .motion</sub></p>
 <p>用科技控制台、紫色玻璃质感与动态信息组件配合口播，适合技术与数据说明。</p>
 <p><a href="https://motiongit.com/@adunext/template-04-dark-console-portrait">https://motiongit.com/@adunext/template-04-dark-console-portrait</a></p>
 
@@ -122,8 +133,8 @@
 ---
 
 <h3><a href="https://motiongit.com/@adunext/template-05-native-portrait">鲜色角色 · 叙事讲解 · 竖屏</a></h3>
-<a href="https://media.openaicut.com/previews/614/draft-en-6f4079db7a76.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/293151/03248ba3f37401fb272bc30fa6033a250a92e8c4/assets/preview.gif" width="240" alt="鲜色角色 · 叙事讲解 · 竖屏 — Demo"></a>
-<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v2.6.0 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/614/draft-en-6f4079db7a76.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/293151/cf5c89e6429f9d0c3348df3324056db48e734764/assets/preview.gif" width="240" alt="鲜色角色 · 叙事讲解 · 竖屏 — Demo"></a>
+<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v2.6.1 · .motion</sub></p>
 <p>用鲜明配色、角色素材与叙事动效配合口播，适合故事、观点和情境解释。</p>
 <p><a href="https://motiongit.com/@adunext/template-05-native-portrait">https://motiongit.com/@adunext/template-05-native-portrait</a></p>
 
@@ -144,8 +155,8 @@
 ---
 
 <h3><a href="https://motiongit.com/@adunext/vibrant-poster-portrait">活力海报 · 口播讲解 · 竖屏</a></h3>
-<a href="https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/721489/f9380532b580d10181fd2067c4c6e6ff4fbe47c4/assets/preview.gif" width="240" alt="活力海报 · 口播讲解 · 竖屏 — Demo"></a>
-<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v2.6.0 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/721489/f060ab3231f056517538b4c590990436094db403/assets/preview.gif" width="240" alt="活力海报 · 口播讲解 · 竖屏 — Demo"></a>
+<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v2.6.1 · .motion</sub></p>
 <p>用高对比海报、大字、清单和图形关系配合口播，含原生动画与新增组件，竖屏独立编排。</p>
 <p><a href="https://motiongit.com/@adunext/vibrant-poster-portrait">https://motiongit.com/@adunext/vibrant-poster-portrait</a></p>
 

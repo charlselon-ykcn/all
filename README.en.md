@@ -2,7 +2,7 @@
 
 # MotionGit Template Collection
 
-**28 templates · 29 demos** · [Watch all demos](https://motiontemplates.github.io/all/en.html) · [中文](README.md)
+**29 templates · 30 demos** · [Watch all demos](https://motiontemplates.github.io/all/en.html) · [中文](README.md)
 
 Browse actual demos, output specifications and technical documentation. Open a template for its required inputs and complete `.motion`, then follow the README and production guide inside the package.
 
@@ -24,10 +24,10 @@ Browse actual demos, output specifications and technical documentation. Open a t
 
 <h3><a href="https://motiongit.com/@adunext/385712">Kinetic Tech · Chinese Portrait</a></h3>
 <a href="https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4"><img src="https://motiongit.com/media/covers/626/0.2.9-open-beta-zh-b81b4798ad6a.jpg" width="240" alt="Kinetic Tech · Chinese Portrait — Demo"></a>
-<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v0.2.21-open-beta · Official Chinese portrait</sub></p>
+<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v0.2.22-open-beta · Official Chinese portrait</sub></p>
 <p>Editable MotionGit .motion animation with the production guide included in the package.</p>
 <p><a href="https://motiongit.com/@adunext/385712">https://motiongit.com/@adunext/385712</a></p>
-<p><sub>Official Chinese portrait v0.2.21-open-beta; GitHub source edition v0.2.7-open-beta (16:9).</sub></p>
+<p><sub>Official Chinese portrait v0.2.22-open-beta; GitHub source edition v0.2.7-open-beta (16:9).</sub></p>
 <p><a href="https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4">▶ Full demo</a> · <a href="https://github.com/motiontemplates/385712">GitHub documentation</a></p>
 
 
@@ -88,6 +88,17 @@ Browse actual demos, output specifications and technical documentation. Open a t
 
 ---
 
+<h3><a href="https://motiongit.com/@adunext/template-03-native-portrait">Dark Dimensional Stage · Multi-screen Story · Portrait</a></h3>
+<a href="https://media.openaicut.com/previews/610/draft-en-9785b0f9679c.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/569615/ead17b12520587269bd9ff8d73640514f14e9e9f/assets/preview.gif" width="240" alt="Dark Dimensional Stage · Multi-screen Story · Portrait — Demo"></a>
+<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v2.6.1 · .motion</sub></p>
+<p>Present products, examples and media on a dark dimensional stage with layered screens.</p>
+<p><a href="https://motiongit.com/@adunext/template-03-native-portrait">https://motiongit.com/@adunext/template-03-native-portrait</a></p>
+
+<p><a href="https://media.openaicut.com/previews/610/draft-en-9785b0f9679c.mp4">▶ Full demo</a> · <a href="https://github.com/motiontemplates/569615">GitHub documentation</a></p>
+
+
+---
+
 <h3><a href="https://motiongit.com/@adunext/template-04-dark-console">Tech Console · Narrated Explainer</a></h3>
 <a href="https://media.openaicut.com/previews/611/2.5.7-en-688a5e4511ae.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/553346/03149ea4ad140383d8690ed53c36cc72010e0adc/assets/preview.gif" width="640" alt="Tech Console · Narrated Explainer — Demo"></a>
 <p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.6.0 · .motion</sub></p>
@@ -100,8 +111,8 @@ Browse actual demos, output specifications and technical documentation. Open a t
 ---
 
 <h3><a href="https://motiongit.com/@adunext/template-04-dark-console-portrait">Tech Console · Narrated Explainer · Portrait</a></h3>
-<a href="https://media.openaicut.com/previews/612/2.5.7-en-4414b3f06c06.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/738182/28254ebe3b4bb1d4adfb78d52d0405c0ad803d93/assets/preview.gif" width="240" alt="Tech Console · Narrated Explainer · Portrait — Demo"></a>
-<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v2.6.0 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/612/2.5.7-en-4414b3f06c06.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/738182/f8277875c352f740547bdc649176f8a896a8e90a/assets/preview.gif" width="240" alt="Tech Console · Narrated Explainer · Portrait — Demo"></a>
+<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v2.6.1 · .motion</sub></p>
 <p>Support technical and data explanations with a console layout and purple glass-like motion graphics.</p>
 <p><a href="https://motiongit.com/@adunext/template-04-dark-console-portrait">https://motiongit.com/@adunext/template-04-dark-console-portrait</a></p>
 
@@ -122,8 +133,8 @@ Browse actual demos, output specifications and technical documentation. Open a t
 ---
 
 <h3><a href="https://motiongit.com/@adunext/template-05-native-portrait">Vivid Characters · Narrative Explainer · Portrait</a></h3>
-<a href="https://media.openaicut.com/previews/614/draft-en-6f4079db7a76.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/293151/03248ba3f37401fb272bc30fa6033a250a92e8c4/assets/preview.gif" width="240" alt="Vivid Characters · Narrative Explainer · Portrait — Demo"></a>
-<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v2.6.0 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/614/draft-en-6f4079db7a76.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/293151/cf5c89e6429f9d0c3348df3324056db48e734764/assets/preview.gif" width="240" alt="Vivid Characters · Narrative Explainer · Portrait — Demo"></a>
+<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v2.6.1 · .motion</sub></p>
 <p>Support stories and contextual explanations with vivid colors, character assets and narrative animation.</p>
 <p><a href="https://motiongit.com/@adunext/template-05-native-portrait">https://motiongit.com/@adunext/template-05-native-portrait</a></p>
 
@@ -144,8 +155,8 @@ Browse actual demos, output specifications and technical documentation. Open a t
 ---
 
 <h3><a href="https://motiongit.com/@adunext/vibrant-poster-portrait">Vibrant Poster · Narrated Explainer · Portrait</a></h3>
-<a href="https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/721489/f9380532b580d10181fd2067c4c6e6ff4fbe47c4/assets/preview.gif" width="240" alt="Vibrant Poster · Narrated Explainer · Portrait — Demo"></a>
-<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v2.6.0 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/721489/f060ab3231f056517538b4c590990436094db403/assets/preview.gif" width="240" alt="Vibrant Poster · Narrated Explainer · Portrait — Demo"></a>
+<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v2.6.1 · .motion</sub></p>
 <p>Support narration with high-contrast posters, bold type, lists and graphic relationships in a dedicated portrait layout.</p>
 <p><a href="https://motiongit.com/@adunext/vibrant-poster-portrait">https://motiongit.com/@adunext/vibrant-poster-portrait</a></p>
 
