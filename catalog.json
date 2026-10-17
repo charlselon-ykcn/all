@@ -35,7 +35,7 @@
           "repository": "https://github.com/motiontemplates/385712",
           "website": "https://motiongit.com/@adunext/385712",
           "commit": "30a070172a65c8885b51e7e3dbe89517e287f5f8",
-          "version": "0.2.19-open-beta",
+          "version": "0.2.20-open-beta",
           "title": {
             "zh": "酷炫科技风 · 中文竖屏",
             "en": "Kinetic Tech · Chinese Portrait"
@@ -63,8 +63,8 @@
             "orientation": "landscape"
           },
           "editionNote": {
-            "zh": "官网中文竖屏 v0.2.19-open-beta；GitHub 开源包 v0.2.7-open-beta（16:9）。",
-            "en": "Official Chinese portrait v0.2.19-open-beta; GitHub source edition v0.2.7-open-beta (16:9)."
+            "zh": "官网中文竖屏 v0.2.20-open-beta；GitHub 开源包 v0.2.7-open-beta（16:9）。",
+            "en": "Official Chinese portrait v0.2.20-open-beta; GitHub source edition v0.2.7-open-beta (16:9)."
           }
         }
       ]
@@ -412,8 +412,8 @@
       "repositoryId": "252912",
       "repository": "https://github.com/motiontemplates/252912",
       "website": "https://motiongit.com/@motiongit/motiongit-promo-pixel",
-      "commit": "320d12e2e3e154eabd803d716f1cc2c5bcb2a5ef",
-      "version": "2.6.0",
+      "commit": "66d5ba76580ec70a3dcd767dd9381aa07e6adf24",
+      "version": "2.6.1",
       "title": {
         "zh": "像素闯关 · 产品宣传",
         "en": "Pixel Platformer · Product Introduction"
@@ -429,7 +429,7 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/252912/320d12e2e3e154eabd803d716f1cc2c5bcb2a5ef/assets/preview.gif",
+      "preview": "https://raw.githubusercontent.com/motiontemplates/252912/66d5ba76580ec70a3dcd767dd9381aa07e6adf24/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/586/quality-zh-086e631771b2.jpg",
       "demo": "https://media.openaicut.com/previews/586/draft-en-45375e2037e0.mp4"
     },
@@ -594,8 +594,8 @@
       "repositoryId": "381814",
       "repository": "https://github.com/motiontemplates/381814",
       "website": "https://motiongit.com/@prism-studio/visual-art-a-halftone",
-      "commit": "1dfcf0f692de5f1c24523e2064ab0cc0f52b13ca",
-      "version": "2.6.0",
+      "commit": "99a90373760665557f9f277dd3c8c9ca50984566",
+      "version": "2.6.1",
       "title": {
         "zh": "半调网点 · 人像标题",
         "en": "Halftone Dots · Portrait Title"
@@ -611,7 +611,7 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/381814/1dfcf0f692de5f1c24523e2064ab0cc0f52b13ca/assets/preview.gif",
+      "preview": "https://raw.githubusercontent.com/motiontemplates/381814/99a90373760665557f9f277dd3c8c9ca50984566/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/615/draft-zh-2de1eb992fcf.jpg",
       "demo": "https://media.openaicut.com/previews/615/draft-en-a549a50aa6eb.mp4"
     },

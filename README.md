@@ -24,10 +24,10 @@
 
 <h3><a href="https://motiongit.com/@adunext/385712">酷炫科技风 · 中文竖屏</a></h3>
 <a href="https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4"><img src="https://motiongit.com/media/covers/626/0.2.9-open-beta-zh-b81b4798ad6a.jpg" width="240" alt="酷炫科技风 · 中文竖屏 — Demo"></a>
-<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v0.2.19-open-beta · 官网中文竖屏</sub></p>
+<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v0.2.20-open-beta · 官网中文竖屏</sub></p>
 <p>金属立体字、光效与空间动效；中英横屏、中文竖屏，支持简单人脸居中和圆形署名。</p>
 <p><a href="https://motiongit.com/@adunext/385712">https://motiongit.com/@adunext/385712</a></p>
-<p><sub>官网中文竖屏 v0.2.19-open-beta；GitHub 开源包 v0.2.7-open-beta（16:9）。</sub></p>
+<p><sub>官网中文竖屏 v0.2.20-open-beta；GitHub 开源包 v0.2.7-open-beta（16:9）。</sub></p>
 <p><a href="https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/385712">GitHub 技术资料</a></p>
 
 
@@ -177,8 +177,8 @@
 ---
 
 <h3><a href="https://motiongit.com/@motiongit/motiongit-promo-pixel">像素闯关 · 产品宣传</a></h3>
-<a href="https://media.openaicut.com/previews/586/draft-en-45375e2037e0.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/252912/320d12e2e3e154eabd803d716f1cc2c5bcb2a5ef/assets/preview.gif" width="640" alt="像素闯关 · 产品宣传 — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.6.0 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/586/draft-en-45375e2037e0.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/252912/66d5ba76580ec70a3dcd767dd9381aa07e6adf24/assets/preview.gif" width="640" alt="像素闯关 · 产品宣传 — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.6.1 · .motion</sub></p>
 <p>像素城市、角色闯关和复古游戏音色组成产品介绍，适合数字工具与功能说明。</p>
 <p><a href="https://motiongit.com/@motiongit/motiongit-promo-pixel">https://motiongit.com/@motiongit/motiongit-promo-pixel</a></p>
 
@@ -254,8 +254,8 @@
 ## 照片与视觉
 
 <h3><a href="https://motiongit.com/@prism-studio/visual-art-a-halftone">半调网点 · 人像标题</a></h3>
-<a href="https://media.openaicut.com/previews/615/draft-en-a549a50aa6eb.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/381814/1dfcf0f692de5f1c24523e2064ab0cc0f52b13ca/assets/preview.gif" width="640" alt="半调网点 · 人像标题 — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.6.0 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/615/draft-en-a549a50aa6eb.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/381814/99a90373760665557f9f277dd3c8c9ca50984566/assets/preview.gif" width="640" alt="半调网点 · 人像标题 — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.6.1 · .motion</sub></p>
 <p>三张人像化为流动的双色网点，散开后重新汇聚成标题，适合人像与主题开场。</p>
 <p><a href="https://motiongit.com/@prism-studio/visual-art-a-halftone">https://motiongit.com/@prism-studio/visual-art-a-halftone</a></p>
 
