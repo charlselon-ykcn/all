@@ -230,7 +230,7 @@
       "repositoryId": "553346",
       "repository": "https://github.com/motiontemplates/553346",
       "website": "https://motiongit.com/@adunext/template-04-dark-console",
-      "commit": "c22e60800f5bd05a51ad1e254750e3beceda57e0",
+      "commit": "bbd03dc4609bfb5869371e741e420ef58165a3fb",
       "version": "2.5.7",
       "title": {
         "zh": "科技控制台 · 口播讲解",
@@ -247,8 +247,8 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/553346/c22e60800f5bd05a51ad1e254750e3beceda57e0/assets/preview.gif",
-      "poster": "https://motiongit.com/media/covers/611/draft-zh-65a8230140c1.jpg",
+      "preview": "https://raw.githubusercontent.com/motiontemplates/553346/bbd03dc4609bfb5869371e741e420ef58165a3fb/assets/preview.gif",
+      "poster": "https://motiongit.com/media/covers/611/2.5.7-zh-8e20f0acb55c.jpg",
       "demo": "https://media.openaicut.com/previews/611/draft-en-d24046938118.mp4"
     },
     {
@@ -256,7 +256,7 @@
       "repositoryId": "738182",
       "repository": "https://github.com/motiontemplates/738182",
       "website": "https://motiongit.com/@adunext/template-04-dark-console-portrait",
-      "commit": "2b4aef9d3608a01ec1d892c3e6593526a7551a90",
+      "commit": "6c1294b2e167a459a9b3078d217d477252e3d182",
       "version": "2.5.7",
       "title": {
         "zh": "科技控制台 · 口播讲解 · 竖屏",
@@ -273,8 +273,8 @@
       "ratio": "9:16",
       "orientation": "portrait",
       "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/738182/2b4aef9d3608a01ec1d892c3e6593526a7551a90/assets/preview.gif",
-      "poster": "https://motiongit.com/media/covers/612/draft-zh-8ff0115c7088.jpg",
+      "preview": "https://raw.githubusercontent.com/motiontemplates/738182/6c1294b2e167a459a9b3078d217d477252e3d182/assets/preview.gif",
+      "poster": "https://motiongit.com/media/covers/612/2.5.7-zh-3586eaac0c77.jpg",
       "demo": "https://media.openaicut.com/previews/612/draft-en-23e30d7e2c28.mp4"
     },
     {

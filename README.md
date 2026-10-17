@@ -100,7 +100,7 @@
 ---
 
 <h3><a href="https://motiongit.com/@adunext/template-04-dark-console">科技控制台 · 口播讲解</a></h3>
-<a href="https://media.openaicut.com/previews/611/draft-en-d24046938118.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/553346/c22e60800f5bd05a51ad1e254750e3beceda57e0/assets/preview.gif" width="640" alt="科技控制台 · 口播讲解 — Demo"></a>
+<a href="https://media.openaicut.com/previews/611/draft-en-d24046938118.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/553346/bbd03dc4609bfb5869371e741e420ef58165a3fb/assets/preview.gif" width="640" alt="科技控制台 · 口播讲解 — Demo"></a>
 <p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.7 · .motion</sub></p>
 <p>用科技控制台、紫色玻璃质感与动态信息组件配合口播，适合技术与数据说明。</p>
 <p><a href="https://motiongit.com/@adunext/template-04-dark-console">https://motiongit.com/@adunext/template-04-dark-console</a></p>
@@ -111,7 +111,7 @@
 ---
 
 <h3><a href="https://motiongit.com/@adunext/template-04-dark-console-portrait">科技控制台 · 口播讲解 · 竖屏</a></h3>
-<a href="https://media.openaicut.com/previews/612/draft-en-23e30d7e2c28.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/738182/2b4aef9d3608a01ec1d892c3e6593526a7551a90/assets/preview.gif" width="240" alt="科技控制台 · 口播讲解 · 竖屏 — Demo"></a>
+<a href="https://media.openaicut.com/previews/612/draft-en-23e30d7e2c28.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/738182/6c1294b2e167a459a9b3078d217d477252e3d182/assets/preview.gif" width="240" alt="科技控制台 · 口播讲解 · 竖屏 — Demo"></a>
 <p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v2.5.7 · .motion</sub></p>
 <p>用科技控制台、紫色玻璃质感与动态信息组件配合口播，适合技术与数据说明。</p>
 <p><a href="https://motiongit.com/@adunext/template-04-dark-console-portrait">https://motiongit.com/@adunext/template-04-dark-console-portrait</a></p>
