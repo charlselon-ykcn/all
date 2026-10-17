@@ -100,8 +100,8 @@
       "repositoryId": "314486",
       "repository": "https://github.com/motiontemplates/314486",
       "website": "https://motiongit.com/@adunext/template-01-integrated-portrait",
-      "commit": "130134d77eb1d11ee732c9c20233a6a138ba55c5",
-      "version": "2.6.0",
+      "commit": "27e44158abe7e6d68838b5fd9073277b89b0fcb6",
+      "version": "2.6.1",
       "title": {
         "zh": "现代图文 · 口播讲解 · 竖屏",
         "en": "Modern Editorial · Narrated Explainer · Portrait"
@@ -117,7 +117,7 @@
       "ratio": "9:16",
       "orientation": "portrait",
       "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/314486/130134d77eb1d11ee732c9c20233a6a138ba55c5/assets/preview.gif",
+      "preview": "https://raw.githubusercontent.com/motiontemplates/314486/27e44158abe7e6d68838b5fd9073277b89b0fcb6/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/606/draft-zh-ceb203a3fa61.jpg",
       "demo": "https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4"
     },
@@ -152,8 +152,8 @@
       "repositoryId": "295450",
       "repository": "https://github.com/motiontemplates/295450",
       "website": "https://motiongit.com/@adunext/template-02-expanded-portrait",
-      "commit": "6526e22e9dc45d15e8a6f09d31594483ad8499b9",
-      "version": "2.6.0",
+      "commit": "9bf954b27d22a3e376493cf99988226ca68a1557",
+      "version": "2.6.1",
       "title": {
         "zh": "纸面透视 · 口播讲解 · 竖屏",
         "en": "Paper Perspective · Narrated Explainer · Portrait"
@@ -169,7 +169,7 @@
       "ratio": "9:16",
       "orientation": "portrait",
       "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/295450/6526e22e9dc45d15e8a6f09d31594483ad8499b9/assets/preview.gif",
+      "preview": "https://raw.githubusercontent.com/motiontemplates/295450/9bf954b27d22a3e376493cf99988226ca68a1557/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/608/draft-zh-499f0ea3a15e.jpg",
       "demo": "https://media.openaicut.com/previews/608/draft-en-a5200442ba79.mp4"
     },
@@ -198,32 +198,6 @@
       "preview": "https://raw.githubusercontent.com/motiontemplates/304634/4fa0e44ad690c9219d1e9a725e54e8c88680e1d6/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/609/draft-zh-0b9cc00ce402.jpg",
       "demo": "https://media.openaicut.com/previews/609/draft-en-70e2fe808e0c.mp4"
-    },
-    {
-      "templateId": 610,
-      "repositoryId": "569615",
-      "repository": "https://github.com/motiontemplates/569615",
-      "website": "https://motiongit.com/@adunext/template-03-native-portrait",
-      "commit": "ff721da2cf104eb08929f174d8e74876e89da016",
-      "version": "2.6.0",
-      "title": {
-        "zh": "深色立体 · 多屏展陈 · 竖屏",
-        "en": "Dark Dimensional Stage · Multi-screen Story · Portrait"
-      },
-      "summary": {
-        "zh": "用深色立体舞台、多屏和空间层次展示口播内容，适合产品、案例与媒体素材讲解。",
-        "en": "Present products, examples and media on a dark dimensional stage with layered screens."
-      },
-      "group": "talk",
-      "width": 1080,
-      "height": 1920,
-      "fps": 60,
-      "ratio": "9:16",
-      "orientation": "portrait",
-      "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/569615/ff721da2cf104eb08929f174d8e74876e89da016/assets/preview.gif",
-      "poster": "https://motiongit.com/media/covers/610/draft-zh-14409c15ade1.jpg",
-      "demo": "https://media.openaicut.com/previews/610/draft-en-9785b0f9679c.mp4"
     },
     {
       "templateId": 611,
