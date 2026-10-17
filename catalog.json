@@ -100,8 +100,8 @@
       "repositoryId": "314486",
       "repository": "https://github.com/motiontemplates/314486",
       "website": "https://motiongit.com/@adunext/template-01-integrated-portrait",
-      "commit": "4606422f01cfd24f4c6478cda3776a7e58f91152",
-      "version": "2.5.9",
+      "commit": "0bd107f4a47d26d9236c9d9b0cbae32fb905d358",
+      "version": "2.5.10",
       "title": {
         "zh": "现代图文 · 口播讲解 · 竖屏",
         "en": "Modern Editorial · Narrated Explainer · Portrait"
@@ -117,7 +117,7 @@
       "ratio": "9:16",
       "orientation": "portrait",
       "openSource": false,
-      "preview": "https://raw.githubusercontent.com/motiontemplates/314486/4606422f01cfd24f4c6478cda3776a7e58f91152/assets/preview.gif",
+      "preview": "https://raw.githubusercontent.com/motiontemplates/314486/0bd107f4a47d26d9236c9d9b0cbae32fb905d358/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/606/draft-zh-ceb203a3fa61.jpg",
       "demo": "https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4"
     },
