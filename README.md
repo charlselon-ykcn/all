@@ -45,8 +45,8 @@
 ---
 
 <h3><a href="https://motiongit.com/@adunext/template-01-integrated-portrait">现代图文 · 口播讲解 · 竖屏</a></h3>
-<a href="https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/314486/0bd107f4a47d26d9236c9d9b0cbae32fb905d358/assets/preview.gif" width="240" alt="现代图文 · 口播讲解 · 竖屏 — Demo"></a>
-<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v2.5.10 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/314486/40d7e2d87afd8894fe81983a0493fcf38d1b0af7/assets/preview.gif" width="240" alt="现代图文 · 口播讲解 · 竖屏 — Demo"></a>
+<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v2.5.12 · .motion</sub></p>
 <p>用现代图文版式、文字强调和信息拆解配合口播，适合观点、证据与步骤讲解。</p>
 <p><a href="https://motiongit.com/@adunext/template-01-integrated-portrait">https://motiongit.com/@adunext/template-01-integrated-portrait</a></p>
 
