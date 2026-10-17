@@ -14,7 +14,7 @@
 <h3><a href="https://motiongit.com/@adunext/385712">酷炫科技风 · 横屏</a></h3>
 <a href="https://motiontemplates.github.io/385712/assets/demo.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/385712/30a070172a65c8885b51e7e3dbe89517e287f5f8/assets/preview.gif" width="640" alt="酷炫科技风 · 横屏 — Demo"></a>
 <p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v0.2.7-open-beta · 含开源 .motion 包</sub></p>
-<p>金属立体字、光效与空间动效；中英横屏、中文竖屏，支持简单人脸居中和圆形署名。</p>
+<p>金属立体字、光效与空间动效；中英横屏、中文竖屏，新增英文竖屏基础表达 B1–B4，支持人脸居中与圆形署名。</p>
 <p><a href="https://motiongit.com/@adunext/385712">https://motiongit.com/@adunext/385712</a></p>
 
 <p><a href="https://motiontemplates.github.io/385712/assets/demo.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/385712">GitHub 技术资料</a></p>
@@ -25,7 +25,7 @@
 <h3><a href="https://motiongit.com/@adunext/385712">酷炫科技风 · 中文竖屏</a></h3>
 <a href="https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4"><img src="https://motiongit.com/media/covers/626/0.2.9-open-beta-zh-b81b4798ad6a.jpg" width="240" alt="酷炫科技风 · 中文竖屏 — Demo"></a>
 <p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v0.2.22-open-beta · 官网中文竖屏</sub></p>
-<p>金属立体字、光效与空间动效；中英横屏、中文竖屏，支持简单人脸居中和圆形署名。</p>
+<p>金属立体字、光效与空间动效；中英横屏、中文竖屏，新增英文竖屏基础表达 B1–B4，支持人脸居中与圆形署名。</p>
 <p><a href="https://motiongit.com/@adunext/385712">https://motiongit.com/@adunext/385712</a></p>
 <p><sub>官网中文竖屏 v0.2.22-open-beta；GitHub 开源包 v0.2.7-open-beta（16:9）。</sub></p>
 <p><a href="https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/385712">GitHub 技术资料</a></p>
