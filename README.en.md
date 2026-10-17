@@ -24,10 +24,10 @@ Browse actual demos, output specifications and technical documentation. Open a t
 
 <h3><a href="https://motiongit.com/@adunext/385712">Kinetic Tech · Chinese Portrait</a></h3>
 <a href="https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4"><img src="https://motiongit.com/media/covers/626/0.2.9-open-beta-zh-b81b4798ad6a.jpg" width="240" alt="Kinetic Tech · Chinese Portrait — Demo"></a>
-<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v0.2.20-open-beta · Official Chinese portrait</sub></p>
+<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v0.2.21-open-beta · Official Chinese portrait</sub></p>
 <p>Editable MotionGit .motion animation with the production guide included in the package.</p>
 <p><a href="https://motiongit.com/@adunext/385712">https://motiongit.com/@adunext/385712</a></p>
-<p><sub>Official Chinese portrait v0.2.20-open-beta; GitHub source edition v0.2.7-open-beta (16:9).</sub></p>
+<p><sub>Official Chinese portrait v0.2.21-open-beta; GitHub source edition v0.2.7-open-beta (16:9).</sub></p>
 <p><a href="https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4">▶ Full demo</a> · <a href="https://github.com/motiontemplates/385712">GitHub documentation</a></p>
 
 
@@ -177,8 +177,8 @@ Browse actual demos, output specifications and technical documentation. Open a t
 ---
 
 <h3><a href="https://motiongit.com/@motiongit/motiongit-promo-pixel">Pixel Platformer · Product Introduction</a></h3>
-<a href="https://media.openaicut.com/previews/586/draft-en-45375e2037e0.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/252912/66d5ba76580ec70a3dcd767dd9381aa07e6adf24/assets/preview.gif" width="640" alt="Pixel Platformer · Product Introduction — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.6.1 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/586/draft-en-45375e2037e0.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/252912/287bd97f9aa428f3ee1e1a50de0c171b66a5c96b/assets/preview.gif" width="640" alt="Pixel Platformer · Product Introduction — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.6.2 · .motion</sub></p>
 <p>Explain a digital product with a pixel city, platform-game actions and retro game sound.</p>
 <p><a href="https://motiongit.com/@motiongit/motiongit-promo-pixel">https://motiongit.com/@motiongit/motiongit-promo-pixel</a></p>
 
@@ -254,8 +254,8 @@ Browse actual demos, output specifications and technical documentation. Open a t
 ## Photo & visual
 
 <h3><a href="https://motiongit.com/@prism-studio/visual-art-a-halftone">Halftone Dots · Portrait Title</a></h3>
-<a href="https://media.openaicut.com/previews/615/draft-en-a549a50aa6eb.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/381814/99a90373760665557f9f277dd3c8c9ca50984566/assets/preview.gif" width="640" alt="Halftone Dots · Portrait Title — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.6.1 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/615/draft-en-a549a50aa6eb.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/381814/a7f6795a75438c95a22435f55ec6fc78a16728dc/assets/preview.gif" width="640" alt="Halftone Dots · Portrait Title — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.6.2 · .motion</sub></p>
 <p>Turn three portraits into flowing two-color halftone dots that disperse and regroup into a title.</p>
 <p><a href="https://motiongit.com/@prism-studio/visual-art-a-halftone">https://motiongit.com/@prism-studio/visual-art-a-halftone</a></p>
 
