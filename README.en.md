@@ -45,8 +45,8 @@ Browse actual demos, output specifications and technical documentation. Open a t
 ---
 
 <h3><a href="https://motiongit.com/@adunext/template-01-integrated-portrait">Modern Editorial · Narrated Explainer · Portrait</a></h3>
-<a href="https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/314486/04195cca9bb5233b2696369985e6d3ac608732fe/assets/preview.gif" width="240" alt="Modern Editorial · Narrated Explainer · Portrait — Demo"></a>
-<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v2.5.7 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/314486/040ca79cfe5e521389ef230b7dd69e3e365d8669/assets/preview.gif" width="240" alt="Modern Editorial · Narrated Explainer · Portrait — Demo"></a>
+<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v2.5.8 · .motion</sub></p>
 <p>Support narration with modern editorial layouts, text emphasis and information breakdowns.</p>
 <p><a href="https://motiongit.com/@adunext/template-01-integrated-portrait">https://motiongit.com/@adunext/template-01-integrated-portrait</a></p>
 
