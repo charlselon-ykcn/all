@@ -2,7 +2,7 @@
 
 # MotionGit 模板合集
 
-**29 个模板 · 30 个 Demo** · [在线播放全部 Demo](https://motiontemplates.github.io/all/) · [English](README.en.md)
+**28 个模板 · 29 个 Demo** · [在线播放全部 Demo](https://motiontemplates.github.io/all/) · [English](README.en.md)
 
 浏览模板的实际样片、输出规格与技术资料。选择模板后，在对应页面查看素材要求和完整 `.motion`；取得模板后按包内 README 与制作指南制作。
 
@@ -106,17 +106,6 @@
 <p><a href="https://motiongit.com/@adunext/template-04-dark-console">https://motiongit.com/@adunext/template-04-dark-console</a></p>
 
 <p><a href="https://media.openaicut.com/previews/611/2.5.7-en-688a5e4511ae.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/553346">GitHub 技术资料</a></p>
-
-
----
-
-<h3><a href="https://motiongit.com/@adunext/template-04-dark-console-portrait">科技控制台 · 口播讲解 · 竖屏</a></h3>
-<a href="https://media.openaicut.com/previews/612/2.5.7-en-4414b3f06c06.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/738182/f8277875c352f740547bdc649176f8a896a8e90a/assets/preview.gif" width="240" alt="科技控制台 · 口播讲解 · 竖屏 — Demo"></a>
-<p>9:16 · 1080 × 1920 · 60 FPS<br><sub>v2.6.1 · .motion</sub></p>
-<p>用科技控制台、紫色玻璃质感与动态信息组件配合口播，适合技术与数据说明。</p>
-<p><a href="https://motiongit.com/@adunext/template-04-dark-console-portrait">https://motiongit.com/@adunext/template-04-dark-console-portrait</a></p>
-
-<p><a href="https://media.openaicut.com/previews/612/2.5.7-en-4414b3f06c06.mp4">▶ 完整 Demo</a> · <a href="https://github.com/motiontemplates/738182">GitHub 技术资料</a></p>
 
 
 ---
