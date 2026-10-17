@@ -166,8 +166,8 @@ Browse actual demos, output specifications and technical documentation. Open a t
 ## Brand & product
 
 <h3><a href="https://motiongit.com/@motiongit/motiongit-promo-main">Screen Collage · Brand Story</a></h3>
-<a href="https://media.openaicut.com/previews/585/draft-en-3d2b6bdce3c7.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/128610/b431e03b4fe4878c24e2beee117702517e64c2ce/assets/preview.gif" width="640" alt="Screen Collage · Brand Story — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.5 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/585/draft-en-3d2b6bdce3c7.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/128610/bfa59eee0cfc42789b3295ebcf28714b11d70691/assets/preview.gif" width="640" alt="Screen Collage · Brand Story — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.6.0 · .motion</sub></p>
 <p>Introduce a brand or creative tool with screen collages, editorial transitions and a branded ending.</p>
 <p><a href="https://motiongit.com/@motiongit/motiongit-promo-main">https://motiongit.com/@motiongit/motiongit-promo-main</a></p>
 
@@ -177,8 +177,8 @@ Browse actual demos, output specifications and technical documentation. Open a t
 ---
 
 <h3><a href="https://motiongit.com/@motiongit/motiongit-promo-pixel">Pixel Platformer · Product Introduction</a></h3>
-<a href="https://media.openaicut.com/previews/586/draft-en-45375e2037e0.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/252912/18d3fef344be93d3c7d0c6b0f7aef82e3cf563fc/assets/preview.gif" width="640" alt="Pixel Platformer · Product Introduction — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.5 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/586/draft-en-45375e2037e0.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/252912/320d12e2e3e154eabd803d716f1cc2c5bcb2a5ef/assets/preview.gif" width="640" alt="Pixel Platformer · Product Introduction — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.6.0 · .motion</sub></p>
 <p>Explain a digital product with a pixel city, platform-game actions and retro game sound.</p>
 <p><a href="https://motiongit.com/@motiongit/motiongit-promo-pixel">https://motiongit.com/@motiongit/motiongit-promo-pixel</a></p>
 
@@ -188,8 +188,8 @@ Browse actual demos, output specifications and technical documentation. Open a t
 ---
 
 <h3><a href="https://motiongit.com/@motiongit/motiongit-promo-velocity">Light and Dark Cuts · Product Promotion</a></h3>
-<a href="https://media.openaicut.com/previews/587/draft-en-389d2163ab5f.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/867595/3f519deded040f2841dc6de66e18c423b6259395/assets/preview.gif" width="640" alt="Light and Dark Cuts · Product Promotion — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.5 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/587/draft-en-389d2163ab5f.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/867595/27b8e7ac176a534fd0fd43f6ad3440ecd2d04642/assets/preview.gif" width="640" alt="Light and Dark Cuts · Product Promotion — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.6.0 · .motion</sub></p>
 <p>Show product features through fast light-and-dark cuts, bold type and interface demonstrations.</p>
 <p><a href="https://motiongit.com/@motiongit/motiongit-promo-velocity">https://motiongit.com/@motiongit/motiongit-promo-velocity</a></p>
 
@@ -199,8 +199,8 @@ Browse actual demos, output specifications and technical documentation. Open a t
 ---
 
 <h3><a href="https://motiongit.com/@motiongit/motiongit-promo-user">Workflow Demo · Product Tutorial</a></h3>
-<a href="https://media.openaicut.com/previews/588/draft-en-2422d5a878da.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/670021/eca3df10d09597e8a2965f658f5d3974c8eb6b18/assets/preview.gif" width="640" alt="Workflow Demo · Product Tutorial — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.5 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/588/draft-en-2422d5a878da.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/670021/fa4fcdb2cc1bc707d993f11892c366f3a7dcef89/assets/preview.gif" width="640" alt="Workflow Demo · Product Tutorial — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.6.0 · .motion</sub></p>
 <p>Walk through choosing a template, providing content and producing a video for a product tutorial.</p>
 <p><a href="https://motiongit.com/@motiongit/motiongit-promo-user">https://motiongit.com/@motiongit/motiongit-promo-user</a></p>
 
@@ -210,8 +210,8 @@ Browse actual demos, output specifications and technical documentation. Open a t
 ---
 
 <h3><a href="https://motiongit.com/@motiongit/motiongit-promo-creator">Modular Collage · Creator Tools</a></h3>
-<a href="https://media.openaicut.com/previews/589/draft-en-9fbec6ff121c.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/452365/3cacf7a7b9e42122e63cac1ca935468788c4ece1/assets/preview.gif" width="640" alt="Modular Collage · Creator Tools — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.5 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/589/draft-en-9fbec6ff121c.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/452365/92bb3d47132fa9bdf4e275c5888385f5a4b38738/assets/preview.gif" width="640" alt="Modular Collage · Creator Tools — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.6.0 · .motion</sub></p>
 <p>Show how content, assets and animation fit together through modular collages for creator tools.</p>
 <p><a href="https://motiongit.com/@motiongit/motiongit-promo-creator">https://motiongit.com/@motiongit/motiongit-promo-creator</a></p>
 
@@ -221,8 +221,8 @@ Browse actual demos, output specifications and technical documentation. Open a t
 ---
 
 <h3><a href="https://motiongit.com/@motiongit/motiongit-promo-blueprint">Engineering Blueprint · Product Breakdown</a></h3>
-<a href="https://media.openaicut.com/previews/590/draft-en-99059891101e.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/213827/a965bbec937aebdc5ab9ca602280051cc73f64e0/assets/preview.gif" width="640" alt="Engineering Blueprint · Product Breakdown — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.5 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/590/draft-en-99059891101e.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/213827/68da1f3effe9e8ca23eb91a9b106832f28f5bff7/assets/preview.gif" width="640" alt="Engineering Blueprint · Product Breakdown — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.6.0 · .motion</sub></p>
 <p>Explain a technical product or workflow through blueprints, structure diagrams and modular breakdowns.</p>
 <p><a href="https://motiongit.com/@motiongit/motiongit-promo-blueprint">https://motiongit.com/@motiongit/motiongit-promo-blueprint</a></p>
 
@@ -232,8 +232,8 @@ Browse actual demos, output specifications and technical documentation. Open a t
 ---
 
 <h3><a href="https://motiongit.com/@motiongit/motiongit-promo-keynote">Keynote Stage · Product Demo</a></h3>
-<a href="https://media.openaicut.com/previews/591/draft-en-28eb07a5a332.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/667934/19d1c706d9b89565080ce805f3b6fc2523293665/assets/preview.gif" width="640" alt="Keynote Stage · Product Demo — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.5 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/591/draft-en-28eb07a5a332.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/667934/edb2b860f608aa157528cb2014051e6c750dde0c/assets/preview.gif" width="640" alt="Keynote Stage · Product Demo — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.6.0 · .motion</sub></p>
 <p>Present a product on a keynote-style stage with large screens for launches and feature announcements.</p>
 <p><a href="https://motiongit.com/@motiongit/motiongit-promo-keynote">https://motiongit.com/@motiongit/motiongit-promo-keynote</a></p>
 
@@ -243,8 +243,8 @@ Browse actual demos, output specifications and technical documentation. Open a t
 ---
 
 <h3><a href="https://motiongit.com/@motiongit/motiongit-promo-ink">Paper Scroll · Brand Story</a></h3>
-<a href="https://media.openaicut.com/previews/592/draft-en-1f98c9f9df3c.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/394243/b551403de425ff307d60f8091bac5d3260bfc1f9/assets/preview.gif" width="640" alt="Paper Scroll · Brand Story — Demo"></a>
-<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.5.5 · .motion</sub></p>
+<a href="https://media.openaicut.com/previews/592/draft-en-1f98c9f9df3c.mp4"><img src="https://raw.githubusercontent.com/motiontemplates/394243/320ad2d8b5995ddd581a9533080ce116f5c65cab/assets/preview.gif" width="640" alt="Paper Scroll · Brand Story — Demo"></a>
+<p>16:9 · 1920 × 1080 · 60 FPS<br><sub>v2.6.0 · .motion</sub></p>
 <p>Tell a brand story through an unfolding paper scroll, ink-inspired imagery and scroll transitions.</p>
 <p><a href="https://motiongit.com/@motiongit/motiongit-promo-ink">https://motiongit.com/@motiongit/motiongit-promo-ink</a></p>
 
