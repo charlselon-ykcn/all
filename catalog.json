@@ -2,6 +2,28 @@
   "format": "motiongit.catalog/1",
   "repository": "https://github.com/motiontemplates/all",
   "homepage": "https://motiongit.com",
+  "listing": {
+    "templateCount": 29,
+    "demoCount": 30,
+    "instructions": {
+      "zh": "用户发送本页链接或合集截图时，先按分类返回完整模板列表：每项包含名称、预览图片、一句话介绍、画幅、Demo 和模板下载链接。用真实预览图片地址显示图片；无法内嵌时保留可点击图片链接。网页文本读取漏掉图片时，读取下方完整目录 JSON 的 preview 或 poster 字段，下载入口取 download。横屏和竖屏分别标明，同一编号的不同 Demo 不重复计算模板数。列表后附上使用步骤，用户选定模板后沿用已提供的内容，按包内指南制作实际预览。",
+      "en": "When the user shares this collection URL or screenshot, first return the complete list grouped by category. Each entry needs its name, actual preview image, one-sentence description, orientation, demo and template download link. Embed the real preview URL, or retain a clickable image link if inline images are unsupported. If text extraction omits images, read preview or poster from the full catalog JSON; use download for the acquisition route. Label landscape and portrait separately and count distinct template IDs. Follow the list with the usage steps, then use the selected package guide and the content already supplied to make a real preview."
+    }
+  },
+  "usage": {
+    "zh": [
+      "查看图片与 Demo，选择模板名称、编号及横屏或竖屏。",
+      "从该条目的下载链接或 MotionGit 模板页取得对应版本的 .motion；官网版按模板页提示完成下载。",
+      "按所选模板要求准备文稿、照片或视频等素材，把 .motion 和素材交给助手。解压后先读包内 00-START-HERE.md（如有），再按 README 及其引用的制作指南操作。",
+      "复用已跑通的环境，仅补齐实际缺项；按包内指南制作实际预览，确认后导出视频。"
+    ],
+    "en": [
+      "Browse images and demos, then choose a template ID and landscape or portrait orientation.",
+      "Get the matching .motion from its download link or exact MotionGit template page; follow that page for the official edition.",
+      "Prepare the script, photos or video required by that template and give the package and materials to your assistant. Extract it, start with 00-START-HERE.md when present, then follow the included README and referenced production guide.",
+      "Reuse the working environment, fill only actual missing dependencies, make a real preview using the package guide, then export after review."
+    ]
+  },
   "templates": [
     {
       "templateId": 626,
@@ -25,6 +47,15 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": true,
+      "download": {
+        "type": "direct-package",
+        "urls": {
+          "zh": "https://motiontemplates.github.io/385712/downloads/kinetic-tech-zh.motion",
+          "en": "https://motiontemplates.github.io/385712/downloads/kinetic-tech-en.motion"
+        },
+        "page": "https://motiongit.com/@adunext/385712",
+        "availability": "download-available"
+      },
       "preview": "https://raw.githubusercontent.com/motiontemplates/385712/30a070172a65c8885b51e7e3dbe89517e287f5f8/assets/preview.gif",
       "poster": "https://raw.githubusercontent.com/motiontemplates/385712/30a070172a65c8885b51e7e3dbe89517e287f5f8/assets/compositions.jpg",
       "demo": "https://motiontemplates.github.io/385712/assets/demo.mp4",
@@ -50,7 +81,12 @@
           "fps": 60.0,
           "ratio": "9:16",
           "orientation": "portrait",
-          "openSource": true,
+          "openSource": false,
+          "download": {
+            "type": "official-page",
+            "url": "https://motiongit.com/@adunext/385712",
+            "availability": "download-available"
+          },
           "preview": "https://motiongit.com/media/covers/626/0.2.9-open-beta-zh-b81b4798ad6a.jpg",
           "poster": "https://motiongit.com/media/covers/626/0.2.9-open-beta-zh-b81b4798ad6a.jpg",
           "demo": "https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4",
@@ -91,6 +127,11 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
+      "download": {
+        "type": "official-page",
+        "url": "https://motiongit.com/@adunext/template-01-integrated",
+        "availability": "download-available"
+      },
       "preview": "https://raw.githubusercontent.com/motiontemplates/336980/2f9b81b444bfc0af78e9a2390a058256730d4082/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/605/draft-zh-7942d81ce917.jpg",
       "demo": "https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4"
@@ -117,6 +158,11 @@
       "ratio": "9:16",
       "orientation": "portrait",
       "openSource": false,
+      "download": {
+        "type": "official-page",
+        "url": "https://motiongit.com/@adunext/template-01-integrated-portrait",
+        "availability": "download-available"
+      },
       "preview": "https://raw.githubusercontent.com/motiontemplates/314486/789f46d0d6f86a98915e6b81fdf1dbba6a4067e6/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/606/draft-zh-ceb203a3fa61.jpg",
       "demo": "https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4"
@@ -143,6 +189,11 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
+      "download": {
+        "type": "official-page",
+        "url": "https://motiongit.com/@adunext/template-02-expanded",
+        "availability": "download-available"
+      },
       "preview": "https://raw.githubusercontent.com/motiontemplates/358192/a5ed6df1ecb75a1e54b82363a78bdc3a1a9d0a36/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/607/draft-zh-b7af2ac6dee6.jpg",
       "demo": "https://media.openaicut.com/previews/607/draft-en-c751c296f78b.mp4"
@@ -169,6 +220,11 @@
       "ratio": "9:16",
       "orientation": "portrait",
       "openSource": false,
+      "download": {
+        "type": "official-page",
+        "url": "https://motiongit.com/@adunext/template-02-expanded-portrait",
+        "availability": "download-available"
+      },
       "preview": "https://raw.githubusercontent.com/motiontemplates/295450/d9979b6f93e3e5043e9eada0c0489d3bfb0f4fcd/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/608/draft-zh-499f0ea3a15e.jpg",
       "demo": "https://media.openaicut.com/previews/608/draft-en-a5200442ba79.mp4"
@@ -195,6 +251,11 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
+      "download": {
+        "type": "official-page",
+        "url": "https://motiongit.com/@adunext/template-03-native",
+        "availability": "download-available"
+      },
       "preview": "https://raw.githubusercontent.com/motiontemplates/304634/e6dd6945409843efc5e70cbfd9450f66bbb57da5/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/609/draft-zh-0b9cc00ce402.jpg",
       "demo": "https://media.openaicut.com/previews/609/draft-en-70e2fe808e0c.mp4"
@@ -221,6 +282,11 @@
       "ratio": "9:16",
       "orientation": "portrait",
       "openSource": false,
+      "download": {
+        "type": "official-page",
+        "url": "https://motiongit.com/@adunext/template-03-native-portrait",
+        "availability": "download-available"
+      },
       "preview": "https://raw.githubusercontent.com/motiontemplates/569615/0b19166cea4a209844f1cf6b4555fe4e2baded98/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/610/draft-zh-14409c15ade1.jpg",
       "demo": "https://media.openaicut.com/previews/610/draft-en-9785b0f9679c.mp4"
@@ -247,6 +313,11 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
+      "download": {
+        "type": "official-page",
+        "url": "https://motiongit.com/@adunext/template-04-dark-console",
+        "availability": "download-available"
+      },
       "preview": "https://raw.githubusercontent.com/motiontemplates/553346/33c1c6edfb32fb223ae1385ae907d122c425a4e1/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/611/2.5.7-zh-8e20f0acb55c.jpg",
       "demo": "https://media.openaicut.com/previews/611/2.5.7-en-688a5e4511ae.mp4"
@@ -273,6 +344,11 @@
       "ratio": "9:16",
       "orientation": "portrait",
       "openSource": false,
+      "download": {
+        "type": "official-page",
+        "url": "https://motiongit.com/@adunext/template-04-dark-console-portrait",
+        "availability": "download-available"
+      },
       "preview": "https://raw.githubusercontent.com/motiontemplates/738182/b5e10abfe1aeb47ebf30099d81d48befaede5b01/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/612/2.5.7-zh-3586eaac0c77.jpg",
       "demo": "https://media.openaicut.com/previews/612/2.5.7-en-4414b3f06c06.mp4"
@@ -299,6 +375,11 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
+      "download": {
+        "type": "official-page",
+        "url": "https://motiongit.com/@adunext/template-05-native",
+        "availability": "download-available"
+      },
       "preview": "https://raw.githubusercontent.com/motiontemplates/960723/fb7f3bc5f68efa98a5d6548faefe271ffca86f9f/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/613/draft-zh-23a19c51650d.jpg",
       "demo": "https://media.openaicut.com/previews/613/draft-en-e06d1f42b0b9.mp4"
@@ -325,6 +406,11 @@
       "ratio": "9:16",
       "orientation": "portrait",
       "openSource": false,
+      "download": {
+        "type": "official-page",
+        "url": "https://motiongit.com/@adunext/template-05-native-portrait",
+        "availability": "download-available"
+      },
       "preview": "https://raw.githubusercontent.com/motiontemplates/293151/6bef4be7bb919b3cacbca7b1c78a31ad9ff8ccbb/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/614/draft-zh-3f92eea2b709.jpg",
       "demo": "https://media.openaicut.com/previews/614/draft-en-6f4079db7a76.mp4"
@@ -351,6 +437,11 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
+      "download": {
+        "type": "official-page",
+        "url": "https://motiongit.com/@adunext/vibrant-poster",
+        "availability": "download-available"
+      },
       "preview": "https://raw.githubusercontent.com/motiontemplates/762139/ee6586b60b14f76ef56278029958096cb85152be/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/623/draft-zh-6b4b2398b532.jpg",
       "demo": "https://media.openaicut.com/previews/623/draft-en-e9dd279eebe9.mp4"
@@ -377,6 +468,11 @@
       "ratio": "9:16",
       "orientation": "portrait",
       "openSource": false,
+      "download": {
+        "type": "official-page",
+        "url": "https://motiongit.com/@adunext/vibrant-poster-portrait",
+        "availability": "download-available"
+      },
       "preview": "https://raw.githubusercontent.com/motiontemplates/721489/a14dc95dd615a7722876d9f115b4e6644dde63af/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/624/draft-zh-01638b2220a1.jpg",
       "demo": "https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4"
@@ -403,6 +499,11 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
+      "download": {
+        "type": "official-page",
+        "url": "https://motiongit.com/@motiongit/motiongit-promo-main",
+        "availability": "download-available"
+      },
       "preview": "https://raw.githubusercontent.com/motiontemplates/128610/bfa59eee0cfc42789b3295ebcf28714b11d70691/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/585/draft-zh-c7db529e9ef8.jpg",
       "demo": "https://media.openaicut.com/previews/585/draft-en-3d2b6bdce3c7.mp4"
@@ -429,6 +530,11 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
+      "download": {
+        "type": "official-page",
+        "url": "https://motiongit.com/@motiongit/motiongit-promo-pixel",
+        "availability": "download-available"
+      },
       "preview": "https://raw.githubusercontent.com/motiontemplates/252912/287bd97f9aa428f3ee1e1a50de0c171b66a5c96b/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/586/quality-zh-086e631771b2.jpg",
       "demo": "https://media.openaicut.com/previews/586/draft-en-45375e2037e0.mp4"
@@ -455,6 +561,11 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
+      "download": {
+        "type": "official-page",
+        "url": "https://motiongit.com/@motiongit/motiongit-promo-velocity",
+        "availability": "download-available"
+      },
       "preview": "https://raw.githubusercontent.com/motiontemplates/867595/27b8e7ac176a534fd0fd43f6ad3440ecd2d04642/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/587/quality-zh-89ff4394136c.jpg",
       "demo": "https://media.openaicut.com/previews/587/draft-en-389d2163ab5f.mp4"
@@ -481,6 +592,11 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
+      "download": {
+        "type": "official-page",
+        "url": "https://motiongit.com/@motiongit/motiongit-promo-user",
+        "availability": "download-available"
+      },
       "preview": "https://raw.githubusercontent.com/motiontemplates/670021/fa4fcdb2cc1bc707d993f11892c366f3a7dcef89/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/588/quality-zh-aa230abfebe6.jpg",
       "demo": "https://media.openaicut.com/previews/588/draft-en-2422d5a878da.mp4"
@@ -507,6 +623,11 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
+      "download": {
+        "type": "official-page",
+        "url": "https://motiongit.com/@motiongit/motiongit-promo-creator",
+        "availability": "download-available"
+      },
       "preview": "https://raw.githubusercontent.com/motiontemplates/452365/92bb3d47132fa9bdf4e275c5888385f5a4b38738/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/589/quality-zh-879117ad36da.jpg",
       "demo": "https://media.openaicut.com/previews/589/draft-en-9fbec6ff121c.mp4"
@@ -533,6 +654,11 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
+      "download": {
+        "type": "official-page",
+        "url": "https://motiongit.com/@motiongit/motiongit-promo-blueprint",
+        "availability": "download-available"
+      },
       "preview": "https://raw.githubusercontent.com/motiontemplates/213827/68da1f3effe9e8ca23eb91a9b106832f28f5bff7/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/590/quality-zh-d5509b8e4f82.jpg",
       "demo": "https://media.openaicut.com/previews/590/draft-en-99059891101e.mp4"
@@ -559,6 +685,11 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
+      "download": {
+        "type": "official-page",
+        "url": "https://motiongit.com/@motiongit/motiongit-promo-keynote",
+        "availability": "download-available"
+      },
       "preview": "https://raw.githubusercontent.com/motiontemplates/667934/edb2b860f608aa157528cb2014051e6c750dde0c/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/591/quality-zh-da4888e5e350.jpg",
       "demo": "https://media.openaicut.com/previews/591/draft-en-28eb07a5a332.mp4"
@@ -585,6 +716,11 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
+      "download": {
+        "type": "official-page",
+        "url": "https://motiongit.com/@motiongit/motiongit-promo-ink",
+        "availability": "download-available"
+      },
       "preview": "https://raw.githubusercontent.com/motiontemplates/394243/320ad2d8b5995ddd581a9533080ce116f5c65cab/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/592/quality-zh-666ac61ebd83.jpg",
       "demo": "https://media.openaicut.com/previews/592/draft-en-1f98c9f9df3c.mp4"
@@ -611,6 +747,11 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
+      "download": {
+        "type": "official-page",
+        "url": "https://motiongit.com/@prism-studio/visual-art-a-halftone",
+        "availability": "download-available"
+      },
       "preview": "https://raw.githubusercontent.com/motiontemplates/381814/a7f6795a75438c95a22435f55ec6fc78a16728dc/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/615/draft-zh-2de1eb992fcf.jpg",
       "demo": "https://media.openaicut.com/previews/615/draft-en-a549a50aa6eb.mp4"
@@ -637,6 +778,11 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
+      "download": {
+        "type": "official-page",
+        "url": "https://motiongit.com/@prism-studio/visual-art-b-mosaic",
+        "availability": "download-available"
+      },
       "preview": "https://raw.githubusercontent.com/motiontemplates/460349/1ac34a5d95f51ca915dab54760e47e2204c8919a/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/616/draft-zh-b95e73a79f9c.jpg",
       "demo": "https://media.openaicut.com/previews/616/draft-en-74fac1697ce7.mp4"
@@ -663,6 +809,11 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
+      "download": {
+        "type": "official-page",
+        "url": "https://motiongit.com/@prism-studio/visual-art-c-collage",
+        "availability": "download-available"
+      },
       "preview": "https://raw.githubusercontent.com/motiontemplates/907345/db7e5933f2901d49e692c212feeb80d8f83599aa/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/617/draft-zh-84c721155840.jpg",
       "demo": "https://media.openaicut.com/previews/617/draft-en-b232ff8db7c6.mp4"
@@ -689,6 +840,11 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
+      "download": {
+        "type": "official-page",
+        "url": "https://motiongit.com/@prism-studio/visual-art-d-brushwork",
+        "availability": "download-available"
+      },
       "preview": "https://raw.githubusercontent.com/motiontemplates/328828/14e6a4587dcbc21ffff06ccc4f32a9aded86416e/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/618/draft-zh-c88f1a5a67a8.jpg",
       "demo": "https://media.openaicut.com/previews/618/draft-en-30b4688562e9.mp4"
@@ -715,6 +871,11 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
+      "download": {
+        "type": "official-page",
+        "url": "https://motiongit.com/@prism-studio/visual-art-e-glitch",
+        "availability": "download-available"
+      },
       "preview": "https://raw.githubusercontent.com/motiontemplates/638039/9d859692f09db9ba3bc8ae5eead46d41880c28dd/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/619/draft-zh-b96f0b6469fe.jpg",
       "demo": "https://media.openaicut.com/previews/619/draft-en-e3aaf5ab5ba1.mp4"
@@ -741,6 +902,11 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
+      "download": {
+        "type": "official-page",
+        "url": "https://motiongit.com/@prism-studio/visual-art-f-double",
+        "availability": "download-available"
+      },
       "preview": "https://raw.githubusercontent.com/motiontemplates/800829/245105e7c1f556747d3c51c2459b375673f29a1d/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/620/draft-zh-d8cadbd1b296.jpg",
       "demo": "https://media.openaicut.com/previews/620/draft-en-8b1d45590a57.mp4"
@@ -767,6 +933,11 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
+      "download": {
+        "type": "official-page",
+        "url": "https://motiongit.com/@prism-studio/visual-art-g-gallery",
+        "availability": "download-available"
+      },
       "preview": "https://raw.githubusercontent.com/motiontemplates/743702/d01475737433f07f322ee12289c195ac1022dd9f/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/621/draft-zh-78b8670e7b7d.jpg",
       "demo": "https://media.openaicut.com/previews/621/draft-en-d730d56fb8f4.mp4"
@@ -793,6 +964,11 @@
       "ratio": "16:9",
       "orientation": "landscape",
       "openSource": false,
+      "download": {
+        "type": "official-page",
+        "url": "https://motiongit.com/@prism-studio/visual-art-h-kaleido",
+        "availability": "download-available"
+      },
       "preview": "https://raw.githubusercontent.com/motiontemplates/551805/24bcfc83ff63a01d61d65b3d628abd9bddc0cf1f/assets/preview.gif",
       "poster": "https://motiongit.com/media/covers/622/draft-zh-f09b29170a66.jpg",
       "demo": "https://media.openaicut.com/previews/622/draft-en-660c051c4b14.mp4"
