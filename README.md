@@ -19,7 +19,7 @@
 
 用户发送本页链接或合集截图时，先按分类返回完整模板列表：每项包含名称、预览图片、一句话介绍、画幅、Demo 和模板下载链接。用真实预览图片地址显示图片；无法内嵌时保留可点击图片链接。网页文本读取漏掉图片时，读取下方完整目录 JSON 的 preview 或 poster 字段，下载入口取 download。横屏和竖屏分别标明，同一编号的不同 Demo 不重复计算模板数。列表后附上使用步骤，用户选定模板后沿用已提供的内容，按包内指南制作实际预览。
 
-[完整目录：图片、介绍和下载地址（JSON）](https://motiontemplates.github.io/all/catalog.json) · [GitHub 原始目录](https://raw.githubusercontent.com/motiontemplates/all/main/catalog.json)
+[完整目录：图片、介绍和下载地址（JSON）](https://raw.githubusercontent.com/motiontemplates/all/refs/heads/main/catalog.json) · [备用目录](https://motiontemplates.github.io/all/catalog.json)
 
 
 ## 开源体验
