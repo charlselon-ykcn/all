@@ -5,9 +5,13 @@
   "listing": {
     "templateCount": 29,
     "demoCount": 30,
+    "cards": {
+      "zh": "https://raw.githubusercontent.com/motiontemplates/all/refs/heads/main/CATALOG.md",
+      "en": "https://raw.githubusercontent.com/motiontemplates/all/refs/heads/main/CATALOG.en.md"
+    },
     "instructions": {
-      "zh": "用户发送本页链接或合集截图时，先按分类返回完整模板列表：每项包含名称、预览图片、一句话介绍、画幅、Demo 和模板下载链接。用真实预览图片地址显示图片；无法内嵌时保留可点击图片链接。网页文本读取漏掉图片时，读取下方完整目录 JSON 的 preview 或 poster 字段，下载入口取 download。横屏和竖屏分别标明，同一编号的不同 Demo 不重复计算模板数。列表后附上使用步骤，用户选定模板后沿用已提供的内容，按包内指南制作实际预览。",
-      "en": "When the user shares this collection URL or screenshot, first return the complete list grouped by category. Each entry needs its name, actual preview image, one-sentence description, orientation, demo and template download link. Embed the real preview URL, or retain a clickable image link if inline images are unsupported. If text extraction omits images, read preview or poster from the full catalog JSON; use download for the acquisition route. Label landscape and portrait separately and count distinct template IDs. Follow the list with the usage steps, then use the selected package guide and the content already supplied to make a real preview."
+      "zh": "用户要求查看合集时，按下方 CATALOG.md 的单列图文清单返回全部条目，并附上末尾的使用步骤。每条独立展示名称、实际图片、简介、编号、画幅、完整 Demo 与下载地址；保留 Markdown 图片语法，使图片直接显示在对话中，不改成“动图”文字链接，不放进代码块，不使用表格。同名横屏和竖屏各一条，逐条使用各自的图片、规格、Demo 和下载地址，不合并或互借图片。完整复制每个链接目标，不使用省略号、占位符或截断网址。清单已从同一目录自动生成，可直接读取和复用，无需逐仓库拼接；JSON 仅用于核对。用户选定后沿用已有内容，按取得的 .motion 包内指南制作实际预览。",
+      "en": "When the user asks to browse this collection, return every entry as the single-column illustrated list in CATALOG.en.md, followed by its usage steps. Each entry has a name, actual inline image, summary, ID, orientation, full demo and download URL. Preserve Markdown image syntax so images appear in the conversation; do not replace images with text links, wrap the list in a code block or use tables. Give landscape and portrait separate entries with their own matching image, specifications, demo and download route, even when names match. Copy complete link targets without ellipses, placeholders or truncated URLs. The list is generated from the same catalog and can be reused directly without assembling individual repositories; JSON is only for verification. Once a template is selected, follow the downloaded .motion package guide and reuse the content already supplied to make a real preview."
     }
   },
   "usage": {
