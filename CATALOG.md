@@ -6,7 +6,7 @@
 
 ### 1. 酷炫科技风 · 横屏
 
-![酷炫科技风 · 横屏 · 横屏](https://raw.githubusercontent.com/motiontemplates/385712/30a070172a65c8885b51e7e3dbe89517e287f5f8/assets/preview.gif)
+![酷炫科技风 · 横屏](https://raw.githubusercontent.com/motiontemplates/385712/30a070172a65c8885b51e7e3dbe89517e287f5f8/assets/preview.gif)
 
 金属立体字、光效与空间动效；中英横屏、中文竖屏，新增英文竖屏基础表达 B1–B4，支持人脸居中与圆形署名。
 
@@ -22,7 +22,7 @@ Demo 视频：[▶ https://motiontemplates.github.io/385712/assets/demo.mp4](htt
 
 ### 2. 酷炫科技风 · 中文竖屏
 
-![酷炫科技风 · 中文竖屏 · 竖屏](https://motiongit.com/media/covers/626/0.2.9-open-beta-zh-b81b4798ad6a.jpg)
+![酷炫科技风 · 中文竖屏](https://motiongit.com/media/covers/626/0.2.9-open-beta-zh-b81b4798ad6a.jpg)
 
 金属立体字、光效与空间动效；中英横屏、中文竖屏，新增英文竖屏基础表达 B1–B4，支持人脸居中与圆形署名。
 
@@ -58,7 +58,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/605/draft-en-eec61194c66
 
 ### 4. 现代图文 · 口播讲解 · 竖屏
 
-![现代图文 · 口播讲解 · 竖屏 · 竖屏](https://raw.githubusercontent.com/motiontemplates/314486/789f46d0d6f86a98915e6b81fdf1dbba6a4067e6/assets/preview.gif)
+![现代图文 · 口播讲解 · 竖屏](https://raw.githubusercontent.com/motiontemplates/314486/789f46d0d6f86a98915e6b81fdf1dbba6a4067e6/assets/preview.gif)
 
 用现代图文版式、文字强调和信息拆解配合口播，适合观点、证据与步骤讲解。
 
@@ -90,7 +90,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/607/draft-en-c751c296f78
 
 ### 6. 纸面透视 · 口播讲解 · 竖屏
 
-![纸面透视 · 口播讲解 · 竖屏 · 竖屏](https://raw.githubusercontent.com/motiontemplates/295450/d9979b6f93e3e5043e9eada0c0489d3bfb0f4fcd/assets/preview.gif)
+![纸面透视 · 口播讲解 · 竖屏](https://raw.githubusercontent.com/motiontemplates/295450/d9979b6f93e3e5043e9eada0c0489d3bfb0f4fcd/assets/preview.gif)
 
 用纸面透视、卡片层次和图文关系配合口播，适合方法拆解与结构化知识。
 
@@ -122,7 +122,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/609/draft-en-70e2fe808e0
 
 ### 8. 深色立体 · 多屏展陈 · 竖屏
 
-![深色立体 · 多屏展陈 · 竖屏 · 竖屏](https://raw.githubusercontent.com/motiontemplates/569615/0b19166cea4a209844f1cf6b4555fe4e2baded98/assets/preview.gif)
+![深色立体 · 多屏展陈 · 竖屏](https://raw.githubusercontent.com/motiontemplates/569615/0b19166cea4a209844f1cf6b4555fe4e2baded98/assets/preview.gif)
 
 用深色立体舞台、多屏和空间层次展示口播内容，适合产品、案例与媒体素材讲解。
 
@@ -154,7 +154,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/611/2.5.7-en-688a5e4511a
 
 ### 10. 科技控制台 · 口播讲解 · 竖屏
 
-![科技控制台 · 口播讲解 · 竖屏 · 竖屏](https://raw.githubusercontent.com/motiontemplates/738182/b5e10abfe1aeb47ebf30099d81d48befaede5b01/assets/preview.gif)
+![科技控制台 · 口播讲解 · 竖屏](https://raw.githubusercontent.com/motiontemplates/738182/b5e10abfe1aeb47ebf30099d81d48befaede5b01/assets/preview.gif)
 
 用科技控制台、紫色玻璃质感与动态信息组件配合口播，适合技术与数据说明。
 
@@ -186,7 +186,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/613/draft-en-e06d1f42b0b
 
 ### 12. 鲜色角色 · 叙事讲解 · 竖屏
 
-![鲜色角色 · 叙事讲解 · 竖屏 · 竖屏](https://raw.githubusercontent.com/motiontemplates/293151/6bef4be7bb919b3cacbca7b1c78a31ad9ff8ccbb/assets/preview.gif)
+![鲜色角色 · 叙事讲解 · 竖屏](https://raw.githubusercontent.com/motiontemplates/293151/6bef4be7bb919b3cacbca7b1c78a31ad9ff8ccbb/assets/preview.gif)
 
 用鲜明配色、角色素材与叙事动效配合口播，适合故事、观点和情境解释。
 
@@ -218,7 +218,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/623/draft-en-e9dd279eebe
 
 ### 14. 活力海报 · 口播讲解 · 竖屏
 
-![活力海报 · 口播讲解 · 竖屏 · 竖屏](https://raw.githubusercontent.com/motiontemplates/721489/a14dc95dd615a7722876d9f115b4e6644dde63af/assets/preview.gif)
+![活力海报 · 口播讲解 · 竖屏](https://raw.githubusercontent.com/motiontemplates/721489/a14dc95dd615a7722876d9f115b4e6644dde63af/assets/preview.gif)
 
 用高对比海报、大字、清单和图形关系配合口播，含原生动画与新增组件，竖屏独立编排。
 

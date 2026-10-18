@@ -6,7 +6,7 @@
 
 ### 1. Kinetic Tech · Landscape
 
-![Kinetic Tech · Landscape · Landscape](https://raw.githubusercontent.com/motiontemplates/385712/30a070172a65c8885b51e7e3dbe89517e287f5f8/assets/preview.gif)
+![Kinetic Tech · Landscape](https://raw.githubusercontent.com/motiontemplates/385712/30a070172a65c8885b51e7e3dbe89517e287f5f8/assets/preview.gif)
 
 Editable MotionGit .motion animation with the production guide included in the package.
 
@@ -22,7 +22,7 @@ Technical documentation：[https://github.com/motiontemplates/385712](https://gi
 
 ### 2. Kinetic Tech · Chinese Portrait
 
-![Kinetic Tech · Chinese Portrait · Portrait](https://motiongit.com/media/covers/626/0.2.9-open-beta-zh-b81b4798ad6a.jpg)
+![Kinetic Tech · Chinese Portrait](https://motiongit.com/media/covers/626/0.2.9-open-beta-zh-b81b4798ad6a.jpg)
 
 Editable MotionGit .motion animation with the production guide included in the package.
 
@@ -58,7 +58,7 @@ Technical documentation：[https://github.com/motiontemplates/336980](https://gi
 
 ### 4. Modern Editorial · Narrated Explainer · Portrait
 
-![Modern Editorial · Narrated Explainer · Portrait · Portrait](https://raw.githubusercontent.com/motiontemplates/314486/789f46d0d6f86a98915e6b81fdf1dbba6a4067e6/assets/preview.gif)
+![Modern Editorial · Narrated Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/314486/789f46d0d6f86a98915e6b81fdf1dbba6a4067e6/assets/preview.gif)
 
 Support narration with modern editorial layouts, text emphasis and information breakdowns.
 
@@ -90,7 +90,7 @@ Technical documentation：[https://github.com/motiontemplates/358192](https://gi
 
 ### 6. Paper Perspective · Narrated Explainer · Portrait
 
-![Paper Perspective · Narrated Explainer · Portrait · Portrait](https://raw.githubusercontent.com/motiontemplates/295450/d9979b6f93e3e5043e9eada0c0489d3bfb0f4fcd/assets/preview.gif)
+![Paper Perspective · Narrated Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/295450/d9979b6f93e3e5043e9eada0c0489d3bfb0f4fcd/assets/preview.gif)
 
 Support structured explanations with paper perspective, layered cards and text-image relationships.
 
@@ -122,7 +122,7 @@ Technical documentation：[https://github.com/motiontemplates/304634](https://gi
 
 ### 8. Dark Dimensional Stage · Multi-screen Story · Portrait
 
-![Dark Dimensional Stage · Multi-screen Story · Portrait · Portrait](https://raw.githubusercontent.com/motiontemplates/569615/0b19166cea4a209844f1cf6b4555fe4e2baded98/assets/preview.gif)
+![Dark Dimensional Stage · Multi-screen Story · Portrait](https://raw.githubusercontent.com/motiontemplates/569615/0b19166cea4a209844f1cf6b4555fe4e2baded98/assets/preview.gif)
 
 Present products, examples and media on a dark dimensional stage with layered screens.
 
@@ -154,7 +154,7 @@ Technical documentation：[https://github.com/motiontemplates/553346](https://gi
 
 ### 10. Tech Console · Narrated Explainer · Portrait
 
-![Tech Console · Narrated Explainer · Portrait · Portrait](https://raw.githubusercontent.com/motiontemplates/738182/b5e10abfe1aeb47ebf30099d81d48befaede5b01/assets/preview.gif)
+![Tech Console · Narrated Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/738182/b5e10abfe1aeb47ebf30099d81d48befaede5b01/assets/preview.gif)
 
 Support technical and data explanations with a console layout and purple glass-like motion graphics.
 
@@ -186,7 +186,7 @@ Technical documentation：[https://github.com/motiontemplates/960723](https://gi
 
 ### 12. Vivid Characters · Narrative Explainer · Portrait
 
-![Vivid Characters · Narrative Explainer · Portrait · Portrait](https://raw.githubusercontent.com/motiontemplates/293151/6bef4be7bb919b3cacbca7b1c78a31ad9ff8ccbb/assets/preview.gif)
+![Vivid Characters · Narrative Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/293151/6bef4be7bb919b3cacbca7b1c78a31ad9ff8ccbb/assets/preview.gif)
 
 Support stories and contextual explanations with vivid colors, character assets and narrative animation.
 
@@ -218,7 +218,7 @@ Technical documentation：[https://github.com/motiontemplates/762139](https://gi
 
 ### 14. Vibrant Poster · Narrated Explainer · Portrait
 
-![Vibrant Poster · Narrated Explainer · Portrait · Portrait](https://raw.githubusercontent.com/motiontemplates/721489/a14dc95dd615a7722876d9f115b4e6644dde63af/assets/preview.gif)
+![Vibrant Poster · Narrated Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/721489/a14dc95dd615a7722876d9f115b4e6644dde63af/assets/preview.gif)
 
 Support narration with high-contrast posters, bold type, lists and graphic relationships in a dedicated portrait layout.
 
