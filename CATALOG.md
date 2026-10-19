@@ -1,6 +1,6 @@
 # MotionGit 模板图文清单
 
-24 个模板，25 个独立画幅 Demo。横屏与竖屏分别展示；各条图片、视频与下载入口对应本条版本。
+26 个模板，27 个独立画幅 Demo。横屏与竖屏分别展示；各条图片、视频与下载入口对应本条版本。
 
 ## 源码与下载方式
 
@@ -36,9 +36,9 @@ Demo 视频：[▶ https://motiontemplates.github.io/385712/assets/demo.mp4](htt
 
 金属立体字、光效与空间动效；中英横屏、中文竖屏，新增英文竖屏基础表达 B1–B4，支持人脸居中与圆形署名。
 
-#385712 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v0.2.26-open-beta
+#385712 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v0.2.27-open-beta
 
-官网中文竖屏 v0.2.26-open-beta；GitHub 开源包 v0.2.7-open-beta（16:9）。
+官网中文竖屏 v0.2.27-open-beta；GitHub 开源包 v0.2.7-open-beta（16:9）。
 
 Demo 视频：[▶ https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4](https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4)
 
@@ -50,13 +50,45 @@ Demo 视频：[▶ https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-1
 
 ## 口播与讲解
 
-### 3. 纸面透视 · 口播讲解
+### 3. 现代图文 · 口播讲解
 
-![纸面透视 · 口播讲解 · 横屏](https://raw.githubusercontent.com/motiontemplates/358192/f713a9da48a82fea7bc6f6f6232a8b5ab1a5dbfa/assets/preview.gif)
+![现代图文 · 口播讲解 · 横屏](https://raw.githubusercontent.com/motiontemplates/336980/33b6c1e66e833413f672079f37390bb737e1a3f1/assets/preview.gif)
+
+用现代图文版式、文字强调和信息拆解配合口播，适合观点、证据与步骤讲解。
+
+#336980 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.6
+
+Demo 视频：[▶ https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4](https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4)
+
+官网下载 .motion：[https://motiongit.com/@adunext/template-01-integrated](https://motiongit.com/@adunext/template-01-integrated)
+
+模板详情与素材要求：[https://motiongit.com/@adunext/template-01-integrated](https://motiongit.com/@adunext/template-01-integrated)
+
+技术资料：[https://github.com/motiontemplates/336980](https://github.com/motiontemplates/336980)
+
+### 4. 现代图文 · 口播讲解 · 竖屏
+
+![现代图文 · 口播讲解 · 竖屏](https://raw.githubusercontent.com/motiontemplates/314486/17e9911d26e8b5a31b74cba51d086be99218434f/assets/preview.gif)
+
+用现代图文版式、文字强调和信息拆解配合口播，适合观点、证据与步骤讲解。
+
+#314486 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.6
+
+Demo 视频：[▶ https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4](https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4)
+
+官网下载 .motion：[https://motiongit.com/@adunext/template-01-integrated-portrait](https://motiongit.com/@adunext/template-01-integrated-portrait)
+
+模板详情与素材要求：[https://motiongit.com/@adunext/template-01-integrated-portrait](https://motiongit.com/@adunext/template-01-integrated-portrait)
+
+技术资料：[https://github.com/motiontemplates/314486](https://github.com/motiontemplates/314486)
+
+### 5. 纸面透视 · 口播讲解
+
+![纸面透视 · 口播讲解 · 横屏](https://raw.githubusercontent.com/motiontemplates/358192/3b922923e95ed33d808c230619bf9b5b761720fb/assets/preview.gif)
 
 用纸面透视、卡片层次和图文关系配合口播，适合方法拆解与结构化知识。
 
-#358192 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.5
+#358192 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.6
 
 Demo 视频：[▶ https://media.openaicut.com/previews/607/draft-en-c751c296f78b.mp4](https://media.openaicut.com/previews/607/draft-en-c751c296f78b.mp4)
 
@@ -66,13 +98,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/607/draft-en-c751c296f78
 
 技术资料：[https://github.com/motiontemplates/358192](https://github.com/motiontemplates/358192)
 
-### 4. 纸面透视 · 口播讲解 · 竖屏
+### 6. 纸面透视 · 口播讲解 · 竖屏
 
-![纸面透视 · 口播讲解 · 竖屏](https://raw.githubusercontent.com/motiontemplates/295450/b2336a4fa2a8bff80d2c03fa8ca089502dddc3af/assets/preview.gif)
+![纸面透视 · 口播讲解 · 竖屏](https://raw.githubusercontent.com/motiontemplates/295450/c7f1bd64905f246b97194733949b31948a59f428/assets/preview.gif)
 
 用纸面透视、卡片层次和图文关系配合口播，适合方法拆解与结构化知识。
 
-#295450 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.5
+#295450 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.6
 
 Demo 视频：[▶ https://media.openaicut.com/previews/608/draft-en-a5200442ba79.mp4](https://media.openaicut.com/previews/608/draft-en-a5200442ba79.mp4)
 
@@ -82,13 +114,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/608/draft-en-a5200442ba7
 
 技术资料：[https://github.com/motiontemplates/295450](https://github.com/motiontemplates/295450)
 
-### 5. 深色立体 · 多屏展陈
+### 7. 深色立体 · 多屏展陈
 
-![深色立体 · 多屏展陈 · 横屏](https://raw.githubusercontent.com/motiontemplates/304634/06dd89d71cf790d1893221a14e3800799abaca81/assets/preview.gif)
+![深色立体 · 多屏展陈 · 横屏](https://raw.githubusercontent.com/motiontemplates/304634/3085197ac443ffb3259a865781769c87001cf483/assets/preview.gif)
 
 用深色立体舞台、多屏和空间层次展示口播内容，适合产品、案例与媒体素材讲解。
 
-#304634 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.5
+#304634 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.6
 
 Demo 视频：[▶ https://media.openaicut.com/previews/609/draft-en-70e2fe808e0c.mp4](https://media.openaicut.com/previews/609/draft-en-70e2fe808e0c.mp4)
 
@@ -98,13 +130,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/609/draft-en-70e2fe808e0
 
 技术资料：[https://github.com/motiontemplates/304634](https://github.com/motiontemplates/304634)
 
-### 6. 深色立体 · 多屏展陈 · 竖屏
+### 8. 深色立体 · 多屏展陈 · 竖屏
 
-![深色立体 · 多屏展陈 · 竖屏](https://raw.githubusercontent.com/motiontemplates/569615/f222c43f4a49c9b1f4f84a94dac2940c24b913d7/assets/preview.gif)
+![深色立体 · 多屏展陈 · 竖屏](https://raw.githubusercontent.com/motiontemplates/569615/213ca59c2bd778db5d320d6c83cebc0c55f74824/assets/preview.gif)
 
 用深色立体舞台、多屏和空间层次展示口播内容，适合产品、案例与媒体素材讲解。
 
-#569615 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.5
+#569615 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.6
 
 Demo 视频：[▶ https://media.openaicut.com/previews/610/draft-en-9785b0f9679c.mp4](https://media.openaicut.com/previews/610/draft-en-9785b0f9679c.mp4)
 
@@ -114,13 +146,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/610/draft-en-9785b0f9679
 
 技术资料：[https://github.com/motiontemplates/569615](https://github.com/motiontemplates/569615)
 
-### 7. 科技控制台 · 口播讲解
+### 9. 科技控制台 · 口播讲解
 
-![科技控制台 · 口播讲解 · 横屏](https://raw.githubusercontent.com/motiontemplates/553346/0a6afea3ee511b943e378081876322d464ba864f/assets/preview.gif)
+![科技控制台 · 口播讲解 · 横屏](https://raw.githubusercontent.com/motiontemplates/553346/c1584c3928e0710071bec896e29e02c54974847e/assets/preview.gif)
 
 用科技控制台、紫色玻璃质感与动态信息组件配合口播，适合技术与数据说明。
 
-#553346 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.5
+#553346 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.6
 
 Demo 视频：[▶ https://media.openaicut.com/previews/611/2.5.7-en-688a5e4511ae.mp4](https://media.openaicut.com/previews/611/2.5.7-en-688a5e4511ae.mp4)
 
@@ -130,13 +162,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/611/2.5.7-en-688a5e4511a
 
 技术资料：[https://github.com/motiontemplates/553346](https://github.com/motiontemplates/553346)
 
-### 8. 科技控制台 · 口播讲解 · 竖屏
+### 10. 科技控制台 · 口播讲解 · 竖屏
 
-![科技控制台 · 口播讲解 · 竖屏](https://raw.githubusercontent.com/motiontemplates/738182/bda7d5ce98f6c7e3e3e25c01410a639671d7bf2f/assets/preview.gif)
+![科技控制台 · 口播讲解 · 竖屏](https://raw.githubusercontent.com/motiontemplates/738182/874cbd8b9e819229d1bc030f99e8d56213ebacd3/assets/preview.gif)
 
 用科技控制台、紫色玻璃质感与动态信息组件配合口播，适合技术与数据说明。
 
-#738182 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.5
+#738182 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.6
 
 Demo 视频：[▶ https://media.openaicut.com/previews/612/2.5.7-en-4414b3f06c06.mp4](https://media.openaicut.com/previews/612/2.5.7-en-4414b3f06c06.mp4)
 
@@ -146,13 +178,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/612/2.5.7-en-4414b3f06c0
 
 技术资料：[https://github.com/motiontemplates/738182](https://github.com/motiontemplates/738182)
 
-### 9. 鲜色角色 · 叙事讲解
+### 11. 鲜色角色 · 叙事讲解
 
-![鲜色角色 · 叙事讲解 · 横屏](https://raw.githubusercontent.com/motiontemplates/960723/5c4f3d556517feaf2901cab30a72f53c525856c2/assets/preview.gif)
+![鲜色角色 · 叙事讲解 · 横屏](https://raw.githubusercontent.com/motiontemplates/960723/0571fa4d83cdb5cbc7800b2b7c0be097d4747dd7/assets/preview.gif)
 
 用鲜明配色、角色素材与叙事动效配合口播，适合故事、观点和情境解释。
 
-#960723 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.5
+#960723 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.6
 
 Demo 视频：[▶ https://media.openaicut.com/previews/613/draft-en-e06d1f42b0b9.mp4](https://media.openaicut.com/previews/613/draft-en-e06d1f42b0b9.mp4)
 
@@ -162,13 +194,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/613/draft-en-e06d1f42b0b
 
 技术资料：[https://github.com/motiontemplates/960723](https://github.com/motiontemplates/960723)
 
-### 10. 鲜色角色 · 叙事讲解 · 竖屏
+### 12. 鲜色角色 · 叙事讲解 · 竖屏
 
-![鲜色角色 · 叙事讲解 · 竖屏](https://raw.githubusercontent.com/motiontemplates/293151/e958845b19b5e5d9e6892a24894c73d7cba89ec9/assets/preview.gif)
+![鲜色角色 · 叙事讲解 · 竖屏](https://raw.githubusercontent.com/motiontemplates/293151/558eee93c82e3bb1c4e952f3c3646be646d74cbf/assets/preview.gif)
 
 用鲜明配色、角色素材与叙事动效配合口播，适合故事、观点和情境解释。
 
-#293151 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.5
+#293151 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.6
 
 Demo 视频：[▶ https://media.openaicut.com/previews/614/draft-en-6f4079db7a76.mp4](https://media.openaicut.com/previews/614/draft-en-6f4079db7a76.mp4)
 
@@ -177,38 +209,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/614/draft-en-6f4079db7a7
 模板详情与素材要求：[https://motiongit.com/@adunext/template-05-native-portrait](https://motiongit.com/@adunext/template-05-native-portrait)
 
 技术资料：[https://github.com/motiontemplates/293151](https://github.com/motiontemplates/293151)
-
-### 11. 活力海报 · 口播讲解
-
-![活力海报 · 口播讲解 · 横屏](https://raw.githubusercontent.com/motiontemplates/762139/5a1a25f56433f0a8832a0d2f09373868832e84f0/assets/preview.gif)
-
-用高对比海报、大字、清单和图形关系配合口播，含原生动画与新增组件，横屏独立编排。
-
-#762139 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.6
-
-Demo 视频：[▶ https://media.openaicut.com/previews/623/draft-en-e9dd279eebe9.mp4](https://media.openaicut.com/previews/623/draft-en-e9dd279eebe9.mp4)
-
-官网下载 .motion：[https://motiongit.com/@adunext/vibrant-poster](https://motiongit.com/@adunext/vibrant-poster)
-
-模板详情与素材要求：[https://motiongit.com/@adunext/vibrant-poster](https://motiongit.com/@adunext/vibrant-poster)
-
-技术资料：[https://github.com/motiontemplates/762139](https://github.com/motiontemplates/762139)
-
-### 12. 活力海报 · 口播讲解 · 竖屏
-
-![活力海报 · 口播讲解 · 竖屏](https://raw.githubusercontent.com/motiontemplates/721489/9061b9077b4a854a6fea088964b885f35200f2ea/assets/preview.gif)
-
-用高对比海报、大字、清单和图形关系配合口播，含原生动画与新增组件，竖屏独立编排。
-
-#721489 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.6
-
-Demo 视频：[▶ https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4](https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4)
-
-官网下载 .motion：[https://motiongit.com/@adunext/vibrant-poster-portrait](https://motiongit.com/@adunext/vibrant-poster-portrait)
-
-模板详情与素材要求：[https://motiongit.com/@adunext/vibrant-poster-portrait](https://motiongit.com/@adunext/vibrant-poster-portrait)
-
-技术资料：[https://github.com/motiontemplates/721489](https://github.com/motiontemplates/721489)
 
 ## 品牌与产品
 
@@ -292,15 +292,47 @@ Demo 视频：[▶ https://media.openaicut.com/previews/589/draft-en-9fbec6ff121
 
 技术资料：[https://github.com/motiontemplates/452365](https://github.com/motiontemplates/452365)
 
+### 18. 工程蓝图 · 产品拆解
+
+![工程蓝图 · 产品拆解 · 横屏](https://raw.githubusercontent.com/motiontemplates/213827/aec3987e1423999749f33d1ecd48f8113e6aad40/assets/preview.gif)
+
+以工程蓝图、结构示意和模块拆解展示产品组成，适合技术产品与工作流讲解。
+
+#213827 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.3
+
+Demo 视频：[▶ https://media.openaicut.com/previews/590/draft-en-99059891101e.mp4](https://media.openaicut.com/previews/590/draft-en-99059891101e.mp4)
+
+官网下载 .motion：[https://motiongit.com/@motiongit/motiongit-promo-blueprint](https://motiongit.com/@motiongit/motiongit-promo-blueprint)
+
+模板详情与素材要求：[https://motiongit.com/@motiongit/motiongit-promo-blueprint](https://motiongit.com/@motiongit/motiongit-promo-blueprint)
+
+技术资料：[https://github.com/motiontemplates/213827](https://github.com/motiontemplates/213827)
+
+### 19. 宣纸手卷 · 品牌叙事
+
+![宣纸手卷 · 品牌叙事 · 横屏](https://raw.githubusercontent.com/motiontemplates/394243/cf1cb3d58e86b6a5a99fee42edecca088f07527d/assets/preview.gif)
+
+沿宣纸手卷展开品牌故事，以水墨意象和卷轴转场营造东方叙事。
+
+#394243 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.4
+
+Demo 视频：[▶ https://media.openaicut.com/previews/592/draft-en-1f98c9f9df3c.mp4](https://media.openaicut.com/previews/592/draft-en-1f98c9f9df3c.mp4)
+
+官网下载 .motion：[https://motiongit.com/@motiongit/motiongit-promo-ink](https://motiongit.com/@motiongit/motiongit-promo-ink)
+
+模板详情与素材要求：[https://motiongit.com/@motiongit/motiongit-promo-ink](https://motiongit.com/@motiongit/motiongit-promo-ink)
+
+技术资料：[https://github.com/motiontemplates/394243](https://github.com/motiontemplates/394243)
+
 ## 照片与视觉
 
-### 18. 半调网点 · 人像标题
+### 20. 半调网点 · 人像标题
 
-![半调网点 · 人像标题 · 横屏](https://raw.githubusercontent.com/motiontemplates/381814/e86541dd2db6f117ea419219f21bfc61810c2785/assets/preview.gif)
+![半调网点 · 人像标题 · 横屏](https://raw.githubusercontent.com/motiontemplates/381814/82d64caf098f54feb3b2c7c38919b97e95705a24/assets/preview.gif)
 
 三张人像化为流动的双色网点，散开后重新汇聚成标题，适合人像与主题开场。
 
-#381814 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.4
+#381814 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5
 
 Demo 视频：[▶ https://media.openaicut.com/previews/615/draft-en-a549a50aa6eb.mp4](https://media.openaicut.com/previews/615/draft-en-a549a50aa6eb.mp4)
 
@@ -310,13 +342,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/615/draft-en-a549a50aa6e
 
 技术资料：[https://github.com/motiontemplates/381814](https://github.com/motiontemplates/381814)
 
-### 19. 照片马赛克 · 拼图揭幕
+### 21. 照片马赛克 · 拼图揭幕
 
-![照片马赛克 · 拼图揭幕 · 横屏](https://raw.githubusercontent.com/motiontemplates/460349/e4d97e5558f3079892312b91bbc9878767d55b66/assets/preview.gif)
+![照片马赛克 · 拼图揭幕 · 横屏](https://raw.githubusercontent.com/motiontemplates/460349/c24c334f7b57b156d374941994ebbc0c7651a4a5/assets/preview.gif)
 
 多张照片组成主视觉，从局部照片拉远揭示完整马赛克，适合集体回忆与拼图揭幕。
 
-#460349 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.2
+#460349 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.3
 
 Demo 视频：[▶ https://media.openaicut.com/previews/616/draft-en-74fac1697ce7.mp4](https://media.openaicut.com/previews/616/draft-en-74fac1697ce7.mp4)
 
@@ -326,13 +358,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/616/draft-en-74fac1697ce
 
 技术资料：[https://github.com/motiontemplates/460349](https://github.com/motiontemplates/460349)
 
-### 20. 几何拼贴 · 动态海报
+### 22. 几何拼贴 · 动态海报
 
-![几何拼贴 · 动态海报 · 横屏](https://raw.githubusercontent.com/motiontemplates/907345/075ae3e47077b904c5a8f2d51f5777eae0203c09/assets/preview.gif)
+![几何拼贴 · 动态海报 · 横屏](https://raw.githubusercontent.com/motiontemplates/907345/ffc45252fbef80b7f7bc5b532aea5ca8d358c637/assets/preview.gif)
 
 将四张照片裁成几何形状，在三组包豪斯动态海报中重组，适合活动与视觉主题展示。
 
-#907345 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.2
+#907345 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.3
 
 Demo 视频：[▶ https://media.openaicut.com/previews/617/draft-en-b232ff8db7c6.mp4](https://media.openaicut.com/previews/617/draft-en-b232ff8db7c6.mp4)
 
@@ -342,13 +374,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/617/draft-en-b232ff8db7c
 
 技术资料：[https://github.com/motiontemplates/907345](https://github.com/motiontemplates/907345)
 
-### 21. 笔触重绘 · 艺术照片
+### 23. 笔触重绘 · 艺术照片
 
-![笔触重绘 · 艺术照片 · 横屏](https://raw.githubusercontent.com/motiontemplates/328828/2fbfa01d4ac8e1e6c662b4736ea3adfacdbf8b72/assets/preview.gif)
+![笔触重绘 · 艺术照片 · 横屏](https://raw.githubusercontent.com/motiontemplates/328828/d884cbaa985cf69edfbecda008ab3923df15d50b/assets/preview.gif)
 
 用三层定向笔触重绘照片，与原图对照后呈现署名标题，适合摄影与艺术展示。
 
-#328828 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.2
+#328828 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.3
 
 Demo 视频：[▶ https://media.openaicut.com/previews/618/draft-en-30b4688562e9.mp4](https://media.openaicut.com/previews/618/draft-en-30b4688562e9.mp4)
 
@@ -358,13 +390,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/618/draft-en-30b4688562e
 
 技术资料：[https://github.com/motiontemplates/328828](https://github.com/motiontemplates/328828)
 
-### 22. 信号故障 · 照片转场
+### 24. 信号故障 · 照片转场
 
-![信号故障 · 照片转场 · 横屏](https://raw.githubusercontent.com/motiontemplates/638039/add5f4b9cc0c4ec890fef33ebbd3e21cc6e5c2ee/assets/preview.gif)
+![信号故障 · 照片转场 · 横屏](https://raw.githubusercontent.com/motiontemplates/638039/47fdcf7acc7a1baf6d077425afc7b6ee11dda968/assets/preview.gif)
 
 用像素排序、RGB 分离和扫描线改造照片，并以 CRT 关机效果收尾，适合科技视觉片段。
 
-#638039 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.2
+#638039 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.3
 
 Demo 视频：[▶ https://media.openaicut.com/previews/619/draft-en-e3aaf5ab5ba1.mp4](https://media.openaicut.com/previews/619/draft-en-e3aaf5ab5ba1.mp4)
 
@@ -374,13 +406,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/619/draft-en-e3aaf5ab5ba
 
 技术资料：[https://github.com/motiontemplates/638039](https://github.com/motiontemplates/638039)
 
-### 23. 双重曝光 · 人像叠影
+### 25. 双重曝光 · 人像叠影
 
-![双重曝光 · 人像叠影 · 横屏](https://raw.githubusercontent.com/motiontemplates/800829/4439d2a8c1fd4959af7e11905ac7bfe55ecdbc1a/assets/preview.gif)
+![双重曝光 · 人像叠影 · 横屏](https://raw.githubusercontent.com/motiontemplates/800829/19d1da6804a8a33e875baa3aa7921e0ba8027c95/assets/preview.gif)
 
 以风景填充人像剪影，双层画面反向漂移，标题从薄雾显现，适合诗意人像叠影。
 
-#800829 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.2
+#800829 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.3
 
 Demo 视频：[▶ https://media.openaicut.com/previews/620/draft-en-8b1d45590a57.mp4](https://media.openaicut.com/previews/620/draft-en-8b1d45590a57.mp4)
 
@@ -390,13 +422,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/620/draft-en-8b1d45590a5
 
 技术资料：[https://github.com/motiontemplates/800829](https://github.com/motiontemplates/800829)
 
-### 24. 空间画廊 · 回忆相册
+### 26. 空间画廊 · 回忆相册
 
-![空间画廊 · 回忆相册 · 横屏](https://raw.githubusercontent.com/motiontemplates/743702/4577f4ddc85d9454ff9bf0c2dd29f1f1373a1bf5/assets/preview.gif)
+![空间画廊 · 回忆相册 · 横屏](https://raw.githubusercontent.com/motiontemplates/743702/d0e77d35c666b3dcd6e91531fbd0520ed41f1095/assets/preview.gif)
 
 穿行带有文字说明的立体照片画廊，最后推进主照片并揭示全屏标题，适合回忆与作品集。
 
-#743702 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.2
+#743702 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.3
 
 Demo 视频：[▶ https://media.openaicut.com/previews/621/draft-en-d730d56fb8f4.mp4](https://media.openaicut.com/previews/621/draft-en-d730d56fb8f4.mp4)
 
@@ -406,13 +438,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/621/draft-en-d730d56fb8f
 
 技术资料：[https://github.com/motiontemplates/743702](https://github.com/motiontemplates/743702)
 
-### 25. 镜像万花筒 · 照片变幻
+### 27. 镜像万花筒 · 照片变幻
 
-![镜像万花筒 · 照片变幻 · 横屏](https://raw.githubusercontent.com/motiontemplates/551805/5450a4ee7a65cd81b94f07185298e266ee1e8c6b/assets/preview.gif)
+![镜像万花筒 · 照片变幻 · 横屏](https://raw.githubusercontent.com/motiontemplates/551805/7e7586009af804a63632bd883d4ef201d77a2171/assets/preview.gif)
 
 将两张照片镜像成旋转的十二分段万花筒，经扩张圆环转场再展开原图，适合视觉主题片。
 
-#551805 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.2
+#551805 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.3
 
 Demo 视频：[▶ https://media.openaicut.com/previews/622/draft-en-660c051c4b14.mp4](https://media.openaicut.com/previews/622/draft-en-660c051c4b14.mp4)
 
