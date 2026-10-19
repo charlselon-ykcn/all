@@ -374,11 +374,11 @@ Technical documentation：[https://github.com/motiontemplates/667934](https://gi
 
 ### 22. Paper Scroll · Brand Story
 
-![Paper Scroll · Brand Story · Landscape](https://raw.githubusercontent.com/motiontemplates/394243/20dda8482821c3ea6141fd02c861ab5df7809912/assets/preview.gif)
+![Paper Scroll · Brand Story · Landscape](https://raw.githubusercontent.com/motiontemplates/394243/2bbe21c4e1757efeacd65e9da26395d8dc5a0f94/assets/preview.gif)
 
 Tell a brand story through an unfolding paper scroll, ink-inspired imagery and scroll transitions.
 
-#394243 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.1
+#394243 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.2
 
 Demo video：[https://media.openaicut.com/previews/592/draft-en-1f98c9f9df3c.mp4](https://media.openaicut.com/previews/592/draft-en-1f98c9f9df3c.mp4)
 

@@ -374,11 +374,11 @@ Demo 视频：[▶ https://media.openaicut.com/previews/591/draft-en-28eb07a5a33
 
 ### 22. 宣纸手卷 · 品牌叙事
 
-![宣纸手卷 · 品牌叙事 · 横屏](https://raw.githubusercontent.com/motiontemplates/394243/20dda8482821c3ea6141fd02c861ab5df7809912/assets/preview.gif)
+![宣纸手卷 · 品牌叙事 · 横屏](https://raw.githubusercontent.com/motiontemplates/394243/2bbe21c4e1757efeacd65e9da26395d8dc5a0f94/assets/preview.gif)
 
 沿宣纸手卷展开品牌故事，以水墨意象和卷轴转场营造东方叙事。
 
-#394243 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.1
+#394243 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.2
 
 Demo 视频：[▶ https://media.openaicut.com/previews/592/draft-en-1f98c9f9df3c.mp4](https://media.openaicut.com/previews/592/draft-en-1f98c9f9df3c.mp4)
 
