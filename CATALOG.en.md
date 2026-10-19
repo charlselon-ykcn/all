@@ -34,9 +34,9 @@ Technical documentation：[https://github.com/motiontemplates/385712](https://gi
 
 Editable MotionGit .motion animation with the production guide included in the package.
 
-#385712 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v0.2.24-open-beta
+#385712 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v0.2.25-open-beta
 
-Official Chinese portrait v0.2.24-open-beta; GitHub source edition v0.2.7-open-beta (16:9).
+Official Chinese portrait v0.2.25-open-beta; GitHub source edition v0.2.7-open-beta (16:9).
 
 Demo video：[https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4](https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4)
 
@@ -50,11 +50,11 @@ Technical documentation：[https://github.com/motiontemplates/385712](https://gi
 
 ### 3. Modern Editorial · Narrated Explainer
 
-![Modern Editorial · Narrated Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/336980/2f9b81b444bfc0af78e9a2390a058256730d4082/assets/preview.gif)
+![Modern Editorial · Narrated Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/336980/d5326deb077984cfa82308204ffe6f612a8642aa/assets/preview.gif)
 
 Support narration with modern editorial layouts, text emphasis and information breakdowns.
 
-#336980 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.0
+#336980 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.1
 
 Demo video：[https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4](https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4)
 
@@ -66,11 +66,11 @@ Technical documentation：[https://github.com/motiontemplates/336980](https://gi
 
 ### 4. Modern Editorial · Narrated Explainer · Portrait
 
-![Modern Editorial · Narrated Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/314486/789f46d0d6f86a98915e6b81fdf1dbba6a4067e6/assets/preview.gif)
+![Modern Editorial · Narrated Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/314486/ae4ef51bb24cea58750275417b76a72931268ff8/assets/preview.gif)
 
 Support narration with modern editorial layouts, text emphasis and information breakdowns.
 
-#314486 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.0
+#314486 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.1
 
 Demo video：[https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4](https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4)
 
@@ -82,11 +82,11 @@ Technical documentation：[https://github.com/motiontemplates/314486](https://gi
 
 ### 5. Paper Perspective · Narrated Explainer
 
-![Paper Perspective · Narrated Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/358192/a5ed6df1ecb75a1e54b82363a78bdc3a1a9d0a36/assets/preview.gif)
+![Paper Perspective · Narrated Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/358192/6230fa7198c9422256a90028c31087c2af0fbd5f/assets/preview.gif)
 
 Support structured explanations with paper perspective, layered cards and text-image relationships.
 
-#358192 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.0
+#358192 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.1
 
 Demo video：[https://media.openaicut.com/previews/607/draft-en-c751c296f78b.mp4](https://media.openaicut.com/previews/607/draft-en-c751c296f78b.mp4)
 
@@ -98,11 +98,11 @@ Technical documentation：[https://github.com/motiontemplates/358192](https://gi
 
 ### 6. Paper Perspective · Narrated Explainer · Portrait
 
-![Paper Perspective · Narrated Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/295450/d9979b6f93e3e5043e9eada0c0489d3bfb0f4fcd/assets/preview.gif)
+![Paper Perspective · Narrated Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/295450/248d114c88b2ba37fbb42088f0e43117aca8307c/assets/preview.gif)
 
 Support structured explanations with paper perspective, layered cards and text-image relationships.
 
-#295450 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.0
+#295450 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.1
 
 Demo video：[https://media.openaicut.com/previews/608/draft-en-a5200442ba79.mp4](https://media.openaicut.com/previews/608/draft-en-a5200442ba79.mp4)
 
@@ -114,11 +114,11 @@ Technical documentation：[https://github.com/motiontemplates/295450](https://gi
 
 ### 7. Dark Dimensional Stage · Multi-screen Story
 
-![Dark Dimensional Stage · Multi-screen Story · Landscape](https://raw.githubusercontent.com/motiontemplates/304634/e6dd6945409843efc5e70cbfd9450f66bbb57da5/assets/preview.gif)
+![Dark Dimensional Stage · Multi-screen Story · Landscape](https://raw.githubusercontent.com/motiontemplates/304634/098ef8851c136e487dfaac421c8ddb18c0f8c5a9/assets/preview.gif)
 
 Present products, examples and media on a dark dimensional stage with layered screens.
 
-#304634 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.0
+#304634 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.1
 
 Demo video：[https://media.openaicut.com/previews/609/draft-en-70e2fe808e0c.mp4](https://media.openaicut.com/previews/609/draft-en-70e2fe808e0c.mp4)
 
@@ -130,11 +130,11 @@ Technical documentation：[https://github.com/motiontemplates/304634](https://gi
 
 ### 8. Dark Dimensional Stage · Multi-screen Story · Portrait
 
-![Dark Dimensional Stage · Multi-screen Story · Portrait](https://raw.githubusercontent.com/motiontemplates/569615/0b19166cea4a209844f1cf6b4555fe4e2baded98/assets/preview.gif)
+![Dark Dimensional Stage · Multi-screen Story · Portrait](https://raw.githubusercontent.com/motiontemplates/569615/975e592d1dde0c62bf57c427bdd2eabbcd34a066/assets/preview.gif)
 
 Present products, examples and media on a dark dimensional stage with layered screens.
 
-#569615 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.0
+#569615 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.1
 
 Demo video：[https://media.openaicut.com/previews/610/draft-en-9785b0f9679c.mp4](https://media.openaicut.com/previews/610/draft-en-9785b0f9679c.mp4)
 
@@ -146,11 +146,11 @@ Technical documentation：[https://github.com/motiontemplates/569615](https://gi
 
 ### 9. Tech Console · Narrated Explainer
 
-![Tech Console · Narrated Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/553346/33c1c6edfb32fb223ae1385ae907d122c425a4e1/assets/preview.gif)
+![Tech Console · Narrated Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/553346/3a54756441879883f64747c7292fecfd79881e70/assets/preview.gif)
 
 Support technical and data explanations with a console layout and purple glass-like motion graphics.
 
-#553346 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.0
+#553346 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.1
 
 Demo video：[https://media.openaicut.com/previews/611/2.5.7-en-688a5e4511ae.mp4](https://media.openaicut.com/previews/611/2.5.7-en-688a5e4511ae.mp4)
 
@@ -162,11 +162,11 @@ Technical documentation：[https://github.com/motiontemplates/553346](https://gi
 
 ### 10. Tech Console · Narrated Explainer · Portrait
 
-![Tech Console · Narrated Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/738182/b5e10abfe1aeb47ebf30099d81d48befaede5b01/assets/preview.gif)
+![Tech Console · Narrated Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/738182/45b40ea2d308e30610058e55b92d4466fc16b5f3/assets/preview.gif)
 
 Support technical and data explanations with a console layout and purple glass-like motion graphics.
 
-#738182 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.0
+#738182 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.1
 
 Demo video：[https://media.openaicut.com/previews/612/2.5.7-en-4414b3f06c06.mp4](https://media.openaicut.com/previews/612/2.5.7-en-4414b3f06c06.mp4)
 
@@ -178,11 +178,11 @@ Technical documentation：[https://github.com/motiontemplates/738182](https://gi
 
 ### 11. Vivid Characters · Narrative Explainer
 
-![Vivid Characters · Narrative Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/960723/fb7f3bc5f68efa98a5d6548faefe271ffca86f9f/assets/preview.gif)
+![Vivid Characters · Narrative Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/960723/4c6401d76cf873abb5a87d9b6c50d2c9c5dabaa9/assets/preview.gif)
 
 Support stories and contextual explanations with vivid colors, character assets and narrative animation.
 
-#960723 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.0
+#960723 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.1
 
 Demo video：[https://media.openaicut.com/previews/613/draft-en-e06d1f42b0b9.mp4](https://media.openaicut.com/previews/613/draft-en-e06d1f42b0b9.mp4)
 
@@ -194,11 +194,11 @@ Technical documentation：[https://github.com/motiontemplates/960723](https://gi
 
 ### 12. Vivid Characters · Narrative Explainer · Portrait
 
-![Vivid Characters · Narrative Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/293151/6bef4be7bb919b3cacbca7b1c78a31ad9ff8ccbb/assets/preview.gif)
+![Vivid Characters · Narrative Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/293151/6203c8db95ce966743553e7b81af71905ffb8422/assets/preview.gif)
 
 Support stories and contextual explanations with vivid colors, character assets and narrative animation.
 
-#293151 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.0
+#293151 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.1
 
 Demo video：[https://media.openaicut.com/previews/614/draft-en-6f4079db7a76.mp4](https://media.openaicut.com/previews/614/draft-en-6f4079db7a76.mp4)
 
@@ -210,11 +210,11 @@ Technical documentation：[https://github.com/motiontemplates/293151](https://gi
 
 ### 13. Vibrant Poster · Narrated Explainer
 
-![Vibrant Poster · Narrated Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/762139/ee6586b60b14f76ef56278029958096cb85152be/assets/preview.gif)
+![Vibrant Poster · Narrated Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/762139/a54ee4ef79d16322df6a8ffd019f79a22b9ed45c/assets/preview.gif)
 
 Support narration with high-contrast posters, bold type, lists and graphic relationships in a dedicated landscape layout.
 
-#762139 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.0
+#762139 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.1
 
 Demo video：[https://media.openaicut.com/previews/623/draft-en-e9dd279eebe9.mp4](https://media.openaicut.com/previews/623/draft-en-e9dd279eebe9.mp4)
 
@@ -226,11 +226,11 @@ Technical documentation：[https://github.com/motiontemplates/762139](https://gi
 
 ### 14. Vibrant Poster · Narrated Explainer · Portrait
 
-![Vibrant Poster · Narrated Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/721489/a14dc95dd615a7722876d9f115b4e6644dde63af/assets/preview.gif)
+![Vibrant Poster · Narrated Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/721489/e693996ed459e5a4feddc3cd5b44934dd8a501a7/assets/preview.gif)
 
 Support narration with high-contrast posters, bold type, lists and graphic relationships in a dedicated portrait layout.
 
-#721489 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.0
+#721489 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.1
 
 Demo video：[https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4](https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4)
 
@@ -244,11 +244,11 @@ Technical documentation：[https://github.com/motiontemplates/721489](https://gi
 
 ### 15. Screen Collage · Brand Story
 
-![Screen Collage · Brand Story · Landscape](https://raw.githubusercontent.com/motiontemplates/128610/bfa59eee0cfc42789b3295ebcf28714b11d70691/assets/preview.gif)
+![Screen Collage · Brand Story · Landscape](https://raw.githubusercontent.com/motiontemplates/128610/3d3b4d5e964b4b50cb90eea2985d2a857c152d88/assets/preview.gif)
 
 Introduce a brand or creative tool with screen collages, editorial transitions and a branded ending.
 
-#128610 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.0
+#128610 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.1
 
 Demo video：[https://media.openaicut.com/previews/585/draft-en-3d2b6bdce3c7.mp4](https://media.openaicut.com/previews/585/draft-en-3d2b6bdce3c7.mp4)
 
@@ -260,11 +260,11 @@ Technical documentation：[https://github.com/motiontemplates/128610](https://gi
 
 ### 16. Pixel Platformer · Product Introduction
 
-![Pixel Platformer · Product Introduction · Landscape](https://raw.githubusercontent.com/motiontemplates/252912/287bd97f9aa428f3ee1e1a50de0c171b66a5c96b/assets/preview.gif)
+![Pixel Platformer · Product Introduction · Landscape](https://raw.githubusercontent.com/motiontemplates/252912/4b8d93a08d5cf6af102773274da5b0c125464fd2/assets/preview.gif)
 
 Explain a digital product with a pixel city, platform-game actions and retro game sound.
 
-#252912 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.2
+#252912 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.3
 
 Demo video：[https://media.openaicut.com/previews/586/draft-en-45375e2037e0.mp4](https://media.openaicut.com/previews/586/draft-en-45375e2037e0.mp4)
 
@@ -276,11 +276,11 @@ Technical documentation：[https://github.com/motiontemplates/252912](https://gi
 
 ### 17. Light and Dark Cuts · Product Promotion
 
-![Light and Dark Cuts · Product Promotion · Landscape](https://raw.githubusercontent.com/motiontemplates/867595/27b8e7ac176a534fd0fd43f6ad3440ecd2d04642/assets/preview.gif)
+![Light and Dark Cuts · Product Promotion · Landscape](https://raw.githubusercontent.com/motiontemplates/867595/98d298e484ba78967b136e1d9e6a24c407d28b33/assets/preview.gif)
 
 Show product features through fast light-and-dark cuts, bold type and interface demonstrations.
 
-#867595 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.0
+#867595 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.1
 
 Demo video：[https://media.openaicut.com/previews/587/draft-en-389d2163ab5f.mp4](https://media.openaicut.com/previews/587/draft-en-389d2163ab5f.mp4)
 
@@ -292,11 +292,11 @@ Technical documentation：[https://github.com/motiontemplates/867595](https://gi
 
 ### 18. Workflow Demo · Product Tutorial
 
-![Workflow Demo · Product Tutorial · Landscape](https://raw.githubusercontent.com/motiontemplates/670021/fa4fcdb2cc1bc707d993f11892c366f3a7dcef89/assets/preview.gif)
+![Workflow Demo · Product Tutorial · Landscape](https://raw.githubusercontent.com/motiontemplates/670021/fd1b20ae7667c5671d2b3b5eaa74afc40c4f6040/assets/preview.gif)
 
 Walk through choosing a template, providing content and producing a video for a product tutorial.
 
-#670021 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.0
+#670021 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.1
 
 Demo video：[https://media.openaicut.com/previews/588/draft-en-2422d5a878da.mp4](https://media.openaicut.com/previews/588/draft-en-2422d5a878da.mp4)
 
@@ -308,11 +308,11 @@ Technical documentation：[https://github.com/motiontemplates/670021](https://gi
 
 ### 19. Modular Collage · Creator Tools
 
-![Modular Collage · Creator Tools · Landscape](https://raw.githubusercontent.com/motiontemplates/452365/92bb3d47132fa9bdf4e275c5888385f5a4b38738/assets/preview.gif)
+![Modular Collage · Creator Tools · Landscape](https://raw.githubusercontent.com/motiontemplates/452365/48f6287940f6c7c9b709d83b7b1c736a111fb964/assets/preview.gif)
 
 Show how content, assets and animation fit together through modular collages for creator tools.
 
-#452365 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.0
+#452365 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.1
 
 Demo video：[https://media.openaicut.com/previews/589/draft-en-9fbec6ff121c.mp4](https://media.openaicut.com/previews/589/draft-en-9fbec6ff121c.mp4)
 
@@ -324,11 +324,11 @@ Technical documentation：[https://github.com/motiontemplates/452365](https://gi
 
 ### 20. Engineering Blueprint · Product Breakdown
 
-![Engineering Blueprint · Product Breakdown · Landscape](https://raw.githubusercontent.com/motiontemplates/213827/68da1f3effe9e8ca23eb91a9b106832f28f5bff7/assets/preview.gif)
+![Engineering Blueprint · Product Breakdown · Landscape](https://raw.githubusercontent.com/motiontemplates/213827/7c82896d775b78739b6f9885fd5a840089e989fd/assets/preview.gif)
 
 Explain a technical product or workflow through blueprints, structure diagrams and modular breakdowns.
 
-#213827 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.0
+#213827 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.1
 
 Demo video：[https://media.openaicut.com/previews/590/draft-en-99059891101e.mp4](https://media.openaicut.com/previews/590/draft-en-99059891101e.mp4)
 
@@ -340,11 +340,11 @@ Technical documentation：[https://github.com/motiontemplates/213827](https://gi
 
 ### 21. Keynote Stage · Product Demo
 
-![Keynote Stage · Product Demo · Landscape](https://raw.githubusercontent.com/motiontemplates/667934/edb2b860f608aa157528cb2014051e6c750dde0c/assets/preview.gif)
+![Keynote Stage · Product Demo · Landscape](https://raw.githubusercontent.com/motiontemplates/667934/c5404402d1b881eec6319d531d0382f8b33095dd/assets/preview.gif)
 
 Present a product on a keynote-style stage with large screens for launches and feature announcements.
 
-#667934 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.0
+#667934 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.1
 
 Demo video：[https://media.openaicut.com/previews/591/draft-en-28eb07a5a332.mp4](https://media.openaicut.com/previews/591/draft-en-28eb07a5a332.mp4)
 
@@ -356,11 +356,11 @@ Technical documentation：[https://github.com/motiontemplates/667934](https://gi
 
 ### 22. Paper Scroll · Brand Story
 
-![Paper Scroll · Brand Story · Landscape](https://raw.githubusercontent.com/motiontemplates/394243/320ad2d8b5995ddd581a9533080ce116f5c65cab/assets/preview.gif)
+![Paper Scroll · Brand Story · Landscape](https://raw.githubusercontent.com/motiontemplates/394243/20dda8482821c3ea6141fd02c861ab5df7809912/assets/preview.gif)
 
 Tell a brand story through an unfolding paper scroll, ink-inspired imagery and scroll transitions.
 
-#394243 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.0
+#394243 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.1
 
 Demo video：[https://media.openaicut.com/previews/592/draft-en-1f98c9f9df3c.mp4](https://media.openaicut.com/previews/592/draft-en-1f98c9f9df3c.mp4)
 
@@ -374,11 +374,11 @@ Technical documentation：[https://github.com/motiontemplates/394243](https://gi
 
 ### 23. Halftone Dots · Portrait Title
 
-![Halftone Dots · Portrait Title · Landscape](https://raw.githubusercontent.com/motiontemplates/381814/a7f6795a75438c95a22435f55ec6fc78a16728dc/assets/preview.gif)
+![Halftone Dots · Portrait Title · Landscape](https://raw.githubusercontent.com/motiontemplates/381814/596234427f1c10f51c688a9f1a364021b429d635/assets/preview.gif)
 
 Turn three portraits into flowing two-color halftone dots that disperse and regroup into a title.
 
-#381814 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.2
+#381814 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.3
 
 Demo video：[https://media.openaicut.com/previews/615/draft-en-a549a50aa6eb.mp4](https://media.openaicut.com/previews/615/draft-en-a549a50aa6eb.mp4)
 
@@ -390,11 +390,11 @@ Technical documentation：[https://github.com/motiontemplates/381814](https://gi
 
 ### 24. Photo Mosaic · Image Reveal
 
-![Photo Mosaic · Image Reveal · Landscape](https://raw.githubusercontent.com/motiontemplates/460349/1ac34a5d95f51ca915dab54760e47e2204c8919a/assets/preview.gif)
+![Photo Mosaic · Image Reveal · Landscape](https://raw.githubusercontent.com/motiontemplates/460349/2f5b97cf58ed19dec586fc35a0b5b340ffd26b6b/assets/preview.gif)
 
 Reveal a photo mosaic by pulling back from individual pictures to the complete image.
 
-#460349 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.0
+#460349 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.1
 
 Demo video：[https://media.openaicut.com/previews/616/draft-en-74fac1697ce7.mp4](https://media.openaicut.com/previews/616/draft-en-74fac1697ce7.mp4)
 
@@ -406,11 +406,11 @@ Technical documentation：[https://github.com/motiontemplates/460349](https://gi
 
 ### 25. Geometric Collage · Animated Poster
 
-![Geometric Collage · Animated Poster · Landscape](https://raw.githubusercontent.com/motiontemplates/907345/db7e5933f2901d49e692c212feeb80d8f83599aa/assets/preview.gif)
+![Geometric Collage · Animated Poster · Landscape](https://raw.githubusercontent.com/motiontemplates/907345/aa84c8125f38bb79c83053bfeb5b40bee7890915/assets/preview.gif)
 
 Recompose four photos as geometric shapes across three Bauhaus-inspired animated posters.
 
-#907345 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.0
+#907345 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.1
 
 Demo video：[https://media.openaicut.com/previews/617/draft-en-b232ff8db7c6.mp4](https://media.openaicut.com/previews/617/draft-en-b232ff8db7c6.mp4)
 
@@ -422,11 +422,11 @@ Technical documentation：[https://github.com/motiontemplates/907345](https://gi
 
 ### 26. Brush Repainting · Art Photo
 
-![Brush Repainting · Art Photo · Landscape](https://raw.githubusercontent.com/motiontemplates/328828/14e6a4587dcbc21ffff06ccc4f32a9aded86416e/assets/preview.gif)
+![Brush Repainting · Art Photo · Landscape](https://raw.githubusercontent.com/motiontemplates/328828/8cc4e0626bea1c549286405c48e7468ae7235880/assets/preview.gif)
 
 Repaint a photo with three directional brush layers, compare it with the original and reveal a signed title.
 
-#328828 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.0
+#328828 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.1
 
 Demo video：[https://media.openaicut.com/previews/618/draft-en-30b4688562e9.mp4](https://media.openaicut.com/previews/618/draft-en-30b4688562e9.mp4)
 
@@ -438,11 +438,11 @@ Technical documentation：[https://github.com/motiontemplates/328828](https://gi
 
 ### 27. Signal Glitch · Photo Transition
 
-![Signal Glitch · Photo Transition · Landscape](https://raw.githubusercontent.com/motiontemplates/638039/9d859692f09db9ba3bc8ae5eead46d41880c28dd/assets/preview.gif)
+![Signal Glitch · Photo Transition · Landscape](https://raw.githubusercontent.com/motiontemplates/638039/774f5458f58e3ddc2d369161c22748cd66fe3712/assets/preview.gif)
 
 Transform photos with pixel sorting, RGB splits and scanlines, ending with a CRT shutdown.
 
-#638039 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.0
+#638039 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.1
 
 Demo video：[https://media.openaicut.com/previews/619/draft-en-e3aaf5ab5ba1.mp4](https://media.openaicut.com/previews/619/draft-en-e3aaf5ab5ba1.mp4)
 
@@ -454,11 +454,11 @@ Technical documentation：[https://github.com/motiontemplates/638039](https://gi
 
 ### 28. Double Exposure · Portrait Layers
 
-![Double Exposure · Portrait Layers · Landscape](https://raw.githubusercontent.com/motiontemplates/800829/245105e7c1f556747d3c51c2459b375673f29a1d/assets/preview.gif)
+![Double Exposure · Portrait Layers · Landscape](https://raw.githubusercontent.com/motiontemplates/800829/66525b1bf9fdf299c6e95bb78f22ef89b635cbdc/assets/preview.gif)
 
 Fill a portrait silhouette with scenery, drift the layers in opposite directions and reveal a title through mist.
 
-#800829 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.0
+#800829 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.1
 
 Demo video：[https://media.openaicut.com/previews/620/draft-en-8b1d45590a57.mp4](https://media.openaicut.com/previews/620/draft-en-8b1d45590a57.mp4)
 
@@ -470,11 +470,11 @@ Technical documentation：[https://github.com/motiontemplates/800829](https://gi
 
 ### 29. Spatial Gallery · Photo Memories
 
-![Spatial Gallery · Photo Memories · Landscape](https://raw.githubusercontent.com/motiontemplates/743702/d01475737433f07f322ee12289c195ac1022dd9f/assets/preview.gif)
+![Spatial Gallery · Photo Memories · Landscape](https://raw.githubusercontent.com/motiontemplates/743702/70a629a86e862185fb76292162cc4443983f1868/assets/preview.gif)
 
 Travel through a dimensional photo gallery with captions, then move into the main image and a full-screen title.
 
-#743702 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.0
+#743702 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.1
 
 Demo video：[https://media.openaicut.com/previews/621/draft-en-d730d56fb8f4.mp4](https://media.openaicut.com/previews/621/draft-en-d730d56fb8f4.mp4)
 
@@ -486,11 +486,11 @@ Technical documentation：[https://github.com/motiontemplates/743702](https://gi
 
 ### 30. Mirror Kaleidoscope · Photo Motion
 
-![Mirror Kaleidoscope · Photo Motion · Landscape](https://raw.githubusercontent.com/motiontemplates/551805/24bcfc83ff63a01d61d65b3d628abd9bddc0cf1f/assets/preview.gif)
+![Mirror Kaleidoscope · Photo Motion · Landscape](https://raw.githubusercontent.com/motiontemplates/551805/64a038efcef8b4e21757c7d41e19387bb7fa1e6c/assets/preview.gif)
 
 Mirror two photos into a rotating twelve-segment kaleidoscope, transition through expanding rings and unfold the originals.
 
-#551805 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.0
+#551805 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.1
 
 Demo video：[https://media.openaicut.com/previews/622/draft-en-660c051c4b14.mp4](https://media.openaicut.com/previews/622/draft-en-660c051c4b14.mp4)
 
