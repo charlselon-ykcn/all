@@ -4,17 +4,17 @@
 
 ## 源码与下载方式
 
-本合集目前仅 #385712 在 GitHub 提供可直接下载的完整 .motion 模板包，免注册、免登录，按包内指南即可本地制作。
+编号 385712 模板可直接下载测试，按包内指南即可开始制作。各画幅的下载地址见对应条目。
 
-官网下载的 .motion 模板源码同样 100% 开源，代码许可见包内文件。GitHub 中的其它模板仓库展示技术资料与 Demo，完整源码随官网下载包交付。
+推荐从 MotionGit 官网下载，配套使用素材关联匹配、贴纸、背景音乐、模板自动检查与升级等能力，让素材准备与后续创作更顺畅。具体使用方式以包内指南和本期需求为准。
 
-官网下载还为模板配套联网匹配素材、贴纸、背景音乐等服务，帮助补充适合本期内容的素材、丰富视频效果。具体使用方式以包内指南和本期需求为准。
+官网下载的 .motion 模板源码同样 100% 开源，代码许可与制作指南随包提供。
 
-## GitHub 直下体验
+## 模板下载体验
 
 ### 1. 酷炫科技风 · 横屏
 
-![酷炫科技风 · 横屏](https://raw.githubusercontent.com/motiontemplates/385712/5f5872a16788739bda68ea442aad5de2efc0a5da/assets/preview.gif)
+![酷炫科技风 · 横屏](https://raw.githubusercontent.com/motiontemplates/385712/50283269c810eab3fa75ba2713bf438d604c449a/assets/preview.gif)
 
 金属立体字、光效与空间动效；中英横屏、中文竖屏，新增英文竖屏基础表达 B1–B4，支持人脸居中与圆形署名。
 
@@ -22,9 +22,9 @@
 
 Demo 视频：[▶ https://motiontemplates.github.io/385712/assets/demo.mp4](https://motiontemplates.github.io/385712/assets/demo.mp4)
 
-GitHub 直下 .motion：[https://motiontemplates.github.io/385712/downloads/kinetic-tech-zh.motion](https://motiontemplates.github.io/385712/downloads/kinetic-tech-zh.motion)
+直接下载测试 .motion：[https://motiontemplates.github.io/385712/downloads/kinetic-tech-zh.motion](https://motiontemplates.github.io/385712/downloads/kinetic-tech-zh.motion)
 
-模板详情与素材要求：[https://motiongit.com/@adunext/385712](https://motiongit.com/@adunext/385712)
+推荐官网下载（素材关联匹配与自动升级）：[https://motiongit.com/@adunext/385712](https://motiongit.com/@adunext/385712)
 
 技术资料：[https://github.com/motiontemplates/385712](https://github.com/motiontemplates/385712)
 
@@ -40,7 +40,7 @@ GitHub 直下 .motion：[https://motiontemplates.github.io/385712/downloads/kine
 
 Demo 视频：[▶ https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4](https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4)
 
-官网 .motion 下载：[https://motiongit.com/@adunext/385712](https://motiongit.com/@adunext/385712)
+官网下载 .motion：[https://motiongit.com/@adunext/385712](https://motiongit.com/@adunext/385712)
 
 模板详情与素材要求：[https://motiongit.com/@adunext/385712](https://motiongit.com/@adunext/385712)
 
@@ -58,7 +58,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-1
 
 Demo 视频：[▶ https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4](https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4)
 
-官网 .motion 下载：[https://motiongit.com/@adunext/template-01-integrated](https://motiongit.com/@adunext/template-01-integrated)
+官网下载 .motion：[https://motiongit.com/@adunext/template-01-integrated](https://motiongit.com/@adunext/template-01-integrated)
 
 模板详情与素材要求：[https://motiongit.com/@adunext/template-01-integrated](https://motiongit.com/@adunext/template-01-integrated)
 
@@ -74,7 +74,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/605/draft-en-eec61194c66
 
 Demo 视频：[▶ https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4](https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4)
 
-官网 .motion 下载：[https://motiongit.com/@adunext/template-01-integrated-portrait](https://motiongit.com/@adunext/template-01-integrated-portrait)
+官网下载 .motion：[https://motiongit.com/@adunext/template-01-integrated-portrait](https://motiongit.com/@adunext/template-01-integrated-portrait)
 
 模板详情与素材要求：[https://motiongit.com/@adunext/template-01-integrated-portrait](https://motiongit.com/@adunext/template-01-integrated-portrait)
 
@@ -90,7 +90,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d8
 
 Demo 视频：[▶ https://media.openaicut.com/previews/607/draft-en-c751c296f78b.mp4](https://media.openaicut.com/previews/607/draft-en-c751c296f78b.mp4)
 
-官网 .motion 下载：[https://motiongit.com/@adunext/template-02-expanded](https://motiongit.com/@adunext/template-02-expanded)
+官网下载 .motion：[https://motiongit.com/@adunext/template-02-expanded](https://motiongit.com/@adunext/template-02-expanded)
 
 模板详情与素材要求：[https://motiongit.com/@adunext/template-02-expanded](https://motiongit.com/@adunext/template-02-expanded)
 
@@ -106,7 +106,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/607/draft-en-c751c296f78
 
 Demo 视频：[▶ https://media.openaicut.com/previews/608/draft-en-a5200442ba79.mp4](https://media.openaicut.com/previews/608/draft-en-a5200442ba79.mp4)
 
-官网 .motion 下载：[https://motiongit.com/@adunext/template-02-expanded-portrait](https://motiongit.com/@adunext/template-02-expanded-portrait)
+官网下载 .motion：[https://motiongit.com/@adunext/template-02-expanded-portrait](https://motiongit.com/@adunext/template-02-expanded-portrait)
 
 模板详情与素材要求：[https://motiongit.com/@adunext/template-02-expanded-portrait](https://motiongit.com/@adunext/template-02-expanded-portrait)
 
@@ -122,7 +122,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/608/draft-en-a5200442ba7
 
 Demo 视频：[▶ https://media.openaicut.com/previews/609/draft-en-70e2fe808e0c.mp4](https://media.openaicut.com/previews/609/draft-en-70e2fe808e0c.mp4)
 
-官网 .motion 下载：[https://motiongit.com/@adunext/template-03-native](https://motiongit.com/@adunext/template-03-native)
+官网下载 .motion：[https://motiongit.com/@adunext/template-03-native](https://motiongit.com/@adunext/template-03-native)
 
 模板详情与素材要求：[https://motiongit.com/@adunext/template-03-native](https://motiongit.com/@adunext/template-03-native)
 
@@ -138,7 +138,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/609/draft-en-70e2fe808e0
 
 Demo 视频：[▶ https://media.openaicut.com/previews/610/draft-en-9785b0f9679c.mp4](https://media.openaicut.com/previews/610/draft-en-9785b0f9679c.mp4)
 
-官网 .motion 下载：[https://motiongit.com/@adunext/template-03-native-portrait](https://motiongit.com/@adunext/template-03-native-portrait)
+官网下载 .motion：[https://motiongit.com/@adunext/template-03-native-portrait](https://motiongit.com/@adunext/template-03-native-portrait)
 
 模板详情与素材要求：[https://motiongit.com/@adunext/template-03-native-portrait](https://motiongit.com/@adunext/template-03-native-portrait)
 
@@ -154,7 +154,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/610/draft-en-9785b0f9679
 
 Demo 视频：[▶ https://media.openaicut.com/previews/611/2.5.7-en-688a5e4511ae.mp4](https://media.openaicut.com/previews/611/2.5.7-en-688a5e4511ae.mp4)
 
-官网 .motion 下载：[https://motiongit.com/@adunext/template-04-dark-console](https://motiongit.com/@adunext/template-04-dark-console)
+官网下载 .motion：[https://motiongit.com/@adunext/template-04-dark-console](https://motiongit.com/@adunext/template-04-dark-console)
 
 模板详情与素材要求：[https://motiongit.com/@adunext/template-04-dark-console](https://motiongit.com/@adunext/template-04-dark-console)
 
@@ -170,7 +170,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/611/2.5.7-en-688a5e4511a
 
 Demo 视频：[▶ https://media.openaicut.com/previews/612/2.5.7-en-4414b3f06c06.mp4](https://media.openaicut.com/previews/612/2.5.7-en-4414b3f06c06.mp4)
 
-官网 .motion 下载：[https://motiongit.com/@adunext/template-04-dark-console-portrait](https://motiongit.com/@adunext/template-04-dark-console-portrait)
+官网下载 .motion：[https://motiongit.com/@adunext/template-04-dark-console-portrait](https://motiongit.com/@adunext/template-04-dark-console-portrait)
 
 模板详情与素材要求：[https://motiongit.com/@adunext/template-04-dark-console-portrait](https://motiongit.com/@adunext/template-04-dark-console-portrait)
 
@@ -186,7 +186,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/612/2.5.7-en-4414b3f06c0
 
 Demo 视频：[▶ https://media.openaicut.com/previews/613/draft-en-e06d1f42b0b9.mp4](https://media.openaicut.com/previews/613/draft-en-e06d1f42b0b9.mp4)
 
-官网 .motion 下载：[https://motiongit.com/@adunext/template-05-native](https://motiongit.com/@adunext/template-05-native)
+官网下载 .motion：[https://motiongit.com/@adunext/template-05-native](https://motiongit.com/@adunext/template-05-native)
 
 模板详情与素材要求：[https://motiongit.com/@adunext/template-05-native](https://motiongit.com/@adunext/template-05-native)
 
@@ -202,7 +202,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/613/draft-en-e06d1f42b0b
 
 Demo 视频：[▶ https://media.openaicut.com/previews/614/draft-en-6f4079db7a76.mp4](https://media.openaicut.com/previews/614/draft-en-6f4079db7a76.mp4)
 
-官网 .motion 下载：[https://motiongit.com/@adunext/template-05-native-portrait](https://motiongit.com/@adunext/template-05-native-portrait)
+官网下载 .motion：[https://motiongit.com/@adunext/template-05-native-portrait](https://motiongit.com/@adunext/template-05-native-portrait)
 
 模板详情与素材要求：[https://motiongit.com/@adunext/template-05-native-portrait](https://motiongit.com/@adunext/template-05-native-portrait)
 
@@ -218,7 +218,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/614/draft-en-6f4079db7a7
 
 Demo 视频：[▶ https://media.openaicut.com/previews/623/draft-en-e9dd279eebe9.mp4](https://media.openaicut.com/previews/623/draft-en-e9dd279eebe9.mp4)
 
-官网 .motion 下载：[https://motiongit.com/@adunext/vibrant-poster](https://motiongit.com/@adunext/vibrant-poster)
+官网下载 .motion：[https://motiongit.com/@adunext/vibrant-poster](https://motiongit.com/@adunext/vibrant-poster)
 
 模板详情与素材要求：[https://motiongit.com/@adunext/vibrant-poster](https://motiongit.com/@adunext/vibrant-poster)
 
@@ -234,7 +234,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/623/draft-en-e9dd279eebe
 
 Demo 视频：[▶ https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4](https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4)
 
-官网 .motion 下载：[https://motiongit.com/@adunext/vibrant-poster-portrait](https://motiongit.com/@adunext/vibrant-poster-portrait)
+官网下载 .motion：[https://motiongit.com/@adunext/vibrant-poster-portrait](https://motiongit.com/@adunext/vibrant-poster-portrait)
 
 模板详情与素材要求：[https://motiongit.com/@adunext/vibrant-poster-portrait](https://motiongit.com/@adunext/vibrant-poster-portrait)
 
@@ -252,7 +252,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/624/draft-en-42518fd309a
 
 Demo 视频：[▶ https://media.openaicut.com/previews/585/draft-en-3d2b6bdce3c7.mp4](https://media.openaicut.com/previews/585/draft-en-3d2b6bdce3c7.mp4)
 
-官网 .motion 下载：[https://motiongit.com/@motiongit/motiongit-promo-main](https://motiongit.com/@motiongit/motiongit-promo-main)
+官网下载 .motion：[https://motiongit.com/@motiongit/motiongit-promo-main](https://motiongit.com/@motiongit/motiongit-promo-main)
 
 模板详情与素材要求：[https://motiongit.com/@motiongit/motiongit-promo-main](https://motiongit.com/@motiongit/motiongit-promo-main)
 
@@ -268,7 +268,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/585/draft-en-3d2b6bdce3c
 
 Demo 视频：[▶ https://media.openaicut.com/previews/586/draft-en-45375e2037e0.mp4](https://media.openaicut.com/previews/586/draft-en-45375e2037e0.mp4)
 
-官网 .motion 下载：[https://motiongit.com/@motiongit/motiongit-promo-pixel](https://motiongit.com/@motiongit/motiongit-promo-pixel)
+官网下载 .motion：[https://motiongit.com/@motiongit/motiongit-promo-pixel](https://motiongit.com/@motiongit/motiongit-promo-pixel)
 
 模板详情与素材要求：[https://motiongit.com/@motiongit/motiongit-promo-pixel](https://motiongit.com/@motiongit/motiongit-promo-pixel)
 
@@ -284,7 +284,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/586/draft-en-45375e2037e
 
 Demo 视频：[▶ https://media.openaicut.com/previews/587/draft-en-389d2163ab5f.mp4](https://media.openaicut.com/previews/587/draft-en-389d2163ab5f.mp4)
 
-官网 .motion 下载：[https://motiongit.com/@motiongit/motiongit-promo-velocity](https://motiongit.com/@motiongit/motiongit-promo-velocity)
+官网下载 .motion：[https://motiongit.com/@motiongit/motiongit-promo-velocity](https://motiongit.com/@motiongit/motiongit-promo-velocity)
 
 模板详情与素材要求：[https://motiongit.com/@motiongit/motiongit-promo-velocity](https://motiongit.com/@motiongit/motiongit-promo-velocity)
 
@@ -300,7 +300,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/587/draft-en-389d2163ab5
 
 Demo 视频：[▶ https://media.openaicut.com/previews/588/draft-en-2422d5a878da.mp4](https://media.openaicut.com/previews/588/draft-en-2422d5a878da.mp4)
 
-官网 .motion 下载：[https://motiongit.com/@motiongit/motiongit-promo-user](https://motiongit.com/@motiongit/motiongit-promo-user)
+官网下载 .motion：[https://motiongit.com/@motiongit/motiongit-promo-user](https://motiongit.com/@motiongit/motiongit-promo-user)
 
 模板详情与素材要求：[https://motiongit.com/@motiongit/motiongit-promo-user](https://motiongit.com/@motiongit/motiongit-promo-user)
 
@@ -316,7 +316,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/588/draft-en-2422d5a878d
 
 Demo 视频：[▶ https://media.openaicut.com/previews/589/draft-en-9fbec6ff121c.mp4](https://media.openaicut.com/previews/589/draft-en-9fbec6ff121c.mp4)
 
-官网 .motion 下载：[https://motiongit.com/@motiongit/motiongit-promo-creator](https://motiongit.com/@motiongit/motiongit-promo-creator)
+官网下载 .motion：[https://motiongit.com/@motiongit/motiongit-promo-creator](https://motiongit.com/@motiongit/motiongit-promo-creator)
 
 模板详情与素材要求：[https://motiongit.com/@motiongit/motiongit-promo-creator](https://motiongit.com/@motiongit/motiongit-promo-creator)
 
@@ -332,7 +332,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/589/draft-en-9fbec6ff121
 
 Demo 视频：[▶ https://media.openaicut.com/previews/590/draft-en-99059891101e.mp4](https://media.openaicut.com/previews/590/draft-en-99059891101e.mp4)
 
-官网 .motion 下载：[https://motiongit.com/@motiongit/motiongit-promo-blueprint](https://motiongit.com/@motiongit/motiongit-promo-blueprint)
+官网下载 .motion：[https://motiongit.com/@motiongit/motiongit-promo-blueprint](https://motiongit.com/@motiongit/motiongit-promo-blueprint)
 
 模板详情与素材要求：[https://motiongit.com/@motiongit/motiongit-promo-blueprint](https://motiongit.com/@motiongit/motiongit-promo-blueprint)
 
@@ -348,7 +348,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/590/draft-en-99059891101
 
 Demo 视频：[▶ https://media.openaicut.com/previews/591/draft-en-28eb07a5a332.mp4](https://media.openaicut.com/previews/591/draft-en-28eb07a5a332.mp4)
 
-官网 .motion 下载：[https://motiongit.com/@motiongit/motiongit-promo-keynote](https://motiongit.com/@motiongit/motiongit-promo-keynote)
+官网下载 .motion：[https://motiongit.com/@motiongit/motiongit-promo-keynote](https://motiongit.com/@motiongit/motiongit-promo-keynote)
 
 模板详情与素材要求：[https://motiongit.com/@motiongit/motiongit-promo-keynote](https://motiongit.com/@motiongit/motiongit-promo-keynote)
 
@@ -364,7 +364,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/591/draft-en-28eb07a5a33
 
 Demo 视频：[▶ https://media.openaicut.com/previews/592/draft-en-1f98c9f9df3c.mp4](https://media.openaicut.com/previews/592/draft-en-1f98c9f9df3c.mp4)
 
-官网 .motion 下载：[https://motiongit.com/@motiongit/motiongit-promo-ink](https://motiongit.com/@motiongit/motiongit-promo-ink)
+官网下载 .motion：[https://motiongit.com/@motiongit/motiongit-promo-ink](https://motiongit.com/@motiongit/motiongit-promo-ink)
 
 模板详情与素材要求：[https://motiongit.com/@motiongit/motiongit-promo-ink](https://motiongit.com/@motiongit/motiongit-promo-ink)
 
@@ -382,7 +382,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/592/draft-en-1f98c9f9df3
 
 Demo 视频：[▶ https://media.openaicut.com/previews/615/draft-en-a549a50aa6eb.mp4](https://media.openaicut.com/previews/615/draft-en-a549a50aa6eb.mp4)
 
-官网 .motion 下载：[https://motiongit.com/@prism-studio/visual-art-a-halftone](https://motiongit.com/@prism-studio/visual-art-a-halftone)
+官网下载 .motion：[https://motiongit.com/@prism-studio/visual-art-a-halftone](https://motiongit.com/@prism-studio/visual-art-a-halftone)
 
 模板详情与素材要求：[https://motiongit.com/@prism-studio/visual-art-a-halftone](https://motiongit.com/@prism-studio/visual-art-a-halftone)
 
@@ -398,7 +398,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/615/draft-en-a549a50aa6e
 
 Demo 视频：[▶ https://media.openaicut.com/previews/616/draft-en-74fac1697ce7.mp4](https://media.openaicut.com/previews/616/draft-en-74fac1697ce7.mp4)
 
-官网 .motion 下载：[https://motiongit.com/@prism-studio/visual-art-b-mosaic](https://motiongit.com/@prism-studio/visual-art-b-mosaic)
+官网下载 .motion：[https://motiongit.com/@prism-studio/visual-art-b-mosaic](https://motiongit.com/@prism-studio/visual-art-b-mosaic)
 
 模板详情与素材要求：[https://motiongit.com/@prism-studio/visual-art-b-mosaic](https://motiongit.com/@prism-studio/visual-art-b-mosaic)
 
@@ -414,7 +414,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/616/draft-en-74fac1697ce
 
 Demo 视频：[▶ https://media.openaicut.com/previews/617/draft-en-b232ff8db7c6.mp4](https://media.openaicut.com/previews/617/draft-en-b232ff8db7c6.mp4)
 
-官网 .motion 下载：[https://motiongit.com/@prism-studio/visual-art-c-collage](https://motiongit.com/@prism-studio/visual-art-c-collage)
+官网下载 .motion：[https://motiongit.com/@prism-studio/visual-art-c-collage](https://motiongit.com/@prism-studio/visual-art-c-collage)
 
 模板详情与素材要求：[https://motiongit.com/@prism-studio/visual-art-c-collage](https://motiongit.com/@prism-studio/visual-art-c-collage)
 
@@ -430,7 +430,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/617/draft-en-b232ff8db7c
 
 Demo 视频：[▶ https://media.openaicut.com/previews/618/draft-en-30b4688562e9.mp4](https://media.openaicut.com/previews/618/draft-en-30b4688562e9.mp4)
 
-官网 .motion 下载：[https://motiongit.com/@prism-studio/visual-art-d-brushwork](https://motiongit.com/@prism-studio/visual-art-d-brushwork)
+官网下载 .motion：[https://motiongit.com/@prism-studio/visual-art-d-brushwork](https://motiongit.com/@prism-studio/visual-art-d-brushwork)
 
 模板详情与素材要求：[https://motiongit.com/@prism-studio/visual-art-d-brushwork](https://motiongit.com/@prism-studio/visual-art-d-brushwork)
 
@@ -446,7 +446,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/618/draft-en-30b4688562e
 
 Demo 视频：[▶ https://media.openaicut.com/previews/619/draft-en-e3aaf5ab5ba1.mp4](https://media.openaicut.com/previews/619/draft-en-e3aaf5ab5ba1.mp4)
 
-官网 .motion 下载：[https://motiongit.com/@prism-studio/visual-art-e-glitch](https://motiongit.com/@prism-studio/visual-art-e-glitch)
+官网下载 .motion：[https://motiongit.com/@prism-studio/visual-art-e-glitch](https://motiongit.com/@prism-studio/visual-art-e-glitch)
 
 模板详情与素材要求：[https://motiongit.com/@prism-studio/visual-art-e-glitch](https://motiongit.com/@prism-studio/visual-art-e-glitch)
 
@@ -462,7 +462,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/619/draft-en-e3aaf5ab5ba
 
 Demo 视频：[▶ https://media.openaicut.com/previews/620/draft-en-8b1d45590a57.mp4](https://media.openaicut.com/previews/620/draft-en-8b1d45590a57.mp4)
 
-官网 .motion 下载：[https://motiongit.com/@prism-studio/visual-art-f-double](https://motiongit.com/@prism-studio/visual-art-f-double)
+官网下载 .motion：[https://motiongit.com/@prism-studio/visual-art-f-double](https://motiongit.com/@prism-studio/visual-art-f-double)
 
 模板详情与素材要求：[https://motiongit.com/@prism-studio/visual-art-f-double](https://motiongit.com/@prism-studio/visual-art-f-double)
 
@@ -478,7 +478,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/620/draft-en-8b1d45590a5
 
 Demo 视频：[▶ https://media.openaicut.com/previews/621/draft-en-d730d56fb8f4.mp4](https://media.openaicut.com/previews/621/draft-en-d730d56fb8f4.mp4)
 
-官网 .motion 下载：[https://motiongit.com/@prism-studio/visual-art-g-gallery](https://motiongit.com/@prism-studio/visual-art-g-gallery)
+官网下载 .motion：[https://motiongit.com/@prism-studio/visual-art-g-gallery](https://motiongit.com/@prism-studio/visual-art-g-gallery)
 
 模板详情与素材要求：[https://motiongit.com/@prism-studio/visual-art-g-gallery](https://motiongit.com/@prism-studio/visual-art-g-gallery)
 
@@ -494,7 +494,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/621/draft-en-d730d56fb8f
 
 Demo 视频：[▶ https://media.openaicut.com/previews/622/draft-en-660c051c4b14.mp4](https://media.openaicut.com/previews/622/draft-en-660c051c4b14.mp4)
 
-官网 .motion 下载：[https://motiongit.com/@prism-studio/visual-art-h-kaleido](https://motiongit.com/@prism-studio/visual-art-h-kaleido)
+官网下载 .motion：[https://motiongit.com/@prism-studio/visual-art-h-kaleido](https://motiongit.com/@prism-studio/visual-art-h-kaleido)
 
 模板详情与素材要求：[https://motiongit.com/@prism-studio/visual-art-h-kaleido](https://motiongit.com/@prism-studio/visual-art-h-kaleido)
 
