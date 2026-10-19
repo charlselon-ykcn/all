@@ -1,6 +1,6 @@
 # MotionGit 模板图文清单
 
-26 个模板，27 个独立画幅 Demo。横屏与竖屏分别展示；各条图片、视频与下载入口对应本条版本。
+28 个模板，29 个独立画幅 Demo。横屏与竖屏分别展示；各条图片、视频与下载入口对应本条版本。
 
 ## 源码与下载方式
 
@@ -210,9 +210,41 @@ Demo 视频：[▶ https://media.openaicut.com/previews/614/draft-en-6f4079db7a7
 
 技术资料：[https://github.com/motiontemplates/293151](https://github.com/motiontemplates/293151)
 
+### 13. 活力海报 · 口播讲解
+
+![活力海报 · 口播讲解 · 横屏](https://raw.githubusercontent.com/motiontemplates/762139/5331164c1f00b655d7cd6d4afb926ac47d3151d1/assets/preview.gif)
+
+用高对比海报、大字、清单和图形关系配合口播，含原生动画与新增组件，横屏独立编排。
+
+#762139 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.7
+
+Demo 视频：[▶ https://media.openaicut.com/previews/623/draft-en-e9dd279eebe9.mp4](https://media.openaicut.com/previews/623/draft-en-e9dd279eebe9.mp4)
+
+官网下载 .motion：[https://motiongit.com/@adunext/vibrant-poster](https://motiongit.com/@adunext/vibrant-poster)
+
+模板详情与素材要求：[https://motiongit.com/@adunext/vibrant-poster](https://motiongit.com/@adunext/vibrant-poster)
+
+技术资料：[https://github.com/motiontemplates/762139](https://github.com/motiontemplates/762139)
+
+### 14. 活力海报 · 口播讲解 · 竖屏
+
+![活力海报 · 口播讲解 · 竖屏](https://raw.githubusercontent.com/motiontemplates/721489/cc5d6e5a87f64544dc1a347a09b6cf99735c6fb2/assets/preview.gif)
+
+用高对比海报、大字、清单和图形关系配合口播，含原生动画与新增组件，竖屏独立编排。
+
+#721489 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.7
+
+Demo 视频：[▶ https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4](https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4)
+
+官网下载 .motion：[https://motiongit.com/@adunext/vibrant-poster-portrait](https://motiongit.com/@adunext/vibrant-poster-portrait)
+
+模板详情与素材要求：[https://motiongit.com/@adunext/vibrant-poster-portrait](https://motiongit.com/@adunext/vibrant-poster-portrait)
+
+技术资料：[https://github.com/motiontemplates/721489](https://github.com/motiontemplates/721489)
+
 ## 品牌与产品
 
-### 13. 多屏拼贴 · 品牌宣传
+### 15. 多屏拼贴 · 品牌宣传
 
 ![多屏拼贴 · 品牌宣传 · 横屏](https://raw.githubusercontent.com/motiontemplates/128610/d399fcdcab89f746c57e06f208129c5cbebd3cd1/assets/preview.gif)
 
@@ -228,7 +260,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/585/draft-en-3d2b6bdce3c
 
 技术资料：[https://github.com/motiontemplates/128610](https://github.com/motiontemplates/128610)
 
-### 14. 像素闯关 · 产品宣传
+### 16. 像素闯关 · 产品宣传
 
 ![像素闯关 · 产品宣传 · 横屏](https://raw.githubusercontent.com/motiontemplates/252912/3c09bde7ecd4cdf7195cf38dee80ca0a681b1bb8/assets/preview.gif)
 
@@ -244,7 +276,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/586/draft-en-45375e2037e
 
 技术资料：[https://github.com/motiontemplates/252912](https://github.com/motiontemplates/252912)
 
-### 15. 明暗快切 · 产品宣传
+### 17. 明暗快切 · 产品宣传
 
 ![明暗快切 · 产品宣传 · 横屏](https://raw.githubusercontent.com/motiontemplates/867595/5b5443941a9884286bac50f32480f775c6aaa546/assets/preview.gif)
 
@@ -260,7 +292,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/587/draft-en-389d2163ab5
 
 技术资料：[https://github.com/motiontemplates/867595](https://github.com/motiontemplates/867595)
 
-### 16. 流程演示 · 产品教程
+### 18. 流程演示 · 产品教程
 
 ![流程演示 · 产品教程 · 横屏](https://raw.githubusercontent.com/motiontemplates/670021/6e78985469440d056f7ab35f56f226f8714ead09/assets/preview.gif)
 
@@ -276,7 +308,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/588/draft-en-2422d5a878d
 
 技术资料：[https://github.com/motiontemplates/670021](https://github.com/motiontemplates/670021)
 
-### 17. 模块拼贴 · 创作者宣传
+### 19. 模块拼贴 · 创作者宣传
 
 ![模块拼贴 · 创作者宣传 · 横屏](https://raw.githubusercontent.com/motiontemplates/452365/e72b0865a62d9215da0db4dd8b262419de670d7a/assets/preview.gif)
 
@@ -292,7 +324,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/589/draft-en-9fbec6ff121
 
 技术资料：[https://github.com/motiontemplates/452365](https://github.com/motiontemplates/452365)
 
-### 18. 工程蓝图 · 产品拆解
+### 20. 工程蓝图 · 产品拆解
 
 ![工程蓝图 · 产品拆解 · 横屏](https://raw.githubusercontent.com/motiontemplates/213827/aec3987e1423999749f33d1ecd48f8113e6aad40/assets/preview.gif)
 
@@ -308,7 +340,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/590/draft-en-99059891101
 
 技术资料：[https://github.com/motiontemplates/213827](https://github.com/motiontemplates/213827)
 
-### 19. 宣纸手卷 · 品牌叙事
+### 21. 宣纸手卷 · 品牌叙事
 
 ![宣纸手卷 · 品牌叙事 · 横屏](https://raw.githubusercontent.com/motiontemplates/394243/cf1cb3d58e86b6a5a99fee42edecca088f07527d/assets/preview.gif)
 
@@ -326,7 +358,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/592/draft-en-1f98c9f9df3
 
 ## 照片与视觉
 
-### 20. 半调网点 · 人像标题
+### 22. 半调网点 · 人像标题
 
 ![半调网点 · 人像标题 · 横屏](https://raw.githubusercontent.com/motiontemplates/381814/82d64caf098f54feb3b2c7c38919b97e95705a24/assets/preview.gif)
 
@@ -342,7 +374,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/615/draft-en-a549a50aa6e
 
 技术资料：[https://github.com/motiontemplates/381814](https://github.com/motiontemplates/381814)
 
-### 21. 照片马赛克 · 拼图揭幕
+### 23. 照片马赛克 · 拼图揭幕
 
 ![照片马赛克 · 拼图揭幕 · 横屏](https://raw.githubusercontent.com/motiontemplates/460349/c24c334f7b57b156d374941994ebbc0c7651a4a5/assets/preview.gif)
 
@@ -358,7 +390,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/616/draft-en-74fac1697ce
 
 技术资料：[https://github.com/motiontemplates/460349](https://github.com/motiontemplates/460349)
 
-### 22. 几何拼贴 · 动态海报
+### 24. 几何拼贴 · 动态海报
 
 ![几何拼贴 · 动态海报 · 横屏](https://raw.githubusercontent.com/motiontemplates/907345/ffc45252fbef80b7f7bc5b532aea5ca8d358c637/assets/preview.gif)
 
@@ -374,7 +406,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/617/draft-en-b232ff8db7c
 
 技术资料：[https://github.com/motiontemplates/907345](https://github.com/motiontemplates/907345)
 
-### 23. 笔触重绘 · 艺术照片
+### 25. 笔触重绘 · 艺术照片
 
 ![笔触重绘 · 艺术照片 · 横屏](https://raw.githubusercontent.com/motiontemplates/328828/d884cbaa985cf69edfbecda008ab3923df15d50b/assets/preview.gif)
 
@@ -390,7 +422,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/618/draft-en-30b4688562e
 
 技术资料：[https://github.com/motiontemplates/328828](https://github.com/motiontemplates/328828)
 
-### 24. 信号故障 · 照片转场
+### 26. 信号故障 · 照片转场
 
 ![信号故障 · 照片转场 · 横屏](https://raw.githubusercontent.com/motiontemplates/638039/47fdcf7acc7a1baf6d077425afc7b6ee11dda968/assets/preview.gif)
 
@@ -406,7 +438,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/619/draft-en-e3aaf5ab5ba
 
 技术资料：[https://github.com/motiontemplates/638039](https://github.com/motiontemplates/638039)
 
-### 25. 双重曝光 · 人像叠影
+### 27. 双重曝光 · 人像叠影
 
 ![双重曝光 · 人像叠影 · 横屏](https://raw.githubusercontent.com/motiontemplates/800829/19d1da6804a8a33e875baa3aa7921e0ba8027c95/assets/preview.gif)
 
@@ -422,7 +454,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/620/draft-en-8b1d45590a5
 
 技术资料：[https://github.com/motiontemplates/800829](https://github.com/motiontemplates/800829)
 
-### 26. 空间画廊 · 回忆相册
+### 28. 空间画廊 · 回忆相册
 
 ![空间画廊 · 回忆相册 · 横屏](https://raw.githubusercontent.com/motiontemplates/743702/d0e77d35c666b3dcd6e91531fbd0520ed41f1095/assets/preview.gif)
 
@@ -438,7 +470,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/621/draft-en-d730d56fb8f
 
 技术资料：[https://github.com/motiontemplates/743702](https://github.com/motiontemplates/743702)
 
-### 27. 镜像万花筒 · 照片变幻
+### 29. 镜像万花筒 · 照片变幻
 
 ![镜像万花筒 · 照片变幻 · 横屏](https://raw.githubusercontent.com/motiontemplates/551805/7e7586009af804a63632bd883d4ef201d77a2171/assets/preview.gif)
 
