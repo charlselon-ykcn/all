@@ -68,11 +68,11 @@ Demo 视频：[▶ https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-1
 
 ### 3. 现代图文 · 口播讲解
 
-<a href="https://raw.githubusercontent.com/motiontemplates/336980/438d7db13195f9e324636a1c792fb997b9450869/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/336980/438d7db13195f9e324636a1c792fb997b9450869/assets/preview.gif" alt="现代图文 · 口播讲解 · 横屏" width="640"></a>
+<a href="https://raw.githubusercontent.com/motiontemplates/336980/724e01472a3c64c143d4dd829727f2c33a2192e6/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/336980/724e01472a3c64c143d4dd829727f2c33a2192e6/assets/preview.gif" alt="现代图文 · 口播讲解 · 横屏" width="640"></a>
 
 用现代图文版式、文字强调和信息拆解配合口播，适合观点、证据与步骤讲解。
 
-#336980 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.9
+#336980 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.10
 
 Demo 视频：[▶ https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4](https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4)
 
@@ -82,11 +82,11 @@ Demo 视频：[▶ https://media.openaicut.com/previews/605/draft-en-eec61194c66
 
 ### 4. 现代图文 · 口播讲解 · 竖屏
 
-<a href="https://raw.githubusercontent.com/motiontemplates/314486/21f7e0c0414589e859e5ed6813371d5733f242db/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/314486/21f7e0c0414589e859e5ed6813371d5733f242db/assets/preview.gif" alt="现代图文 · 口播讲解 · 竖屏" width="202"></a>
+<a href="https://raw.githubusercontent.com/motiontemplates/314486/a0a99367e69005233b14d5edfa21b7f4e62da0e5/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/314486/a0a99367e69005233b14d5edfa21b7f4e62da0e5/assets/preview.gif" alt="现代图文 · 口播讲解 · 竖屏" width="202"></a>
 
 用现代图文版式、文字强调和信息拆解配合口播，适合观点、证据与步骤讲解。
 
-#314486 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.9
+#314486 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.10
 
 Demo 视频：[▶ https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4](https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4)
 
@@ -336,11 +336,11 @@ Demo 视频：[▶ https://media.openaicut.com/previews/591/draft-en-28eb07a5a33
 
 ### 22. 宣纸手卷 · 品牌叙事
 
-<a href="https://raw.githubusercontent.com/motiontemplates/394243/754cc451c08bf0194ad924360be04fbb8b0a85cd/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/394243/754cc451c08bf0194ad924360be04fbb8b0a85cd/assets/preview.gif" alt="宣纸手卷 · 品牌叙事 · 横屏" width="640"></a>
+<a href="https://raw.githubusercontent.com/motiontemplates/394243/e880c950f5c277924f406854016b51ca915d2f7c/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/394243/e880c950f5c277924f406854016b51ca915d2f7c/assets/preview.gif" alt="宣纸手卷 · 品牌叙事 · 横屏" width="640"></a>
 
 沿宣纸手卷展开品牌故事，以水墨意象和卷轴转场营造东方叙事。
 
-#394243 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5
+#394243 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.6.6
 
 Demo 视频：[▶ https://media.openaicut.com/previews/592/draft-en-1f98c9f9df3c.mp4](https://media.openaicut.com/previews/592/draft-en-1f98c9f9df3c.mp4)
 

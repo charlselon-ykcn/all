@@ -68,11 +68,11 @@ Technical documentation：[https://github.com/motiontemplates/385712](https://gi
 
 ### 3. Modern Editorial · Narrated Explainer
 
-<a href="https://raw.githubusercontent.com/motiontemplates/336980/438d7db13195f9e324636a1c792fb997b9450869/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/336980/438d7db13195f9e324636a1c792fb997b9450869/assets/preview.gif" alt="Modern Editorial · Narrated Explainer · Landscape" width="640"></a>
+<a href="https://raw.githubusercontent.com/motiontemplates/336980/724e01472a3c64c143d4dd829727f2c33a2192e6/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/336980/724e01472a3c64c143d4dd829727f2c33a2192e6/assets/preview.gif" alt="Modern Editorial · Narrated Explainer · Landscape" width="640"></a>
 
 Support narration with modern editorial layouts, text emphasis and information breakdowns.
 
-#336980 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.9
+#336980 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.10
 
 Demo video：[https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4](https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4)
 
@@ -82,11 +82,11 @@ Technical documentation：[https://github.com/motiontemplates/336980](https://gi
 
 ### 4. Modern Editorial · Narrated Explainer · Portrait
 
-<a href="https://raw.githubusercontent.com/motiontemplates/314486/21f7e0c0414589e859e5ed6813371d5733f242db/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/314486/21f7e0c0414589e859e5ed6813371d5733f242db/assets/preview.gif" alt="Modern Editorial · Narrated Explainer · Portrait" width="202"></a>
+<a href="https://raw.githubusercontent.com/motiontemplates/314486/a0a99367e69005233b14d5edfa21b7f4e62da0e5/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/314486/a0a99367e69005233b14d5edfa21b7f4e62da0e5/assets/preview.gif" alt="Modern Editorial · Narrated Explainer · Portrait" width="202"></a>
 
 Support narration with modern editorial layouts, text emphasis and information breakdowns.
 
-#314486 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.9
+#314486 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.10
 
 Demo video：[https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4](https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4)
 
@@ -336,11 +336,11 @@ Technical documentation：[https://github.com/motiontemplates/667934](https://gi
 
 ### 22. Paper Scroll · Brand Story
 
-<a href="https://raw.githubusercontent.com/motiontemplates/394243/754cc451c08bf0194ad924360be04fbb8b0a85cd/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/394243/754cc451c08bf0194ad924360be04fbb8b0a85cd/assets/preview.gif" alt="Paper Scroll · Brand Story · Landscape" width="640"></a>
+<a href="https://raw.githubusercontent.com/motiontemplates/394243/e880c950f5c277924f406854016b51ca915d2f7c/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/394243/e880c950f5c277924f406854016b51ca915d2f7c/assets/preview.gif" alt="Paper Scroll · Brand Story · Landscape" width="640"></a>
 
 Tell a brand story through an unfolding paper scroll, ink-inspired imagery and scroll transitions.
 
-#394243 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5
+#394243 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.6
 
 Demo video：[https://media.openaicut.com/previews/592/draft-en-1f98c9f9df3c.mp4](https://media.openaicut.com/previews/592/draft-en-1f98c9f9df3c.mp4)
 
