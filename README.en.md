@@ -34,7 +34,7 @@ The template source in official .motion downloads is also 100% open source. The 
 
 ### 1. Kinetic Tech · Landscape
 
-![Kinetic Tech · Landscape](https://raw.githubusercontent.com/motiontemplates/385712/9dfbe7d7c6a6d4aa03f6f8e2f2285e631099faae/assets/preview.gif)
+<a href="https://raw.githubusercontent.com/motiontemplates/385712/9dfbe7d7c6a6d4aa03f6f8e2f2285e631099faae/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/385712/9dfbe7d7c6a6d4aa03f6f8e2f2285e631099faae/assets/preview.gif" alt="Kinetic Tech · Landscape" width="640"></a>
 
 Editable MotionGit .motion animation with the production guide included in the package.
 
@@ -50,7 +50,7 @@ Technical documentation：[https://github.com/motiontemplates/385712](https://gi
 
 ### 2. Kinetic Tech · Chinese Portrait
 
-![Kinetic Tech · Chinese Portrait](https://motiongit.com/media/covers/626/0.2.9-open-beta-zh-b81b4798ad6a.jpg)
+<a href="https://motiongit.com/media/covers/626/0.2.9-open-beta-zh-b81b4798ad6a.jpg"><img src="https://motiongit.com/media/covers/626/0.2.9-open-beta-zh-b81b4798ad6a.jpg" alt="Kinetic Tech · Chinese Portrait" width="202"></a>
 
 Editable MotionGit .motion animation with the production guide included in the package.
 
@@ -70,7 +70,7 @@ Technical documentation：[https://github.com/motiontemplates/385712](https://gi
 
 ### 3. Modern Editorial · Narrated Explainer
 
-![Modern Editorial · Narrated Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/336980/5e90810cd67c92549e3a9d7769eafa27858d4fd1/assets/preview.gif)
+<a href="https://raw.githubusercontent.com/motiontemplates/336980/5e90810cd67c92549e3a9d7769eafa27858d4fd1/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/336980/5e90810cd67c92549e3a9d7769eafa27858d4fd1/assets/preview.gif" alt="Modern Editorial · Narrated Explainer · Landscape" width="640"></a>
 
 Support narration with modern editorial layouts, text emphasis and information breakdowns.
 
@@ -86,7 +86,7 @@ Technical documentation：[https://github.com/motiontemplates/336980](https://gi
 
 ### 4. Modern Editorial · Narrated Explainer · Portrait
 
-![Modern Editorial · Narrated Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/314486/b52b47812d495e6fe3b862629426d6fc14dbe6d6/assets/preview.gif)
+<a href="https://raw.githubusercontent.com/motiontemplates/314486/b52b47812d495e6fe3b862629426d6fc14dbe6d6/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/314486/b52b47812d495e6fe3b862629426d6fc14dbe6d6/assets/preview.gif" alt="Modern Editorial · Narrated Explainer · Portrait" width="202"></a>
 
 Support narration with modern editorial layouts, text emphasis and information breakdowns.
 
@@ -102,7 +102,7 @@ Technical documentation：[https://github.com/motiontemplates/314486](https://gi
 
 ### 5. Paper Perspective · Narrated Explainer
 
-![Paper Perspective · Narrated Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/358192/ed62e032ebf162c65347a3f5cc870ebfbd5e8414/assets/preview.gif)
+<a href="https://raw.githubusercontent.com/motiontemplates/358192/ed62e032ebf162c65347a3f5cc870ebfbd5e8414/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/358192/ed62e032ebf162c65347a3f5cc870ebfbd5e8414/assets/preview.gif" alt="Paper Perspective · Narrated Explainer · Landscape" width="640"></a>
 
 Support structured explanations with paper perspective, layered cards and text-image relationships.
 
@@ -118,7 +118,7 @@ Technical documentation：[https://github.com/motiontemplates/358192](https://gi
 
 ### 6. Paper Perspective · Narrated Explainer · Portrait
 
-![Paper Perspective · Narrated Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/295450/fcb842272e85c79730179f170ec3109e81d1b0da/assets/preview.gif)
+<a href="https://raw.githubusercontent.com/motiontemplates/295450/fcb842272e85c79730179f170ec3109e81d1b0da/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/295450/fcb842272e85c79730179f170ec3109e81d1b0da/assets/preview.gif" alt="Paper Perspective · Narrated Explainer · Portrait" width="202"></a>
 
 Support structured explanations with paper perspective, layered cards and text-image relationships.
 
@@ -134,7 +134,7 @@ Technical documentation：[https://github.com/motiontemplates/295450](https://gi
 
 ### 7. Dark Dimensional Stage · Multi-screen Story
 
-![Dark Dimensional Stage · Multi-screen Story · Landscape](https://raw.githubusercontent.com/motiontemplates/304634/5810b307457140d087c267e73f6317d5890c086a/assets/preview.gif)
+<a href="https://raw.githubusercontent.com/motiontemplates/304634/5810b307457140d087c267e73f6317d5890c086a/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/304634/5810b307457140d087c267e73f6317d5890c086a/assets/preview.gif" alt="Dark Dimensional Stage · Multi-screen Story · Landscape" width="640"></a>
 
 Present products, examples and media on a dark dimensional stage with layered screens.
 
@@ -150,7 +150,7 @@ Technical documentation：[https://github.com/motiontemplates/304634](https://gi
 
 ### 8. Dark Dimensional Stage · Multi-screen Story · Portrait
 
-![Dark Dimensional Stage · Multi-screen Story · Portrait](https://raw.githubusercontent.com/motiontemplates/569615/24381c0667f5bdedca15bbbbc05d70e896e82216/assets/preview.gif)
+<a href="https://raw.githubusercontent.com/motiontemplates/569615/24381c0667f5bdedca15bbbbc05d70e896e82216/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/569615/24381c0667f5bdedca15bbbbc05d70e896e82216/assets/preview.gif" alt="Dark Dimensional Stage · Multi-screen Story · Portrait" width="202"></a>
 
 Present products, examples and media on a dark dimensional stage with layered screens.
 
@@ -166,7 +166,7 @@ Technical documentation：[https://github.com/motiontemplates/569615](https://gi
 
 ### 9. Tech Console · Narrated Explainer
 
-![Tech Console · Narrated Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/553346/a148487eb1176914ac56721157bb3e6b6f495d95/assets/preview.gif)
+<a href="https://raw.githubusercontent.com/motiontemplates/553346/a148487eb1176914ac56721157bb3e6b6f495d95/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/553346/a148487eb1176914ac56721157bb3e6b6f495d95/assets/preview.gif" alt="Tech Console · Narrated Explainer · Landscape" width="640"></a>
 
 Support technical and data explanations with a console layout and purple glass-like motion graphics.
 
@@ -182,7 +182,7 @@ Technical documentation：[https://github.com/motiontemplates/553346](https://gi
 
 ### 10. Tech Console · Narrated Explainer · Portrait
 
-![Tech Console · Narrated Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/738182/72e325a6a549b4c199d61287719dad5d3687486d/assets/preview.gif)
+<a href="https://raw.githubusercontent.com/motiontemplates/738182/72e325a6a549b4c199d61287719dad5d3687486d/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/738182/72e325a6a549b4c199d61287719dad5d3687486d/assets/preview.gif" alt="Tech Console · Narrated Explainer · Portrait" width="202"></a>
 
 Support technical and data explanations with a console layout and purple glass-like motion graphics.
 
@@ -198,7 +198,7 @@ Technical documentation：[https://github.com/motiontemplates/738182](https://gi
 
 ### 11. Vivid Characters · Narrative Explainer
 
-![Vivid Characters · Narrative Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/960723/e072f525e7d9e8bdebceccbf439ec77118a3248e/assets/preview.gif)
+<a href="https://raw.githubusercontent.com/motiontemplates/960723/e072f525e7d9e8bdebceccbf439ec77118a3248e/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/960723/e072f525e7d9e8bdebceccbf439ec77118a3248e/assets/preview.gif" alt="Vivid Characters · Narrative Explainer · Landscape" width="640"></a>
 
 Support stories and contextual explanations with vivid colors, character assets and narrative animation.
 
@@ -214,7 +214,7 @@ Technical documentation：[https://github.com/motiontemplates/960723](https://gi
 
 ### 12. Vivid Characters · Narrative Explainer · Portrait
 
-![Vivid Characters · Narrative Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/293151/0aba9d697d8325a16bc316bf2b799d2abd9219c2/assets/preview.gif)
+<a href="https://raw.githubusercontent.com/motiontemplates/293151/0aba9d697d8325a16bc316bf2b799d2abd9219c2/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/293151/0aba9d697d8325a16bc316bf2b799d2abd9219c2/assets/preview.gif" alt="Vivid Characters · Narrative Explainer · Portrait" width="202"></a>
 
 Support stories and contextual explanations with vivid colors, character assets and narrative animation.
 
@@ -230,7 +230,7 @@ Technical documentation：[https://github.com/motiontemplates/293151](https://gi
 
 ### 13. Vibrant Poster · Narrated Explainer
 
-![Vibrant Poster · Narrated Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/762139/e2339f0b6e925c62f31d3c1e6c0d5486ef6cf9ca/assets/preview.gif)
+<a href="https://raw.githubusercontent.com/motiontemplates/762139/e2339f0b6e925c62f31d3c1e6c0d5486ef6cf9ca/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/762139/e2339f0b6e925c62f31d3c1e6c0d5486ef6cf9ca/assets/preview.gif" alt="Vibrant Poster · Narrated Explainer · Landscape" width="640"></a>
 
 Support narration with high-contrast posters, bold type, lists and graphic relationships in a dedicated landscape layout.
 
@@ -246,7 +246,7 @@ Technical documentation：[https://github.com/motiontemplates/762139](https://gi
 
 ### 14. Vibrant Poster · Narrated Explainer · Portrait
 
-![Vibrant Poster · Narrated Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/721489/29efe80b1a7c60a570a145caf4641509657e8801/assets/preview.gif)
+<a href="https://raw.githubusercontent.com/motiontemplates/721489/29efe80b1a7c60a570a145caf4641509657e8801/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/721489/29efe80b1a7c60a570a145caf4641509657e8801/assets/preview.gif" alt="Vibrant Poster · Narrated Explainer · Portrait" width="202"></a>
 
 Support narration with high-contrast posters, bold type, lists and graphic relationships in a dedicated portrait layout.
 
@@ -264,7 +264,7 @@ Technical documentation：[https://github.com/motiontemplates/721489](https://gi
 
 ### 15. Screen Collage · Brand Story
 
-![Screen Collage · Brand Story · Landscape](https://raw.githubusercontent.com/motiontemplates/128610/65b4b8af4ff0e700dd082283e1230930345c9dee/assets/preview.gif)
+<a href="https://raw.githubusercontent.com/motiontemplates/128610/65b4b8af4ff0e700dd082283e1230930345c9dee/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/128610/65b4b8af4ff0e700dd082283e1230930345c9dee/assets/preview.gif" alt="Screen Collage · Brand Story · Landscape" width="640"></a>
 
 Introduce a brand or creative tool with screen collages, editorial transitions and a branded ending.
 
@@ -280,7 +280,7 @@ Technical documentation：[https://github.com/motiontemplates/128610](https://gi
 
 ### 16. Pixel Platformer · Product Introduction
 
-![Pixel Platformer · Product Introduction · Landscape](https://raw.githubusercontent.com/motiontemplates/252912/ec286ac676ab6177886300f5c4ca7b827329f0bf/assets/preview.gif)
+<a href="https://raw.githubusercontent.com/motiontemplates/252912/ec286ac676ab6177886300f5c4ca7b827329f0bf/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/252912/ec286ac676ab6177886300f5c4ca7b827329f0bf/assets/preview.gif" alt="Pixel Platformer · Product Introduction · Landscape" width="640"></a>
 
 Explain a digital product with a pixel city, platform-game actions and retro game sound.
 
@@ -296,7 +296,7 @@ Technical documentation：[https://github.com/motiontemplates/252912](https://gi
 
 ### 17. Light and Dark Cuts · Product Promotion
 
-![Light and Dark Cuts · Product Promotion · Landscape](https://raw.githubusercontent.com/motiontemplates/867595/2f41bb33db8f84227a3ee4c626c08da240f5b539/assets/preview.gif)
+<a href="https://raw.githubusercontent.com/motiontemplates/867595/2f41bb33db8f84227a3ee4c626c08da240f5b539/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/867595/2f41bb33db8f84227a3ee4c626c08da240f5b539/assets/preview.gif" alt="Light and Dark Cuts · Product Promotion · Landscape" width="640"></a>
 
 Show product features through fast light-and-dark cuts, bold type and interface demonstrations.
 
@@ -312,7 +312,7 @@ Technical documentation：[https://github.com/motiontemplates/867595](https://gi
 
 ### 18. Workflow Demo · Product Tutorial
 
-![Workflow Demo · Product Tutorial · Landscape](https://raw.githubusercontent.com/motiontemplates/670021/13ab9776f4e09163f9297dded1c519ef0fb5a4c4/assets/preview.gif)
+<a href="https://raw.githubusercontent.com/motiontemplates/670021/13ab9776f4e09163f9297dded1c519ef0fb5a4c4/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/670021/13ab9776f4e09163f9297dded1c519ef0fb5a4c4/assets/preview.gif" alt="Workflow Demo · Product Tutorial · Landscape" width="640"></a>
 
 Walk through choosing a template, providing content and producing a video for a product tutorial.
 
@@ -328,7 +328,7 @@ Technical documentation：[https://github.com/motiontemplates/670021](https://gi
 
 ### 19. Modular Collage · Creator Tools
 
-![Modular Collage · Creator Tools · Landscape](https://raw.githubusercontent.com/motiontemplates/452365/80423e83a99b32499b9a493a4c22f486adb16861/assets/preview.gif)
+<a href="https://raw.githubusercontent.com/motiontemplates/452365/80423e83a99b32499b9a493a4c22f486adb16861/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/452365/80423e83a99b32499b9a493a4c22f486adb16861/assets/preview.gif" alt="Modular Collage · Creator Tools · Landscape" width="640"></a>
 
 Show how content, assets and animation fit together through modular collages for creator tools.
 
@@ -344,7 +344,7 @@ Technical documentation：[https://github.com/motiontemplates/452365](https://gi
 
 ### 20. Engineering Blueprint · Product Breakdown
 
-![Engineering Blueprint · Product Breakdown · Landscape](https://raw.githubusercontent.com/motiontemplates/213827/4859988ea9fe834b982d457548e29e9c8be524c7/assets/preview.gif)
+<a href="https://raw.githubusercontent.com/motiontemplates/213827/4859988ea9fe834b982d457548e29e9c8be524c7/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/213827/4859988ea9fe834b982d457548e29e9c8be524c7/assets/preview.gif" alt="Engineering Blueprint · Product Breakdown · Landscape" width="640"></a>
 
 Explain a technical product or workflow through blueprints, structure diagrams and modular breakdowns.
 
@@ -360,7 +360,7 @@ Technical documentation：[https://github.com/motiontemplates/213827](https://gi
 
 ### 21. Keynote Stage · Product Demo
 
-![Keynote Stage · Product Demo · Landscape](https://raw.githubusercontent.com/motiontemplates/667934/591f5acfd6355c76f937910cbc9fb31fed5e6ed3/assets/preview.gif)
+<a href="https://raw.githubusercontent.com/motiontemplates/667934/591f5acfd6355c76f937910cbc9fb31fed5e6ed3/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/667934/591f5acfd6355c76f937910cbc9fb31fed5e6ed3/assets/preview.gif" alt="Keynote Stage · Product Demo · Landscape" width="640"></a>
 
 Present a product on a keynote-style stage with large screens for launches and feature announcements.
 
@@ -376,7 +376,7 @@ Technical documentation：[https://github.com/motiontemplates/667934](https://gi
 
 ### 22. Paper Scroll · Brand Story
 
-![Paper Scroll · Brand Story · Landscape](https://raw.githubusercontent.com/motiontemplates/394243/754cc451c08bf0194ad924360be04fbb8b0a85cd/assets/preview.gif)
+<a href="https://raw.githubusercontent.com/motiontemplates/394243/754cc451c08bf0194ad924360be04fbb8b0a85cd/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/394243/754cc451c08bf0194ad924360be04fbb8b0a85cd/assets/preview.gif" alt="Paper Scroll · Brand Story · Landscape" width="640"></a>
 
 Tell a brand story through an unfolding paper scroll, ink-inspired imagery and scroll transitions.
 
@@ -394,7 +394,7 @@ Technical documentation：[https://github.com/motiontemplates/394243](https://gi
 
 ### 23. Halftone Dots · Portrait Title
 
-![Halftone Dots · Portrait Title · Landscape](https://raw.githubusercontent.com/motiontemplates/381814/1a9f5b1637698517a0fd1fd95e389c595580236e/assets/preview.gif)
+<a href="https://raw.githubusercontent.com/motiontemplates/381814/1a9f5b1637698517a0fd1fd95e389c595580236e/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/381814/1a9f5b1637698517a0fd1fd95e389c595580236e/assets/preview.gif" alt="Halftone Dots · Portrait Title · Landscape" width="640"></a>
 
 Turn three portraits into flowing two-color halftone dots that disperse and regroup into a title.
 
@@ -410,7 +410,7 @@ Technical documentation：[https://github.com/motiontemplates/381814](https://gi
 
 ### 24. Photo Mosaic · Image Reveal
 
-![Photo Mosaic · Image Reveal · Landscape](https://raw.githubusercontent.com/motiontemplates/460349/764b9dbe0cce18a126077381084e7d394b56d3d7/assets/preview.gif)
+<a href="https://raw.githubusercontent.com/motiontemplates/460349/764b9dbe0cce18a126077381084e7d394b56d3d7/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/460349/764b9dbe0cce18a126077381084e7d394b56d3d7/assets/preview.gif" alt="Photo Mosaic · Image Reveal · Landscape" width="640"></a>
 
 Reveal a photo mosaic by pulling back from individual pictures to the complete image.
 
@@ -426,7 +426,7 @@ Technical documentation：[https://github.com/motiontemplates/460349](https://gi
 
 ### 25. Geometric Collage · Animated Poster
 
-![Geometric Collage · Animated Poster · Landscape](https://raw.githubusercontent.com/motiontemplates/907345/b9bc6960a626c9a599a609b25f04265b3cdb388f/assets/preview.gif)
+<a href="https://raw.githubusercontent.com/motiontemplates/907345/b9bc6960a626c9a599a609b25f04265b3cdb388f/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/907345/b9bc6960a626c9a599a609b25f04265b3cdb388f/assets/preview.gif" alt="Geometric Collage · Animated Poster · Landscape" width="640"></a>
 
 Recompose four photos as geometric shapes across three Bauhaus-inspired animated posters.
 
@@ -442,7 +442,7 @@ Technical documentation：[https://github.com/motiontemplates/907345](https://gi
 
 ### 26. Brush Repainting · Art Photo
 
-![Brush Repainting · Art Photo · Landscape](https://raw.githubusercontent.com/motiontemplates/328828/d985f654c3c26e525583aa8bb490a9f54236b564/assets/preview.gif)
+<a href="https://raw.githubusercontent.com/motiontemplates/328828/d985f654c3c26e525583aa8bb490a9f54236b564/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/328828/d985f654c3c26e525583aa8bb490a9f54236b564/assets/preview.gif" alt="Brush Repainting · Art Photo · Landscape" width="640"></a>
 
 Repaint a photo with three directional brush layers, compare it with the original and reveal a signed title.
 
@@ -458,7 +458,7 @@ Technical documentation：[https://github.com/motiontemplates/328828](https://gi
 
 ### 27. Signal Glitch · Photo Transition
 
-![Signal Glitch · Photo Transition · Landscape](https://raw.githubusercontent.com/motiontemplates/638039/4a42776829882ff6e578dd336cd6702332a9796f/assets/preview.gif)
+<a href="https://raw.githubusercontent.com/motiontemplates/638039/4a42776829882ff6e578dd336cd6702332a9796f/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/638039/4a42776829882ff6e578dd336cd6702332a9796f/assets/preview.gif" alt="Signal Glitch · Photo Transition · Landscape" width="640"></a>
 
 Transform photos with pixel sorting, RGB splits and scanlines, ending with a CRT shutdown.
 
@@ -474,7 +474,7 @@ Technical documentation：[https://github.com/motiontemplates/638039](https://gi
 
 ### 28. Double Exposure · Portrait Layers
 
-![Double Exposure · Portrait Layers · Landscape](https://raw.githubusercontent.com/motiontemplates/800829/f8b3ef9c3346a65030999287a25d884fc2843364/assets/preview.gif)
+<a href="https://raw.githubusercontent.com/motiontemplates/800829/f8b3ef9c3346a65030999287a25d884fc2843364/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/800829/f8b3ef9c3346a65030999287a25d884fc2843364/assets/preview.gif" alt="Double Exposure · Portrait Layers · Landscape" width="640"></a>
 
 Fill a portrait silhouette with scenery, drift the layers in opposite directions and reveal a title through mist.
 
@@ -490,7 +490,7 @@ Technical documentation：[https://github.com/motiontemplates/800829](https://gi
 
 ### 29. Spatial Gallery · Photo Memories
 
-![Spatial Gallery · Photo Memories · Landscape](https://raw.githubusercontent.com/motiontemplates/743702/8b822dbf2fbfa817d56a2b016a366860ce57366c/assets/preview.gif)
+<a href="https://raw.githubusercontent.com/motiontemplates/743702/8b822dbf2fbfa817d56a2b016a366860ce57366c/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/743702/8b822dbf2fbfa817d56a2b016a366860ce57366c/assets/preview.gif" alt="Spatial Gallery · Photo Memories · Landscape" width="640"></a>
 
 Travel through a dimensional photo gallery with captions, then move into the main image and a full-screen title.
 
@@ -506,7 +506,7 @@ Technical documentation：[https://github.com/motiontemplates/743702](https://gi
 
 ### 30. Mirror Kaleidoscope · Photo Motion
 
-![Mirror Kaleidoscope · Photo Motion · Landscape](https://raw.githubusercontent.com/motiontemplates/551805/650591b787d916495e6709311c4902635315777d/assets/preview.gif)
+<a href="https://raw.githubusercontent.com/motiontemplates/551805/650591b787d916495e6709311c4902635315777d/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/551805/650591b787d916495e6709311c4902635315777d/assets/preview.gif" alt="Mirror Kaleidoscope · Photo Motion · Landscape" width="640"></a>
 
 Mirror two photos into a rotating twelve-segment kaleidoscope, transition through expanding rings and unfold the originals.
 
