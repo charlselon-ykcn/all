@@ -62,8 +62,6 @@ Demo video：[https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/385712](https://motiongit.com/@adunext/385712)
 
-Template details and required inputs：[https://motiongit.com/@adunext/385712](https://motiongit.com/@adunext/385712)
-
 Technical documentation：[https://github.com/motiontemplates/385712](https://github.com/motiontemplates/385712)
 
 ## Narrated explainers
@@ -80,8 +78,6 @@ Demo video：[https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/template-01-integrated](https://motiongit.com/@adunext/template-01-integrated)
 
-Template details and required inputs：[https://motiongit.com/@adunext/template-01-integrated](https://motiongit.com/@adunext/template-01-integrated)
-
 Technical documentation：[https://github.com/motiontemplates/336980](https://github.com/motiontemplates/336980)
 
 ### 4. Modern Editorial · Narrated Explainer · Portrait
@@ -95,8 +91,6 @@ Support narration with modern editorial layouts, text emphasis and information b
 Demo video：[https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4](https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/template-01-integrated-portrait](https://motiongit.com/@adunext/template-01-integrated-portrait)
-
-Template details and required inputs：[https://motiongit.com/@adunext/template-01-integrated-portrait](https://motiongit.com/@adunext/template-01-integrated-portrait)
 
 Technical documentation：[https://github.com/motiontemplates/314486](https://github.com/motiontemplates/314486)
 
@@ -112,8 +106,6 @@ Demo video：[https://media.openaicut.com/previews/607/draft-en-c751c296f78b.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/template-02-expanded](https://motiongit.com/@adunext/template-02-expanded)
 
-Template details and required inputs：[https://motiongit.com/@adunext/template-02-expanded](https://motiongit.com/@adunext/template-02-expanded)
-
 Technical documentation：[https://github.com/motiontemplates/358192](https://github.com/motiontemplates/358192)
 
 ### 6. Paper Perspective · Narrated Explainer · Portrait
@@ -127,8 +119,6 @@ Support structured explanations with paper perspective, layered cards and text-i
 Demo video：[https://media.openaicut.com/previews/608/draft-en-a5200442ba79.mp4](https://media.openaicut.com/previews/608/draft-en-a5200442ba79.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/template-02-expanded-portrait](https://motiongit.com/@adunext/template-02-expanded-portrait)
-
-Template details and required inputs：[https://motiongit.com/@adunext/template-02-expanded-portrait](https://motiongit.com/@adunext/template-02-expanded-portrait)
 
 Technical documentation：[https://github.com/motiontemplates/295450](https://github.com/motiontemplates/295450)
 
@@ -144,8 +134,6 @@ Demo video：[https://media.openaicut.com/previews/609/draft-en-70e2fe808e0c.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/template-03-native](https://motiongit.com/@adunext/template-03-native)
 
-Template details and required inputs：[https://motiongit.com/@adunext/template-03-native](https://motiongit.com/@adunext/template-03-native)
-
 Technical documentation：[https://github.com/motiontemplates/304634](https://github.com/motiontemplates/304634)
 
 ### 8. Dark Dimensional Stage · Multi-screen Story · Portrait
@@ -159,8 +147,6 @@ Present products, examples and media on a dark dimensional stage with layered sc
 Demo video：[https://media.openaicut.com/previews/610/draft-en-9785b0f9679c.mp4](https://media.openaicut.com/previews/610/draft-en-9785b0f9679c.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/template-03-native-portrait](https://motiongit.com/@adunext/template-03-native-portrait)
-
-Template details and required inputs：[https://motiongit.com/@adunext/template-03-native-portrait](https://motiongit.com/@adunext/template-03-native-portrait)
 
 Technical documentation：[https://github.com/motiontemplates/569615](https://github.com/motiontemplates/569615)
 
@@ -176,8 +162,6 @@ Demo video：[https://media.openaicut.com/previews/611/2.5.7-en-688a5e4511ae.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/template-04-dark-console](https://motiongit.com/@adunext/template-04-dark-console)
 
-Template details and required inputs：[https://motiongit.com/@adunext/template-04-dark-console](https://motiongit.com/@adunext/template-04-dark-console)
-
 Technical documentation：[https://github.com/motiontemplates/553346](https://github.com/motiontemplates/553346)
 
 ### 10. Tech Console · Narrated Explainer · Portrait
@@ -191,8 +175,6 @@ Support technical and data explanations with a console layout and purple glass-l
 Demo video：[https://media.openaicut.com/previews/612/2.5.7-en-4414b3f06c06.mp4](https://media.openaicut.com/previews/612/2.5.7-en-4414b3f06c06.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/template-04-dark-console-portrait](https://motiongit.com/@adunext/template-04-dark-console-portrait)
-
-Template details and required inputs：[https://motiongit.com/@adunext/template-04-dark-console-portrait](https://motiongit.com/@adunext/template-04-dark-console-portrait)
 
 Technical documentation：[https://github.com/motiontemplates/738182](https://github.com/motiontemplates/738182)
 
@@ -208,8 +190,6 @@ Demo video：[https://media.openaicut.com/previews/613/draft-en-e06d1f42b0b9.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/template-05-native](https://motiongit.com/@adunext/template-05-native)
 
-Template details and required inputs：[https://motiongit.com/@adunext/template-05-native](https://motiongit.com/@adunext/template-05-native)
-
 Technical documentation：[https://github.com/motiontemplates/960723](https://github.com/motiontemplates/960723)
 
 ### 12. Vivid Characters · Narrative Explainer · Portrait
@@ -223,8 +203,6 @@ Support stories and contextual explanations with vivid colors, character assets 
 Demo video：[https://media.openaicut.com/previews/614/draft-en-6f4079db7a76.mp4](https://media.openaicut.com/previews/614/draft-en-6f4079db7a76.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/template-05-native-portrait](https://motiongit.com/@adunext/template-05-native-portrait)
-
-Template details and required inputs：[https://motiongit.com/@adunext/template-05-native-portrait](https://motiongit.com/@adunext/template-05-native-portrait)
 
 Technical documentation：[https://github.com/motiontemplates/293151](https://github.com/motiontemplates/293151)
 
@@ -240,8 +218,6 @@ Demo video：[https://media.openaicut.com/previews/623/draft-en-e9dd279eebe9.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/vibrant-poster](https://motiongit.com/@adunext/vibrant-poster)
 
-Template details and required inputs：[https://motiongit.com/@adunext/vibrant-poster](https://motiongit.com/@adunext/vibrant-poster)
-
 Technical documentation：[https://github.com/motiontemplates/762139](https://github.com/motiontemplates/762139)
 
 ### 14. Vibrant Poster · Narrated Explainer · Portrait
@@ -255,8 +231,6 @@ Support narration with high-contrast posters, bold type, lists and graphic relat
 Demo video：[https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4](https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/vibrant-poster-portrait](https://motiongit.com/@adunext/vibrant-poster-portrait)
-
-Template details and required inputs：[https://motiongit.com/@adunext/vibrant-poster-portrait](https://motiongit.com/@adunext/vibrant-poster-portrait)
 
 Technical documentation：[https://github.com/motiontemplates/721489](https://github.com/motiontemplates/721489)
 
@@ -274,8 +248,6 @@ Demo video：[https://media.openaicut.com/previews/585/draft-en-3d2b6bdce3c7.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-promo-main](https://motiongit.com/@motiongit/motiongit-promo-main)
 
-Template details and required inputs：[https://motiongit.com/@motiongit/motiongit-promo-main](https://motiongit.com/@motiongit/motiongit-promo-main)
-
 Technical documentation：[https://github.com/motiontemplates/128610](https://github.com/motiontemplates/128610)
 
 ### 16. Pixel Platformer · Product Introduction
@@ -289,8 +261,6 @@ Explain a digital product with a pixel city, platform-game actions and retro gam
 Demo video：[https://media.openaicut.com/previews/586/draft-en-45375e2037e0.mp4](https://media.openaicut.com/previews/586/draft-en-45375e2037e0.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-promo-pixel](https://motiongit.com/@motiongit/motiongit-promo-pixel)
-
-Template details and required inputs：[https://motiongit.com/@motiongit/motiongit-promo-pixel](https://motiongit.com/@motiongit/motiongit-promo-pixel)
 
 Technical documentation：[https://github.com/motiontemplates/252912](https://github.com/motiontemplates/252912)
 
@@ -306,8 +276,6 @@ Demo video：[https://media.openaicut.com/previews/587/draft-en-389d2163ab5f.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-promo-velocity](https://motiongit.com/@motiongit/motiongit-promo-velocity)
 
-Template details and required inputs：[https://motiongit.com/@motiongit/motiongit-promo-velocity](https://motiongit.com/@motiongit/motiongit-promo-velocity)
-
 Technical documentation：[https://github.com/motiontemplates/867595](https://github.com/motiontemplates/867595)
 
 ### 18. Workflow Demo · Product Tutorial
@@ -321,8 +289,6 @@ Walk through choosing a template, providing content and producing a video for a 
 Demo video：[https://media.openaicut.com/previews/588/draft-en-2422d5a878da.mp4](https://media.openaicut.com/previews/588/draft-en-2422d5a878da.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-promo-user](https://motiongit.com/@motiongit/motiongit-promo-user)
-
-Template details and required inputs：[https://motiongit.com/@motiongit/motiongit-promo-user](https://motiongit.com/@motiongit/motiongit-promo-user)
 
 Technical documentation：[https://github.com/motiontemplates/670021](https://github.com/motiontemplates/670021)
 
@@ -338,8 +304,6 @@ Demo video：[https://media.openaicut.com/previews/589/draft-en-9fbec6ff121c.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-promo-creator](https://motiongit.com/@motiongit/motiongit-promo-creator)
 
-Template details and required inputs：[https://motiongit.com/@motiongit/motiongit-promo-creator](https://motiongit.com/@motiongit/motiongit-promo-creator)
-
 Technical documentation：[https://github.com/motiontemplates/452365](https://github.com/motiontemplates/452365)
 
 ### 20. Engineering Blueprint · Product Breakdown
@@ -353,8 +317,6 @@ Explain a technical product or workflow through blueprints, structure diagrams a
 Demo video：[https://media.openaicut.com/previews/590/draft-en-99059891101e.mp4](https://media.openaicut.com/previews/590/draft-en-99059891101e.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-promo-blueprint](https://motiongit.com/@motiongit/motiongit-promo-blueprint)
-
-Template details and required inputs：[https://motiongit.com/@motiongit/motiongit-promo-blueprint](https://motiongit.com/@motiongit/motiongit-promo-blueprint)
 
 Technical documentation：[https://github.com/motiontemplates/213827](https://github.com/motiontemplates/213827)
 
@@ -370,8 +332,6 @@ Demo video：[https://media.openaicut.com/previews/591/draft-en-28eb07a5a332.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-promo-keynote](https://motiongit.com/@motiongit/motiongit-promo-keynote)
 
-Template details and required inputs：[https://motiongit.com/@motiongit/motiongit-promo-keynote](https://motiongit.com/@motiongit/motiongit-promo-keynote)
-
 Technical documentation：[https://github.com/motiontemplates/667934](https://github.com/motiontemplates/667934)
 
 ### 22. Paper Scroll · Brand Story
@@ -385,8 +345,6 @@ Tell a brand story through an unfolding paper scroll, ink-inspired imagery and s
 Demo video：[https://media.openaicut.com/previews/592/draft-en-1f98c9f9df3c.mp4](https://media.openaicut.com/previews/592/draft-en-1f98c9f9df3c.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-promo-ink](https://motiongit.com/@motiongit/motiongit-promo-ink)
-
-Template details and required inputs：[https://motiongit.com/@motiongit/motiongit-promo-ink](https://motiongit.com/@motiongit/motiongit-promo-ink)
 
 Technical documentation：[https://github.com/motiontemplates/394243](https://github.com/motiontemplates/394243)
 
@@ -404,8 +362,6 @@ Demo video：[https://media.openaicut.com/previews/615/draft-en-a549a50aa6eb.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-art-a-halftone](https://motiongit.com/@prism-studio/visual-art-a-halftone)
 
-Template details and required inputs：[https://motiongit.com/@prism-studio/visual-art-a-halftone](https://motiongit.com/@prism-studio/visual-art-a-halftone)
-
 Technical documentation：[https://github.com/motiontemplates/381814](https://github.com/motiontemplates/381814)
 
 ### 24. Photo Mosaic · Image Reveal
@@ -419,8 +375,6 @@ Reveal a photo mosaic by pulling back from individual pictures to the complete i
 Demo video：[https://media.openaicut.com/previews/616/draft-en-74fac1697ce7.mp4](https://media.openaicut.com/previews/616/draft-en-74fac1697ce7.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-art-b-mosaic](https://motiongit.com/@prism-studio/visual-art-b-mosaic)
-
-Template details and required inputs：[https://motiongit.com/@prism-studio/visual-art-b-mosaic](https://motiongit.com/@prism-studio/visual-art-b-mosaic)
 
 Technical documentation：[https://github.com/motiontemplates/460349](https://github.com/motiontemplates/460349)
 
@@ -436,8 +390,6 @@ Demo video：[https://media.openaicut.com/previews/617/draft-en-b232ff8db7c6.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-art-c-collage](https://motiongit.com/@prism-studio/visual-art-c-collage)
 
-Template details and required inputs：[https://motiongit.com/@prism-studio/visual-art-c-collage](https://motiongit.com/@prism-studio/visual-art-c-collage)
-
 Technical documentation：[https://github.com/motiontemplates/907345](https://github.com/motiontemplates/907345)
 
 ### 26. Brush Repainting · Art Photo
@@ -451,8 +403,6 @@ Repaint a photo with three directional brush layers, compare it with the origina
 Demo video：[https://media.openaicut.com/previews/618/draft-en-30b4688562e9.mp4](https://media.openaicut.com/previews/618/draft-en-30b4688562e9.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-art-d-brushwork](https://motiongit.com/@prism-studio/visual-art-d-brushwork)
-
-Template details and required inputs：[https://motiongit.com/@prism-studio/visual-art-d-brushwork](https://motiongit.com/@prism-studio/visual-art-d-brushwork)
 
 Technical documentation：[https://github.com/motiontemplates/328828](https://github.com/motiontemplates/328828)
 
@@ -468,8 +418,6 @@ Demo video：[https://media.openaicut.com/previews/619/draft-en-e3aaf5ab5ba1.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-art-e-glitch](https://motiongit.com/@prism-studio/visual-art-e-glitch)
 
-Template details and required inputs：[https://motiongit.com/@prism-studio/visual-art-e-glitch](https://motiongit.com/@prism-studio/visual-art-e-glitch)
-
 Technical documentation：[https://github.com/motiontemplates/638039](https://github.com/motiontemplates/638039)
 
 ### 28. Double Exposure · Portrait Layers
@@ -483,8 +431,6 @@ Fill a portrait silhouette with scenery, drift the layers in opposite directions
 Demo video：[https://media.openaicut.com/previews/620/draft-en-8b1d45590a57.mp4](https://media.openaicut.com/previews/620/draft-en-8b1d45590a57.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-art-f-double](https://motiongit.com/@prism-studio/visual-art-f-double)
-
-Template details and required inputs：[https://motiongit.com/@prism-studio/visual-art-f-double](https://motiongit.com/@prism-studio/visual-art-f-double)
 
 Technical documentation：[https://github.com/motiontemplates/800829](https://github.com/motiontemplates/800829)
 
@@ -500,8 +446,6 @@ Demo video：[https://media.openaicut.com/previews/621/draft-en-d730d56fb8f4.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-art-g-gallery](https://motiongit.com/@prism-studio/visual-art-g-gallery)
 
-Template details and required inputs：[https://motiongit.com/@prism-studio/visual-art-g-gallery](https://motiongit.com/@prism-studio/visual-art-g-gallery)
-
 Technical documentation：[https://github.com/motiontemplates/743702](https://github.com/motiontemplates/743702)
 
 ### 30. Mirror Kaleidoscope · Photo Motion
@@ -515,8 +459,6 @@ Mirror two photos into a rotating twelve-segment kaleidoscope, transition throug
 Demo video：[https://media.openaicut.com/previews/622/draft-en-660c051c4b14.mp4](https://media.openaicut.com/previews/622/draft-en-660c051c4b14.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-art-h-kaleido](https://motiongit.com/@prism-studio/visual-art-h-kaleido)
-
-Template details and required inputs：[https://motiongit.com/@prism-studio/visual-art-h-kaleido](https://motiongit.com/@prism-studio/visual-art-h-kaleido)
 
 Technical documentation：[https://github.com/motiontemplates/551805](https://github.com/motiontemplates/551805)
 
