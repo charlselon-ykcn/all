@@ -1,6 +1,6 @@
 # MotionGit illustrated template list
 
-29 templates, 30 separate demo views. Each landscape or portrait entry has its own matching image, video and download route.
+28 templates, 29 separate demo views. Each landscape or portrait entry has its own matching image, video and download route.
 
 ## Source code and download routes
 
@@ -78,11 +78,11 @@ Technical documentation：[https://github.com/motiontemplates/314486](https://gi
 
 ### 5. Paper Perspective · Narrated Explainer
 
-![Paper Perspective · Narrated Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/358192/4615db045e6f1eccab26822dd75062907928125d/assets/preview.gif)
+![Paper Perspective · Narrated Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/358192/532beae7de03164d0c438582443dce9641976a22/assets/preview.gif)
 
 Support structured explanations with paper perspective, layered cards and text-image relationships.
 
-#358192 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.9
+#358192 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.10
 
 Demo video：[https://media.openaicut.com/previews/607/draft-en-c751c296f78b.mp4](https://media.openaicut.com/previews/607/draft-en-c751c296f78b.mp4)
 
@@ -92,11 +92,11 @@ Technical documentation：[https://github.com/motiontemplates/358192](https://gi
 
 ### 6. Paper Perspective · Narrated Explainer · Portrait
 
-![Paper Perspective · Narrated Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/295450/892ab26397e69c6a682498a159849057d87cb2ac/assets/preview.gif)
+![Paper Perspective · Narrated Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/295450/ab2782180507523adf59773b1b567336887dc58d/assets/preview.gif)
 
 Support structured explanations with paper perspective, layered cards and text-image relationships.
 
-#295450 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.9
+#295450 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.10
 
 Demo video：[https://media.openaicut.com/previews/608/draft-en-a5200442ba79.mp4](https://media.openaicut.com/previews/608/draft-en-a5200442ba79.mp4)
 
@@ -106,11 +106,11 @@ Technical documentation：[https://github.com/motiontemplates/295450](https://gi
 
 ### 7. Dark Dimensional Stage · Multi-screen Story
 
-![Dark Dimensional Stage · Multi-screen Story · Landscape](https://raw.githubusercontent.com/motiontemplates/304634/10c7646dcd6bd94e809af9e75477c66b101cc285/assets/preview.gif)
+![Dark Dimensional Stage · Multi-screen Story · Landscape](https://raw.githubusercontent.com/motiontemplates/304634/842bc0e04847b1fb28663d19a1612b49981a8358/assets/preview.gif)
 
 Present products, examples and media on a dark dimensional stage with layered screens.
 
-#304634 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.9
+#304634 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.10
 
 Demo video：[https://media.openaicut.com/previews/609/draft-en-70e2fe808e0c.mp4](https://media.openaicut.com/previews/609/draft-en-70e2fe808e0c.mp4)
 
@@ -120,11 +120,11 @@ Technical documentation：[https://github.com/motiontemplates/304634](https://gi
 
 ### 8. Dark Dimensional Stage · Multi-screen Story · Portrait
 
-![Dark Dimensional Stage · Multi-screen Story · Portrait](https://raw.githubusercontent.com/motiontemplates/569615/7b5ae74d045aaf0d5b91d79a26ed585f82597b62/assets/preview.gif)
+![Dark Dimensional Stage · Multi-screen Story · Portrait](https://raw.githubusercontent.com/motiontemplates/569615/53a12e01d53550837741735b37a8d0460903f8de/assets/preview.gif)
 
 Present products, examples and media on a dark dimensional stage with layered screens.
 
-#569615 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.9
+#569615 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.10
 
 Demo video：[https://media.openaicut.com/previews/610/draft-en-9785b0f9679c.mp4](https://media.openaicut.com/previews/610/draft-en-9785b0f9679c.mp4)
 
@@ -132,21 +132,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/template-03-na
 
 Technical documentation：[https://github.com/motiontemplates/569615](https://github.com/motiontemplates/569615)
 
-### 9. Tech Console · Narrated Explainer
-
-![Tech Console · Narrated Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/553346/f6f13344a85dc49ec8998a937ce7d970a512c4fe/assets/preview.gif)
-
-Support technical and data explanations with a console layout and purple glass-like motion graphics.
-
-#553346 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.9
-
-Demo video：[https://media.openaicut.com/previews/611/2.5.7-en-688a5e4511ae.mp4](https://media.openaicut.com/previews/611/2.5.7-en-688a5e4511ae.mp4)
-
-Download .motion from MotionGit：[https://motiongit.com/@adunext/template-04-dark-console](https://motiongit.com/@adunext/template-04-dark-console)
-
-Technical documentation：[https://github.com/motiontemplates/553346](https://github.com/motiontemplates/553346)
-
-### 10. Tech Console · Narrated Explainer · Portrait
+### 9. Tech Console · Narrated Explainer · Portrait
 
 ![Tech Console · Narrated Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/738182/6b0bc50663704d419a84006b2832ccc5f5f5206c/assets/preview.gif)
 
@@ -160,7 +146,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/template-04-da
 
 Technical documentation：[https://github.com/motiontemplates/738182](https://github.com/motiontemplates/738182)
 
-### 11. Vivid Characters · Narrative Explainer
+### 10. Vivid Characters · Narrative Explainer
 
 ![Vivid Characters · Narrative Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/960723/87f25c39cf396f3f23d75dca61011cb726013ba7/assets/preview.gif)
 
@@ -174,7 +160,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/template-05-na
 
 Technical documentation：[https://github.com/motiontemplates/960723](https://github.com/motiontemplates/960723)
 
-### 12. Vivid Characters · Narrative Explainer · Portrait
+### 11. Vivid Characters · Narrative Explainer · Portrait
 
 ![Vivid Characters · Narrative Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/293151/b337ae0ee7720b78eb103e08bf9f76038b4bb8b7/assets/preview.gif)
 
@@ -188,7 +174,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/template-05-na
 
 Technical documentation：[https://github.com/motiontemplates/293151](https://github.com/motiontemplates/293151)
 
-### 13. Vibrant Poster · Narrated Explainer
+### 12. Vibrant Poster · Narrated Explainer
 
 ![Vibrant Poster · Narrated Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/762139/e2339f0b6e925c62f31d3c1e6c0d5486ef6cf9ca/assets/preview.gif)
 
@@ -202,7 +188,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/vibrant-poster
 
 Technical documentation：[https://github.com/motiontemplates/762139](https://github.com/motiontemplates/762139)
 
-### 14. Vibrant Poster · Narrated Explainer · Portrait
+### 13. Vibrant Poster · Narrated Explainer · Portrait
 
 ![Vibrant Poster · Narrated Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/721489/29efe80b1a7c60a570a145caf4641509657e8801/assets/preview.gif)
 
@@ -218,7 +204,7 @@ Technical documentation：[https://github.com/motiontemplates/721489](https://gi
 
 ## Brand & product
 
-### 15. Screen Collage · Brand Story
+### 14. Screen Collage · Brand Story
 
 ![Screen Collage · Brand Story · Landscape](https://raw.githubusercontent.com/motiontemplates/128610/65b4b8af4ff0e700dd082283e1230930345c9dee/assets/preview.gif)
 
@@ -232,7 +218,7 @@ Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-pr
 
 Technical documentation：[https://github.com/motiontemplates/128610](https://github.com/motiontemplates/128610)
 
-### 16. Pixel Platformer · Product Introduction
+### 15. Pixel Platformer · Product Introduction
 
 ![Pixel Platformer · Product Introduction · Landscape](https://raw.githubusercontent.com/motiontemplates/252912/ec286ac676ab6177886300f5c4ca7b827329f0bf/assets/preview.gif)
 
@@ -246,7 +232,7 @@ Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-pr
 
 Technical documentation：[https://github.com/motiontemplates/252912](https://github.com/motiontemplates/252912)
 
-### 17. Light and Dark Cuts · Product Promotion
+### 16. Light and Dark Cuts · Product Promotion
 
 ![Light and Dark Cuts · Product Promotion · Landscape](https://raw.githubusercontent.com/motiontemplates/867595/2f41bb33db8f84227a3ee4c626c08da240f5b539/assets/preview.gif)
 
@@ -260,7 +246,7 @@ Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-pr
 
 Technical documentation：[https://github.com/motiontemplates/867595](https://github.com/motiontemplates/867595)
 
-### 18. Workflow Demo · Product Tutorial
+### 17. Workflow Demo · Product Tutorial
 
 ![Workflow Demo · Product Tutorial · Landscape](https://raw.githubusercontent.com/motiontemplates/670021/13ab9776f4e09163f9297dded1c519ef0fb5a4c4/assets/preview.gif)
 
@@ -274,7 +260,7 @@ Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-pr
 
 Technical documentation：[https://github.com/motiontemplates/670021](https://github.com/motiontemplates/670021)
 
-### 19. Modular Collage · Creator Tools
+### 18. Modular Collage · Creator Tools
 
 ![Modular Collage · Creator Tools · Landscape](https://raw.githubusercontent.com/motiontemplates/452365/80423e83a99b32499b9a493a4c22f486adb16861/assets/preview.gif)
 
@@ -288,7 +274,7 @@ Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-pr
 
 Technical documentation：[https://github.com/motiontemplates/452365](https://github.com/motiontemplates/452365)
 
-### 20. Engineering Blueprint · Product Breakdown
+### 19. Engineering Blueprint · Product Breakdown
 
 ![Engineering Blueprint · Product Breakdown · Landscape](https://raw.githubusercontent.com/motiontemplates/213827/4859988ea9fe834b982d457548e29e9c8be524c7/assets/preview.gif)
 
@@ -302,7 +288,7 @@ Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-pr
 
 Technical documentation：[https://github.com/motiontemplates/213827](https://github.com/motiontemplates/213827)
 
-### 21. Keynote Stage · Product Demo
+### 20. Keynote Stage · Product Demo
 
 ![Keynote Stage · Product Demo · Landscape](https://raw.githubusercontent.com/motiontemplates/667934/591f5acfd6355c76f937910cbc9fb31fed5e6ed3/assets/preview.gif)
 
@@ -316,7 +302,7 @@ Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-pr
 
 Technical documentation：[https://github.com/motiontemplates/667934](https://github.com/motiontemplates/667934)
 
-### 22. Paper Scroll · Brand Story
+### 21. Paper Scroll · Brand Story
 
 ![Paper Scroll · Brand Story · Landscape](https://raw.githubusercontent.com/motiontemplates/394243/e880c950f5c277924f406854016b51ca915d2f7c/assets/preview.gif)
 
@@ -332,7 +318,7 @@ Technical documentation：[https://github.com/motiontemplates/394243](https://gi
 
 ## Photo & visual
 
-### 23. Halftone Dots · Portrait Title
+### 22. Halftone Dots · Portrait Title
 
 ![Halftone Dots · Portrait Title · Landscape](https://raw.githubusercontent.com/motiontemplates/381814/1a9f5b1637698517a0fd1fd95e389c595580236e/assets/preview.gif)
 
@@ -346,7 +332,7 @@ Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-ar
 
 Technical documentation：[https://github.com/motiontemplates/381814](https://github.com/motiontemplates/381814)
 
-### 24. Photo Mosaic · Image Reveal
+### 23. Photo Mosaic · Image Reveal
 
 ![Photo Mosaic · Image Reveal · Landscape](https://raw.githubusercontent.com/motiontemplates/460349/764b9dbe0cce18a126077381084e7d394b56d3d7/assets/preview.gif)
 
@@ -360,7 +346,7 @@ Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-ar
 
 Technical documentation：[https://github.com/motiontemplates/460349](https://github.com/motiontemplates/460349)
 
-### 25. Geometric Collage · Animated Poster
+### 24. Geometric Collage · Animated Poster
 
 ![Geometric Collage · Animated Poster · Landscape](https://raw.githubusercontent.com/motiontemplates/907345/b9bc6960a626c9a599a609b25f04265b3cdb388f/assets/preview.gif)
 
@@ -374,7 +360,7 @@ Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-ar
 
 Technical documentation：[https://github.com/motiontemplates/907345](https://github.com/motiontemplates/907345)
 
-### 26. Brush Repainting · Art Photo
+### 25. Brush Repainting · Art Photo
 
 ![Brush Repainting · Art Photo · Landscape](https://raw.githubusercontent.com/motiontemplates/328828/d985f654c3c26e525583aa8bb490a9f54236b564/assets/preview.gif)
 
@@ -388,7 +374,7 @@ Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-ar
 
 Technical documentation：[https://github.com/motiontemplates/328828](https://github.com/motiontemplates/328828)
 
-### 27. Signal Glitch · Photo Transition
+### 26. Signal Glitch · Photo Transition
 
 ![Signal Glitch · Photo Transition · Landscape](https://raw.githubusercontent.com/motiontemplates/638039/4a42776829882ff6e578dd336cd6702332a9796f/assets/preview.gif)
 
@@ -402,7 +388,7 @@ Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-ar
 
 Technical documentation：[https://github.com/motiontemplates/638039](https://github.com/motiontemplates/638039)
 
-### 28. Double Exposure · Portrait Layers
+### 27. Double Exposure · Portrait Layers
 
 ![Double Exposure · Portrait Layers · Landscape](https://raw.githubusercontent.com/motiontemplates/800829/f8b3ef9c3346a65030999287a25d884fc2843364/assets/preview.gif)
 
@@ -416,7 +402,7 @@ Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-ar
 
 Technical documentation：[https://github.com/motiontemplates/800829](https://github.com/motiontemplates/800829)
 
-### 29. Spatial Gallery · Photo Memories
+### 28. Spatial Gallery · Photo Memories
 
 ![Spatial Gallery · Photo Memories · Landscape](https://raw.githubusercontent.com/motiontemplates/743702/8b822dbf2fbfa817d56a2b016a366860ce57366c/assets/preview.gif)
 
@@ -430,7 +416,7 @@ Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-ar
 
 Technical documentation：[https://github.com/motiontemplates/743702](https://github.com/motiontemplates/743702)
 
-### 30. Mirror Kaleidoscope · Photo Motion
+### 29. Mirror Kaleidoscope · Photo Motion
 
 ![Mirror Kaleidoscope · Photo Motion · Landscape](https://raw.githubusercontent.com/motiontemplates/551805/650591b787d916495e6709311c4902635315777d/assets/preview.gif)
 
