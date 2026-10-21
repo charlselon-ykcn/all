@@ -48,9 +48,9 @@ Demo 视频：[▶ https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-1
 
 技术资料：[https://github.com/motiontemplates/385712](https://github.com/motiontemplates/385712)
 
-## 第二批 · 模仿开放测试
+## 第二批 · 模板开放测试
 
-第二批模仿开放测试，打磨优化中，即将开放下载。当前可观看完整 Demo。
+第二批模板开放测试，打磨优化中，即将开放下载。当前可观看完整 Demo。
 
 ### 3. 字符剧场 · 随便做点什么
 
@@ -60,7 +60,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-1
 
 16:9 · 1920 × 1080 · 60 FPS
 
-**第二批模仿开放测试，打磨优化中，即将开放下载。当前可观看完整 Demo。**
+**第二批模板开放测试，打磨优化中，即将开放下载。当前可观看完整 Demo。**
 
 在线播放：[https://motiontemplates.github.io/all/#preview-ascii-theatre](https://motiontemplates.github.io/all/#preview-ascii-theatre)
 
@@ -74,7 +74,7 @@ Demo 视频：[https://github.com/motiontemplates/all/releases/download/demo-bat
 
 16:9 · 1920 × 1080 · 60 FPS
 
-**第二批模仿开放测试，打磨优化中，即将开放下载。当前可观看完整 Demo。**
+**第二批模板开放测试，打磨优化中，即将开放下载。当前可观看完整 Demo。**
 
 在线播放：[https://motiontemplates.github.io/all/#preview-3d-book](https://motiontemplates.github.io/all/#preview-3d-book)
 
@@ -88,7 +88,7 @@ Demo 视频：[https://github.com/motiontemplates/all/releases/download/demo-bat
 
 16:9 · 1920 × 1080 · 60 FPS
 
-**第二批模仿开放测试，打磨优化中，即将开放下载。当前可观看完整 Demo。**
+**第二批模板开放测试，打磨优化中，即将开放下载。当前可观看完整 Demo。**
 
 在线播放：[https://motiontemplates.github.io/all/#preview-knowledge-593](https://motiontemplates.github.io/all/#preview-knowledge-593)
 
@@ -104,7 +104,7 @@ Demo 视频：[https://media.openaicut.com/previews/593/draft-zh-476670f1f380.mp
 
 16:9 · 1920 × 1080 · 60 FPS
 
-**第二批模仿开放测试，打磨优化中，即将开放下载。当前可观看完整 Demo。**
+**第二批模板开放测试，打磨优化中，即将开放下载。当前可观看完整 Demo。**
 
 在线播放：[https://motiontemplates.github.io/all/#preview-knowledge-594](https://motiontemplates.github.io/all/#preview-knowledge-594)
 
@@ -120,7 +120,7 @@ Demo 视频：[https://media.openaicut.com/previews/594/draft-zh-e2edb1aafc59.mp
 
 16:9 · 1920 × 1080 · 60 FPS
 
-**第二批模仿开放测试，打磨优化中，即将开放下载。当前可观看完整 Demo。**
+**第二批模板开放测试，打磨优化中，即将开放下载。当前可观看完整 Demo。**
 
 在线播放：[https://motiontemplates.github.io/all/#preview-knowledge-595](https://motiontemplates.github.io/all/#preview-knowledge-595)
 
@@ -136,7 +136,7 @@ Demo 视频：[https://media.openaicut.com/previews/595/draft-zh-370e770267c8.mp
 
 16:9 · 1920 × 1080 · 60 FPS
 
-**第二批模仿开放测试，打磨优化中，即将开放下载。当前可观看完整 Demo。**
+**第二批模板开放测试，打磨优化中，即将开放下载。当前可观看完整 Demo。**
 
 在线播放：[https://motiontemplates.github.io/all/#preview-knowledge-596](https://motiontemplates.github.io/all/#preview-knowledge-596)
 
@@ -152,7 +152,7 @@ Demo 视频：[https://media.openaicut.com/previews/596/draft-zh-98736f9cdfc5.mp
 
 16:9 · 1920 × 1080 · 60 FPS
 
-**第二批模仿开放测试，打磨优化中，即将开放下载。当前可观看完整 Demo。**
+**第二批模板开放测试，打磨优化中，即将开放下载。当前可观看完整 Demo。**
 
 在线播放：[https://motiontemplates.github.io/all/#preview-knowledge-597](https://motiontemplates.github.io/all/#preview-knowledge-597)
 
@@ -168,7 +168,7 @@ Demo 视频：[https://media.openaicut.com/previews/597/draft-zh-dc44754d9cf2.mp
 
 16:9 · 1920 × 1080 · 60 FPS
 
-**第二批模仿开放测试，打磨优化中，即将开放下载。当前可观看完整 Demo。**
+**第二批模板开放测试，打磨优化中，即将开放下载。当前可观看完整 Demo。**
 
 在线播放：[https://motiontemplates.github.io/all/#preview-knowledge-598](https://motiontemplates.github.io/all/#preview-knowledge-598)
 
@@ -184,7 +184,7 @@ Demo 视频：[https://media.openaicut.com/previews/598/draft-zh-22c2d5c4441c.mp
 
 16:9 · 1920 × 1080 · 60 FPS
 
-**第二批模仿开放测试，打磨优化中，即将开放下载。当前可观看完整 Demo。**
+**第二批模板开放测试，打磨优化中，即将开放下载。当前可观看完整 Demo。**
 
 在线播放：[https://motiontemplates.github.io/all/#preview-knowledge-599](https://motiontemplates.github.io/all/#preview-knowledge-599)
 
@@ -200,7 +200,7 @@ Demo 视频：[https://media.openaicut.com/previews/599/draft-zh-17cb1d46e7fa.mp
 
 16:9 · 1920 × 1080 · 60 FPS
 
-**第二批模仿开放测试，打磨优化中，即将开放下载。当前可观看完整 Demo。**
+**第二批模板开放测试，打磨优化中，即将开放下载。当前可观看完整 Demo。**
 
 在线播放：[https://motiontemplates.github.io/all/#preview-knowledge-600](https://motiontemplates.github.io/all/#preview-knowledge-600)
 
@@ -216,7 +216,7 @@ Demo 视频：[https://media.openaicut.com/previews/600/draft-zh-7099f9584982.mp
 
 16:9 · 1920 × 1080 · 60 FPS
 
-**第二批模仿开放测试，打磨优化中，即将开放下载。当前可观看完整 Demo。**
+**第二批模板开放测试，打磨优化中，即将开放下载。当前可观看完整 Demo。**
 
 在线播放：[https://motiontemplates.github.io/all/#preview-knowledge-601](https://motiontemplates.github.io/all/#preview-knowledge-601)
 
@@ -232,7 +232,7 @@ Demo 视频：[https://media.openaicut.com/previews/601/draft-zh-d58fa23ac8f1.mp
 
 16:9 · 1920 × 1080 · 60 FPS
 
-**第二批模仿开放测试，打磨优化中，即将开放下载。当前可观看完整 Demo。**
+**第二批模板开放测试，打磨优化中，即将开放下载。当前可观看完整 Demo。**
 
 在线播放：[https://motiontemplates.github.io/all/#preview-knowledge-602](https://motiontemplates.github.io/all/#preview-knowledge-602)
 
@@ -248,7 +248,7 @@ Demo 视频：[https://media.openaicut.com/previews/602/draft-zh-01ff90395ec5.mp
 
 16:9 · 1920 × 1080 · 60 FPS
 
-**第二批模仿开放测试，打磨优化中，即将开放下载。当前可观看完整 Demo。**
+**第二批模板开放测试，打磨优化中，即将开放下载。当前可观看完整 Demo。**
 
 在线播放：[https://motiontemplates.github.io/all/#preview-knowledge-603](https://motiontemplates.github.io/all/#preview-knowledge-603)
 
@@ -264,7 +264,7 @@ Demo 视频：[https://media.openaicut.com/previews/603/draft-zh-d0030cb52b64.mp
 
 16:9 · 1920 × 1080 · 60 FPS
 
-**第二批模仿开放测试，打磨优化中，即将开放下载。当前可观看完整 Demo。**
+**第二批模板开放测试，打磨优化中，即将开放下载。当前可观看完整 Demo。**
 
 在线播放：[https://motiontemplates.github.io/all/#preview-knowledge-604](https://motiontemplates.github.io/all/#preview-knowledge-604)
 

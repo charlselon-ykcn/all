@@ -48,9 +48,9 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/385712](https:
 
 Technical documentation：[https://github.com/motiontemplates/385712](https://github.com/motiontemplates/385712)
 
-## Second batch · imitation open testing
+## Second batch · template open testing
 
-Second batch of imitation open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.
+Second batch of template open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.
 
 ### 3. ASCII Theatre · Make Something
 
@@ -60,7 +60,7 @@ Characters, terminal-inspired information layers and kinetic typography support 
 
 16:9 · 1920 × 1080 · 60 FPS
 
-**Second batch of imitation open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
+**Second batch of template open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
 
 Watch online：[https://motiontemplates.github.io/all/en.html#preview-ascii-theatre](https://motiontemplates.github.io/all/en.html#preview-ascii-theatre)
 
@@ -74,7 +74,7 @@ A three-dimensional book combines photographs, page turns and bilingual subtitle
 
 16:9 · 1920 × 1080 · 60 FPS
 
-**Second batch of imitation open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
+**Second batch of template open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
 
 Watch online：[https://motiontemplates.github.io/all/en.html#preview-3d-book](https://motiontemplates.github.io/all/en.html#preview-3d-book)
 
@@ -88,7 +88,7 @@ Narrated demo: Why the sky is blue. Visual style: Glowing Lightboard. Chinese an
 
 16:9 · 1920 × 1080 · 60 FPS
 
-**Second batch of imitation open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
+**Second batch of template open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
 
 Watch online：[https://motiontemplates.github.io/all/en.html#preview-knowledge-593](https://motiontemplates.github.io/all/en.html#preview-knowledge-593)
 
@@ -104,7 +104,7 @@ Narrated demo: The four steps of the Feynman technique. Visual style: Dot-Grid S
 
 16:9 · 1920 × 1080 · 60 FPS
 
-**Second batch of imitation open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
+**Second batch of template open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
 
 Watch online：[https://motiontemplates.github.io/all/en.html#preview-knowledge-594](https://motiontemplates.github.io/all/en.html#preview-knowledge-594)
 
@@ -120,7 +120,7 @@ Narrated demo: A puzzle proof of the Pythagorean theorem. Visual style: Colorful
 
 16:9 · 1920 × 1080 · 60 FPS
 
-**Second batch of imitation open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
+**Second batch of template open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
 
 Watch online：[https://motiontemplates.github.io/all/en.html#preview-knowledge-595](https://motiontemplates.github.io/all/en.html#preview-knowledge-595)
 
@@ -136,7 +136,7 @@ Narrated demo: Dunbar’s number. Visual style: Swiss Grid. Chinese and English 
 
 16:9 · 1920 × 1080 · 60 FPS
 
-**Second batch of imitation open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
+**Second batch of template open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
 
 Watch online：[https://motiontemplates.github.io/all/en.html#preview-knowledge-596](https://motiontemplates.github.io/all/en.html#preview-knowledge-596)
 
@@ -152,7 +152,7 @@ Narrated demo: What happens after entering a URL. Visual style: Isometric System
 
 16:9 · 1920 × 1080 · 60 FPS
 
-**Second batch of imitation open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
+**Second batch of template open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
 
 Watch online：[https://motiontemplates.github.io/all/en.html#preview-knowledge-597](https://motiontemplates.github.io/all/en.html#preview-knowledge-597)
 
@@ -168,7 +168,7 @@ Narrated demo: The four layers inside Earth. Visual style: Layered Papercut. Chi
 
 16:9 · 1920 × 1080 · 60 FPS
 
-**Second batch of imitation open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
+**Second batch of template open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
 
 Watch online：[https://motiontemplates.github.io/all/en.html#preview-knowledge-598](https://motiontemplates.github.io/all/en.html#preview-knowledge-598)
 
@@ -184,7 +184,7 @@ Narrated demo: Why the Moon has phases. Visual style: Chalkboard. Chinese and En
 
 16:9 · 1920 × 1080 · 60 FPS
 
-**Second batch of imitation open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
+**Second batch of template open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
 
 Watch online：[https://motiontemplates.github.io/all/en.html#preview-knowledge-599](https://motiontemplates.github.io/all/en.html#preview-knowledge-599)
 
@@ -200,7 +200,7 @@ Narrated demo: What the brain does during sleep. Visual style: Growing Mind Map.
 
 16:9 · 1920 × 1080 · 60 FPS
 
-**Second batch of imitation open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
+**Second batch of template open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
 
 Watch online：[https://motiontemplates.github.io/all/en.html#preview-knowledge-600](https://motiontemplates.github.io/all/en.html#preview-knowledge-600)
 
@@ -216,7 +216,7 @@ Narrated demo: A brief history of timekeeping. Visual style: Museum Timeline. Ch
 
 16:9 · 1920 × 1080 · 60 FPS
 
-**Second batch of imitation open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
+**Second batch of template open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
 
 Watch online：[https://motiontemplates.github.io/all/en.html#preview-knowledge-601](https://motiontemplates.github.io/all/en.html#preview-knowledge-601)
 
@@ -232,7 +232,7 @@ Narrated demo: Compound interest and the rule of 72. Visual style: Two-Color Ris
 
 16:9 · 1920 × 1080 · 60 FPS
 
-**Second batch of imitation open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
+**Second batch of template open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
 
 Watch online：[https://motiontemplates.github.io/all/en.html#preview-knowledge-602](https://motiontemplates.github.io/all/en.html#preview-knowledge-602)
 
@@ -248,7 +248,7 @@ Narrated demo: Photosynthesis. Visual style: Claymation. Chinese and English dem
 
 16:9 · 1920 × 1080 · 60 FPS
 
-**Second batch of imitation open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
+**Second batch of template open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
 
 Watch online：[https://motiontemplates.github.io/all/en.html#preview-knowledge-603](https://motiontemplates.github.io/all/en.html#preview-knowledge-603)
 
@@ -264,7 +264,7 @@ Narrated demo: Human blood circulation. Visual style: Metro Map. Chinese and Eng
 
 16:9 · 1920 × 1080 · 60 FPS
 
-**Second batch of imitation open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
+**Second batch of template open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
 
 Watch online：[https://motiontemplates.github.io/all/en.html#preview-knowledge-604](https://motiontemplates.github.io/all/en.html#preview-knowledge-604)
 
