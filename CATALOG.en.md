@@ -304,11 +304,11 @@ Technical documentation：[https://github.com/motiontemplates/314486](https://gi
 
 ### 19. Paper Perspective · Narrated Explainer
 
-![Paper Perspective · Narrated Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/358192/1d3d85289f10fc74c8da8159806cba00070a93ad/assets/preview.gif)
+![Paper Perspective · Narrated Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/358192/4bb93b693e5bab82b0054c444efd2523299eb1b4/assets/preview.gif)
 
 Support structured explanations with paper perspective, layered cards and text-image relationships.
 
-#358192 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.14
+#358192 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.15
 
 Demo video：[https://media.openaicut.com/previews/607/draft-en-c751c296f78b.mp4](https://media.openaicut.com/previews/607/draft-en-c751c296f78b.mp4)
 
