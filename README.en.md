@@ -448,11 +448,11 @@ Technical documentation：[https://github.com/motiontemplates/762139](https://gi
 
 ### 28. Vibrant Poster · Narrated Explainer · Portrait
 
-<a href="https://raw.githubusercontent.com/motiontemplates/721489/85054e171c93c976e1d60661d96ebab7ed22baf4/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/721489/85054e171c93c976e1d60661d96ebab7ed22baf4/assets/preview.gif" alt="Vibrant Poster · Narrated Explainer · Portrait" width="202"></a>
+<a href="https://raw.githubusercontent.com/motiontemplates/721489/b0093b51f67155a076d3b6434aa01a716e94b740/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/721489/b0093b51f67155a076d3b6434aa01a716e94b740/assets/preview.gif" alt="Vibrant Poster · Narrated Explainer · Portrait" width="202"></a>
 
 Support narration with high-contrast posters, bold type, lists and graphic relationships in a dedicated portrait layout.
 
-#721489 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.11
+#721489 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.12
 
 Demo video：[https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4](https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4)
 

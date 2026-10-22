@@ -430,11 +430,11 @@ Demo 视频：[▶ https://media.openaicut.com/previews/623/draft-en-e9dd279eebe
 
 ### 28. 活力海报 · 口播讲解 · 竖屏
 
-![活力海报 · 口播讲解 · 竖屏](https://raw.githubusercontent.com/motiontemplates/721489/85054e171c93c976e1d60661d96ebab7ed22baf4/assets/preview.gif)
+![活力海报 · 口播讲解 · 竖屏](https://raw.githubusercontent.com/motiontemplates/721489/b0093b51f67155a076d3b6434aa01a716e94b740/assets/preview.gif)
 
 用高对比海报、大字、清单和图形关系配合口播，含原生动画与新增组件，竖屏独立编排。
 
-#721489 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.11
+#721489 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.12
 
 Demo 视频：[▶ https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4](https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4)
 
