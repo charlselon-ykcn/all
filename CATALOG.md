@@ -304,11 +304,11 @@ Demo 视频：[▶ https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d8
 
 ### 19. 纸面透视 · 口播讲解
 
-![纸面透视 · 口播讲解 · 横屏](https://raw.githubusercontent.com/motiontemplates/358192/a791e3feed5ce7c9456dc1d8c522c3ca7875204f/assets/preview.gif)
+![纸面透视 · 口播讲解 · 横屏](https://raw.githubusercontent.com/motiontemplates/358192/1d3d85289f10fc74c8da8159806cba00070a93ad/assets/preview.gif)
 
 用纸面透视、卡片层次和图文关系配合口播，适合方法拆解与结构化知识。
 
-#358192 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.11
+#358192 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.14
 
 Demo 视频：[▶ https://media.openaicut.com/previews/607/draft-en-c751c296f78b.mp4](https://media.openaicut.com/previews/607/draft-en-c751c296f78b.mp4)
 
