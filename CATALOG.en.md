@@ -38,9 +38,9 @@ Technical documentation：[https://github.com/motiontemplates/385712](https://gi
 
 Editable MotionGit .motion animation with the production guide included in the package.
 
-#385712 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v0.2.30-open-beta
+#385712 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v0.2.31-open-beta
 
-Official Chinese portrait v0.2.30-open-beta; GitHub source edition v0.2.7-open-beta (16:9).
+Official Chinese portrait v0.2.31-open-beta; GitHub source edition v0.2.7-open-beta (16:9).
 
 Demo video：[https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4](https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4)
 
@@ -276,11 +276,11 @@ Official showcase：[https://motiongit.com/@curious-atlas/knowledge-explainer-me
 
 ### 17. Modern Editorial · Narrated Explainer
 
-![Modern Editorial · Narrated Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/336980/be9adf4545bd709f77c2911341af03e1b0a7d16a/assets/preview.gif)
+![Modern Editorial · Narrated Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/336980/933ce2d5d365bb89d55f8fa03b2934a98bf48bb2/assets/preview.gif)
 
 Support narration with modern editorial layouts, text emphasis and information breakdowns.
 
-#336980 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.11
+#336980 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.12
 
 Demo video：[https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4](https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4)
 
@@ -290,11 +290,11 @@ Technical documentation：[https://github.com/motiontemplates/336980](https://gi
 
 ### 18. Modern Editorial · Narrated Explainer · Portrait
 
-![Modern Editorial · Narrated Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/314486/0a1b2d2f88b977469577e18876d29b421ccb54e3/assets/preview.gif)
+![Modern Editorial · Narrated Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/314486/bc79db3b752b426f39248ab1f883f2159d34d559/assets/preview.gif)
 
 Support narration with modern editorial layouts, text emphasis and information breakdowns.
 
-#314486 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.11
+#314486 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.12
 
 Demo video：[https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4](https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4)
 
