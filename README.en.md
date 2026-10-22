@@ -336,11 +336,11 @@ Technical documentation：[https://github.com/motiontemplates/358192](https://gi
 
 ### 20. Paper Perspective · Narrated Explainer · Portrait
 
-<a href="https://raw.githubusercontent.com/motiontemplates/295450/709c89de53d46e312b1a03009cdfb9da04269c79/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/295450/709c89de53d46e312b1a03009cdfb9da04269c79/assets/preview.gif" alt="Paper Perspective · Narrated Explainer · Portrait" width="202"></a>
+<a href="https://raw.githubusercontent.com/motiontemplates/295450/f0854ad9f822695eed78b30c11bf73d15c74947d/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/295450/f0854ad9f822695eed78b30c11bf73d15c74947d/assets/preview.gif" alt="Paper Perspective · Narrated Explainer · Portrait" width="202"></a>
 
 Support structured explanations with paper perspective, layered cards and text-image relationships.
 
-#295450 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.11
+#295450 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.12
 
 Demo video：[https://media.openaicut.com/previews/608/draft-en-a5200442ba79.mp4](https://media.openaicut.com/previews/608/draft-en-a5200442ba79.mp4)
 
@@ -350,11 +350,11 @@ Technical documentation：[https://github.com/motiontemplates/295450](https://gi
 
 ### 21. Dark Dimensional Stage · Multi-screen Story
 
-<a href="https://raw.githubusercontent.com/motiontemplates/304634/e914487d628d68472e17311823c30786598ac13b/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/304634/e914487d628d68472e17311823c30786598ac13b/assets/preview.gif" alt="Dark Dimensional Stage · Multi-screen Story · Landscape" width="640"></a>
+<a href="https://raw.githubusercontent.com/motiontemplates/304634/467e6d4341fd9f7c5f35bbb4dc90edfe38280b43/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/304634/467e6d4341fd9f7c5f35bbb4dc90edfe38280b43/assets/preview.gif" alt="Dark Dimensional Stage · Multi-screen Story · Landscape" width="640"></a>
 
 Present products, examples and media on a dark dimensional stage with layered screens.
 
-#304634 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.11
+#304634 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.12
 
 Demo video：[https://media.openaicut.com/previews/609/draft-en-70e2fe808e0c.mp4](https://media.openaicut.com/previews/609/draft-en-70e2fe808e0c.mp4)
 
@@ -364,11 +364,11 @@ Technical documentation：[https://github.com/motiontemplates/304634](https://gi
 
 ### 22. Dark Dimensional Stage · Multi-screen Story · Portrait
 
-<a href="https://raw.githubusercontent.com/motiontemplates/569615/130b4225335452f2997446fc80704483395b9bd9/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/569615/130b4225335452f2997446fc80704483395b9bd9/assets/preview.gif" alt="Dark Dimensional Stage · Multi-screen Story · Portrait" width="202"></a>
+<a href="https://raw.githubusercontent.com/motiontemplates/569615/eee6a3dbea2da4fd2c08b9e99ea3000f3c8bc72e/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/569615/eee6a3dbea2da4fd2c08b9e99ea3000f3c8bc72e/assets/preview.gif" alt="Dark Dimensional Stage · Multi-screen Story · Portrait" width="202"></a>
 
 Present products, examples and media on a dark dimensional stage with layered screens.
 
-#569615 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.11
+#569615 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.12
 
 Demo video：[https://media.openaicut.com/previews/610/draft-en-9785b0f9679c.mp4](https://media.openaicut.com/previews/610/draft-en-9785b0f9679c.mp4)
 
@@ -378,11 +378,11 @@ Technical documentation：[https://github.com/motiontemplates/569615](https://gi
 
 ### 23. Tech Console · Narrated Explainer
 
-<a href="https://raw.githubusercontent.com/motiontemplates/553346/6b8d8c94e7e2da04226b135bc6907c26c3a7cf4e/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/553346/6b8d8c94e7e2da04226b135bc6907c26c3a7cf4e/assets/preview.gif" alt="Tech Console · Narrated Explainer · Landscape" width="640"></a>
+<a href="https://raw.githubusercontent.com/motiontemplates/553346/d66476a55048d6e66ebbaabd7a75bfc00f4b0c06/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/553346/d66476a55048d6e66ebbaabd7a75bfc00f4b0c06/assets/preview.gif" alt="Tech Console · Narrated Explainer · Landscape" width="640"></a>
 
 Support technical and data explanations with a console layout and purple glass-like motion graphics.
 
-#553346 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.11
+#553346 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.12
 
 Demo video：[https://media.openaicut.com/previews/611/2.5.7-en-688a5e4511ae.mp4](https://media.openaicut.com/previews/611/2.5.7-en-688a5e4511ae.mp4)
 
