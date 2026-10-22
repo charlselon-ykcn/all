@@ -374,11 +374,11 @@ Technical documentation：[https://github.com/motiontemplates/553346](https://gi
 
 ### 24. Tech Console · Narrated Explainer · Portrait
 
-![Tech Console · Narrated Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/738182/47bafd8e8c5aa4e207d5d58d13fa6be69655a6d1/assets/preview.gif)
+![Tech Console · Narrated Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/738182/361da9b227bee6c292bc46aa87db33ed70915c4f/assets/preview.gif)
 
 Support technical and data explanations with a console layout and purple glass-like motion graphics.
 
-#738182 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.11
+#738182 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.12
 
 Demo video：[https://media.openaicut.com/previews/612/2.5.7-en-4414b3f06c06.mp4](https://media.openaicut.com/previews/612/2.5.7-en-4414b3f06c06.mp4)
 
@@ -388,11 +388,11 @@ Technical documentation：[https://github.com/motiontemplates/738182](https://gi
 
 ### 25. Vivid Characters · Narrative Explainer
 
-![Vivid Characters · Narrative Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/960723/505a85ace42a35c3ee598f4867534afe762398e0/assets/preview.gif)
+![Vivid Characters · Narrative Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/960723/0be6ac85370a92bb3ceef9171dbb8b52c391b1f1/assets/preview.gif)
 
 Support stories and contextual explanations with vivid colors, character assets and narrative animation.
 
-#960723 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.11
+#960723 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.12
 
 Demo video：[https://media.openaicut.com/previews/613/draft-en-e06d1f42b0b9.mp4](https://media.openaicut.com/previews/613/draft-en-e06d1f42b0b9.mp4)
 
@@ -402,11 +402,11 @@ Technical documentation：[https://github.com/motiontemplates/960723](https://gi
 
 ### 26. Vivid Characters · Narrative Explainer · Portrait
 
-![Vivid Characters · Narrative Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/293151/41eadedab0d7ab754694bc568bce86a95fc412ba/assets/preview.gif)
+![Vivid Characters · Narrative Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/293151/6e62e95eadae1cd83c26fed5f4fcd0c0b8fce5df/assets/preview.gif)
 
 Support stories and contextual explanations with vivid colors, character assets and narrative animation.
 
-#293151 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.11
+#293151 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.12
 
 Demo video：[https://media.openaicut.com/previews/614/draft-en-6f4079db7a76.mp4](https://media.openaicut.com/previews/614/draft-en-6f4079db7a76.mp4)
 
@@ -416,11 +416,11 @@ Technical documentation：[https://github.com/motiontemplates/293151](https://gi
 
 ### 27. Vibrant Poster · Narrated Explainer
 
-![Vibrant Poster · Narrated Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/762139/f8a3968f38d9cbc972c5a1778e9e749c86670e2e/assets/preview.gif)
+![Vibrant Poster · Narrated Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/762139/4c2a0e637556412ec990669c566821869e134d01/assets/preview.gif)
 
 Support narration with high-contrast posters, bold type, lists and graphic relationships in a dedicated landscape layout.
 
-#762139 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.11
+#762139 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.12
 
 Demo video：[https://media.openaicut.com/previews/623/draft-en-e9dd279eebe9.mp4](https://media.openaicut.com/previews/623/draft-en-e9dd279eebe9.mp4)
 
