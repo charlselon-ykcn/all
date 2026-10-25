@@ -294,11 +294,11 @@ Demo 视频：[https://media.openaicut.com/previews/604/draft-zh-a9f7cae3c84a.mp
 
 ### 17. 现代图文 · 口播讲解
 
-<a href="https://raw.githubusercontent.com/motiontemplates/336980/933ce2d5d365bb89d55f8fa03b2934a98bf48bb2/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/336980/933ce2d5d365bb89d55f8fa03b2934a98bf48bb2/assets/preview.gif" alt="现代图文 · 口播讲解 · 横屏" width="640"></a>
+<a href="https://raw.githubusercontent.com/motiontemplates/336980/d19c5c2b3c3578d0be749f5b77abc3aa47868a80/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/336980/d19c5c2b3c3578d0be749f5b77abc3aa47868a80/assets/preview.gif" alt="现代图文 · 口播讲解 · 横屏" width="640"></a>
 
 用现代图文版式、文字强调和信息拆解配合口播，适合观点、证据与步骤讲解。
 
-#336980 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.12
+#336980 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.13
 
 Demo 视频：[▶ https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4](https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4)
 
@@ -308,11 +308,11 @@ Demo 视频：[▶ https://media.openaicut.com/previews/605/draft-en-eec61194c66
 
 ### 18. 现代图文 · 口播讲解 · 竖屏
 
-<a href="https://raw.githubusercontent.com/motiontemplates/314486/bc79db3b752b426f39248ab1f883f2159d34d559/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/314486/bc79db3b752b426f39248ab1f883f2159d34d559/assets/preview.gif" alt="现代图文 · 口播讲解 · 竖屏" width="202"></a>
+<a href="https://raw.githubusercontent.com/motiontemplates/314486/85ab47d049f8df03bb18d99f7a8618add945eb0a/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/314486/85ab47d049f8df03bb18d99f7a8618add945eb0a/assets/preview.gif" alt="现代图文 · 口播讲解 · 竖屏" width="202"></a>
 
 用现代图文版式、文字强调和信息拆解配合口播，适合观点、证据与步骤讲解。
 
-#314486 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.12
+#314486 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.13
 
 Demo 视频：[▶ https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4](https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4)
 

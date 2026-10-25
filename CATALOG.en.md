@@ -276,11 +276,11 @@ Official showcase：[https://motiongit.com/@curious-atlas/knowledge-explainer-me
 
 ### 17. Modern Editorial · Narrated Explainer
 
-![Modern Editorial · Narrated Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/336980/933ce2d5d365bb89d55f8fa03b2934a98bf48bb2/assets/preview.gif)
+![Modern Editorial · Narrated Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/336980/d19c5c2b3c3578d0be749f5b77abc3aa47868a80/assets/preview.gif)
 
 Support narration with modern editorial layouts, text emphasis and information breakdowns.
 
-#336980 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.12
+#336980 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.13
 
 Demo video：[https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4](https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4)
 
@@ -290,11 +290,11 @@ Technical documentation：[https://github.com/motiontemplates/336980](https://gi
 
 ### 18. Modern Editorial · Narrated Explainer · Portrait
 
-![Modern Editorial · Narrated Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/314486/bc79db3b752b426f39248ab1f883f2159d34d559/assets/preview.gif)
+![Modern Editorial · Narrated Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/314486/85ab47d049f8df03bb18d99f7a8618add945eb0a/assets/preview.gif)
 
 Support narration with modern editorial layouts, text emphasis and information breakdowns.
 
-#314486 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.12
+#314486 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.13
 
 Demo video：[https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4](https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4)
 
