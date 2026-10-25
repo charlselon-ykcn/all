@@ -378,11 +378,11 @@ Technical documentation：[https://github.com/motiontemplates/569615](https://gi
 
 ### 23. Tech Console · Narrated Explainer
 
-<a href="https://raw.githubusercontent.com/motiontemplates/553346/d66476a55048d6e66ebbaabd7a75bfc00f4b0c06/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/553346/d66476a55048d6e66ebbaabd7a75bfc00f4b0c06/assets/preview.gif" alt="Tech Console · Narrated Explainer · Landscape" width="640"></a>
+<a href="https://raw.githubusercontent.com/motiontemplates/553346/f30d65f785da877e3c8162ed72ce2cfac79eaf3e/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/553346/f30d65f785da877e3c8162ed72ce2cfac79eaf3e/assets/preview.gif" alt="Tech Console · Narrated Explainer · Landscape" width="640"></a>
 
 Support technical and data explanations with a console layout and purple glass-like motion graphics.
 
-#553346 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.12
+#553346 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.13
 
 Demo video：[https://media.openaicut.com/previews/611/2.5.7-en-688a5e4511ae.mp4](https://media.openaicut.com/previews/611/2.5.7-en-688a5e4511ae.mp4)
 
