@@ -38,9 +38,9 @@ Technical documentation：[https://github.com/motiontemplates/385712](https://gi
 
 Editable MotionGit .motion animation with the production guide included in the package.
 
-#385712 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v0.2.31-open-beta
+#385712 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v0.2.32-open-beta
 
-Official Chinese portrait v0.2.31-open-beta; GitHub source edition v0.2.7-open-beta (16:9).
+Official Chinese portrait v0.2.32-open-beta; GitHub source edition v0.2.7-open-beta (16:9).
 
 Demo video：[https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4](https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4)
 
@@ -304,11 +304,11 @@ Technical documentation：[https://github.com/motiontemplates/314486](https://gi
 
 ### 19. Paper Perspective · Narrated Explainer
 
-![Paper Perspective · Narrated Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/358192/4bb93b693e5bab82b0054c444efd2523299eb1b4/assets/preview.gif)
+![Paper Perspective · Narrated Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/358192/0da9ed0ee5ea80aedf2a7fc818114b1e8296f560/assets/preview.gif)
 
 Support structured explanations with paper perspective, layered cards and text-image relationships.
 
-#358192 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.15
+#358192 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.16
 
 Demo video：[https://media.openaicut.com/previews/607/draft-en-c751c296f78b.mp4](https://media.openaicut.com/previews/607/draft-en-c751c296f78b.mp4)
 
@@ -318,11 +318,11 @@ Technical documentation：[https://github.com/motiontemplates/358192](https://gi
 
 ### 20. Paper Perspective · Narrated Explainer · Portrait
 
-![Paper Perspective · Narrated Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/295450/f0854ad9f822695eed78b30c11bf73d15c74947d/assets/preview.gif)
+![Paper Perspective · Narrated Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/295450/c1260cb03662294c365f515ccf6c427e4397641f/assets/preview.gif)
 
 Support structured explanations with paper perspective, layered cards and text-image relationships.
 
-#295450 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.12
+#295450 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.13
 
 Demo video：[https://media.openaicut.com/previews/608/draft-en-a5200442ba79.mp4](https://media.openaicut.com/previews/608/draft-en-a5200442ba79.mp4)
 
@@ -332,11 +332,11 @@ Technical documentation：[https://github.com/motiontemplates/295450](https://gi
 
 ### 21. Dark Dimensional Stage · Multi-screen Story
 
-![Dark Dimensional Stage · Multi-screen Story · Landscape](https://raw.githubusercontent.com/motiontemplates/304634/467e6d4341fd9f7c5f35bbb4dc90edfe38280b43/assets/preview.gif)
+![Dark Dimensional Stage · Multi-screen Story · Landscape](https://raw.githubusercontent.com/motiontemplates/304634/4181433ba78e172a55ef7fdc4b04c47191989259/assets/preview.gif)
 
 Present products, examples and media on a dark dimensional stage with layered screens.
 
-#304634 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.12
+#304634 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.13
 
 Demo video：[https://media.openaicut.com/previews/609/draft-en-70e2fe808e0c.mp4](https://media.openaicut.com/previews/609/draft-en-70e2fe808e0c.mp4)
 
@@ -346,11 +346,11 @@ Technical documentation：[https://github.com/motiontemplates/304634](https://gi
 
 ### 22. Dark Dimensional Stage · Multi-screen Story · Portrait
 
-![Dark Dimensional Stage · Multi-screen Story · Portrait](https://raw.githubusercontent.com/motiontemplates/569615/eee6a3dbea2da4fd2c08b9e99ea3000f3c8bc72e/assets/preview.gif)
+![Dark Dimensional Stage · Multi-screen Story · Portrait](https://raw.githubusercontent.com/motiontemplates/569615/e95382546540d5d6f664d7b53391db57d7904838/assets/preview.gif)
 
 Present products, examples and media on a dark dimensional stage with layered screens.
 
-#569615 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.12
+#569615 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.13
 
 Demo video：[https://media.openaicut.com/previews/610/draft-en-9785b0f9679c.mp4](https://media.openaicut.com/previews/610/draft-en-9785b0f9679c.mp4)
 
@@ -360,11 +360,11 @@ Technical documentation：[https://github.com/motiontemplates/569615](https://gi
 
 ### 23. Tech Console · Narrated Explainer
 
-![Tech Console · Narrated Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/553346/40b64e5d140f08c49e25ff31aa7a6c7011e5adf9/assets/preview.gif)
+![Tech Console · Narrated Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/553346/8a57d13731a15fc7469d8b84fac3de2ce766a24f/assets/preview.gif)
 
 Support technical and data explanations with a console layout and purple glass-like motion graphics.
 
-#553346 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.14
+#553346 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.15
 
 Demo video：[https://media.openaicut.com/previews/611/2.5.7-en-688a5e4511ae.mp4](https://media.openaicut.com/previews/611/2.5.7-en-688a5e4511ae.mp4)
 
@@ -374,11 +374,11 @@ Technical documentation：[https://github.com/motiontemplates/553346](https://gi
 
 ### 24. Tech Console · Narrated Explainer · Portrait
 
-![Tech Console · Narrated Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/738182/361da9b227bee6c292bc46aa87db33ed70915c4f/assets/preview.gif)
+![Tech Console · Narrated Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/738182/0b7dc3011910c8f3617bac931a19d677d0290fd8/assets/preview.gif)
 
 Support technical and data explanations with a console layout and purple glass-like motion graphics.
 
-#738182 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.12
+#738182 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.13
 
 Demo video：[https://media.openaicut.com/previews/612/2.5.7-en-4414b3f06c06.mp4](https://media.openaicut.com/previews/612/2.5.7-en-4414b3f06c06.mp4)
 
@@ -388,11 +388,11 @@ Technical documentation：[https://github.com/motiontemplates/738182](https://gi
 
 ### 25. Vivid Characters · Narrative Explainer
 
-![Vivid Characters · Narrative Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/960723/0be6ac85370a92bb3ceef9171dbb8b52c391b1f1/assets/preview.gif)
+![Vivid Characters · Narrative Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/960723/4abac8a0da7e62a6eaec3354bacfb8f38fb45aee/assets/preview.gif)
 
 Support stories and contextual explanations with vivid colors, character assets and narrative animation.
 
-#960723 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.12
+#960723 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.13
 
 Demo video：[https://media.openaicut.com/previews/613/draft-en-e06d1f42b0b9.mp4](https://media.openaicut.com/previews/613/draft-en-e06d1f42b0b9.mp4)
 
@@ -402,11 +402,11 @@ Technical documentation：[https://github.com/motiontemplates/960723](https://gi
 
 ### 26. Vivid Characters · Narrative Explainer · Portrait
 
-![Vivid Characters · Narrative Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/293151/6e62e95eadae1cd83c26fed5f4fcd0c0b8fce5df/assets/preview.gif)
+![Vivid Characters · Narrative Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/293151/d800a2276433299a41a25e2a1bf01921da6853fa/assets/preview.gif)
 
 Support stories and contextual explanations with vivid colors, character assets and narrative animation.
 
-#293151 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.12
+#293151 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.13
 
 Demo video：[https://media.openaicut.com/previews/614/draft-en-6f4079db7a76.mp4](https://media.openaicut.com/previews/614/draft-en-6f4079db7a76.mp4)
 
@@ -416,11 +416,11 @@ Technical documentation：[https://github.com/motiontemplates/293151](https://gi
 
 ### 27. Vibrant Poster · Narrated Explainer
 
-![Vibrant Poster · Narrated Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/762139/4c2a0e637556412ec990669c566821869e134d01/assets/preview.gif)
+![Vibrant Poster · Narrated Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/762139/cfbdf5d9a79bb8ddbc0dd57a6d263d589a469454/assets/preview.gif)
 
 Support narration with high-contrast posters, bold type, lists and graphic relationships in a dedicated landscape layout.
 
-#762139 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.12
+#762139 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.13
 
 Demo video：[https://media.openaicut.com/previews/623/draft-en-e9dd279eebe9.mp4](https://media.openaicut.com/previews/623/draft-en-e9dd279eebe9.mp4)
 
@@ -430,11 +430,11 @@ Technical documentation：[https://github.com/motiontemplates/762139](https://gi
 
 ### 28. Vibrant Poster · Narrated Explainer · Portrait
 
-![Vibrant Poster · Narrated Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/721489/b0093b51f67155a076d3b6434aa01a716e94b740/assets/preview.gif)
+![Vibrant Poster · Narrated Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/721489/257eb8872ae8428eb2be3d2388e176767c1963a5/assets/preview.gif)
 
 Support narration with high-contrast posters, bold type, lists and graphic relationships in a dedicated portrait layout.
 
-#721489 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.12
+#721489 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.13
 
 Demo video：[https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4](https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4)
 

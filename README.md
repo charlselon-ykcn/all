@@ -56,9 +56,9 @@ Demo 视频：[▶ https://motiontemplates.github.io/385712/assets/demo.mp4](htt
 
 金属立体字、光效与空间动效；中英横屏、中文竖屏，新增英文竖屏基础表达 B1–B4，支持人脸居中与圆形署名。
 
-#385712 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v0.2.31-open-beta
+#385712 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v0.2.32-open-beta
 
-官网中文竖屏 v0.2.31-open-beta；GitHub 开源包 v0.2.7-open-beta（16:9）。
+官网中文竖屏 v0.2.32-open-beta；GitHub 开源包 v0.2.7-open-beta（16:9）。
 
 Demo 视频：[▶ https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4](https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4)
 
@@ -322,11 +322,11 @@ Demo 视频：[▶ https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d8
 
 ### 19. 纸面透视 · 口播讲解
 
-<a href="https://raw.githubusercontent.com/motiontemplates/358192/4bb93b693e5bab82b0054c444efd2523299eb1b4/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/358192/4bb93b693e5bab82b0054c444efd2523299eb1b4/assets/preview.gif" alt="纸面透视 · 口播讲解 · 横屏" width="640"></a>
+<a href="https://raw.githubusercontent.com/motiontemplates/358192/0da9ed0ee5ea80aedf2a7fc818114b1e8296f560/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/358192/0da9ed0ee5ea80aedf2a7fc818114b1e8296f560/assets/preview.gif" alt="纸面透视 · 口播讲解 · 横屏" width="640"></a>
 
 用纸面透视、卡片层次和图文关系配合口播，适合方法拆解与结构化知识。
 
-#358192 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.15
+#358192 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.16
 
 Demo 视频：[▶ https://media.openaicut.com/previews/607/draft-en-c751c296f78b.mp4](https://media.openaicut.com/previews/607/draft-en-c751c296f78b.mp4)
 
@@ -336,11 +336,11 @@ Demo 视频：[▶ https://media.openaicut.com/previews/607/draft-en-c751c296f78
 
 ### 20. 纸面透视 · 口播讲解 · 竖屏
 
-<a href="https://raw.githubusercontent.com/motiontemplates/295450/f0854ad9f822695eed78b30c11bf73d15c74947d/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/295450/f0854ad9f822695eed78b30c11bf73d15c74947d/assets/preview.gif" alt="纸面透视 · 口播讲解 · 竖屏" width="202"></a>
+<a href="https://raw.githubusercontent.com/motiontemplates/295450/c1260cb03662294c365f515ccf6c427e4397641f/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/295450/c1260cb03662294c365f515ccf6c427e4397641f/assets/preview.gif" alt="纸面透视 · 口播讲解 · 竖屏" width="202"></a>
 
 用纸面透视、卡片层次和图文关系配合口播，适合方法拆解与结构化知识。
 
-#295450 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.12
+#295450 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.13
 
 Demo 视频：[▶ https://media.openaicut.com/previews/608/draft-en-a5200442ba79.mp4](https://media.openaicut.com/previews/608/draft-en-a5200442ba79.mp4)
 
@@ -350,11 +350,11 @@ Demo 视频：[▶ https://media.openaicut.com/previews/608/draft-en-a5200442ba7
 
 ### 21. 深色立体 · 多屏展陈
 
-<a href="https://raw.githubusercontent.com/motiontemplates/304634/467e6d4341fd9f7c5f35bbb4dc90edfe38280b43/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/304634/467e6d4341fd9f7c5f35bbb4dc90edfe38280b43/assets/preview.gif" alt="深色立体 · 多屏展陈 · 横屏" width="640"></a>
+<a href="https://raw.githubusercontent.com/motiontemplates/304634/4181433ba78e172a55ef7fdc4b04c47191989259/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/304634/4181433ba78e172a55ef7fdc4b04c47191989259/assets/preview.gif" alt="深色立体 · 多屏展陈 · 横屏" width="640"></a>
 
 用深色立体舞台、多屏和空间层次展示口播内容，适合产品、案例与媒体素材讲解。
 
-#304634 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.12
+#304634 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.13
 
 Demo 视频：[▶ https://media.openaicut.com/previews/609/draft-en-70e2fe808e0c.mp4](https://media.openaicut.com/previews/609/draft-en-70e2fe808e0c.mp4)
 
@@ -364,11 +364,11 @@ Demo 视频：[▶ https://media.openaicut.com/previews/609/draft-en-70e2fe808e0
 
 ### 22. 深色立体 · 多屏展陈 · 竖屏
 
-<a href="https://raw.githubusercontent.com/motiontemplates/569615/eee6a3dbea2da4fd2c08b9e99ea3000f3c8bc72e/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/569615/eee6a3dbea2da4fd2c08b9e99ea3000f3c8bc72e/assets/preview.gif" alt="深色立体 · 多屏展陈 · 竖屏" width="202"></a>
+<a href="https://raw.githubusercontent.com/motiontemplates/569615/e95382546540d5d6f664d7b53391db57d7904838/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/569615/e95382546540d5d6f664d7b53391db57d7904838/assets/preview.gif" alt="深色立体 · 多屏展陈 · 竖屏" width="202"></a>
 
 用深色立体舞台、多屏和空间层次展示口播内容，适合产品、案例与媒体素材讲解。
 
-#569615 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.12
+#569615 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.13
 
 Demo 视频：[▶ https://media.openaicut.com/previews/610/draft-en-9785b0f9679c.mp4](https://media.openaicut.com/previews/610/draft-en-9785b0f9679c.mp4)
 
@@ -378,11 +378,11 @@ Demo 视频：[▶ https://media.openaicut.com/previews/610/draft-en-9785b0f9679
 
 ### 23. 科技控制台 · 口播讲解
 
-<a href="https://raw.githubusercontent.com/motiontemplates/553346/40b64e5d140f08c49e25ff31aa7a6c7011e5adf9/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/553346/40b64e5d140f08c49e25ff31aa7a6c7011e5adf9/assets/preview.gif" alt="科技控制台 · 口播讲解 · 横屏" width="640"></a>
+<a href="https://raw.githubusercontent.com/motiontemplates/553346/8a57d13731a15fc7469d8b84fac3de2ce766a24f/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/553346/8a57d13731a15fc7469d8b84fac3de2ce766a24f/assets/preview.gif" alt="科技控制台 · 口播讲解 · 横屏" width="640"></a>
 
 用科技控制台、紫色玻璃质感与动态信息组件配合口播，适合技术与数据说明。
 
-#553346 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.14
+#553346 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.15
 
 Demo 视频：[▶ https://media.openaicut.com/previews/611/2.5.7-en-688a5e4511ae.mp4](https://media.openaicut.com/previews/611/2.5.7-en-688a5e4511ae.mp4)
 
@@ -392,11 +392,11 @@ Demo 视频：[▶ https://media.openaicut.com/previews/611/2.5.7-en-688a5e4511a
 
 ### 24. 科技控制台 · 口播讲解 · 竖屏
 
-<a href="https://raw.githubusercontent.com/motiontemplates/738182/361da9b227bee6c292bc46aa87db33ed70915c4f/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/738182/361da9b227bee6c292bc46aa87db33ed70915c4f/assets/preview.gif" alt="科技控制台 · 口播讲解 · 竖屏" width="202"></a>
+<a href="https://raw.githubusercontent.com/motiontemplates/738182/0b7dc3011910c8f3617bac931a19d677d0290fd8/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/738182/0b7dc3011910c8f3617bac931a19d677d0290fd8/assets/preview.gif" alt="科技控制台 · 口播讲解 · 竖屏" width="202"></a>
 
 用科技控制台、紫色玻璃质感与动态信息组件配合口播，适合技术与数据说明。
 
-#738182 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.12
+#738182 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.13
 
 Demo 视频：[▶ https://media.openaicut.com/previews/612/2.5.7-en-4414b3f06c06.mp4](https://media.openaicut.com/previews/612/2.5.7-en-4414b3f06c06.mp4)
 
@@ -406,11 +406,11 @@ Demo 视频：[▶ https://media.openaicut.com/previews/612/2.5.7-en-4414b3f06c0
 
 ### 25. 鲜色角色 · 叙事讲解
 
-<a href="https://raw.githubusercontent.com/motiontemplates/960723/0be6ac85370a92bb3ceef9171dbb8b52c391b1f1/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/960723/0be6ac85370a92bb3ceef9171dbb8b52c391b1f1/assets/preview.gif" alt="鲜色角色 · 叙事讲解 · 横屏" width="640"></a>
+<a href="https://raw.githubusercontent.com/motiontemplates/960723/4abac8a0da7e62a6eaec3354bacfb8f38fb45aee/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/960723/4abac8a0da7e62a6eaec3354bacfb8f38fb45aee/assets/preview.gif" alt="鲜色角色 · 叙事讲解 · 横屏" width="640"></a>
 
 用鲜明配色、角色素材与叙事动效配合口播，适合故事、观点和情境解释。
 
-#960723 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.12
+#960723 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.13
 
 Demo 视频：[▶ https://media.openaicut.com/previews/613/draft-en-e06d1f42b0b9.mp4](https://media.openaicut.com/previews/613/draft-en-e06d1f42b0b9.mp4)
 
@@ -420,11 +420,11 @@ Demo 视频：[▶ https://media.openaicut.com/previews/613/draft-en-e06d1f42b0b
 
 ### 26. 鲜色角色 · 叙事讲解 · 竖屏
 
-<a href="https://raw.githubusercontent.com/motiontemplates/293151/6e62e95eadae1cd83c26fed5f4fcd0c0b8fce5df/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/293151/6e62e95eadae1cd83c26fed5f4fcd0c0b8fce5df/assets/preview.gif" alt="鲜色角色 · 叙事讲解 · 竖屏" width="202"></a>
+<a href="https://raw.githubusercontent.com/motiontemplates/293151/d800a2276433299a41a25e2a1bf01921da6853fa/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/293151/d800a2276433299a41a25e2a1bf01921da6853fa/assets/preview.gif" alt="鲜色角色 · 叙事讲解 · 竖屏" width="202"></a>
 
 用鲜明配色、角色素材与叙事动效配合口播，适合故事、观点和情境解释。
 
-#293151 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.12
+#293151 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.13
 
 Demo 视频：[▶ https://media.openaicut.com/previews/614/draft-en-6f4079db7a76.mp4](https://media.openaicut.com/previews/614/draft-en-6f4079db7a76.mp4)
 
@@ -434,11 +434,11 @@ Demo 视频：[▶ https://media.openaicut.com/previews/614/draft-en-6f4079db7a7
 
 ### 27. 活力海报 · 口播讲解
 
-<a href="https://raw.githubusercontent.com/motiontemplates/762139/4c2a0e637556412ec990669c566821869e134d01/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/762139/4c2a0e637556412ec990669c566821869e134d01/assets/preview.gif" alt="活力海报 · 口播讲解 · 横屏" width="640"></a>
+<a href="https://raw.githubusercontent.com/motiontemplates/762139/cfbdf5d9a79bb8ddbc0dd57a6d263d589a469454/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/762139/cfbdf5d9a79bb8ddbc0dd57a6d263d589a469454/assets/preview.gif" alt="活力海报 · 口播讲解 · 横屏" width="640"></a>
 
 用高对比海报、大字、清单和图形关系配合口播，含原生动画与新增组件，横屏独立编排。
 
-#762139 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.12
+#762139 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.13
 
 Demo 视频：[▶ https://media.openaicut.com/previews/623/draft-en-e9dd279eebe9.mp4](https://media.openaicut.com/previews/623/draft-en-e9dd279eebe9.mp4)
 
@@ -448,11 +448,11 @@ Demo 视频：[▶ https://media.openaicut.com/previews/623/draft-en-e9dd279eebe
 
 ### 28. 活力海报 · 口播讲解 · 竖屏
 
-<a href="https://raw.githubusercontent.com/motiontemplates/721489/b0093b51f67155a076d3b6434aa01a716e94b740/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/721489/b0093b51f67155a076d3b6434aa01a716e94b740/assets/preview.gif" alt="活力海报 · 口播讲解 · 竖屏" width="202"></a>
+<a href="https://raw.githubusercontent.com/motiontemplates/721489/257eb8872ae8428eb2be3d2388e176767c1963a5/assets/preview.gif"><img src="https://raw.githubusercontent.com/motiontemplates/721489/257eb8872ae8428eb2be3d2388e176767c1963a5/assets/preview.gif" alt="活力海报 · 口播讲解 · 竖屏" width="202"></a>
 
 用高对比海报、大字、清单和图形关系配合口播，含原生动画与新增组件，竖屏独立编排。
 
-#721489 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.12
+#721489 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.13
 
 Demo 视频：[▶ https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4](https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4)
 
