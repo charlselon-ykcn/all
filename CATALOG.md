@@ -360,11 +360,11 @@ Demo 视频：[▶ https://media.openaicut.com/previews/610/draft-en-9785b0f9679
 
 ### 23. 科技控制台 · 口播讲解
 
-![科技控制台 · 口播讲解 · 横屏](https://raw.githubusercontent.com/motiontemplates/553346/f30d65f785da877e3c8162ed72ce2cfac79eaf3e/assets/preview.gif)
+![科技控制台 · 口播讲解 · 横屏](https://raw.githubusercontent.com/motiontemplates/553346/40b64e5d140f08c49e25ff31aa7a6c7011e5adf9/assets/preview.gif)
 
 用科技控制台、紫色玻璃质感与动态信息组件配合口播，适合技术与数据说明。
 
-#553346 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.13
+#553346 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.7.14
 
 Demo 视频：[▶ https://media.openaicut.com/previews/611/2.5.7-en-688a5e4511ae.mp4](https://media.openaicut.com/previews/611/2.5.7-en-688a5e4511ae.mp4)
 
