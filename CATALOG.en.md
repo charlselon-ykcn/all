@@ -360,6 +360,8 @@ Demo video：[https://media.openaicut.com/previews/869/1.0.0-zh-d5fd83bc28a8.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@oubaba95128/volume-price-kline-charts](https://motiongit.com/@oubaba95128/volume-price-kline-charts)
 
+Technical documentation：[https://github.com/motiontemplates/287792](https://github.com/motiontemplates/287792)
+
 ### 26. Creative Workflow · Timeline
 
 ![Creative Workflow · Timeline · Landscape](https://media.openaicut.com/covers/876/1.0.0-zh-0836cb139a44.jpg)
@@ -395,6 +397,8 @@ Seventeen types of semantic motion diagrams in warm gray, off-white and green, f
 Demo video：[https://media.openaicut.com/previews/886/0.4.0-rc.4-7ab29961149d.mp4](https://media.openaicut.com/previews/886/0.4.0-rc.4-7ab29961149d.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@frankye1211/product-update-story](https://motiongit.com/@frankye1211/product-update-story)
+
+Technical documentation：[https://github.com/motiontemplates/509099](https://github.com/motiontemplates/509099)
 
 ### 29. Soft Gradient · Illustrated Narration
 
@@ -888,6 +892,8 @@ Demo video：[https://media.openaicut.com/previews/628/1.1.0-e0d9c9e4a5b8.mp4](h
 
 Download .motion from MotionGit：[https://motiongit.com/@thepandaq/deepseek-whale-assemble](https://motiongit.com/@thepandaq/deepseek-whale-assemble)
 
+Technical documentation：[https://github.com/motiontemplates/404937](https://github.com/motiontemplates/404937)
+
 ### 67. DeepSeek · 3D Particle Morph
 
 ![DeepSeek · 3D Particle Morph · Landscape](https://media.openaicut.com/covers/629/1.1.0-72cc2b4731d0.jpg)
@@ -900,6 +906,8 @@ Demo video：[https://media.openaicut.com/previews/629/1.1.0-0892fa4bf82d.mp4](h
 
 Download .motion from MotionGit：[https://motiongit.com/@thepandaq/deepseek-form-morph](https://motiongit.com/@thepandaq/deepseek-form-morph)
 
+Technical documentation：[https://github.com/motiontemplates/380710](https://github.com/motiontemplates/380710)
+
 ### 68. DeepSeek · Particle Typography
 
 ![DeepSeek · Particle Typography · Landscape](https://media.openaicut.com/covers/630/1.1.0-7cf1d6e6ddc9.jpg)
@@ -911,6 +919,8 @@ Particles form four keywords in sequence for concept introductions, feature list
 Demo video：[https://media.openaicut.com/previews/630/1.1.0-7b16186bd6b2.mp4](https://media.openaicut.com/previews/630/1.1.0-7b16186bd6b2.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@thepandaq/deepseek-word-morph](https://motiongit.com/@thepandaq/deepseek-word-morph)
+
+Technical documentation：[https://github.com/motiontemplates/941301](https://github.com/motiontemplates/941301)
 
 ### 69. Light Ribbon · Word Reveal
 
