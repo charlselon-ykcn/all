@@ -1,8 +1,8 @@
 # MotionGit illustrated template list
 
-29 templates · 14 second-batch previews · 44 demos
+29 templates · 2 second-batch previews · 32 demos
 
-29 templates, 44 separate demo views. Each landscape or portrait entry has its own matching image, video and download route or coming-soon status.
+29 templates, 32 separate demo views. Each landscape or portrait entry has its own matching image, video and download route or coming-soon status.
 
 ## Source code and download routes
 
@@ -80,201 +80,9 @@ Watch online：[https://motiontemplates.github.io/all/en.html#preview-3d-book](h
 
 Demo video：[https://github.com/motiontemplates/all/releases/download/demo-batch-two-2026-10-21/3d-book-demo-6dc0bd1a0e5bc9e8.mp4](https://github.com/motiontemplates/all/releases/download/demo-batch-two-2026-10-21/3d-book-demo-6dc0bd1a0e5bc9e8.mp4)
 
-### 5. Glowing Lightboard · Science Explainer
-
-![Glowing Lightboard · Science Explainer · Landscape](https://motiongit.com/media/covers/593/quality-en-79ffd2c6f1f5.jpg)
-
-Narrated demo: Why the sky is blue. Visual style: Glowing Lightboard. Chinese and English demos available.
-
-16:9 · 1920 × 1080 · 60 FPS
-
-**Second batch of template open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
-
-Watch online：[https://motiontemplates.github.io/all/en.html#preview-knowledge-593](https://motiontemplates.github.io/all/en.html#preview-knowledge-593)
-
-Demo video：[https://media.openaicut.com/previews/593/draft-en-6e5fb8a2bbd3.mp4](https://media.openaicut.com/previews/593/draft-en-6e5fb8a2bbd3.mp4)
-
-Official showcase：[https://motiongit.com/@curious-atlas/knowledge-explainer-lightboard](https://motiongit.com/@curious-atlas/knowledge-explainer-lightboard)
-
-### 6. Dot-Grid Sketchnotes · Learning Guide
-
-![Dot-Grid Sketchnotes · Learning Guide · Landscape](https://motiongit.com/media/covers/594/quality-en-3edb5e5f5530.jpg)
-
-Narrated demo: The four steps of the Feynman technique. Visual style: Dot-Grid Sketchnotes. Chinese and English demos available.
-
-16:9 · 1920 × 1080 · 60 FPS
-
-**Second batch of template open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
-
-Watch online：[https://motiontemplates.github.io/all/en.html#preview-knowledge-594](https://motiontemplates.github.io/all/en.html#preview-knowledge-594)
-
-Demo video：[https://media.openaicut.com/previews/594/draft-en-cd16131cfa1b.mp4](https://media.openaicut.com/previews/594/draft-en-cd16131cfa1b.mp4)
-
-Official showcase：[https://motiongit.com/@curious-atlas/knowledge-explainer-sketchnote](https://motiongit.com/@curious-atlas/knowledge-explainer-sketchnote)
-
-### 7. Colorful Geometry · Math Demo
-
-![Colorful Geometry · Math Demo · Landscape](https://motiongit.com/media/covers/595/quality-en-77546f34159a.jpg)
-
-Narrated demo: A puzzle proof of the Pythagorean theorem. Visual style: Colorful Geometry. Chinese and English demos available.
-
-16:9 · 1920 × 1080 · 60 FPS
-
-**Second batch of template open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
-
-Watch online：[https://motiontemplates.github.io/all/en.html#preview-knowledge-595](https://motiontemplates.github.io/all/en.html#preview-knowledge-595)
-
-Demo video：[https://media.openaicut.com/previews/595/draft-en-7929669ae20e.mp4](https://media.openaicut.com/previews/595/draft-en-7929669ae20e.mp4)
-
-Official showcase：[https://motiongit.com/@curious-atlas/knowledge-explainer-byrne](https://motiongit.com/@curious-atlas/knowledge-explainer-byrne)
-
-### 8. Swiss Grid · Knowledge Explainer
-
-![Swiss Grid · Knowledge Explainer · Landscape](https://motiongit.com/media/covers/596/quality-en-637cf8bbe42b.jpg)
-
-Narrated demo: Dunbar’s number. Visual style: Swiss Grid. Chinese and English demos available.
-
-16:9 · 1920 × 1080 · 60 FPS
-
-**Second batch of template open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
-
-Watch online：[https://motiontemplates.github.io/all/en.html#preview-knowledge-596](https://motiontemplates.github.io/all/en.html#preview-knowledge-596)
-
-Demo video：[https://media.openaicut.com/previews/596/draft-en-faf765776a53.mp4](https://media.openaicut.com/previews/596/draft-en-faf765776a53.mp4)
-
-Official showcase：[https://motiongit.com/@curious-atlas/knowledge-explainer-swiss](https://motiongit.com/@curious-atlas/knowledge-explainer-swiss)
-
-### 9. Isometric Systems · Technical Explainer
-
-![Isometric Systems · Technical Explainer · Landscape](https://motiongit.com/media/covers/597/quality-en-61a2fbbfb29f.jpg)
-
-Narrated demo: What happens after entering a URL. Visual style: Isometric Systems. Chinese and English demos available.
-
-16:9 · 1920 × 1080 · 60 FPS
-
-**Second batch of template open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
-
-Watch online：[https://motiontemplates.github.io/all/en.html#preview-knowledge-597](https://motiontemplates.github.io/all/en.html#preview-knowledge-597)
-
-Demo video：[https://media.openaicut.com/previews/597/draft-en-17ed9e453686.mp4](https://media.openaicut.com/previews/597/draft-en-17ed9e453686.mp4)
-
-Official showcase：[https://motiongit.com/@curious-atlas/knowledge-explainer-isometric](https://motiongit.com/@curious-atlas/knowledge-explainer-isometric)
-
-### 10. Layered Papercut · Science Explainer
-
-![Layered Papercut · Science Explainer · Landscape](https://motiongit.com/media/covers/598/quality-en-833e7887a161.jpg)
-
-Narrated demo: The four layers inside Earth. Visual style: Layered Papercut. Chinese and English demos available.
-
-16:9 · 1920 × 1080 · 60 FPS
-
-**Second batch of template open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
-
-Watch online：[https://motiontemplates.github.io/all/en.html#preview-knowledge-598](https://motiontemplates.github.io/all/en.html#preview-knowledge-598)
-
-Demo video：[https://media.openaicut.com/previews/598/draft-en-f4c94142dfff.mp4](https://media.openaicut.com/previews/598/draft-en-f4c94142dfff.mp4)
-
-Official showcase：[https://motiongit.com/@curious-atlas/knowledge-explainer-papercut](https://motiongit.com/@curious-atlas/knowledge-explainer-papercut)
-
-### 11. Chalkboard · Science Explainer
-
-![Chalkboard · Science Explainer · Landscape](https://motiongit.com/media/covers/599/quality-en-aedde261dcf5.jpg)
-
-Narrated demo: Why the Moon has phases. Visual style: Chalkboard. Chinese and English demos available.
-
-16:9 · 1920 × 1080 · 60 FPS
-
-**Second batch of template open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
-
-Watch online：[https://motiontemplates.github.io/all/en.html#preview-knowledge-599](https://motiontemplates.github.io/all/en.html#preview-knowledge-599)
-
-Demo video：[https://media.openaicut.com/previews/599/draft-en-20720a1089e5.mp4](https://media.openaicut.com/previews/599/draft-en-20720a1089e5.mp4)
-
-Official showcase：[https://motiongit.com/@curious-atlas/knowledge-explainer-chalkboard](https://motiongit.com/@curious-atlas/knowledge-explainer-chalkboard)
-
-### 12. Growing Mind Map · Knowledge Explainer
-
-![Growing Mind Map · Knowledge Explainer · Landscape](https://motiongit.com/media/covers/600/quality-en-06140c156bd2.jpg)
-
-Narrated demo: What the brain does during sleep. Visual style: Growing Mind Map. Chinese and English demos available.
-
-16:9 · 1920 × 1080 · 60 FPS
-
-**Second batch of template open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
-
-Watch online：[https://motiontemplates.github.io/all/en.html#preview-knowledge-600](https://motiontemplates.github.io/all/en.html#preview-knowledge-600)
-
-Demo video：[https://media.openaicut.com/previews/600/draft-en-529ccfd64bf0.mp4](https://media.openaicut.com/previews/600/draft-en-529ccfd64bf0.mp4)
-
-Official showcase：[https://motiongit.com/@curious-atlas/knowledge-explainer-mindmap](https://motiongit.com/@curious-atlas/knowledge-explainer-mindmap)
-
-### 13. Museum Timeline · History Explainer
-
-![Museum Timeline · History Explainer · Landscape](https://motiongit.com/media/covers/601/quality-en-7c8f6adb9335.jpg)
-
-Narrated demo: A brief history of timekeeping. Visual style: Museum Timeline. Chinese and English demos available.
-
-16:9 · 1920 × 1080 · 60 FPS
-
-**Second batch of template open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
-
-Watch online：[https://motiontemplates.github.io/all/en.html#preview-knowledge-601](https://motiontemplates.github.io/all/en.html#preview-knowledge-601)
-
-Demo video：[https://media.openaicut.com/previews/601/draft-en-6ec096fb3a1a.mp4](https://media.openaicut.com/previews/601/draft-en-6ec096fb3a1a.mp4)
-
-Official showcase：[https://motiongit.com/@curious-atlas/knowledge-explainer-timeline](https://motiongit.com/@curious-atlas/knowledge-explainer-timeline)
-
-### 14. Two-Color Risograph · Data Explainer
-
-![Two-Color Risograph · Data Explainer · Landscape](https://motiongit.com/media/covers/602/quality-en-11d576961232.jpg)
-
-Narrated demo: Compound interest and the rule of 72. Visual style: Two-Color Risograph. Chinese and English demos available.
-
-16:9 · 1920 × 1080 · 60 FPS
-
-**Second batch of template open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
-
-Watch online：[https://motiontemplates.github.io/all/en.html#preview-knowledge-602](https://motiontemplates.github.io/all/en.html#preview-knowledge-602)
-
-Demo video：[https://media.openaicut.com/previews/602/draft-en-22f160b4fe5d.mp4](https://media.openaicut.com/previews/602/draft-en-22f160b4fe5d.mp4)
-
-Official showcase：[https://motiongit.com/@curious-atlas/knowledge-explainer-riso](https://motiongit.com/@curious-atlas/knowledge-explainer-riso)
-
-### 15. Claymation · Science Explainer
-
-![Claymation · Science Explainer · Landscape](https://motiongit.com/media/covers/603/quality-en-8c6e462422b6.jpg)
-
-Narrated demo: Photosynthesis. Visual style: Claymation. Chinese and English demos available.
-
-16:9 · 1920 × 1080 · 60 FPS
-
-**Second batch of template open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
-
-Watch online：[https://motiontemplates.github.io/all/en.html#preview-knowledge-603](https://motiontemplates.github.io/all/en.html#preview-knowledge-603)
-
-Demo video：[https://media.openaicut.com/previews/603/draft-en-a1e716ad5ea8.mp4](https://media.openaicut.com/previews/603/draft-en-a1e716ad5ea8.mp4)
-
-Official showcase：[https://motiongit.com/@curious-atlas/knowledge-explainer-clay](https://motiongit.com/@curious-atlas/knowledge-explainer-clay)
-
-### 16. Metro Map · Science Explainer
-
-![Metro Map · Science Explainer · Landscape](https://motiongit.com/media/covers/604/quality-en-d5ed75a8d833.jpg)
-
-Narrated demo: Human blood circulation. Visual style: Metro Map. Chinese and English demos available.
-
-16:9 · 1920 × 1080 · 60 FPS
-
-**Second batch of template open testing, being refined and optimized. Template downloads are coming soon; the full demo is available now.**
-
-Watch online：[https://motiontemplates.github.io/all/en.html#preview-knowledge-604](https://motiontemplates.github.io/all/en.html#preview-knowledge-604)
-
-Demo video：[https://media.openaicut.com/previews/604/draft-en-62a3452393c3.mp4](https://media.openaicut.com/previews/604/draft-en-62a3452393c3.mp4)
-
-Official showcase：[https://motiongit.com/@curious-atlas/knowledge-explainer-metro](https://motiongit.com/@curious-atlas/knowledge-explainer-metro)
-
 ## Narrated explainers
 
-### 17. Modern Editorial · Narrated Explainer
+### 5. Modern Editorial · Narrated Explainer
 
 ![Modern Editorial · Narrated Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/336980/d19c5c2b3c3578d0be749f5b77abc3aa47868a80/assets/preview.gif)
 
@@ -288,7 +96,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/template-01-in
 
 Technical documentation：[https://github.com/motiontemplates/336980](https://github.com/motiontemplates/336980)
 
-### 18. Modern Editorial · Narrated Explainer · Portrait
+### 6. Modern Editorial · Narrated Explainer · Portrait
 
 ![Modern Editorial · Narrated Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/314486/85ab47d049f8df03bb18d99f7a8618add945eb0a/assets/preview.gif)
 
@@ -302,7 +110,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/template-01-in
 
 Technical documentation：[https://github.com/motiontemplates/314486](https://github.com/motiontemplates/314486)
 
-### 19. Paper Perspective · Narrated Explainer
+### 7. Paper Perspective · Narrated Explainer
 
 ![Paper Perspective · Narrated Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/358192/0da9ed0ee5ea80aedf2a7fc818114b1e8296f560/assets/preview.gif)
 
@@ -316,7 +124,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/template-02-ex
 
 Technical documentation：[https://github.com/motiontemplates/358192](https://github.com/motiontemplates/358192)
 
-### 20. Paper Perspective · Narrated Explainer · Portrait
+### 8. Paper Perspective · Narrated Explainer · Portrait
 
 ![Paper Perspective · Narrated Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/295450/c1260cb03662294c365f515ccf6c427e4397641f/assets/preview.gif)
 
@@ -330,7 +138,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/template-02-ex
 
 Technical documentation：[https://github.com/motiontemplates/295450](https://github.com/motiontemplates/295450)
 
-### 21. Dark Dimensional Stage · Multi-screen Story
+### 9. Dark Dimensional Stage · Multi-screen Story
 
 ![Dark Dimensional Stage · Multi-screen Story · Landscape](https://raw.githubusercontent.com/motiontemplates/304634/4181433ba78e172a55ef7fdc4b04c47191989259/assets/preview.gif)
 
@@ -344,7 +152,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/template-03-na
 
 Technical documentation：[https://github.com/motiontemplates/304634](https://github.com/motiontemplates/304634)
 
-### 22. Dark Dimensional Stage · Multi-screen Story · Portrait
+### 10. Dark Dimensional Stage · Multi-screen Story · Portrait
 
 ![Dark Dimensional Stage · Multi-screen Story · Portrait](https://raw.githubusercontent.com/motiontemplates/569615/e95382546540d5d6f664d7b53391db57d7904838/assets/preview.gif)
 
@@ -358,7 +166,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/template-03-na
 
 Technical documentation：[https://github.com/motiontemplates/569615](https://github.com/motiontemplates/569615)
 
-### 23. Tech Console · Narrated Explainer
+### 11. Tech Console · Narrated Explainer
 
 ![Tech Console · Narrated Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/553346/8a57d13731a15fc7469d8b84fac3de2ce766a24f/assets/preview.gif)
 
@@ -372,7 +180,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/template-04-da
 
 Technical documentation：[https://github.com/motiontemplates/553346](https://github.com/motiontemplates/553346)
 
-### 24. Tech Console · Narrated Explainer · Portrait
+### 12. Tech Console · Narrated Explainer · Portrait
 
 ![Tech Console · Narrated Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/738182/0b7dc3011910c8f3617bac931a19d677d0290fd8/assets/preview.gif)
 
@@ -386,7 +194,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/template-04-da
 
 Technical documentation：[https://github.com/motiontemplates/738182](https://github.com/motiontemplates/738182)
 
-### 25. Vivid Characters · Narrative Explainer
+### 13. Vivid Characters · Narrative Explainer
 
 ![Vivid Characters · Narrative Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/960723/4abac8a0da7e62a6eaec3354bacfb8f38fb45aee/assets/preview.gif)
 
@@ -400,7 +208,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/template-05-na
 
 Technical documentation：[https://github.com/motiontemplates/960723](https://github.com/motiontemplates/960723)
 
-### 26. Vivid Characters · Narrative Explainer · Portrait
+### 14. Vivid Characters · Narrative Explainer · Portrait
 
 ![Vivid Characters · Narrative Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/293151/d800a2276433299a41a25e2a1bf01921da6853fa/assets/preview.gif)
 
@@ -414,7 +222,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/template-05-na
 
 Technical documentation：[https://github.com/motiontemplates/293151](https://github.com/motiontemplates/293151)
 
-### 27. Vibrant Poster · Narrated Explainer
+### 15. Vibrant Poster · Narrated Explainer
 
 ![Vibrant Poster · Narrated Explainer · Landscape](https://raw.githubusercontent.com/motiontemplates/762139/cfbdf5d9a79bb8ddbc0dd57a6d263d589a469454/assets/preview.gif)
 
@@ -428,7 +236,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/vibrant-poster
 
 Technical documentation：[https://github.com/motiontemplates/762139](https://github.com/motiontemplates/762139)
 
-### 28. Vibrant Poster · Narrated Explainer · Portrait
+### 16. Vibrant Poster · Narrated Explainer · Portrait
 
 ![Vibrant Poster · Narrated Explainer · Portrait](https://raw.githubusercontent.com/motiontemplates/721489/257eb8872ae8428eb2be3d2388e176767c1963a5/assets/preview.gif)
 
@@ -444,7 +252,7 @@ Technical documentation：[https://github.com/motiontemplates/721489](https://gi
 
 ## Brand & product
 
-### 29. Screen Collage · Brand Story
+### 17. Screen Collage · Brand Story
 
 ![Screen Collage · Brand Story · Landscape](https://raw.githubusercontent.com/motiontemplates/128610/65b4b8af4ff0e700dd082283e1230930345c9dee/assets/preview.gif)
 
@@ -458,7 +266,7 @@ Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-pr
 
 Technical documentation：[https://github.com/motiontemplates/128610](https://github.com/motiontemplates/128610)
 
-### 30. Pixel Platformer · Product Introduction
+### 18. Pixel Platformer · Product Introduction
 
 ![Pixel Platformer · Product Introduction · Landscape](https://raw.githubusercontent.com/motiontemplates/252912/ec286ac676ab6177886300f5c4ca7b827329f0bf/assets/preview.gif)
 
@@ -472,7 +280,7 @@ Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-pr
 
 Technical documentation：[https://github.com/motiontemplates/252912](https://github.com/motiontemplates/252912)
 
-### 31. Light and Dark Cuts · Product Promotion
+### 19. Light and Dark Cuts · Product Promotion
 
 ![Light and Dark Cuts · Product Promotion · Landscape](https://raw.githubusercontent.com/motiontemplates/867595/2f41bb33db8f84227a3ee4c626c08da240f5b539/assets/preview.gif)
 
@@ -486,7 +294,7 @@ Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-pr
 
 Technical documentation：[https://github.com/motiontemplates/867595](https://github.com/motiontemplates/867595)
 
-### 32. Workflow Demo · Product Tutorial
+### 20. Workflow Demo · Product Tutorial
 
 ![Workflow Demo · Product Tutorial · Landscape](https://raw.githubusercontent.com/motiontemplates/670021/13ab9776f4e09163f9297dded1c519ef0fb5a4c4/assets/preview.gif)
 
@@ -500,7 +308,7 @@ Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-pr
 
 Technical documentation：[https://github.com/motiontemplates/670021](https://github.com/motiontemplates/670021)
 
-### 33. Modular Collage · Creator Tools
+### 21. Modular Collage · Creator Tools
 
 ![Modular Collage · Creator Tools · Landscape](https://raw.githubusercontent.com/motiontemplates/452365/80423e83a99b32499b9a493a4c22f486adb16861/assets/preview.gif)
 
@@ -514,7 +322,7 @@ Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-pr
 
 Technical documentation：[https://github.com/motiontemplates/452365](https://github.com/motiontemplates/452365)
 
-### 34. Engineering Blueprint · Product Breakdown
+### 22. Engineering Blueprint · Product Breakdown
 
 ![Engineering Blueprint · Product Breakdown · Landscape](https://raw.githubusercontent.com/motiontemplates/213827/4859988ea9fe834b982d457548e29e9c8be524c7/assets/preview.gif)
 
@@ -528,7 +336,7 @@ Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-pr
 
 Technical documentation：[https://github.com/motiontemplates/213827](https://github.com/motiontemplates/213827)
 
-### 35. Keynote Stage · Product Demo
+### 23. Keynote Stage · Product Demo
 
 ![Keynote Stage · Product Demo · Landscape](https://raw.githubusercontent.com/motiontemplates/667934/591f5acfd6355c76f937910cbc9fb31fed5e6ed3/assets/preview.gif)
 
@@ -542,7 +350,7 @@ Download .motion from MotionGit：[https://motiongit.com/@motiongit/motiongit-pr
 
 Technical documentation：[https://github.com/motiontemplates/667934](https://github.com/motiontemplates/667934)
 
-### 36. Paper Scroll · Brand Story
+### 24. Paper Scroll · Brand Story
 
 ![Paper Scroll · Brand Story · Landscape](https://raw.githubusercontent.com/motiontemplates/394243/e880c950f5c277924f406854016b51ca915d2f7c/assets/preview.gif)
 
@@ -558,7 +366,7 @@ Technical documentation：[https://github.com/motiontemplates/394243](https://gi
 
 ## Photo & visual
 
-### 37. Halftone Dots · Portrait Title
+### 25. Halftone Dots · Portrait Title
 
 ![Halftone Dots · Portrait Title · Landscape](https://raw.githubusercontent.com/motiontemplates/381814/1a9f5b1637698517a0fd1fd95e389c595580236e/assets/preview.gif)
 
@@ -572,7 +380,7 @@ Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-ar
 
 Technical documentation：[https://github.com/motiontemplates/381814](https://github.com/motiontemplates/381814)
 
-### 38. Photo Mosaic · Image Reveal
+### 26. Photo Mosaic · Image Reveal
 
 ![Photo Mosaic · Image Reveal · Landscape](https://raw.githubusercontent.com/motiontemplates/460349/764b9dbe0cce18a126077381084e7d394b56d3d7/assets/preview.gif)
 
@@ -586,7 +394,7 @@ Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-ar
 
 Technical documentation：[https://github.com/motiontemplates/460349](https://github.com/motiontemplates/460349)
 
-### 39. Geometric Collage · Animated Poster
+### 27. Geometric Collage · Animated Poster
 
 ![Geometric Collage · Animated Poster · Landscape](https://raw.githubusercontent.com/motiontemplates/907345/b9bc6960a626c9a599a609b25f04265b3cdb388f/assets/preview.gif)
 
@@ -600,7 +408,7 @@ Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-ar
 
 Technical documentation：[https://github.com/motiontemplates/907345](https://github.com/motiontemplates/907345)
 
-### 40. Brush Repainting · Art Photo
+### 28. Brush Repainting · Art Photo
 
 ![Brush Repainting · Art Photo · Landscape](https://raw.githubusercontent.com/motiontemplates/328828/d985f654c3c26e525583aa8bb490a9f54236b564/assets/preview.gif)
 
@@ -614,7 +422,7 @@ Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-ar
 
 Technical documentation：[https://github.com/motiontemplates/328828](https://github.com/motiontemplates/328828)
 
-### 41. Signal Glitch · Photo Transition
+### 29. Signal Glitch · Photo Transition
 
 ![Signal Glitch · Photo Transition · Landscape](https://raw.githubusercontent.com/motiontemplates/638039/4a42776829882ff6e578dd336cd6702332a9796f/assets/preview.gif)
 
@@ -628,7 +436,7 @@ Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-ar
 
 Technical documentation：[https://github.com/motiontemplates/638039](https://github.com/motiontemplates/638039)
 
-### 42. Double Exposure · Portrait Layers
+### 30. Double Exposure · Portrait Layers
 
 ![Double Exposure · Portrait Layers · Landscape](https://raw.githubusercontent.com/motiontemplates/800829/f8b3ef9c3346a65030999287a25d884fc2843364/assets/preview.gif)
 
@@ -642,7 +450,7 @@ Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-ar
 
 Technical documentation：[https://github.com/motiontemplates/800829](https://github.com/motiontemplates/800829)
 
-### 43. Spatial Gallery · Photo Memories
+### 31. Spatial Gallery · Photo Memories
 
 ![Spatial Gallery · Photo Memories · Landscape](https://raw.githubusercontent.com/motiontemplates/743702/8b822dbf2fbfa817d56a2b016a366860ce57366c/assets/preview.gif)
 
@@ -656,7 +464,7 @@ Download .motion from MotionGit：[https://motiongit.com/@prism-studio/visual-ar
 
 Technical documentation：[https://github.com/motiontemplates/743702](https://github.com/motiontemplates/743702)
 
-### 44. Mirror Kaleidoscope · Photo Motion
+### 32. Mirror Kaleidoscope · Photo Motion
 
 ![Mirror Kaleidoscope · Photo Motion · Landscape](https://raw.githubusercontent.com/motiontemplates/551805/650591b787d916495e6709311c4902635315777d/assets/preview.gif)
 
