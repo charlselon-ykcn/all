@@ -292,8 +292,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/871/draft-40ddede10a69.m
 
 #228996 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
 
-需要准备：要我先按这个口播段落的节奏推荐一段授权背景音乐吗？还是你自带音乐？ · 可选：一段低频电子或氛围床，衬托三层屏幕的入位 · 模板不内置音频；没有音乐时保持静音也成立，画面节奏按 14 秒固定。 把主讲人姓名和职务、这一段的核心标题、三条要点、以及六个章节名发我。 · 主讲人、信息屏标题与要点、章节名与时间码都来自你的口播稿 需要我把附带音效混进成片吗？也可以换成你自己的音乐或完全静音。 · 随包附带的可选音效轨：纯合成音调设计，按本模板真实动画时间线对齐；支持音频的宿主在渲染后混入 · 宿主不支持音频时输出静音视频，画面与时长不受影响；不得声称已包含声音。 左上角品牌名 · 1–3 个英文词，全大写最好看；中文也可以但会换字体。 人名条姓名 · 2–4 个字最好，最多 12 字符；不要带职务。 人名条职务 · 「中文职务 / 英文关键词」这种格式，24 字以内。 信息屏顶部小标签 · 建议「类别 / 中文说明」，不超过 42 个字符，太长会缩小字距。 信息屏主标题 · 6–12 个字最好，最多 14 字；超过一行会自动折成两行。 信息屏副标题 · 一句话讲清这段口播要证明什么，42 字以内、最多两行。 3 条编号要点 · 固定 3 条，每条一个标题（12 字内）+ 一句说明（24 字内）；按 01/02/03 依次入场。 6 条章节 · 固定 6 条，每条一个章节名（5 字内）+ 时间码（分:秒）；导航屏按 01–06 固定槽位出现。 当前章节 · 1–6 的整数，决定章节屏高亮哪一行、右上角显示第几章。 主色 · 六位十六进制颜色；默认冷青 #4DE3FF，暖金 #FFB168，紫罗兰 #A78BFF。
-
 Demo 视频：[▶ https://media.openaicut.com/previews/880/1.0.0-2c8e89fea7a8.mp4](https://media.openaicut.com/previews/880/1.0.0-2c8e89fea7a8.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/deep-stage-host-stage](https://motiongit.com/@thepandaq/deep-stage-host-stage)
@@ -318,8 +316,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/885/1.0.0-1d0d4dc1ea23.m
 
 #583549 · 竖屏 · 9:16 · 1080 × 1920 · 30 FPS · v1.0.0
 
-需要准备：请提供：① 一个锚词（1–4 个汉字）和英文对照；② 按时间顺序的双语字幕条（每条注明起止秒）；③ 高潮放在第几秒（样例在 16 秒）。 · 口播字幕文案：最多 14 条药丸字幕（中文 ≤22 字、英文 ≤60 字符、重点词橙色高亮），以及一个锚词（中文 1–4 字 + 英文），分别出现在 16 秒高潮大字、左上角徽标和片尾手写收尾。 这个版本的演示使用占位人像；如果你要接真人素材，需要用作者的处理管线（原片 → 剪辑 → 抽帧）在自己的工程里出片，或等支持素材输入的新版本。 · 人像窗口的填充内容。包内运行使用内置矢量占位人像（720×1280 虚拟画布，头部活动范围 x150–570 / y280–900，焦点 360,600，与原素材取景规则一致）；真人素材的接入属素材管线能力，不在本包运行合同内——用作者工作流（tools/prep.py 剪辑 + 抽帧）在自己的 Remotion 工程里替换 fr/ 帧序列。 · 没有人像素材时使用包内占位人像，窗口动效与包装完整可用。 需要动作音效吗？可用包内脚本按动效时间表生成；不要的话出无声版。 · 动作音效（tools/sfx.py 程序化合成，时间表与动效时码对齐：砸字、翻页、脚步、仪表爆表、手写收尾等）。样例 36.5 秒音效可直接生成；真人配音由素材管线在混音阶段加入。 · 无音效即为无声版，画面与字幕完整。
-
 Demo 视频：[▶ https://media.openaicut.com/previews/890/1.0.0-a07dfe35eea8.mp4](https://media.openaicut.com/previews/890/1.0.0-a07dfe35eea8.mp4)
 
 官网下载 .motion：[https://motiongit.com/@chenyutao0417/kit2-koubo-wrap](https://motiongit.com/@chenyutao0417/kit2-koubo-wrap)
@@ -332,11 +328,9 @@ Demo 视频：[▶ https://media.openaicut.com/previews/890/1.0.0-a07dfe35eea8.m
 
 #178707 · 竖屏 · 3:4 · 1440 × 1920 · 60 FPS · v0.1.0-alpha8
 
-官网已发布模板；当前为支持达标后开放下载，进度以对应模板页为准。
-
 Demo 视频：[▶ https://media.openaicut.com/previews/896/draft-zh-995fe8c7aa31.mp4](https://media.openaicut.com/previews/896/draft-zh-995fe8c7aa31.mp4)
 
-官网模板与开放进度：[https://motiongit.com/@adunext/break-boundaries](https://motiongit.com/@adunext/break-boundaries)
+官网下载 .motion：[https://motiongit.com/@adunext/break-boundaries](https://motiongit.com/@adunext/break-boundaries)
 
 ### 22. 字符剧场
 
@@ -346,11 +340,9 @@ Demo 视频：[▶ https://media.openaicut.com/previews/896/draft-zh-995fe8c7aa3
 
 #148294 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v0.1.0-alpha8
 
-官网已发布模板；当前为支持达标后开放下载，进度以对应模板页为准。
-
 Demo 视频：[▶ https://media.openaicut.com/previews/897/draft-zh-1bc9e79516df.mp4](https://media.openaicut.com/previews/897/draft-zh-1bc9e79516df.mp4)
 
-官网模板与开放进度：[https://motiongit.com/@adunext/character-theater](https://motiongit.com/@adunext/character-theater)
+官网下载 .motion：[https://motiongit.com/@adunext/character-theater](https://motiongit.com/@adunext/character-theater)
 
 ### 23. 卡通讲解风
 
@@ -360,11 +352,9 @@ Demo 视频：[▶ https://media.openaicut.com/previews/897/draft-zh-1bc9e79516d
 
 #875206 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v0.1.0-alpha8
 
-官网已发布模板；当前为支持达标后开放下载，进度以对应模板页为准。
-
 Demo 视频：[▶ https://media.openaicut.com/previews/898/draft-zh-07d37803544c.mp4](https://media.openaicut.com/previews/898/draft-zh-07d37803544c.mp4)
 
-官网模板与开放进度：[https://motiongit.com/@adunext/cartoon-explainer](https://motiongit.com/@adunext/cartoon-explainer)
+官网下载 .motion：[https://motiongit.com/@adunext/cartoon-explainer](https://motiongit.com/@adunext/cartoon-explainer)
 
 ### 24. 像素海洋
 
@@ -374,13 +364,9 @@ Demo 视频：[▶ https://media.openaicut.com/previews/898/draft-zh-07d37803544
 
 #966597 · 横屏 · 4:3 · 1440 × 1080 · 60 FPS · v0.1.0-alpha8
 
-官网已发布模板；当前为支持达标后开放下载，进度以对应模板页为准。
-
-需要准备：这条视频准备讲什么？ · 本期上屏文字与语义 有本期口播素材就直接使用；没有可明确选择无人物。 · 在原有窗口绑定本期人物，不携带作者人物帧 · 明确无人物后使用透明输入和中性控制信号；不回退作者素材。 已有配音直接沿用。 · 本期配音与词/句时间证据 · 核对是否需要配音；明确无配音才设置 none。 有字幕或逐字稿就一起读取。 · 保留本期真实字幕与时间证据 · 没有真实词时刻时不冒充逐词对齐。 有要展示的图片或作品就直接分配到相应窗口。 · 头像、作品及证据窗口的本期素材 · 明确不用的角色设置 none；所选必要载体缺素材返回 needs-binding。 保留已指定的音乐；另选曲目前核对当前服务和许可。 · 本期明确绑定的授权配乐 · 音乐与动作音效分开；明确不要音乐才设置 none。 本期画面文字 · 选完整单元后，只填写它的 requiredCopySlots 和 requiredValueSlots（多个单元取并集），容量与载体见 copy-slots。未选场景不需填充占位，也不回退原稿。正式导出前实际检查预览。 本期期号 · 有期号填 0–99；不需要期号明确填 null，省略期号文字，保留原卡带和动效。 本期片尾步骤 · 1–4项，每项容量见catalog/instructions.json；给出后可不填被它覆盖的四个旧步骤槽。
-
 Demo 视频：[▶ https://media.openaicut.com/previews/899/draft-zh-e97c782669c1.mp4](https://media.openaicut.com/previews/899/draft-zh-e97c782669c1.mp4)
 
-官网模板与开放进度：[https://motiongit.com/@adunext/pixel-ocean](https://motiongit.com/@adunext/pixel-ocean)
+官网下载 .motion：[https://motiongit.com/@adunext/pixel-ocean](https://motiongit.com/@adunext/pixel-ocean)
 
 ## 知识讲解
 
@@ -391,8 +377,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/899/draft-zh-e97c782669c
 量价教学图表独立组件，包含两组日K与一组分时动画。
 
 #287792 · 横屏 · 1:1 · 1080 × 1080 · 30 FPS · v1.0.0
-
-需要准备：图表标题1 · 不超过12字，保持与固定示意图内容一致 图表标题2 · 不超过12字，保持与固定示意图内容一致 图表标题3 · 不超过12字，保持与固定示意图内容一致
 
 Demo 视频：[▶ https://media.openaicut.com/previews/869/1.0.0-zh-d5fd83bc28a8.mp4](https://media.openaicut.com/previews/869/1.0.0-zh-d5fd83bc28a8.mp4)
 
@@ -406,8 +390,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/869/1.0.0-zh-d5fd83bc28a
 
 #876 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
 
-需要准备：要沿用随包预览音乐，还是换成你自己的音乐？ · 随包提供一段与成片同源的预览音乐，导出时可作为 music 输入绑定；不绑定则输出无声。 · 导出无声，画面不受影响。 品牌名 · 片头 HUD / 时间线窗口 / 片尾字标中的品牌名。 长度 1–18 个字符。
-
 Demo 视频：[▶ https://media.openaicut.com/previews/876/1.0.0-zh-294b6a370e6d.mp4](https://media.openaicut.com/previews/876/1.0.0-zh-294b6a370e6d.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/collage-flow](https://motiongit.com/@thepandaq/collage-flow)
@@ -419,8 +401,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/876/1.0.0-zh-294b6a370e6
 案例讲解动效：数据仪表盘推入，3 个 KPI 数字滚动，6 根柱图从底部逐根生长（最高值自动主色高亮），前后对比副屏滑入。13 秒，适合案例复盘与成果汇报。
 
 #587362 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-需要准备：把这次案例的关键数字发我：标题、三个指标（名字 / 数值 / 前缀 / 后缀）、六个月或六个阶段的柱图数据、数据口径脚注，以及改造前后的三行对比。 · 案例标题、3 个 KPI、6 根柱图、脚注口径、改造前 / 改造后的三行数据 要我按这段数据屏的节奏推荐一段授权背景音乐吗？还是你自带音乐？ · 可选：一段克制的低频电子 / 氛围床，衬数据入场 · 模板不内置音频；没有音乐时保持静音也成立，画面节奏按 13 秒固定。 需要我把附带音效混进成片吗？也可以换成你自己的音乐或完全静音。 · 随包附带的可选音效轨：纯合成音调设计，按本模板真实动画时间线对齐；支持音频的宿主在渲染后混入 · 宿主不支持音频时输出静音视频，画面与时长不受影响；不得声称已包含声音。 左上角品牌名 · 1–3 个英文词，全大写最好看；也会作为左侧竖排小字显示。 数据屏左上角小标签 · 建议「类别 / 中文说明」，不超过 42 个字符。 案例标题 · 一行写完，8–16 个中文字最好；超过 20 个字会被屏幕裁掉。 三个关键指标 · 固定 3 条，每条写指标名（12 字内）、数值、前缀（+ / − / 空）和后缀（% / 万 / 空）；数值支持 0–2 位小数。 六根柱图数据 · 固定 6 条，value 是 0–100 的柱高，最高的一根会自动变成主色高亮；label 是横轴标签（6 字内）。 数据脚注 · 一行写清口径、范围与样本量，60 字以内。 改造前三行数据 · 固定 3 条，每条行名 8 字内、行值 10 字内（可带单位，如 21天）。 改造后三行数据 · 固定 3 条，行名必须与改造前一一对应，行值可带单位（如 12天）。 对比卡（前）标题 · 10 字以内，默认「改造前」。 对比卡（后）标题 · 10 字以内，默认「改造后」。 KPI 对照说明 · 三个指标右下角的同一句小字，如「VS 2025 同期」；留空则只显示指标名。 柱图标题 · 图表左上角的标题，建议「TREND / 中文说明」。
 
 Demo 视频：[▶ https://media.openaicut.com/previews/882/1.0.0-5df639825460.mp4](https://media.openaicut.com/previews/882/1.0.0-5df639825460.mp4)
 
@@ -470,8 +450,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/889/1.0.0-c28fac802c50.m
 
 #360840 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
 
-需要准备：讲哪个人物？有没有参考视频、剧本或想用的原台词？ · 人物故事的史料、参考视频台词或用户文稿，改写成每段 2–6 句大白话对白（subs）、成语签（idioms）、地点年份（hud）和括注（notes） 想用哪个心理学概念来解释他？ · 想落到的心理学概念（如“自我价值外包”），放进 scale 场景的术语和解释 · 从人物经历里提炼 1 个概念，先给用户确认 背景音乐用你指定的歌，还是用平台推荐的授权配乐？ · 背景音乐：安静前奏放起点，鼓点处出片名，高能段放战役，安静段放结局与解析，结尾 3.5 秒淡出；不必放完 · 用平台授权配乐推荐；仍没有时只用程序合成音效 片名、系列名、品牌和印章字 · 片名「人物：四字评价」；印章 2–4 字 对白与旁白 · 每句 ≤30 字，大白话短句；有 who 显示人名签（全名），无 who 为旁白；多用原片台词；不讲输赢，讲为什么落到这个下场 成语签 · 每段 1 个成语或典故，≤8 字 地点 · 年份 · 地点 ≤10 字，年份用中文纪年如「前二〇六」 左下括注 · 一句背景说明，≤24 字
-
 Demo 视频：[▶ https://media.openaicut.com/previews/892/1.0.0-zh-1f9aa1a124de.mp4](https://media.openaicut.com/previews/892/1.0.0-zh-1f9aa1a124de.mp4)
 
 官网下载 .motion：[https://motiongit.com/@chenyutao0417/ink-saga](https://motiongit.com/@chenyutao0417/ink-saga)
@@ -484,11 +462,9 @@ Demo 视频：[▶ https://media.openaicut.com/previews/892/1.0.0-zh-1f9aa1a124d
 
 #257987 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.5.2
 
-官网已发布模板；当前为支持达标后开放下载，进度以对应模板页为准。
-
 Demo 视频：[▶ https://media.openaicut.com/previews/900/2.5.3-zh-5df29820b59b.mp4](https://media.openaicut.com/previews/900/2.5.3-zh-5df29820b59b.mp4)
 
-官网模板与开放进度：[https://motiongit.com/@adunext/knowledge-explainer-swiss](https://motiongit.com/@adunext/knowledge-explainer-swiss)
+官网下载 .motion：[https://motiongit.com/@adunext/knowledge-explainer-swiss](https://motiongit.com/@adunext/knowledge-explainer-swiss)
 
 ### 33. 黏土实验台 · 知识讲解模板
 
@@ -498,11 +474,9 @@ Demo 视频：[▶ https://media.openaicut.com/previews/900/2.5.3-zh-5df29820b59
 
 #517652 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.5.2
 
-官网已发布模板；当前为支持达标后开放下载，进度以对应模板页为准。
-
 Demo 视频：[▶ https://media.openaicut.com/previews/901/2.5.3-zh-8f8876c01431.mp4](https://media.openaicut.com/previews/901/2.5.3-zh-8f8876c01431.mp4)
 
-官网模板与开放进度：[https://motiongit.com/@adunext/knowledge-explainer-clay](https://motiongit.com/@adunext/knowledge-explainer-clay)
+官网下载 .motion：[https://motiongit.com/@adunext/knowledge-explainer-clay](https://motiongit.com/@adunext/knowledge-explainer-clay)
 
 ### 34. 粉笔黑板 · 知识讲解模板
 
@@ -512,11 +486,9 @@ Demo 视频：[▶ https://media.openaicut.com/previews/901/2.5.3-zh-8f8876c0143
 
 #173723 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.5.2
 
-官网已发布模板；当前为支持达标后开放下载，进度以对应模板页为准。
-
 Demo 视频：[▶ https://media.openaicut.com/previews/902/2.5.3-zh-3d0943b9524d.mp4](https://media.openaicut.com/previews/902/2.5.3-zh-3d0943b9524d.mp4)
 
-官网模板与开放进度：[https://motiongit.com/@adunext/knowledge-explainer-chalkboard](https://motiongit.com/@adunext/knowledge-explainer-chalkboard)
+官网下载 .motion：[https://motiongit.com/@adunext/knowledge-explainer-chalkboard](https://motiongit.com/@adunext/knowledge-explainer-chalkboard)
 
 ### 35. 生长导图 · 知识讲解模板
 
@@ -526,11 +498,9 @@ Demo 视频：[▶ https://media.openaicut.com/previews/902/2.5.3-zh-3d0943b9524
 
 #880856 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.5.2
 
-官网已发布模板；当前为支持达标后开放下载，进度以对应模板页为准。
-
 Demo 视频：[▶ https://media.openaicut.com/previews/903/2.5.3-zh-fe14805ea913.mp4](https://media.openaicut.com/previews/903/2.5.3-zh-fe14805ea913.mp4)
 
-官网模板与开放进度：[https://motiongit.com/@adunext/knowledge-explainer-mindmap](https://motiongit.com/@adunext/knowledge-explainer-mindmap)
+官网下载 .motion：[https://motiongit.com/@adunext/knowledge-explainer-mindmap](https://motiongit.com/@adunext/knowledge-explainer-mindmap)
 
 ### 36. 博物馆展墙 · 知识讲解模板
 
@@ -540,11 +510,9 @@ Demo 视频：[▶ https://media.openaicut.com/previews/903/2.5.3-zh-fe14805ea91
 
 #949192 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.5.2
 
-官网已发布模板；当前为支持达标后开放下载，进度以对应模板页为准。
-
 Demo 视频：[▶ https://media.openaicut.com/previews/904/2.5.3-zh-12ca8272b15b.mp4](https://media.openaicut.com/previews/904/2.5.3-zh-12ca8272b15b.mp4)
 
-官网模板与开放进度：[https://motiongit.com/@adunext/knowledge-explainer-timeline](https://motiongit.com/@adunext/knowledge-explainer-timeline)
+官网下载 .motion：[https://motiongit.com/@adunext/knowledge-explainer-timeline](https://motiongit.com/@adunext/knowledge-explainer-timeline)
 
 ### 37. 发光玻璃板 · 知识讲解模板
 
@@ -554,11 +522,9 @@ Demo 视频：[▶ https://media.openaicut.com/previews/904/2.5.3-zh-12ca8272b15
 
 #803150 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.5.2
 
-官网已发布模板；当前为支持达标后开放下载，进度以对应模板页为准。
-
 Demo 视频：[▶ https://media.openaicut.com/previews/905/2.5.3-zh-90f1d36b5c30.mp4](https://media.openaicut.com/previews/905/2.5.3-zh-90f1d36b5c30.mp4)
 
-官网模板与开放进度：[https://motiongit.com/@adunext/knowledge-explainer-lightboard](https://motiongit.com/@adunext/knowledge-explainer-lightboard)
+官网下载 .motion：[https://motiongit.com/@adunext/knowledge-explainer-lightboard](https://motiongit.com/@adunext/knowledge-explainer-lightboard)
 
 ### 38. 等距系统图 · 知识讲解模板
 
@@ -568,11 +534,9 @@ Demo 视频：[▶ https://media.openaicut.com/previews/905/2.5.3-zh-90f1d36b5c3
 
 #106531 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.5.2
 
-官网已发布模板；当前为支持达标后开放下载，进度以对应模板页为准。
-
 Demo 视频：[▶ https://media.openaicut.com/previews/906/2.5.3-zh-f7f712d44ade.mp4](https://media.openaicut.com/previews/906/2.5.3-zh-f7f712d44ade.mp4)
 
-官网模板与开放进度：[https://motiongit.com/@adunext/knowledge-explainer-isometric](https://motiongit.com/@adunext/knowledge-explainer-isometric)
+官网下载 .motion：[https://motiongit.com/@adunext/knowledge-explainer-isometric](https://motiongit.com/@adunext/knowledge-explainer-isometric)
 
 ### 39. 纸雕层叠 · 知识讲解模板
 
@@ -582,11 +546,9 @@ Demo 视频：[▶ https://media.openaicut.com/previews/906/2.5.3-zh-f7f712d44ad
 
 #546070 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.5.2
 
-官网已发布模板；当前为支持达标后开放下载，进度以对应模板页为准。
-
 Demo 视频：[▶ https://media.openaicut.com/previews/907/2.5.3-zh-66b986377f2a.mp4](https://media.openaicut.com/previews/907/2.5.3-zh-66b986377f2a.mp4)
 
-官网模板与开放进度：[https://motiongit.com/@adunext/knowledge-explainer-papercut](https://motiongit.com/@adunext/knowledge-explainer-papercut)
+官网下载 .motion：[https://motiongit.com/@adunext/knowledge-explainer-papercut](https://motiongit.com/@adunext/knowledge-explainer-papercut)
 
 ### 40. 地铁线路图 · 知识讲解模板
 
@@ -596,11 +558,9 @@ Demo 视频：[▶ https://media.openaicut.com/previews/907/2.5.3-zh-66b986377f2
 
 #447390 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.5.2
 
-官网已发布模板；当前为支持达标后开放下载，进度以对应模板页为准。
-
 Demo 视频：[▶ https://media.openaicut.com/previews/908/2.5.3-zh-fd8d9dc5ae03.mp4](https://media.openaicut.com/previews/908/2.5.3-zh-fd8d9dc5ae03.mp4)
 
-官网模板与开放进度：[https://motiongit.com/@adunext/knowledge-explainer-metro](https://motiongit.com/@adunext/knowledge-explainer-metro)
+官网下载 .motion：[https://motiongit.com/@adunext/knowledge-explainer-metro](https://motiongit.com/@adunext/knowledge-explainer-metro)
 
 ### 41. 双色孔版 · 知识讲解模板
 
@@ -610,11 +570,9 @@ Demo 视频：[▶ https://media.openaicut.com/previews/908/2.5.3-zh-fd8d9dc5ae0
 
 #808349 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.5.2
 
-官网已发布模板；当前为支持达标后开放下载，进度以对应模板页为准。
-
 Demo 视频：[▶ https://media.openaicut.com/previews/909/2.5.3-zh-15d6f65e42f3.mp4](https://media.openaicut.com/previews/909/2.5.3-zh-15d6f65e42f3.mp4)
 
-官网模板与开放进度：[https://motiongit.com/@adunext/knowledge-explainer-riso](https://motiongit.com/@adunext/knowledge-explainer-riso)
+官网下载 .motion：[https://motiongit.com/@adunext/knowledge-explainer-riso](https://motiongit.com/@adunext/knowledge-explainer-riso)
 
 ### 42. 点阵手账 · 知识讲解模板
 
@@ -624,11 +582,9 @@ Demo 视频：[▶ https://media.openaicut.com/previews/909/2.5.3-zh-15d6f65e42f
 
 #968813 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.5.2
 
-官网已发布模板；当前为支持达标后开放下载，进度以对应模板页为准。
-
 Demo 视频：[▶ https://media.openaicut.com/previews/910/2.5.3-zh-5ebc896f6930.mp4](https://media.openaicut.com/previews/910/2.5.3-zh-5ebc896f6930.mp4)
 
-官网模板与开放进度：[https://motiongit.com/@adunext/knowledge-explainer-sketchnote](https://motiongit.com/@adunext/knowledge-explainer-sketchnote)
+官网下载 .motion：[https://motiongit.com/@adunext/knowledge-explainer-sketchnote](https://motiongit.com/@adunext/knowledge-explainer-sketchnote)
 
 ### 43. 彩色几何 · 知识讲解模板
 
@@ -638,11 +594,9 @@ Demo 视频：[▶ https://media.openaicut.com/previews/910/2.5.3-zh-5ebc896f693
 
 #118272 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.5.2
 
-官网已发布模板；当前为支持达标后开放下载，进度以对应模板页为准。
-
 Demo 视频：[▶ https://media.openaicut.com/previews/911/2.5.3-zh-b27b76c06f66.mp4](https://media.openaicut.com/previews/911/2.5.3-zh-b27b76c06f66.mp4)
 
-官网模板与开放进度：[https://motiongit.com/@adunext/knowledge-explainer-byrne](https://motiongit.com/@adunext/knowledge-explainer-byrne)
+官网下载 .motion：[https://motiongit.com/@adunext/knowledge-explainer-byrne](https://motiongit.com/@adunext/knowledge-explainer-byrne)
 
 ## 品牌与产品
 
@@ -830,8 +784,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/877/1.0.0-zh-97910ee1359
 
 #648878 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
 
-需要准备：要我先按这个产品段落的节奏推荐一段授权背景音乐吗？还是你自带音乐？ · 可选：一段低频电子或氛围床，衬托产品屏推近与参数切片浮出 · 模板不内置音频；没有音乐时保持静音也成立，画面节奏按 12 秒固定。 把产品名、一句话 tagline、两行正文、三个关键参数（名称 / 数值 / 单位）和一行规格发我。 · 产品名、tagline、正文、3 组参数与规格行都来自你的产品资料 需要我把附带音效混进成片吗？也可以换成你自己的音乐或完全静音。 · 随包附带的可选音效轨：纯合成音调设计，按本模板真实动画时间线对齐；支持音频的宿主在渲染后混入 · 宿主不支持音频时输出静音视频，画面与时长不受影响；不得声称已包含声音。 左上角品牌名 · 1–3 个英文词，全大写最好看；中文也可以但会换字体。 产品屏顶部小标签 · 建议「类别 / 中文说明」，不超过 42 个字符。 产品名 · 1–2 个英文词或 2–6 个中文字，最多 12 字符；这是画面最大的一行。 一句话 tagline · 28 字以内；想强调的词用 &lt;em&gt;…&lt;/em&gt; 包起来，会变成主色。 正文说明 · 56 字以内、建议两行；用 \\n 手动换行，不要靠自动折行硬塞。 3 个参数切片 · 固定 3 组，每组「参数名（10 字内）+ 数值（纯数字，可带 1–2 位小数）+ 单位（4 字内，可空）」；数值会从 0 滚动到终值。 底部规格行 · 一行规格说明，48 字以内，建议用斜杠分隔，例如 1920×1080 / 30FPS / H.264。 主色 · 六位十六进制颜色；默认冷青 #4DE3FF，暖金 #FFB168，紫罗兰 #A78BFF。
-
 Demo 视频：[▶ https://media.openaicut.com/previews/881/1.0.0-bf4d2ce8953d.mp4](https://media.openaicut.com/previews/881/1.0.0-bf4d2ce8953d.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/deep-stage-product-focus](https://motiongit.com/@thepandaq/deep-stage-product-focus)
@@ -843,8 +795,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/881/1.0.0-bf4d2ce8953d.m
 固定20秒横屏商务短片，以多屏重排呈现团队、比较、趋势、构成与行动。
 
 #640261 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v0.1.1-candidate
-
-需要准备：提供三张有使用权的 JPG/PNG 照片，保存到实例 input-assets。 · 三张照片依次进入多屏布局；focus 为归一化裁切焦点。 提供有来源的比较、趋势、构成和排行数据；示例数据须注明。 · 图表标题、标签、数值与单位。 无需提供背景音乐。仅用户以后明确要求添加时才通过 --music 绑定授权文件。 · 默认不绑定背景音乐，只保留原动效音效；无需获取、推荐或下载音乐。 · 正常按默认 SFX-only 导出，不阻塞、不提示待绑定，也不将其标成诊断片。 六段标题与说明 · 沿用六段表达结构，每行最多13字；实际排版须预览。 品牌角标 · 最多28字符。 六色配色 · 每项为 #RRGGBB；当前预设保留 v0.1 原色。 固定合同 id · 这是固定模板身份/规格，不接受修改；保留预设常量。 固定合同 version · 这是固定模板身份/规格，不接受修改；保留预设常量。 固定合同 width · 这是固定模板身份/规格，不接受修改；保留预设常量。 固定合同 height · 这是固定模板身份/规格，不接受修改；保留预设常量。 固定合同 fps · 这是固定模板身份/规格，不接受修改；保留预设常量。 固定合同 duration · 这是固定模板身份/规格，不接受修改；保留预设常量。 固定合同 status · 这是固定模板身份/规格，不接受修改；保留预设常量。
 
 Demo 视频：[▶ https://media.openaicut.com/previews/891/0.1.1-candidate-zh-a43ff10687ec.mp4](https://media.openaicut.com/previews/891/0.1.1-candidate-zh-a43ff10687ec.mp4)
 
@@ -1012,8 +962,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/629/1.1.0-0892fa4bf82d.m
 
 #941301 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.1.0
 
-需要准备：第一个词 · 2 到 4 个字或短英文词，最多 6 个字符。 第二个词 · 同上。 第三个词 · 同上。 第四个词 · 同上。 主色 · 填十六进制颜色。
-
 Demo 视频：[▶ https://media.openaicut.com/previews/630/1.1.0-7b16186bd6b2.mp4](https://media.openaicut.com/previews/630/1.1.0-7b16186bd6b2.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/deepseek-word-morph](https://motiongit.com/@thepandaq/deepseek-word-morph)
@@ -1038,8 +986,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/872/1.0.0-08a812711d78.m
 
 #878 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
 
-需要准备：要沿用随包预览音乐，还是换成你自己的音乐？ · 随包提供一段与成片同源的预览音乐，导出时可作为 music 输入绑定；不绑定则输出无声。 · 导出无声，画面不受影响。 品牌名 · 片头 HUD / 时间线窗口 / 片尾字标中的品牌名。 长度 1–18 个字符。
-
 Demo 视频：[▶ https://media.openaicut.com/previews/878/1.0.0-zh-be7dc794ab1a.mp4](https://media.openaicut.com/previews/878/1.0.0-zh-be7dc794ab1a.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/collage-wipe](https://motiongit.com/@thepandaq/collage-wipe)
@@ -1051,8 +997,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/878/1.0.0-zh-be7dc794ab1
 深色立体舞台开场：地平线点火、地面透视网格生长、远景屏幕墙点亮，两段主标题落下（金属渐变），最后落到副标题与角标。10 秒片头动效，可换品牌、标题、副标题与主色。
 
 #921052 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-需要准备：要我先按这个片头的节奏推荐一段授权背景音乐吗？还是你自带音乐？ · 可选：一段低频电子或氛围床，衬托点火与标题落下 · 模板不内置音频；没有音乐时保持静音也成立，画面节奏按 10 秒固定。 把片头要出现的品牌名、两段主标题、一句话副标题和角标发我。 · 开场标题、副标题、角标文字来自你的文案 需要我把附带音效混进成片吗？也可以换成你自己的音乐或完全静音。 · 随包附带的可选音效轨：纯合成音调设计，按本模板真实动画时间线对齐；支持音频的宿主在渲染后混入 · 宿主不支持音频时输出静音视频，画面与时长不受影响；不得声称已包含声音。 左上角品牌名 · 1–3 个英文词，全大写最好看；中文也可以但会换字体。 标题上方小标签 · 建议「类别 / 中文说明」，不超过 42 个字符，太长会缩字距。 主标题第一段 · 2–8 个中文字或 1 个英文词；这是画面最大的一行。 主标题第二段 · 与第一段合计不超过 14 个字符；留空就只显示一段标题。 副标题 · 一行写完，38 字以内；想强调某几个字可以用尖括号 b 包起来。 底部角标 · 建议「日期 / 编号 / 画幅·帧率」这种格式，48 字以内。 主色 · 六位十六进制颜色；默认冷青 #4DE3FF，暖金 #FFB168，紫罗兰 #A78BFF。
 
 Demo 视频：[▶ https://media.openaicut.com/previews/879/1.0.0-8e74030d1901.mp4](https://media.openaicut.com/previews/879/1.0.0-8e74030d1901.mp4)
 
@@ -1066,8 +1010,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/879/1.0.0-8e74030d1901.m
 
 #430770 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
 
-需要准备：把素材墙标题和六张卡的名字发我：每张一句中文名（八个字内）加一个英文大写标签。如果是作品集，把六个作品的短名给我就行。 · 素材墙标题与六张卡的名字 / 英文标签 要我按这段素材墙的节奏推荐一段授权背景音乐吗？还是你自带音乐？ · 可选：一段低频律动或氛围床，衬托六张卡依次落位 · 模板不内置音频；没有音乐时保持静音也成立，画面节奏按 10 秒固定。 需要我把附带音效混进成片吗？也可以换成你自己的音乐或完全静音。 · 随包附带的可选音效轨：纯合成音调设计，按本模板真实动画时间线对齐；支持音频的宿主在渲染后混入 · 宿主不支持音频时输出静音视频，画面与时长不受影响；不得声称已包含声音。 素材墙标题 · 一行写完，8–14 个中文字；超过 18 个字会被裁掉。 六张卡的文案 · 固定 6 条，每条写中文名（8 字内）和英文大写标签（10 字内）；顺序就是画面里从左上到右下的顺序。 标题上方小标签 · 建议「类别 / 中文说明」，36 字以内；留空则不显示。 左上角品牌名 · 1–3 个英文词，全大写最好看；也会作为左侧竖排小字显示。 右上角章节号 · 写法「05 / 06」；只写一个数字也能显示。 右上角章节名 · 章节号下方的一行小字，如「MEDIA WALL / 媒体素材」。 右下角角标 · 建议「品牌 / 版本 / 画幅」，52 字以内。 底部字幕 · 34 字以内，一行；用 &lt;em&gt;…&lt;/em&gt; 可让局部变主色；留空则不显示字幕带。 主色 · 六位十六进制颜色；默认冷青 #4DE3FF，暖金 #FFB168，紫罗兰 #A78BFF。
-
 Demo 视频：[▶ https://media.openaicut.com/previews/883/1.0.0-a30bac716f4b.mp4](https://media.openaicut.com/previews/883/1.0.0-a30bac716f4b.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/deep-stage-media-wall](https://motiongit.com/@thepandaq/deep-stage-media-wall)
@@ -1079,8 +1021,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/883/1.0.0-a30bac716f4b.m
 收尾锁版动效：屏幕退向纵深，logo 描边锁定，字标、副标、规格行与版本胶囊依次落位，一道横扫光掠过，结尾稳定呼吸。8 秒，适合片尾与版本标识。
 
 #581039 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-需要准备：要我先按这个收尾的节奏推荐一段授权背景音乐吗？还是你自带音乐？ · 可选：一段收束感的氛围床或低频电子乐，衬托光扫与落版 · 模板不内置音频；没有音乐时保持静音也成立，画面节奏按 8 秒固定。 把片尾要出现的品牌名、一句话副标、规格行（项目/画幅/帧率）和版本号发我。 · 品牌名、中文副标、规格行、版本号来自你的文案 需要我把附带音效混进成片吗？也可以换成你自己的音乐或完全静音。 · 随包附带的可选音效轨：纯合成音调设计，按本模板真实动画时间线对齐；支持音频的宿主在渲染后混入 · 宿主不支持音频时输出静音视频，画面与时长不受影响；不得声称已包含声音。 品牌字标 · 1–16 个字符，拉丁字母全大写最好看；这是画面最大的一行。 中文副标 · 一行写完，40 字以内；建议「品牌定位 · 一句话说明」。 规格 mono 行 · 建议「项目 · 1920×1080 · 30FPS」这种格式，60 字以内。 版本胶囊文字 · 24 字以内，建议「TEMPLATE v1.0」这种格式。 主色 · 六位十六进制颜色；默认冷青 #4DE3FF，暖金 #FFB168，紫罗兰 #A78BFF。
 
 Demo 视频：[▶ https://media.openaicut.com/previews/884/1.0.0-651f2839086d.mp4](https://media.openaicut.com/previews/884/1.0.0-651f2839086d.mp4)
 

@@ -304,11 +304,9 @@ Download .motion from MotionGit：[https://motiongit.com/@chenyutao0417/kit2-kou
 
 #178707 · Portrait · 3:4 · 1440 × 1920 · 60 FPS · v0.1.0-alpha8
 
-Published on MotionGit; downloads open after the support goals are met. See the template page for current progress.
-
 Demo video：[https://media.openaicut.com/previews/896/draft-zh-995fe8c7aa31.mp4](https://media.openaicut.com/previews/896/draft-zh-995fe8c7aa31.mp4)
 
-Official template and download progress：[https://motiongit.com/@adunext/break-boundaries](https://motiongit.com/@adunext/break-boundaries)
+Download .motion from MotionGit：[https://motiongit.com/@adunext/break-boundaries](https://motiongit.com/@adunext/break-boundaries)
 
 ### 22. 字符剧场
 
@@ -318,11 +316,9 @@ Official template and download progress：[https://motiongit.com/@adunext/break-
 
 #148294 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v0.1.0-alpha8
 
-Published on MotionGit; downloads open after the support goals are met. See the template page for current progress.
-
 Demo video：[https://media.openaicut.com/previews/897/draft-zh-1bc9e79516df.mp4](https://media.openaicut.com/previews/897/draft-zh-1bc9e79516df.mp4)
 
-Official template and download progress：[https://motiongit.com/@adunext/character-theater](https://motiongit.com/@adunext/character-theater)
+Download .motion from MotionGit：[https://motiongit.com/@adunext/character-theater](https://motiongit.com/@adunext/character-theater)
 
 ### 23. 卡通讲解风
 
@@ -332,11 +328,9 @@ Official template and download progress：[https://motiongit.com/@adunext/charac
 
 #875206 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v0.1.0-alpha8
 
-Published on MotionGit; downloads open after the support goals are met. See the template page for current progress.
-
 Demo video：[https://media.openaicut.com/previews/898/draft-zh-07d37803544c.mp4](https://media.openaicut.com/previews/898/draft-zh-07d37803544c.mp4)
 
-Official template and download progress：[https://motiongit.com/@adunext/cartoon-explainer](https://motiongit.com/@adunext/cartoon-explainer)
+Download .motion from MotionGit：[https://motiongit.com/@adunext/cartoon-explainer](https://motiongit.com/@adunext/cartoon-explainer)
 
 ### 24. 像素海洋
 
@@ -346,11 +340,9 @@ Official template and download progress：[https://motiongit.com/@adunext/cartoo
 
 #966597 · Landscape · 4:3 · 1440 × 1080 · 60 FPS · v0.1.0-alpha8
 
-Published on MotionGit; downloads open after the support goals are met. See the template page for current progress.
-
 Demo video：[https://media.openaicut.com/previews/899/draft-zh-e97c782669c1.mp4](https://media.openaicut.com/previews/899/draft-zh-e97c782669c1.mp4)
 
-Official template and download progress：[https://motiongit.com/@adunext/pixel-ocean](https://motiongit.com/@adunext/pixel-ocean)
+Download .motion from MotionGit：[https://motiongit.com/@adunext/pixel-ocean](https://motiongit.com/@adunext/pixel-ocean)
 
 ## Knowledge explainers
 
@@ -446,11 +438,9 @@ Download .motion from MotionGit：[https://motiongit.com/@chenyutao0417/ink-saga
 
 #257987 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.5.2
 
-Published on MotionGit; downloads open after the support goals are met. See the template page for current progress.
-
 Demo video：[https://media.openaicut.com/previews/900/2.5.3-zh-5df29820b59b.mp4](https://media.openaicut.com/previews/900/2.5.3-zh-5df29820b59b.mp4)
 
-Official template and download progress：[https://motiongit.com/@adunext/knowledge-explainer-swiss](https://motiongit.com/@adunext/knowledge-explainer-swiss)
+Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-explainer-swiss](https://motiongit.com/@adunext/knowledge-explainer-swiss)
 
 ### 33. 黏土实验台 · 知识讲解模板
 
@@ -460,11 +450,9 @@ Official template and download progress：[https://motiongit.com/@adunext/knowle
 
 #517652 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.5.2
 
-Published on MotionGit; downloads open after the support goals are met. See the template page for current progress.
-
 Demo video：[https://media.openaicut.com/previews/901/2.5.3-zh-8f8876c01431.mp4](https://media.openaicut.com/previews/901/2.5.3-zh-8f8876c01431.mp4)
 
-Official template and download progress：[https://motiongit.com/@adunext/knowledge-explainer-clay](https://motiongit.com/@adunext/knowledge-explainer-clay)
+Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-explainer-clay](https://motiongit.com/@adunext/knowledge-explainer-clay)
 
 ### 34. 粉笔黑板 · 知识讲解模板
 
@@ -474,11 +462,9 @@ Official template and download progress：[https://motiongit.com/@adunext/knowle
 
 #173723 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.5.2
 
-Published on MotionGit; downloads open after the support goals are met. See the template page for current progress.
-
 Demo video：[https://media.openaicut.com/previews/902/2.5.3-zh-3d0943b9524d.mp4](https://media.openaicut.com/previews/902/2.5.3-zh-3d0943b9524d.mp4)
 
-Official template and download progress：[https://motiongit.com/@adunext/knowledge-explainer-chalkboard](https://motiongit.com/@adunext/knowledge-explainer-chalkboard)
+Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-explainer-chalkboard](https://motiongit.com/@adunext/knowledge-explainer-chalkboard)
 
 ### 35. 生长导图 · 知识讲解模板
 
@@ -488,11 +474,9 @@ Official template and download progress：[https://motiongit.com/@adunext/knowle
 
 #880856 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.5.2
 
-Published on MotionGit; downloads open after the support goals are met. See the template page for current progress.
-
 Demo video：[https://media.openaicut.com/previews/903/2.5.3-zh-fe14805ea913.mp4](https://media.openaicut.com/previews/903/2.5.3-zh-fe14805ea913.mp4)
 
-Official template and download progress：[https://motiongit.com/@adunext/knowledge-explainer-mindmap](https://motiongit.com/@adunext/knowledge-explainer-mindmap)
+Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-explainer-mindmap](https://motiongit.com/@adunext/knowledge-explainer-mindmap)
 
 ### 36. 博物馆展墙 · 知识讲解模板
 
@@ -502,11 +486,9 @@ Official template and download progress：[https://motiongit.com/@adunext/knowle
 
 #949192 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.5.2
 
-Published on MotionGit; downloads open after the support goals are met. See the template page for current progress.
-
 Demo video：[https://media.openaicut.com/previews/904/2.5.3-zh-12ca8272b15b.mp4](https://media.openaicut.com/previews/904/2.5.3-zh-12ca8272b15b.mp4)
 
-Official template and download progress：[https://motiongit.com/@adunext/knowledge-explainer-timeline](https://motiongit.com/@adunext/knowledge-explainer-timeline)
+Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-explainer-timeline](https://motiongit.com/@adunext/knowledge-explainer-timeline)
 
 ### 37. 发光玻璃板 · 知识讲解模板
 
@@ -516,11 +498,9 @@ Official template and download progress：[https://motiongit.com/@adunext/knowle
 
 #803150 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.5.2
 
-Published on MotionGit; downloads open after the support goals are met. See the template page for current progress.
-
 Demo video：[https://media.openaicut.com/previews/905/2.5.3-zh-90f1d36b5c30.mp4](https://media.openaicut.com/previews/905/2.5.3-zh-90f1d36b5c30.mp4)
 
-Official template and download progress：[https://motiongit.com/@adunext/knowledge-explainer-lightboard](https://motiongit.com/@adunext/knowledge-explainer-lightboard)
+Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-explainer-lightboard](https://motiongit.com/@adunext/knowledge-explainer-lightboard)
 
 ### 38. 等距系统图 · 知识讲解模板
 
@@ -530,11 +510,9 @@ Official template and download progress：[https://motiongit.com/@adunext/knowle
 
 #106531 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.5.2
 
-Published on MotionGit; downloads open after the support goals are met. See the template page for current progress.
-
 Demo video：[https://media.openaicut.com/previews/906/2.5.3-zh-f7f712d44ade.mp4](https://media.openaicut.com/previews/906/2.5.3-zh-f7f712d44ade.mp4)
 
-Official template and download progress：[https://motiongit.com/@adunext/knowledge-explainer-isometric](https://motiongit.com/@adunext/knowledge-explainer-isometric)
+Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-explainer-isometric](https://motiongit.com/@adunext/knowledge-explainer-isometric)
 
 ### 39. 纸雕层叠 · 知识讲解模板
 
@@ -544,11 +522,9 @@ Official template and download progress：[https://motiongit.com/@adunext/knowle
 
 #546070 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.5.2
 
-Published on MotionGit; downloads open after the support goals are met. See the template page for current progress.
-
 Demo video：[https://media.openaicut.com/previews/907/2.5.3-zh-66b986377f2a.mp4](https://media.openaicut.com/previews/907/2.5.3-zh-66b986377f2a.mp4)
 
-Official template and download progress：[https://motiongit.com/@adunext/knowledge-explainer-papercut](https://motiongit.com/@adunext/knowledge-explainer-papercut)
+Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-explainer-papercut](https://motiongit.com/@adunext/knowledge-explainer-papercut)
 
 ### 40. 地铁线路图 · 知识讲解模板
 
@@ -558,11 +534,9 @@ Official template and download progress：[https://motiongit.com/@adunext/knowle
 
 #447390 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.5.2
 
-Published on MotionGit; downloads open after the support goals are met. See the template page for current progress.
-
 Demo video：[https://media.openaicut.com/previews/908/2.5.3-zh-fd8d9dc5ae03.mp4](https://media.openaicut.com/previews/908/2.5.3-zh-fd8d9dc5ae03.mp4)
 
-Official template and download progress：[https://motiongit.com/@adunext/knowledge-explainer-metro](https://motiongit.com/@adunext/knowledge-explainer-metro)
+Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-explainer-metro](https://motiongit.com/@adunext/knowledge-explainer-metro)
 
 ### 41. 双色孔版 · 知识讲解模板
 
@@ -572,11 +546,9 @@ Official template and download progress：[https://motiongit.com/@adunext/knowle
 
 #808349 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.5.2
 
-Published on MotionGit; downloads open after the support goals are met. See the template page for current progress.
-
 Demo video：[https://media.openaicut.com/previews/909/2.5.3-zh-15d6f65e42f3.mp4](https://media.openaicut.com/previews/909/2.5.3-zh-15d6f65e42f3.mp4)
 
-Official template and download progress：[https://motiongit.com/@adunext/knowledge-explainer-riso](https://motiongit.com/@adunext/knowledge-explainer-riso)
+Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-explainer-riso](https://motiongit.com/@adunext/knowledge-explainer-riso)
 
 ### 42. 点阵手账 · 知识讲解模板
 
@@ -586,11 +558,9 @@ Official template and download progress：[https://motiongit.com/@adunext/knowle
 
 #968813 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.5.2
 
-Published on MotionGit; downloads open after the support goals are met. See the template page for current progress.
-
 Demo video：[https://media.openaicut.com/previews/910/2.5.3-zh-5ebc896f6930.mp4](https://media.openaicut.com/previews/910/2.5.3-zh-5ebc896f6930.mp4)
 
-Official template and download progress：[https://motiongit.com/@adunext/knowledge-explainer-sketchnote](https://motiongit.com/@adunext/knowledge-explainer-sketchnote)
+Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-explainer-sketchnote](https://motiongit.com/@adunext/knowledge-explainer-sketchnote)
 
 ### 43. 彩色几何 · 知识讲解模板
 
@@ -600,11 +570,9 @@ Official template and download progress：[https://motiongit.com/@adunext/knowle
 
 #118272 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.5.2
 
-Published on MotionGit; downloads open after the support goals are met. See the template page for current progress.
-
 Demo video：[https://media.openaicut.com/previews/911/2.5.3-zh-b27b76c06f66.mp4](https://media.openaicut.com/previews/911/2.5.3-zh-b27b76c06f66.mp4)
 
-Official template and download progress：[https://motiongit.com/@adunext/knowledge-explainer-byrne](https://motiongit.com/@adunext/knowledge-explainer-byrne)
+Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-explainer-byrne](https://motiongit.com/@adunext/knowledge-explainer-byrne)
 
 ## Brand & product
 
