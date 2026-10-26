@@ -232,7 +232,7 @@ Technical documentation：[https://github.com/motiontemplates/293151](https://gi
 
 Support narration with high-contrast posters, bold type, lists and graphic relationships in a dedicated landscape layout.
 
-#762139 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.13
+#762139 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.17-alpha.3
 
 Demo video：[https://media.openaicut.com/previews/623/draft-en-e9dd279eebe9.mp4](https://media.openaicut.com/previews/623/draft-en-e9dd279eebe9.mp4)
 
@@ -246,7 +246,7 @@ Technical documentation：[https://github.com/motiontemplates/762139](https://gi
 
 Support narration with high-contrast posters, bold type, lists and graphic relationships in a dedicated portrait layout.
 
-#721489 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.13
+#721489 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.17-alpha.3
 
 Demo video：[https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4](https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4)
 
