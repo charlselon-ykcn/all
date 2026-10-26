@@ -302,7 +302,7 @@ Download .motion from MotionGit：[https://motiongit.com/@chenyutao0417/kit2-kou
 
 Paper frames, frame-breaking transitions and playful hidden details. Beta: adaptation to new scripts is still being improved.
 
-#178707 · Portrait · 3:4 · 1440 × 1920 · 60 FPS · v0.1.1-alpha.1
+#178707 · Portrait · 3:4 · 1440 × 1920 · 60 FPS · v0.1.1-alpha.2
 
 Demo video：[https://media.openaicut.com/previews/896/draft-zh-995fe8c7aa31.mp4](https://media.openaicut.com/previews/896/draft-zh-995fe8c7aa31.mp4)
 
