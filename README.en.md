@@ -980,11 +980,9 @@ Download .motion from MotionGit：[https://motiongit.com/@thepandaq/light-ribbon
 
 #878 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
 
-Demo available; check the template page for download availability.
-
 Demo video：[https://media.openaicut.com/previews/878/1.0.0-zh-be7dc794ab1a.mp4](https://media.openaicut.com/previews/878/1.0.0-zh-be7dc794ab1a.mp4)
 
-Official template and download status：[https://motiongit.com/@thepandaq/collage-wipe](https://motiongit.com/@thepandaq/collage-wipe)
+Download .motion from MotionGit：[https://motiongit.com/@thepandaq/collage-wipe](https://motiongit.com/@thepandaq/collage-wipe)
 
 ### 71. DEEP STAGE 开场点火标题
 
