@@ -326,6 +326,8 @@ Demo video：[https://media.openaicut.com/previews/896/draft-zh-995fe8c7aa31.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/break-boundaries](https://motiongit.com/@adunext/break-boundaries)
 
+Technical documentation：[https://github.com/motiontemplates/178707](https://github.com/motiontemplates/178707)
+
 ### 22. Character Theater
 
 <a href="https://media.openaicut.com/covers/897/draft-zh-2256483498a1.jpg"><img src="https://media.openaicut.com/covers/897/draft-zh-2256483498a1.jpg" alt="Character Theater · Landscape" width="640"></a>
@@ -338,6 +340,8 @@ Demo video：[https://media.openaicut.com/previews/897/draft-zh-1bc9e79516df.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/character-theater](https://motiongit.com/@adunext/character-theater)
 
+Technical documentation：[https://github.com/motiontemplates/148294](https://github.com/motiontemplates/148294)
+
 ### 23. Hand-Drawn Cartoon Explainer
 
 <a href="https://media.openaicut.com/covers/898/draft-zh-2963c6828c9d.jpg"><img src="https://media.openaicut.com/covers/898/draft-zh-2963c6828c9d.jpg" alt="Hand-Drawn Cartoon Explainer · Landscape" width="640"></a>
@@ -349,6 +353,8 @@ Hand-drawn cartoon explanations, step-by-step demonstrations and native transiti
 Demo video：[https://media.openaicut.com/previews/898/draft-zh-07d37803544c.mp4](https://media.openaicut.com/previews/898/draft-zh-07d37803544c.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/cartoon-explainer](https://motiongit.com/@adunext/cartoon-explainer)
+
+Technical documentation：[https://github.com/motiontemplates/875206](https://github.com/motiontemplates/875206)
 
 ### 24. Pixel Ocean
 

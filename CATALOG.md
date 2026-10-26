@@ -316,6 +316,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/885/1.0.0-1d0d4dc1ea23.m
 
 #583549 · 竖屏 · 9:16 · 1080 × 1920 · 30 FPS · v1.0.0
 
+需要准备：请提供：① 一个锚词（1–4 个汉字）和英文对照；② 按时间顺序的双语字幕条（每条注明起止秒）；③ 高潮放在第几秒（样例在 16 秒）。 · 口播字幕文案：最多 14 条药丸字幕（中文 ≤22 字、英文 ≤60 字符、重点词橙色高亮），以及一个锚词（中文 1–4 字 + 英文），分别出现在 16 秒高潮大字、左上角徽标和片尾手写收尾。 这个版本的演示使用占位人像；如果你要接真人素材，需要用作者的处理管线（原片 → 剪辑 → 抽帧）在自己的工程里出片，或等支持素材输入的新版本。 · 人像窗口的填充内容。包内运行使用内置矢量占位人像（720×1280 虚拟画布，头部活动范围 x150–570 / y280–900，焦点 360,600，与原素材取景规则一致）；真人素材的接入属素材管线能力，不在本包运行合同内——用作者工作流（tools/prep.py 剪辑 + 抽帧）在自己的 Remotion 工程里替换 fr/ 帧序列。 · 没有人像素材时使用包内占位人像，窗口动效与包装完整可用。 需要动作音效吗？可用包内脚本按动效时间表生成；不要的话出无声版。 · 动作音效（tools/sfx.py 程序化合成，时间表与动效时码对齐：砸字、翻页、脚步、仪表爆表、手写收尾等）。样例 36.5 秒音效可直接生成；真人配音由素材管线在混音阶段加入。 · 无音效即为无声版，画面与字幕完整。
+
 Demo 视频：[▶ https://media.openaicut.com/previews/890/1.0.0-a07dfe35eea8.mp4](https://media.openaicut.com/previews/890/1.0.0-a07dfe35eea8.mp4)
 
 官网下载 .motion：[https://motiongit.com/@chenyutao0417/kit2-koubo-wrap](https://motiongit.com/@chenyutao0417/kit2-koubo-wrap)
@@ -332,6 +334,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/896/draft-zh-995fe8c7aa3
 
 官网下载 .motion：[https://motiongit.com/@adunext/break-boundaries](https://motiongit.com/@adunext/break-boundaries)
 
+技术资料：[https://github.com/motiontemplates/178707](https://github.com/motiontemplates/178707)
+
 ### 22. 字符剧场
 
 ![字符剧场 · 横屏](https://media.openaicut.com/covers/897/draft-zh-2256483498a1.jpg)
@@ -344,6 +348,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/897/draft-zh-1bc9e79516d
 
 官网下载 .motion：[https://motiongit.com/@adunext/character-theater](https://motiongit.com/@adunext/character-theater)
 
+技术资料：[https://github.com/motiontemplates/148294](https://github.com/motiontemplates/148294)
+
 ### 23. 卡通讲解风
 
 ![卡通讲解风 · 横屏](https://media.openaicut.com/covers/898/draft-zh-2963c6828c9d.jpg)
@@ -355,6 +361,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/897/draft-zh-1bc9e79516d
 Demo 视频：[▶ https://media.openaicut.com/previews/898/draft-zh-07d37803544c.mp4](https://media.openaicut.com/previews/898/draft-zh-07d37803544c.mp4)
 
 官网下载 .motion：[https://motiongit.com/@adunext/cartoon-explainer](https://motiongit.com/@adunext/cartoon-explainer)
+
+技术资料：[https://github.com/motiontemplates/875206](https://github.com/motiontemplates/875206)
 
 ### 24. 像素海洋
 
@@ -394,6 +402,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/869/1.0.0-zh-d5fd83bc28a
 
 #876 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
 
+需要准备：要沿用随包预览音乐，还是换成你自己的音乐？ · 随包提供一段与成片同源的预览音乐，导出时可作为 music 输入绑定；不绑定则输出无声。 · 导出无声，画面不受影响。 品牌名 · 片头 HUD / 时间线窗口 / 片尾字标中的品牌名。 长度 1–18 个字符。
+
 Demo 视频：[▶ https://media.openaicut.com/previews/876/1.0.0-zh-294b6a370e6d.mp4](https://media.openaicut.com/previews/876/1.0.0-zh-294b6a370e6d.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/collage-flow](https://motiongit.com/@thepandaq/collage-flow)
@@ -432,8 +442,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/886/0.4.0-rc.4-7ab299611
 
 #643842 · 横屏 · 16:9 · 1920 × 1080 · 24 FPS · v0.8.1-rc.1
 
-需要准备：编辑式讲解可提供1–64段同一人物视频及独立原声，或准确at；不要求用户手填复杂配置 · presentation.videos；与旧圆窗根presenter二选一 · 保留明确示意的人物输入区，或由用户选择不使用此风格；不能伪造真人 提供带透明背景的品牌标识或普通图片 · 使用brand.logo，contain等比，保持原色与透明，不做非等比变形 · 所选场景缺少对应素材时明确阻塞；可删除整个未选场景，不用空白冒充素材已绑定 提供产品图、截图、报告等 · 使用image.image与focus，按素材实际方向标注；不能仅凭素材外观声称安全、适用或验证通过 · 所选场景缺少对应素材时明确阻塞；可删除整个未选场景，不用空白冒充素材已绑定 提供视频与明确时间段 · 使用video.video、offset、sourceDuration；素材不足不循环；source模式保留片段原音，停帧处插入等长静音，后续声画共同继续 · 所选场景缺少对应素材时明确阻塞；可删除整个未选场景，不用空白冒充素材已绑定 提供6–9张照片和叙述重点 · 绑定images、selectedIndex、focus；素材缺少即阻塞。默认预设依赖实例素材，不内置Pexels照片 · 请提供图库或本期图片路径，再按源图确认焦点 提供12–60张照片或页面截图 · scenes.images输入全部图片，columns为4–6，speed为0.6–1.6；不填focus或selectedIndex。保持真实独立图片数量，不把循环重复记成新增作品 · 缺少12张时请补图，或改用6–9张image-wall；不得自动重复凑输入数量 如文字模块需要旁白，请提供43.54秒匹配原编排的音频及本模块字幕 · explainer.voiceover使用scope/path引用，时钟与模块起点一致，不裁短或加速声音 · 允许明确无旁白预览，保留原文字动作与独立音效，不声称完成真实口播适配 一段清晰的单人口播视频，可选对应SRT；用户只需选全程画中画并提供素材 · presenter.source；按人脸定位裁成方形，圆形遮罩；整页逐帧检查文字与主素材，留白不足则等比收拢页面留出侧边 · 不启用人物圆窗，按现有文字和素材场景制作 提供本期原声，有对应时间码字幕可一起提供 · narration.source与可选narration.srt；SRT仅作依据，画面不自动显示字幕 · 按静音图形预设做视觉演示，不冒充真实口播验收 场景、文案与素材绑定 · 助手先按原文语义组织1–32个3–5秒图形单元，再绑定原文编号、稳定对象及真实句级落点；legacy只重放旧模块，不让用户填写底层配置 总时长 · 由各场取整到24fps后的实际长度求和；不改变素材播放速度 短开场与短结尾 · 新短片可用label-question开场、calendar结束，均3–5秒；旧opening/ending只在legacy显式重放，不能直接截短。 制作路线 · 新制作使用short；legacy仅重放旧合同，不绕过5秒限制制作新片
-
 Demo 视频：[▶ https://media.openaicut.com/previews/888/0.8.0-rc.2-6971ec2770b7.mp4](https://media.openaicut.com/previews/888/0.8.0-rc.2-6971ec2770b7.mp4)
 
 官网下载 .motion：[https://motiongit.com/@frankye1211/moonwhite-robot-unified](https://motiongit.com/@frankye1211/moonwhite-robot-unified)
@@ -446,8 +454,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/888/0.8.0-rc.2-6971ec277
 
 #233154 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
 
-需要准备：请提供：① 一个锚词（1–4 个汉字）和它的英文对照；② 最多 8 条双语字幕，每条注明出现和消失的时间点；③ 第一个高潮（锚词砸下）放在第几秒。 · 全片文案：一个锚词巨字（中文 1–4 字 + 英文 ≤20 字符）和最多 8 条双语字幕（每条中文 ≤30 字、英文 ≤60 字符）。字幕按 \[开始秒, 结束秒, 中文, 英文, 样式\] 提供，样式 L=暗背景浅字、D=亮背景深字，条间不重叠。 需要配乐吗？可以用模板自带的生成脚本（节拍跟随高潮点），也可以提供你自己的音乐文件；不需要的话出无声版。 · BGM+动作音效（翻页/呼啸/铃/滴答/书写）。可用包内 tools/music.py 按分镜程序化生成（需 Python 3 + numpy，节拍网格以第一个高潮为原点），或使用用户自备音频文件；渲染时作为独立音频轨绑定。 · 无配乐即为无声版，画面与字幕完整，不受影响。
-
 Demo 视频：[▶ https://media.openaicut.com/previews/889/1.0.0-c28fac802c50.mp4](https://media.openaicut.com/previews/889/1.0.0-c28fac802c50.mp4)
 
 官网下载 .motion：[https://motiongit.com/@chenyutao0417/kit1-doc-shortfilm](https://motiongit.com/@chenyutao0417/kit1-doc-shortfilm)
@@ -459,8 +465,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/889/1.0.0-c28fac802c50.m
 用汉字当角色（韩、刘、萧、项…）的水墨动画，2 分 48 秒讲完一个历史人物的一生，并用心理学解释他为什么落到这个下场。改预设里的对白、成语签、地点年份、括注和场景即可换一个新人物。1920×1080 / 30fps，样例含程序化动作音效。
 
 #360840 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-需要准备：讲哪个人物？有没有参考视频、剧本或想用的原台词？ · 人物故事的史料、参考视频台词或用户文稿，改写成每段 2–6 句大白话对白（subs）、成语签（idioms）、地点年份（hud）和括注（notes） 想用哪个心理学概念来解释他？ · 想落到的心理学概念（如“自我价值外包”），放进 scale 场景的术语和解释 · 从人物经历里提炼 1 个概念，先给用户确认 背景音乐用你指定的歌，还是用平台推荐的授权配乐？ · 背景音乐：安静前奏放起点，鼓点处出片名，高能段放战役，安静段放结局与解析，结尾 3.5 秒淡出；不必放完 · 用平台授权配乐推荐；仍没有时只用程序合成音效 片名、系列名、品牌和印章字 · 片名「人物：四字评价」；印章 2–4 字 对白与旁白 · 每句 ≤30 字，大白话短句；有 who 显示人名签（全名），无 who 为旁白；多用原片台词；不讲输赢，讲为什么落到这个下场 成语签 · 每段 1 个成语或典故，≤8 字 地点 · 年份 · 地点 ≤10 字，年份用中文纪年如「前二〇六」 左下括注 · 一句背景说明，≤24 字
 
 Demo 视频：[▶ https://media.openaicut.com/previews/892/1.0.0-zh-1f9aa1a124de.mp4](https://media.openaicut.com/previews/892/1.0.0-zh-1f9aa1a124de.mp4)
 
@@ -593,8 +597,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/909/2.5.3-zh-15d6f65e42f
 把步骤、关键词和修订留在同一本点阵手账里。适合方法拆解与学习回顾，提供图标图示选择引导；页面为19.95秒早期风格短样。
 
 #968813 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v2.5.2
-
-需要准备：这条视频想讲清楚什么问题？已有稿件可以直接发来。 · 完整文稿与观点，不删否定、条件、数字、单位和限定词。 有必须保留的数据、材料或来源吗？ · 本期数据、出处、原始记录及假设/示意边界。 · 先建立事实表；虚构数据须明确illustration，事实须补可追溯来源。 使用已有配音、真人原声，还是按文稿配音？ · 原速旁白；或直接采用真人视频原声。 · 明确无配音才选none；其余保持needs-binding，由助手按当前MotionGit API获取实际语音。 需要真人出镜时，直接提供完整口播视频。 · 真人开头大画面，随后同一载体连续缩小并成为圆形小窗。 · 默认无人物，不放示例头像或卡通人。 如有字幕文件可一起提供。 · 保留全文的实测句级字幕；词级动作另需真实词证据。 · 助手从真实音频测量句边界并保存证据；只给文案时不能伪称实测。 有指定配乐可一并提供。 · 优先通过当前MotionGit音乐API匹配本期配乐并保留授权与SHA；也可绑定用户已授权曲目。 · 先匹配许可明确的曲目；未选曲保持needs-binding。用户明确无配乐才设none，不回退作者旧BGM。 有原始记录、实物照片或证据图可一起提供，供核对知识依据。 · 供助手核对和提取原始材料中的事实；本版没有原图嵌入镜头，必须展示原图时需另行扩展。 · 根据本期已核实数据选择纯图示机制，不伪造证据图片。 完整文稿 · 保留原意、否定、条件、程度、数字单位及论证顺序；短标签不代替完整命题。 命题与知识依据 · 先标事实、假设、示例或类比，数据与图示必须来自同一模型。 画面变化与推理 · 相关线、因果箭头、条件门和完成状态各有不同含义，不混用。；用对象ID维持前后状态与来源；拆分合并应守恒，不能凭空增减。；容量不足换组或拆镜头，不悄悄删句、压小字或把所有内容塞进总图。；数量运算先区分数学引用记录与显式可加物料。输入、运算、图形尺度和结果来自同一模型；同单位才可加减与求比，乘除常数无量纲，不自动换算单位。派生分数保留真值，不能把显示小数当作精确结果；跨镜使用公开完整模型时钟，不重置对象。 主体优先的可选版式 · 基础图示按需要选择content-first；原生机制仍保留原版式，不把全片标题压过解释主体。 跨段保留的已知条件 · 最多3条显式claim绑定条件，通过segments的contextFactIds引用；保持前后同位置，不提前显示未来结果，availableFrom只使用已测句起点。容量不足换组或拆段。 制作路线 · 新主题用knowledge-story/1；source-performance仅复现明确绑定的原修订，不能替代新稿。 源演出绑定 · 必须提供当前源演出声明的原时钟、实测句/词证据、全部显示文本和原模型；逐词路线使用真实词区间，固定动作路线分别绑定实测句边界与原动作事件，不推算词时。缺项拒绝。 知识问题 · 简洁概括这条视频要回答的问题，保留条件和限定，不把结论改写成夸张标题。 画幅 · 按发布位置选择横屏或独立竖屏布局；固定源演出路线只保留原画幅。 语言 · 使用本期文稿与音频相同的语言；中英文独立检查完整字形和阅读容量。
 
 Demo 视频：[▶ https://media.openaicut.com/previews/910/2.5.3-zh-5ebc896f6930.mp4](https://media.openaicut.com/previews/910/2.5.3-zh-5ebc896f6930.mp4)
 
@@ -966,8 +968,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/628/1.1.0-e0d9c9e4a5b8.m
 
 #380710 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.1.0
 
-需要准备：底部文字 · 一到两个词；不超过 24 个字符。 主色 · 填十六进制颜色，如 #70C9E8。
-
 Demo 视频：[▶ https://media.openaicut.com/previews/629/1.1.0-0892fa4bf82d.mp4](https://media.openaicut.com/previews/629/1.1.0-0892fa4bf82d.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/deepseek-form-morph](https://motiongit.com/@thepandaq/deepseek-form-morph)
@@ -1053,8 +1053,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/883/1.0.0-a30bac716f4b.m
 收尾锁版动效：屏幕退向纵深，logo 描边锁定，字标、副标、规格行与版本胶囊依次落位，一道横扫光掠过，结尾稳定呼吸。8 秒，适合片尾与版本标识。
 
 #581039 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-需要准备：要我先按这个收尾的节奏推荐一段授权背景音乐吗？还是你自带音乐？ · 可选：一段收束感的氛围床或低频电子乐，衬托光扫与落版 · 模板不内置音频；没有音乐时保持静音也成立，画面节奏按 8 秒固定。 把片尾要出现的品牌名、一句话副标、规格行（项目/画幅/帧率）和版本号发我。 · 品牌名、中文副标、规格行、版本号来自你的文案 需要我把附带音效混进成片吗？也可以换成你自己的音乐或完全静音。 · 随包附带的可选音效轨：纯合成音调设计，按本模板真实动画时间线对齐；支持音频的宿主在渲染后混入 · 宿主不支持音频时输出静音视频，画面与时长不受影响；不得声称已包含声音。 品牌字标 · 1–16 个字符，拉丁字母全大写最好看；这是画面最大的一行。 中文副标 · 一行写完，40 字以内；建议「品牌定位 · 一句话说明」。 规格 mono 行 · 建议「项目 · 1920×1080 · 30FPS」这种格式，60 字以内。 版本胶囊文字 · 24 字以内，建议「TEMPLATE v1.0」这种格式。 主色 · 六位十六进制颜色；默认冷青 #4DE3FF，暖金 #FFB168，紫罗兰 #A78BFF。
 
 Demo 视频：[▶ https://media.openaicut.com/previews/884/1.0.0-651f2839086d.mp4](https://media.openaicut.com/previews/884/1.0.0-651f2839086d.mp4)
 
