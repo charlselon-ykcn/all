@@ -1,8 +1,8 @@
 # MotionGit illustrated template list
 
-71 templates · 1 second-batch previews · 73 demos
+72 templates · 1 second-batch previews · 74 demos
 
-71 templates, 73 separate demo views. Each landscape or portrait entry has its own matching image, video and download route or coming-soon status.
+72 templates, 74 separate demo views. Each landscape or portrait entry has its own matching image, video and download route or coming-soon status.
 
 ## Source code and download routes
 
@@ -987,6 +987,18 @@ Screens recede into depth, the logo outline settles, and the brand name, subtitl
 Demo video：[https://media.openaicut.com/previews/884/1.0.0-651f2839086d.mp4](https://media.openaicut.com/previews/884/1.0.0-651f2839086d.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@thepandaq/deep-stage-outro-lockup](https://motiongit.com/@thepandaq/deep-stage-outro-lockup)
+
+### 74. 3D 吉祥物手把手教程
+
+![3D 吉祥物手把手教程 · Landscape](https://media.openaicut.com/covers/895/1.0.0-zh-0c4dce4365d8.jpg)
+
+把网页或 App 的一段操作流程（注册、下单、设置等），做成 3D 小宠物带着一步步点、打字、指重点的横屏教程视频
+
+#887145 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+Demo video：[https://media.openaicut.com/previews/895/1.0.0-zh-a15d0b9cfbab.mp4](https://media.openaicut.com/previews/895/1.0.0-zh-a15d0b9cfbab.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@xkkiss12/mascot-tutorial-3d](https://motiongit.com/@xkkiss12/mascot-tutorial-3d)
 
 ## How to use
 
