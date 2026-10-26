@@ -448,6 +448,8 @@ Demo video：[https://media.openaicut.com/previews/889/1.0.0-c28fac802c50.mp4](h
 
 Download .motion from MotionGit：[https://motiongit.com/@chenyutao0417/kit1-doc-shortfilm](https://motiongit.com/@chenyutao0417/kit1-doc-shortfilm)
 
+Technical documentation：[https://github.com/motiontemplates/233154](https://github.com/motiontemplates/233154)
+
 ### 31. Ink Biography · A Life in Characters
 
 <a href="https://media.openaicut.com/covers/892/1.0.0-fdc44c453329.jpg"><img src="https://media.openaicut.com/covers/892/1.0.0-fdc44c453329.jpg" alt="Ink Biography · A Life in Characters · Landscape" width="640"></a>
