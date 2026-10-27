@@ -192,6 +192,8 @@ Demo video：[https://media.openaicut.com/previews/613/draft-en-e06d1f42b0b9.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/template-05-native](https://motiongit.com/@adunext/template-05-native)
 
+Technical documentation：[https://github.com/motiontemplates/960723](https://github.com/motiontemplates/960723)
+
 ### 13. Vivid Characters · Narrative Explainer · Portrait
 
 ![Vivid Characters · Narrative Explainer · Portrait](https://media.openaicut.com/covers/614/draft-en-6ecd87d7835a.jpg)
