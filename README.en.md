@@ -56,9 +56,9 @@ Technical documentation：[https://github.com/motiontemplates/385712](https://gi
 
 Editable MotionGit .motion animation with the production guide included in the package.
 
-#385712 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v0.2.44-alpha.1
+#385712 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v0.2.44-alpha.2
 
-Official Chinese portrait v0.2.44-alpha.1; GitHub source edition v0.2.7-open-beta (16:9).
+Official Chinese portrait v0.2.44-alpha.2; GitHub source edition v0.2.7-open-beta (16:9).
 
 Demo video：[https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4](https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4)
 
@@ -120,7 +120,7 @@ Technical documentation：[https://github.com/motiontemplates/314486](https://gi
 
 Support structured explanations with paper perspective, layered cards and text-image relationships.
 
-#358192 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.21-alpha.2
+#358192 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.21-alpha.3
 
 Demo video：[https://media.openaicut.com/previews/607/draft-en-c751c296f78b.mp4](https://media.openaicut.com/previews/607/draft-en-c751c296f78b.mp4)
 
