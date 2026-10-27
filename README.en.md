@@ -56,9 +56,9 @@ Technical documentation：[https://github.com/motiontemplates/385712](https://gi
 
 Editable MotionGit .motion animation with the production guide included in the package.
 
-#385712 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v0.2.40-alpha.1
+#385712 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v0.2.44-alpha.1
 
-Official Chinese portrait v0.2.40-alpha.1; GitHub source edition v0.2.7-open-beta (16:9).
+Official Chinese portrait v0.2.44-alpha.1; GitHub source edition v0.2.7-open-beta (16:9).
 
 Demo video：[https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4](https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4)
 
@@ -92,7 +92,7 @@ Demo video：[https://github.com/motiontemplates/all/releases/download/demo-batc
 
 Support narration with modern editorial layouts, text emphasis and information breakdowns.
 
-#336980 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.17-alpha.7
+#336980 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.18-alpha.2
 
 Demo video：[https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4](https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4)
 
@@ -120,7 +120,7 @@ Technical documentation：[https://github.com/motiontemplates/314486](https://gi
 
 Support structured explanations with paper perspective, layered cards and text-image relationships.
 
-#358192 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.20-alpha.2
+#358192 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.21-alpha.2
 
 Demo video：[https://media.openaicut.com/previews/607/draft-en-c751c296f78b.mp4](https://media.openaicut.com/previews/607/draft-en-c751c296f78b.mp4)
 
@@ -134,7 +134,7 @@ Technical documentation：[https://github.com/motiontemplates/358192](https://gi
 
 Support structured explanations with paper perspective, layered cards and text-image relationships.
 
-#295450 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.17-alpha.5
+#295450 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.3
 
 Demo video：[https://media.openaicut.com/previews/608/draft-en-a5200442ba79.mp4](https://media.openaicut.com/previews/608/draft-en-a5200442ba79.mp4)
 
@@ -148,7 +148,7 @@ Technical documentation：[https://github.com/motiontemplates/295450](https://gi
 
 Present products, examples and media on a dark dimensional stage with layered screens.
 
-#304634 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.17-alpha.5
+#304634 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.18-alpha.2
 
 Demo video：[https://media.openaicut.com/previews/609/draft-en-70e2fe808e0c.mp4](https://media.openaicut.com/previews/609/draft-en-70e2fe808e0c.mp4)
 
@@ -162,7 +162,7 @@ Technical documentation：[https://github.com/motiontemplates/304634](https://gi
 
 Present products, examples and media on a dark dimensional stage with layered screens.
 
-#569615 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.17-alpha.5
+#569615 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.2
 
 Demo video：[https://media.openaicut.com/previews/610/draft-en-9785b0f9679c.mp4](https://media.openaicut.com/previews/610/draft-en-9785b0f9679c.mp4)
 
@@ -176,13 +176,11 @@ Technical documentation：[https://github.com/motiontemplates/569615](https://gi
 
 Support technical and data explanations with a console layout and purple glass-like motion graphics.
 
-#553346 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.19-alpha.6
+#553346 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.20-alpha.2
 
 Demo video：[https://media.openaicut.com/previews/611/2.5.7-en-688a5e4511ae.mp4](https://media.openaicut.com/previews/611/2.5.7-en-688a5e4511ae.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/template-04-dark-console](https://motiongit.com/@adunext/template-04-dark-console)
-
-Technical documentation：[https://github.com/motiontemplates/553346](https://github.com/motiontemplates/553346)
 
 ### 11. Tech Console · Narrated Explainer · Portrait
 
@@ -190,7 +188,7 @@ Technical documentation：[https://github.com/motiontemplates/553346](https://gi
 
 Support technical and data explanations with a console layout and purple glass-like motion graphics.
 
-#738182 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.17-alpha.6
+#738182 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.2
 
 Demo video：[https://media.openaicut.com/previews/612/2.5.7-en-4414b3f06c06.mp4](https://media.openaicut.com/previews/612/2.5.7-en-4414b3f06c06.mp4)
 
@@ -218,7 +216,7 @@ Technical documentation：[https://github.com/motiontemplates/960723](https://gi
 
 Support stories and contextual explanations with vivid colors, character assets and narrative animation.
 
-#293151 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.17-alpha.5
+#293151 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.2
 
 Demo video：[https://media.openaicut.com/previews/614/draft-en-6f4079db7a76.mp4](https://media.openaicut.com/previews/614/draft-en-6f4079db7a76.mp4)
 
@@ -246,7 +244,7 @@ Technical documentation：[https://github.com/motiontemplates/762139](https://gi
 
 Support narration with high-contrast posters, bold type, lists and graphic relationships in a dedicated portrait layout.
 
-#721489 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.17-alpha.6
+#721489 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.2
 
 Demo video：[https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4](https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4)
 
