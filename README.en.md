@@ -1,6 +1,6 @@
 # MotionGit Template Collection
 
-**72 templates · 1 second-batch previews · 74 demos**
+**73 templates · 1 second-batch previews · 75 demos**
 
 Browse the illustrated list below: each orientation has its own inline image, description, demo and complete download URL.
 
@@ -18,9 +18,9 @@ When the user asks to browse this collection, return every entry as the single-c
 
 ## Complete illustrated list
 
-72 templates · 1 second-batch previews · 74 demos
+73 templates · 1 second-batch previews · 75 demos
 
-72 templates, 74 separate demo views. Each landscape or portrait entry has its own matching image, video and download route or coming-soon status.
+73 templates, 75 separate demo views. Each landscape or portrait entry has its own matching image, video and download route or coming-soon status.
 
 ## Source code and download routes
 
@@ -1019,6 +1019,18 @@ Download .motion from MotionGit：[https://motiongit.com/@thepandaq/deep-stage-o
 Demo video：[https://media.openaicut.com/previews/895/1.0.0-zh-a15d0b9cfbab.mp4](https://media.openaicut.com/previews/895/1.0.0-zh-a15d0b9cfbab.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@xkkiss12/mascot-tutorial-3d](https://motiongit.com/@xkkiss12/mascot-tutorial-3d)
+
+### 75. 可爱角色歌词 MV
+
+<a href="https://media.openaicut.com/covers/920/1.0.0-zh-dc8684015557.jpg"><img src="https://media.openaicut.com/covers/920/1.0.0-zh-dc8684015557.jpg" alt="可爱角色歌词 MV · Landscape" width="640"></a>
+
+33 秒横屏歌词 MV 完整模板（1920×1080，30fps），可替换歌词、关键词大字与手写纸条。模板默认采用程序绘制的可爱 chibi 角色。中文 Demo 使用此前完成的《碎碎念》完整成片，未重新渲染；Demo 人物沿用原片风格，与模板默认角色风格不同。音频署名：小天；抖
+
+#161069 · Landscape · 16:9 · 1920 × 1080 · 30 FPS · v1.0.1
+
+Demo video：[https://media.openaicut.com/previews/920/1.0.0-zh-36be1d67dbe0.mp4](https://media.openaicut.com/previews/920/1.0.0-zh-36be1d67dbe0.mp4)
+
+Download .motion from MotionGit：[https://motiongit.com/@chenyutao0417/cute-character-lyric-mv](https://motiongit.com/@chenyutao0417/cute-character-lyric-mv)
 
 ## How to use
 
