@@ -56,9 +56,9 @@ Demo 视频：[▶ https://motiontemplates.github.io/385712/assets/demo.mp4](htt
 
 金属立体字、光效与空间动效；中英横屏、中文竖屏，新增英文竖屏基础表达 B1–B4，支持人脸居中与圆形署名。
 
-#385712 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v0.2.44-alpha.2
+#385712 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v0.2.44-alpha.3
 
-官网中文竖屏 v0.2.44-alpha.2；GitHub 开源包 v0.2.7-open-beta（16:9）。
+官网中文竖屏 v0.2.44-alpha.3；GitHub 开源包 v0.2.7-open-beta（16:9）。
 
 Demo 视频：[▶ https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4](https://media.openaicut.com/previews/626/0.2.9-open-beta-zh-11eae4868d37.mp4)
 
@@ -116,6 +116,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/606/draft-zh-9086d86d612
 
 官网下载 .motion：[https://motiongit.com/@adunext/template-01-integrated-portrait](https://motiongit.com/@adunext/template-01-integrated-portrait)
 
+技术资料：[https://github.com/motiontemplates/314486](https://github.com/motiontemplates/314486)
+
 ### 6. 纸面透视 · 口播讲解
 
 <a href="https://media.openaicut.com/covers/607/draft-zh-b7af2ac6dee6.jpg"><img src="https://media.openaicut.com/covers/607/draft-zh-b7af2ac6dee6.jpg" alt="纸面透视 · 口播讲解 · 横屏" width="640"></a>
@@ -138,7 +140,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/607/draft-zh-613d68ad449
 
 用纸面透视、卡片层次和图文关系配合口播，适合方法拆解与结构化知识。
 
-#295450 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.3
+#295450 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.4
 
 需要准备：本期口播视频与原声、匹配的文稿或字幕，以及本期需要引用的图片、录像和数据。可先仅提供文稿讨论画面方案；正式制作前需要真实配音时长和已确认的素材。没有提供人物素材时，不使用示例人物代替你。
 
@@ -170,7 +172,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/609/draft-zh-a33d6dc6713
 
 用深色立体舞台、多屏和空间层次展示口播内容，适合产品、案例与媒体素材讲解。
 
-#569615 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.2
+#569615 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.3
 
 需要准备：本期口播视频与原声、匹配的文稿或字幕，以及本期需要引用的图片、录像和数据。可先仅提供文稿讨论画面方案；正式制作前需要真实配音时长和已确认的素材。没有提供人物素材时，不使用示例人物代替你。
 
@@ -202,7 +204,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/611/2.5.7-zh-96b14441387
 
 用科技控制台、紫色玻璃质感与动态信息组件配合口播，适合技术与数据说明。
 
-#738182 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.2
+#738182 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.3
 
 需要准备：本期口播视频与原声、匹配的文稿或字幕，以及本期需要引用的图片、录像和数据。可先仅提供文稿讨论画面方案；正式制作前需要真实配音时长和已确认的素材。没有提供人物素材时，不使用示例人物代替你。
 
@@ -234,7 +236,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/613/draft-zh-9454c905098
 
 用鲜明配色、角色素材与叙事动效配合口播，适合故事、观点和情境解释。
 
-#293151 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.2
+#293151 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.3
 
 需要准备：本期口播视频与原声、匹配的文稿或字幕，以及本期需要引用的图片、录像和数据。可先仅提供文稿讨论画面方案；正式制作前需要真实配音时长和已确认的素材。没有提供人物素材时，不使用示例人物代替你。
 
@@ -266,7 +268,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/623/draft-zh-e8e43fce1aa
 
 用高对比海报、大字、清单和图形关系配合口播，含原生动画与新增组件，竖屏独立编排。
 
-#721489 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.2
+#721489 · 竖屏 · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.3
 
 需要准备：本期口播视频与原声、匹配的文稿或字幕，以及本期需要引用的图片、录像和数据。可先仅提供文稿讨论画面方案；正式制作前需要真实配音时长和已确认的素材。没有提供人物素材时，不使用示例人物代替你。
 
@@ -296,8 +298,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/870/1.0.0-6dcf8b7863ca.m
 
 #554769 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v1.0.0
 
-需要准备：主标题 · 2 到 6 字更稳，最多 12 字。画面为深色背景，短标题最醒目。 副标题 · 英文或短句，最多 40 字符，大写字母间距较大。 强调色 · #RRGGBB 格式，用于光晕与分割线。不确定时保留默认金色 #ffb547。
-
 Demo 视频：[▶ https://media.openaicut.com/previews/871/draft-40ddede10a69.mp4](https://media.openaicut.com/previews/871/draft-40ddede10a69.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/cool-3d-intro](https://motiongit.com/@thepandaq/cool-3d-intro)
@@ -309,6 +309,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/871/draft-40ddede10a69.m
 口播主舞台动效：9:16 人物画面（CAM 01 / REC 取景标签）与主信息屏、竖向章节导航屏三层错峰入位，下三分之一人名条滑入，镜头全程缓慢横移。14 秒，适合口播正文与知识讲解。
 
 #228996 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+需要准备：要我先按这个口播段落的节奏推荐一段授权背景音乐吗？还是你自带音乐？ · 可选：一段低频电子或氛围床，衬托三层屏幕的入位 · 模板不内置音频；没有音乐时保持静音也成立，画面节奏按 14 秒固定。 把主讲人姓名和职务、这一段的核心标题、三条要点、以及六个章节名发我。 · 主讲人、信息屏标题与要点、章节名与时间码都来自你的口播稿 需要我把附带音效混进成片吗？也可以换成你自己的音乐或完全静音。 · 随包附带的可选音效轨：纯合成音调设计，按本模板真实动画时间线对齐；支持音频的宿主在渲染后混入 · 宿主不支持音频时输出静音视频，画面与时长不受影响；不得声称已包含声音。 左上角品牌名 · 1–3 个英文词，全大写最好看；中文也可以但会换字体。 人名条姓名 · 2–4 个字最好，最多 12 字符；不要带职务。 人名条职务 · 「中文职务 / 英文关键词」这种格式，24 字以内。 信息屏顶部小标签 · 建议「类别 / 中文说明」，不超过 42 个字符，太长会缩小字距。 信息屏主标题 · 6–12 个字最好，最多 14 字；超过一行会自动折成两行。 信息屏副标题 · 一句话讲清这段口播要证明什么，42 字以内、最多两行。 3 条编号要点 · 固定 3 条，每条一个标题（12 字内）+ 一句说明（24 字内）；按 01/02/03 依次入场。 6 条章节 · 固定 6 条，每条一个章节名（5 字内）+ 时间码（分:秒）；导航屏按 01–06 固定槽位出现。 当前章节 · 1–6 的整数，决定章节屏高亮哪一行、右上角显示第几章。 主色 · 六位十六进制颜色；默认冷青 #4DE3FF，暖金 #FFB168，紫罗兰 #A78BFF。
 
 Demo 视频：[▶ https://media.openaicut.com/previews/880/1.0.0-2c8e89fea7a8.mp4](https://media.openaicut.com/previews/880/1.0.0-2c8e89fea7a8.mp4)
 
@@ -406,8 +408,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/869/1.0.0-zh-d5fd83bc28a
 
 #876 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
 
-需要准备：要沿用随包预览音乐，还是换成你自己的音乐？ · 随包提供一段与成片同源的预览音乐，导出时可作为 music 输入绑定；不绑定则输出无声。 · 导出无声，画面不受影响。 品牌名 · 片头 HUD / 时间线窗口 / 片尾字标中的品牌名。 长度 1–18 个字符。
-
 Demo 视频：[▶ https://media.openaicut.com/previews/876/1.0.0-zh-294b6a370e6d.mp4](https://media.openaicut.com/previews/876/1.0.0-zh-294b6a370e6d.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/collage-flow](https://motiongit.com/@thepandaq/collage-flow)
@@ -420,6 +420,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/876/1.0.0-zh-294b6a370e6
 
 #587362 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
 
+需要准备：把这次案例的关键数字发我：标题、三个指标（名字 / 数值 / 前缀 / 后缀）、六个月或六个阶段的柱图数据、数据口径脚注，以及改造前后的三行对比。 · 案例标题、3 个 KPI、6 根柱图、脚注口径、改造前 / 改造后的三行数据 要我按这段数据屏的节奏推荐一段授权背景音乐吗？还是你自带音乐？ · 可选：一段克制的低频电子 / 氛围床，衬数据入场 · 模板不内置音频；没有音乐时保持静音也成立，画面节奏按 13 秒固定。 需要我把附带音效混进成片吗？也可以换成你自己的音乐或完全静音。 · 随包附带的可选音效轨：纯合成音调设计，按本模板真实动画时间线对齐；支持音频的宿主在渲染后混入 · 宿主不支持音频时输出静音视频，画面与时长不受影响；不得声称已包含声音。 左上角品牌名 · 1–3 个英文词，全大写最好看；也会作为左侧竖排小字显示。 数据屏左上角小标签 · 建议「类别 / 中文说明」，不超过 42 个字符。 案例标题 · 一行写完，8–16 个中文字最好；超过 20 个字会被屏幕裁掉。 三个关键指标 · 固定 3 条，每条写指标名（12 字内）、数值、前缀（+ / − / 空）和后缀（% / 万 / 空）；数值支持 0–2 位小数。 六根柱图数据 · 固定 6 条，value 是 0–100 的柱高，最高的一根会自动变成主色高亮；label 是横轴标签（6 字内）。 数据脚注 · 一行写清口径、范围与样本量，60 字以内。 改造前三行数据 · 固定 3 条，每条行名 8 字内、行值 10 字内（可带单位，如 21天）。 改造后三行数据 · 固定 3 条，行名必须与改造前一一对应，行值可带单位（如 12天）。 对比卡（前）标题 · 10 字以内，默认「改造前」。 对比卡（后）标题 · 10 字以内，默认「改造后」。 KPI 对照说明 · 三个指标右下角的同一句小字，如「VS 2025 同期」；留空则只显示指标名。 柱图标题 · 图表左上角的标题，建议「TREND / 中文说明」。
+
 Demo 视频：[▶ https://media.openaicut.com/previews/882/1.0.0-5df639825460.mp4](https://media.openaicut.com/previews/882/1.0.0-5df639825460.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/deep-stage-case-data](https://motiongit.com/@thepandaq/deep-stage-case-data)
@@ -431,6 +433,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/882/1.0.0-5df639825460.m
 暖灰米白与绿色的17类语义动效，适用于知识讲解、产品说明、指标比较与观点表达。
 
 #509099 · 横屏 · 16:9 · 1280 × 720 · 24 FPS · v0.4.0-rc.5
+
+需要准备：提供已有音频或带原声的视频 · 保留完整原声，不变速不裁短；每个输出使用同一全局时钟 · 只执行显式content模式，不能冒充真实口播验证 提供对应原视频的SRT字幕 · 句级对齐、全文归属和步骤触发依据，不猜句内词时间 · voiceover模式阻塞，补齐真实时间；content模式不需要字幕 是否保留原视频人物窗口 · 与口播同源等比显示，不裁人脸、不变速、不循环；仅帧网格允许最多一个输出帧尾补 · 不显示人物窗口，原声处理独立 沿用用户指定音乐；明确不另加时设none · track需完整覆盖输出，offset显式；不足不循环；独立动作音效按计划生成 · pending状态仅允许诊断输出，不冒充最终混音 时长来源 · 实际口播用voiceover；无口播技术样例才用content 项目名称 · 来自用户内容，最多24字 内容样例时长 · 仅无口播时显式填写；有口播从原声推导 镜头方案 · 助手先理解全文和语义再选择catalog；保留否定条件数量和实体，填写真实sourceRefs与cueRefs 产品演示内容 · 新产品表达合同：固定4张证据、六阶段前后值、三项百分比；不用时不填design。0.4动作窗不同，不重放旧38秒固定片。
 
 Demo 视频：[▶ https://media.openaicut.com/previews/886/0.4.0-rc.4-7ab29961149d.mp4](https://media.openaicut.com/previews/886/0.4.0-rc.4-7ab29961149d.mp4)
 
@@ -776,8 +780,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/873/1.0.0-zh-6b7b749b3dc
 
 #874 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
 
-需要准备：要沿用随包预览音乐，还是换成你自己的音乐？ · 随包提供一段与成片同源的预览音乐，导出时可作为 music 输入绑定；不绑定则输出无声。 · 导出无声，画面不受影响。 品牌名 · 片头 HUD / 时间线窗口 / 片尾字标中的品牌名。 长度 1–18 个字符。 片头编号 · 左上角 HUD 的栏目/编号。 长度 1–44 个字符。 标题第一行 · 多屏墙标题第一行。 长度 1–12 个字符。 标题强调词 · 第二行高亮词（前置“是”，后缀“。”）。 长度 1–6 个字符。
-
 Demo 视频：[▶ https://media.openaicut.com/previews/874/1.0.0-zh-7831dd69bc6b.mp4](https://media.openaicut.com/previews/874/1.0.0-zh-7831dd69bc6b.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/collage-wall](https://motiongit.com/@thepandaq/collage-wall)
@@ -790,8 +792,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/874/1.0.0-zh-7831dd69bc6
 
 #875 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
 
-需要准备：要沿用随包预览音乐，还是换成你自己的音乐？ · 随包提供一段与成片同源的预览音乐，导出时可作为 music 输入绑定；不绑定则输出无声。 · 导出无声，画面不受影响。 品牌名 · 片头 HUD / 时间线窗口 / 片尾字标中的品牌名。 长度 1–18 个字符。 片头编号 · 左上角 HUD 的栏目/编号。 长度 1–44 个字符。 标题第一行 · 分屏版面标题第一行。 长度 1–8 个字符。 标题强调词 · 第二行高亮词（后缀“。”）。 长度 1–6 个字符。
-
 Demo 视频：[▶ https://media.openaicut.com/previews/875/1.0.0-zh-cd8ad1570460.mp4](https://media.openaicut.com/previews/875/1.0.0-zh-cd8ad1570460.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/collage-views](https://motiongit.com/@thepandaq/collage-views)
@@ -803,8 +803,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/875/1.0.0-zh-cd8ad157046
 从面板擦除进入产品工作台（分镜/画布/调色/时间线同窗联动），再以墨色擦除收进棱镜标志、字标、主张与 CTA；14.4 秒，适合产品演示与品牌落版。
 
 #877 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-需要准备：要沿用随包预览音乐，还是换成你自己的音乐？ · 随包提供一段与成片同源的预览音乐，导出时可作为 music 输入绑定；不绑定则输出无声。 · 导出无声，画面不受影响。 品牌名 · 片头 HUD / 时间线窗口 / 片尾字标中的品牌名。 长度 1–18 个字符。 产品定位 · 片尾字标下的一行定位。 长度 1–24 个字符。 中文主张 · 片尾主标语。 长度 1–20 个字符。 英文主张 · 片尾英文副标语。 长度 1–40 个字符。 CTA 文案 · 片尾按钮文案。 长度 1–14 个字符。 CTA 网址 · 片尾网址。 长度 1–40 个字符。 标题第一行 · 产品章节标题第一行。 长度 1–8 个字符。 标题强调词 · 第二行高亮词（后缀“。”）。 长度 1–10 个字符。
 
 Demo 视频：[▶ https://media.openaicut.com/previews/877/1.0.0-zh-97910ee13592.mp4](https://media.openaicut.com/previews/877/1.0.0-zh-97910ee13592.mp4)
 
@@ -1004,8 +1002,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/629/1.1.0-0892fa4bf82d.m
 
 #941301 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.1.0
 
-需要准备：第一个词 · 2 到 4 个字或短英文词，最多 6 个字符。 第二个词 · 同上。 第三个词 · 同上。 第四个词 · 同上。 主色 · 填十六进制颜色。
-
 Demo 视频：[▶ https://media.openaicut.com/previews/630/1.1.0-7b16186bd6b2.mp4](https://media.openaicut.com/previews/630/1.1.0-7b16186bd6b2.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/deepseek-word-morph](https://motiongit.com/@thepandaq/deepseek-word-morph)
@@ -1020,8 +1016,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/630/1.1.0-7b16186bd6b2.m
 
 #872 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
 
-需要准备：想让丝带汇聚成哪个词？（例如 FLOW） · 作为中央汇聚的词，最多 8 个字母，建议大写拉丁字母 · 使用默认词 FLOW 是否需要替换为其他配乐？ · 随包的原创合成配乐（纯音调，无噪声），默认保留 · 使用随包配乐 assets/audio/score.wav
-
 Demo 视频：[▶ https://media.openaicut.com/previews/872/1.0.0-08a812711d78.mp4](https://media.openaicut.com/previews/872/1.0.0-08a812711d78.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/light-ribbon-word](https://motiongit.com/@thepandaq/light-ribbon-word)
@@ -1034,8 +1028,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/872/1.0.0-08a812711d78.m
 
 #878 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
 
-需要准备：要沿用随包预览音乐，还是换成你自己的音乐？ · 随包提供一段与成片同源的预览音乐，导出时可作为 music 输入绑定；不绑定则输出无声。 · 导出无声，画面不受影响。 品牌名 · 片头 HUD / 时间线窗口 / 片尾字标中的品牌名。 长度 1–18 个字符。
-
 Demo 视频：[▶ https://media.openaicut.com/previews/878/1.0.0-zh-be7dc794ab1a.mp4](https://media.openaicut.com/previews/878/1.0.0-zh-be7dc794ab1a.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/collage-wipe](https://motiongit.com/@thepandaq/collage-wipe)
@@ -1047,6 +1039,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/878/1.0.0-zh-be7dc794ab1
 深色立体舞台开场：地平线点火、地面透视网格生长、远景屏幕墙点亮，两段主标题落下（金属渐变），最后落到副标题与角标。10 秒片头动效，可换品牌、标题、副标题与主色。
 
 #921052 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+需要准备：要我先按这个片头的节奏推荐一段授权背景音乐吗？还是你自带音乐？ · 可选：一段低频电子或氛围床，衬托点火与标题落下 · 模板不内置音频；没有音乐时保持静音也成立，画面节奏按 10 秒固定。 把片头要出现的品牌名、两段主标题、一句话副标题和角标发我。 · 开场标题、副标题、角标文字来自你的文案 需要我把附带音效混进成片吗？也可以换成你自己的音乐或完全静音。 · 随包附带的可选音效轨：纯合成音调设计，按本模板真实动画时间线对齐；支持音频的宿主在渲染后混入 · 宿主不支持音频时输出静音视频，画面与时长不受影响；不得声称已包含声音。 左上角品牌名 · 1–3 个英文词，全大写最好看；中文也可以但会换字体。 标题上方小标签 · 建议「类别 / 中文说明」，不超过 42 个字符，太长会缩字距。 主标题第一段 · 2–8 个中文字或 1 个英文词；这是画面最大的一行。 主标题第二段 · 与第一段合计不超过 14 个字符；留空就只显示一段标题。 副标题 · 一行写完，38 字以内；想强调某几个字可以用尖括号 b 包起来。 底部角标 · 建议「日期 / 编号 / 画幅·帧率」这种格式，48 字以内。 主色 · 六位十六进制颜色；默认冷青 #4DE3FF，暖金 #FFB168，紫罗兰 #A78BFF。
 
 Demo 视频：[▶ https://media.openaicut.com/previews/879/1.0.0-8e74030d1901.mp4](https://media.openaicut.com/previews/879/1.0.0-8e74030d1901.mp4)
 
