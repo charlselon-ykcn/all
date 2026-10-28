@@ -88,13 +88,11 @@ Technical documentation：[https://github.com/motiontemplates/336980](https://gi
 
 Support narration with modern editorial layouts, text emphasis and information breakdowns.
 
-#314486 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.2
+#314486 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.3
 
 Demo video：[https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4](https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/template-01-integrated-portrait](https://motiongit.com/@adunext/template-01-integrated-portrait)
-
-Technical documentation：[https://github.com/motiontemplates/314486](https://github.com/motiontemplates/314486)
 
 ### 6. Paper Perspective · Narrated Explainer
 
