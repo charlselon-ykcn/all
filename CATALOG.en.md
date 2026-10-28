@@ -2,6 +2,32 @@
 
 72 templates · 1 second-batch previews · 74 demos
 
+## What is .motion?
+
+.motion is a complete, reusable open-source video project, rather than a Skill or a prompt. It preserves how a video is made: its visual style, motion library, scenes, transitions, sound design, and instructions that help an AI assistant understand and run the project. An MP4 is one finished result; a .motion is the project you can keep creating with.
+
+### A working project you can build on
+
+- **Visual style and motion library**: The template includes its visual implementation, layouts, type and color configuration, animation components, scene choreography and transition logic, giving new content an established visual language.
+- **Sound and media organization**: The project preserves the motion sound effects, audio timing rules and resource references actually supplied by that template, with instructions for connecting text, images, footage, narration and music. Included resources vary by template.
+- **Runtime, preview and export**: Parameters, presets, dependency declarations and production entry points support a concrete workflow: check the environment, supply current assets, make a real preview, then export and keep the editable project.
+- **Guidance for people and assistants**: The package explains its intended uses, required inputs, editable content and production steps. The assistant follows the package entry to produce video using the existing code and motion library.
+
+### 100% open source, from content changes to deeper development
+
+The template project source is 100% open for reading, learning, modification and further development. Replace copy, photographs, footage and audio, or develop layouts, motion components, scene timing, transitions and sound logic into your own production system. Keep the editable project, compare versions and iterate across a consistent video series. Use and redistribution of template code, fonts, music and other third-party resources follow their included licenses.
+
+### Built for mainstream AI assistants and models
+
+According to the MotionGit team’s cumulative testing figures, template adaptation and production workflows have undergone more than 10,000 tests across multiple models, with ongoing improvements based on real assistant usage. Adaptation centers on project structure, production entry points, input contracts and practical guidance so different models can work with the same project.
+
+Assistants such as Claude, Codex, WorkBuddy, Doubao, Cursor, GitHub Copilot and Grok can follow the package guide in work or Agent environments with actual file access and command execution. The model understands the current content, organizes assets and performs production steps; the template supplies the reusable visual style, motion and project foundation. Chat-only environments can prepare copy and assets before handing off to an environment that can preview and export the project.
+
+**Get started: choose a template below → download its .motion → give the original package, content and assets to your assistant → follow the package guide to make a preview → review and export. Reuse your working environment and add only dependencies the chosen template actually needs.**
+
+[Assistant workflows](https://motiongit.com/use) · [Instructions for AI](https://motiongit.com/ai) · [.motion specification](https://motiongit.com/spec)
+
+
 72 templates, 74 separate demo views. Each landscape or portrait entry has its own matching image, video and download route or coming-soon status.
 
 ## Source code and download routes
