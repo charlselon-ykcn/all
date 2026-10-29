@@ -100,7 +100,7 @@ Demo video：[https://github.com/motiontemplates/all/releases/download/demo-batc
 
 Support narration with modern editorial layouts, text emphasis and information breakdowns.
 
-#336980 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.18-alpha.3
+#336980 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.18-alpha.4
 
 Demo video：[https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4](https://media.openaicut.com/previews/605/draft-en-eec61194c664.mp4)
 
@@ -114,7 +114,7 @@ Technical documentation：[https://github.com/motiontemplates/336980](https://gi
 
 Support narration with modern editorial layouts, text emphasis and information breakdowns.
 
-#314486 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.4
+#314486 · Portrait · 9:16 · 1080 × 1920 · 60 FPS · v2.7.18-alpha.5
 
 Demo video：[https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4](https://media.openaicut.com/previews/606/draft-en-c6ecdaeb5d85.mp4)
 
@@ -522,7 +522,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-expl
 
 Glowing lines reveal how waveforms meet and delays leave residual signals. For signal superposition, phase and feedback, with diagram guidance and an optional presenter opening and circular window.
 
-#803150 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.2
+#803150 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.3
 
 Demo video：[https://media.openaicut.com/previews/905/2.5.3-zh-90f1d36b5c30.mp4](https://media.openaicut.com/previews/905/2.5.3-zh-90f1d36b5c30.mp4)
 
@@ -582,7 +582,7 @@ Download .motion from MotionGit：[https://motiongit.com/@adunext/knowledge-expl
 
 Keep steps, keywords and revisions in one dot-grid notebook. For methods and learning reviews, with icon and diagram guidance. The page shows an early 19.95-second style sample.
 
-#968813 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.2
+#968813 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.3
 
 Demo video：[https://media.openaicut.com/previews/910/2.5.3-zh-5ebc896f6930.mp4](https://media.openaicut.com/previews/910/2.5.3-zh-5ebc896f6930.mp4)
 
@@ -648,7 +648,7 @@ Technical documentation：[https://github.com/motiontemplates/252912](https://gi
 
 Show product features through fast light-and-dark cuts, bold type and interface demonstrations.
 
-#867595 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.4
+#867595 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5
 
 Demo video：[https://media.openaicut.com/previews/587/draft-en-389d2163ab5f.mp4](https://media.openaicut.com/previews/587/draft-en-389d2163ab5f.mp4)
 
@@ -662,7 +662,7 @@ Technical documentation：[https://github.com/motiontemplates/867595](https://gi
 
 Walk through choosing a template, providing content and producing a video for a product tutorial.
 
-#670021 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.4
+#670021 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.6.5
 
 Demo video：[https://media.openaicut.com/previews/588/draft-en-2422d5a878da.mp4](https://media.openaicut.com/previews/588/draft-en-2422d5a878da.mp4)
 
