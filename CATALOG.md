@@ -1,6 +1,6 @@
 # MotionGit 模板图文清单
 
-72 个模板 · 1 个第二批测试项目 · 74 个 Demo
+73 个模板 · 1 个第二批测试项目 · 75 个 Demo
 
 ## .motion 是什么？
 
@@ -28,7 +28,7 @@
 [各助手使用方式](https://motiongit.com/use) · [给 AI 的说明](https://motiongit.com/ai) · [.motion 格式说明](https://motiongit.com/spec)
 
 
-72 个模板，74 个独立画幅 Demo。横屏与竖屏分别展示；各条图片、视频、下载入口或待开放状态独立标注。
+73 个模板，75 个独立画幅 Demo。横屏与竖屏分别展示；各条图片、视频、下载入口或待开放状态独立标注。
 
 ## 源码与下载方式
 
@@ -294,6 +294,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/624/draft-zh-11cf23913cd
 
 #854836 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
 
+需要准备：开场标题 · 最多 12 字，0–4 秒逐字出现，适合写产品名或活动名。 副标题 · 最多 20 字，约 2.9–3.5 秒出现，补充时间或优惠等信息。 数字结果 · 0–999 的整数，3.3–4.7 秒计数到此数值。 数字单位 · 最多 4 字，如 % 或 倍；不需要单位时留空。 数字说明 · 最多 12 字，说明数字指什么。 大字前半句 · 最多 10 字，5.1–7.6 秒出现。 大字高亮词 · 1–6 字，用强调色显示，放在前后两段之间。 大字后半句 · 最多 10 字。 品牌名 · 最多 12 字，8 秒起出现。 结尾标语 · 最多 24 字，8.3 秒出现。 强调色 · #RRGGBB 格式，影响光环、高亮词和光束颜色。
+
 Demo 视频：[▶ https://media.openaicut.com/previews/870/1.0.0-6dcf8b7863ca.mp4](https://media.openaicut.com/previews/870/1.0.0-6dcf8b7863ca.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/kouboo-motion](https://motiongit.com/@thepandaq/kouboo-motion)
@@ -306,6 +308,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/870/1.0.0-6dcf8b7863ca.m
 
 #554769 · 横屏 · 16:9 · 1920 × 1080 · 60 FPS · v1.0.0
 
+需要准备：主标题 · 2 到 6 字更稳，最多 12 字。画面为深色背景，短标题最醒目。 副标题 · 英文或短句，最多 40 字符，大写字母间距较大。 强调色 · #RRGGBB 格式，用于光晕与分割线。不确定时保留默认金色 #ffb547。
+
 Demo 视频：[▶ https://media.openaicut.com/previews/871/draft-40ddede10a69.mp4](https://media.openaicut.com/previews/871/draft-40ddede10a69.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/cool-3d-intro](https://motiongit.com/@thepandaq/cool-3d-intro)
@@ -317,6 +321,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/871/draft-40ddede10a69.m
 口播主舞台动效：9:16 人物画面（CAM 01 / REC 取景标签）与主信息屏、竖向章节导航屏三层错峰入位，下三分之一人名条滑入，镜头全程缓慢横移。14 秒，适合口播正文与知识讲解。
 
 #228996 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+需要准备：要我先按这个口播段落的节奏推荐一段授权背景音乐吗？还是你自带音乐？ · 可选：一段低频电子或氛围床，衬托三层屏幕的入位 · 模板不内置音频；没有音乐时保持静音也成立，画面节奏按 14 秒固定。 把主讲人姓名和职务、这一段的核心标题、三条要点、以及六个章节名发我。 · 主讲人、信息屏标题与要点、章节名与时间码都来自你的口播稿 需要我把附带音效混进成片吗？也可以换成你自己的音乐或完全静音。 · 随包附带的可选音效轨：纯合成音调设计，按本模板真实动画时间线对齐；支持音频的宿主在渲染后混入 · 宿主不支持音频时输出静音视频，画面与时长不受影响；不得声称已包含声音。 左上角品牌名 · 1–3 个英文词，全大写最好看；中文也可以但会换字体。 人名条姓名 · 2–4 个字最好，最多 12 字符；不要带职务。 人名条职务 · 「中文职务 / 英文关键词」这种格式，24 字以内。 信息屏顶部小标签 · 建议「类别 / 中文说明」，不超过 42 个字符，太长会缩小字距。 信息屏主标题 · 6–12 个字最好，最多 14 字；超过一行会自动折成两行。 信息屏副标题 · 一句话讲清这段口播要证明什么，42 字以内、最多两行。 3 条编号要点 · 固定 3 条，每条一个标题（12 字内）+ 一句说明（24 字内）；按 01/02/03 依次入场。 6 条章节 · 固定 6 条，每条一个章节名（5 字内）+ 时间码（分:秒）；导航屏按 01–06 固定槽位出现。 当前章节 · 1–6 的整数，决定章节屏高亮哪一行、右上角显示第几章。 主色 · 六位十六进制颜色；默认冷青 #4DE3FF，暖金 #FFB168，紫罗兰 #A78BFF。
 
 Demo 视频：[▶ https://media.openaicut.com/previews/880/1.0.0-2c8e89fea7a8.mp4](https://media.openaicut.com/previews/880/1.0.0-2c8e89fea7a8.mp4)
 
@@ -341,6 +347,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/885/1.0.0-1d0d4dc1ea23.m
 给真人出镜的口播视频套上完整动效包装：人像窗口在全屏、圆窗、卡片之间插值过渡，配 10 个段落可视化隐喻与深色药丸双语字幕（重点词橙色）。高潮锚词砸下（震屏+橙闪），片尾手写收尾。1080×1920/30fps，样例 36.5 秒，含程序化动作音效。
 
 #583549 · 竖屏 · 9:16 · 1080 × 1920 · 30 FPS · v1.0.0
+
+需要准备：请提供：① 一个锚词（1–4 个汉字）和英文对照；② 按时间顺序的双语字幕条（每条注明起止秒）；③ 高潮放在第几秒（样例在 16 秒）。 · 口播字幕文案：最多 14 条药丸字幕（中文 ≤22 字、英文 ≤60 字符、重点词橙色高亮），以及一个锚词（中文 1–4 字 + 英文），分别出现在 16 秒高潮大字、左上角徽标和片尾手写收尾。 这个版本的演示使用占位人像；如果你要接真人素材，需要用作者的处理管线（原片 → 剪辑 → 抽帧）在自己的工程里出片，或等支持素材输入的新版本。 · 人像窗口的填充内容。包内运行使用内置矢量占位人像（720×1280 虚拟画布，头部活动范围 x150–570 / y280–900，焦点 360,600，与原素材取景规则一致）；真人素材的接入属素材管线能力，不在本包运行合同内——用作者工作流（tools/prep.py 剪辑 + 抽帧）在自己的 Remotion 工程里替换 fr/ 帧序列。 · 没有人像素材时使用包内占位人像，窗口动效与包装完整可用。 需要动作音效吗？可用包内脚本按动效时间表生成；不要的话出无声版。 · 动作音效（tools/sfx.py 程序化合成，时间表与动效时码对齐：砸字、翻页、脚步、仪表爆表、手写收尾等）。样例 36.5 秒音效可直接生成；真人配音由素材管线在混音阶段加入。 · 无音效即为无声版，画面与字幕完整。
 
 Demo 视频：[▶ https://media.openaicut.com/previews/890/1.0.0-a07dfe35eea8.mp4](https://media.openaicut.com/previews/890/1.0.0-a07dfe35eea8.mp4)
 
@@ -398,6 +406,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/898/draft-zh-07d37803544
 
 #287792 · 横屏 · 1:1 · 1080 × 1080 · 30 FPS · v1.0.0
 
+需要准备：图表标题1 · 不超过12字，保持与固定示意图内容一致 图表标题2 · 不超过12字，保持与固定示意图内容一致 图表标题3 · 不超过12字，保持与固定示意图内容一致
+
 Demo 视频：[▶ https://media.openaicut.com/previews/869/1.0.0-zh-d5fd83bc28a8.mp4](https://media.openaicut.com/previews/869/1.0.0-zh-d5fd83bc28a8.mp4)
 
 官网下载 .motion：[https://motiongit.com/@oubaba95128/volume-price-kline-charts](https://motiongit.com/@oubaba95128/volume-price-kline-charts)
@@ -411,8 +421,6 @@ Demo 视频：[▶ https://media.openaicut.com/previews/869/1.0.0-zh-d5fd83bc28a
 四步创作流程（说戏→分镜→画面→成片）推进到一条时间线，四轨片段铺开、播放头扫过、统计落位；9.8 秒，适合 AIGC/创作工具的能力说明。
 
 #876 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
-
-需要准备：要沿用随包预览音乐，还是换成你自己的音乐？ · 随包提供一段与成片同源的预览音乐，导出时可作为 music 输入绑定；不绑定则输出无声。 · 导出无声，画面不受影响。 品牌名 · 片头 HUD / 时间线窗口 / 片尾字标中的品牌名。 长度 1–18 个字符。
 
 Demo 视频：[▶ https://media.openaicut.com/previews/876/1.0.0-zh-294b6a370e6d.mp4](https://media.openaicut.com/previews/876/1.0.0-zh-294b6a370e6d.mp4)
 
@@ -465,6 +473,8 @@ Demo 视频：[▶ https://media.openaicut.com/previews/888/0.8.0-rc.2-6971ec277
 无口播、画面+字幕叙事的人文纪录片风知识短片模板：暗场开题、锚词砸出（缩放回弹+闪白+震屏）、结尾亮背景重定义。替换锚词与双语字幕即可制作新短片，1920×1080/30fps，样例 20 秒含程序化 BGM 与音效。
 
 #233154 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
+
+需要准备：请提供：① 一个锚词（1–4 个汉字）和它的英文对照；② 最多 8 条双语字幕，每条注明出现和消失的时间点；③ 第一个高潮（锚词砸下）放在第几秒。 · 全片文案：一个锚词巨字（中文 1–4 字 + 英文 ≤20 字符）和最多 8 条双语字幕（每条中文 ≤30 字、英文 ≤60 字符）。字幕按 \[开始秒, 结束秒, 中文, 英文, 样式\] 提供，样式 L=暗背景浅字、D=亮背景深字，条间不重叠。 需要配乐吗？可以用模板自带的生成脚本（节拍跟随高潮点），也可以提供你自己的音乐文件；不需要的话出无声版。 · BGM+动作音效（翻页/呼啸/铃/滴答/书写）。可用包内 tools/music.py 按分镜程序化生成（需 Python 3 + numpy，节拍网格以第一个高潮为原点），或使用用户自备音频文件；渲染时作为独立音频轨绑定。 · 无配乐即为无声版，画面与字幕完整，不受影响。
 
 Demo 视频：[▶ https://media.openaicut.com/previews/889/1.0.0-c28fac802c50.mp4](https://media.openaicut.com/previews/889/1.0.0-c28fac802c50.mp4)
 
@@ -628,9 +638,21 @@ Demo 视频：[▶ https://media.openaicut.com/previews/911/2.5.3-zh-b27b76c06f6
 
 官网下载 .motion：[https://motiongit.com/@adunext/knowledge-explainer-byrne](https://motiongit.com/@adunext/knowledge-explainer-byrne)
 
+### 43. 决策数据剧场 · Decision Chart Theater
+
+![决策数据剧场 · Decision Chart Theater · 横屏](https://media.openaicut.com/covers/923/1.0.1-zh-930359a63137.jpg)
+
+黑底数据讲解剧场：台账 → 矢量图表逐元素长出并推近讲解 → 一个大数字结论 → 光圈收黑。六种镜头由参数驱动，时长随内容。这支 Demo 就是本模板渲染的（97.6 秒 / 30fps），示例数字已匿名化。
+
+#991091 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.1
+
+Demo 视频：[▶ https://media.openaicut.com/previews/923/1.0.1-zh-e327c33f8d30.mp4](https://media.openaicut.com/previews/923/1.0.1-zh-e327c33f8d30.mp4)
+
+官网下载 .motion：[https://motiongit.com/@lxguanyu/dds-decision-keynote](https://motiongit.com/@lxguanyu/dds-decision-keynote)
+
 ## 品牌与产品
 
-### 43. 多屏拼贴 · 品牌宣传
+### 44. 多屏拼贴 · 品牌宣传
 
 ![多屏拼贴 · 品牌宣传 · 横屏](https://media.openaicut.com/covers/585/draft-zh-c7db529e9ef8.jpg)
 
@@ -646,7 +668,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/585/draft-zh-78bba5fd21f
 
 技术资料：[https://github.com/motiontemplates/128610](https://github.com/motiontemplates/128610)
 
-### 44. 像素闯关 · 产品宣传
+### 45. 像素闯关 · 产品宣传
 
 ![像素闯关 · 产品宣传 · 横屏](https://media.openaicut.com/covers/586/quality-zh-086e631771b2.jpg)
 
@@ -662,7 +684,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/586/draft-zh-b8792f9887a
 
 技术资料：[https://github.com/motiontemplates/252912](https://github.com/motiontemplates/252912)
 
-### 45. 明暗快切 · 产品宣传
+### 46. 明暗快切 · 产品宣传
 
 ![明暗快切 · 产品宣传 · 横屏](https://media.openaicut.com/covers/587/quality-zh-89ff4394136c.jpg)
 
@@ -678,7 +700,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/587/draft-zh-89b65ccfd5c
 
 技术资料：[https://github.com/motiontemplates/867595](https://github.com/motiontemplates/867595)
 
-### 46. 流程演示 · 产品教程
+### 47. 流程演示 · 产品教程
 
 ![流程演示 · 产品教程 · 横屏](https://media.openaicut.com/covers/588/quality-zh-aa230abfebe6.jpg)
 
@@ -694,7 +716,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/588/draft-zh-ca08bac0650
 
 技术资料：[https://github.com/motiontemplates/670021](https://github.com/motiontemplates/670021)
 
-### 47. 模块拼贴 · 创作者宣传
+### 48. 模块拼贴 · 创作者宣传
 
 ![模块拼贴 · 创作者宣传 · 横屏](https://media.openaicut.com/covers/589/quality-zh-879117ad36da.jpg)
 
@@ -710,7 +732,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/589/draft-zh-4d806a38052
 
 技术资料：[https://github.com/motiontemplates/452365](https://github.com/motiontemplates/452365)
 
-### 48. 工程蓝图 · 产品拆解
+### 49. 工程蓝图 · 产品拆解
 
 ![工程蓝图 · 产品拆解 · 横屏](https://media.openaicut.com/covers/590/quality-zh-d5509b8e4f82.jpg)
 
@@ -726,7 +748,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/590/draft-zh-308a5a69232
 
 技术资料：[https://github.com/motiontemplates/213827](https://github.com/motiontemplates/213827)
 
-### 49. 发布会舞台 · 产品演示
+### 50. 发布会舞台 · 产品演示
 
 ![发布会舞台 · 产品演示 · 横屏](https://media.openaicut.com/covers/591/quality-zh-da4888e5e350.jpg)
 
@@ -742,7 +764,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/591/draft-zh-958b2690a66
 
 技术资料：[https://github.com/motiontemplates/667934](https://github.com/motiontemplates/667934)
 
-### 50. 宣纸手卷 · 品牌叙事
+### 51. 宣纸手卷 · 品牌叙事
 
 ![宣纸手卷 · 品牌叙事 · 横屏](https://media.openaicut.com/covers/592/quality-zh-666ac61ebd83.jpg)
 
@@ -758,7 +780,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/592/draft-zh-eba2e4e6f67
 
 技术资料：[https://github.com/motiontemplates/394243](https://github.com/motiontemplates/394243)
 
-### 51. 拼贴出场 · COLLAGE OPEN
+### 52. 拼贴出场 · COLLAGE OPEN
 
 ![拼贴出场 · COLLAGE OPEN · 横屏](https://media.openaicut.com/covers/873/1.0.0-zh-12a46d4c356c.jpg)
 
@@ -772,7 +794,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/873/1.0.0-zh-6b7b749b3dc
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/collage-open](https://motiongit.com/@thepandaq/collage-open)
 
-### 52. 多屏墙换版 · WALL SWAP
+### 53. 多屏墙换版 · WALL SWAP
 
 ![多屏墙换版 · WALL SWAP · 横屏](https://media.openaicut.com/covers/874/1.0.0-zh-4340b94c82ff.jpg)
 
@@ -780,13 +802,11 @@ Demo 视频：[▶ https://media.openaicut.com/previews/873/1.0.0-zh-6b7b749b3dc
 
 #874 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
 
-需要准备：要沿用随包预览音乐，还是换成你自己的音乐？ · 随包提供一段与成片同源的预览音乐，导出时可作为 music 输入绑定；不绑定则输出无声。 · 导出无声，画面不受影响。 品牌名 · 片头 HUD / 时间线窗口 / 片尾字标中的品牌名。 长度 1–18 个字符。 片头编号 · 左上角 HUD 的栏目/编号。 长度 1–44 个字符。 标题第一行 · 多屏墙标题第一行。 长度 1–12 个字符。 标题强调词 · 第二行高亮词（前置“是”，后缀“。”）。 长度 1–6 个字符。
-
 Demo 视频：[▶ https://media.openaicut.com/previews/874/1.0.0-zh-7831dd69bc6b.mp4](https://media.openaicut.com/previews/874/1.0.0-zh-7831dd69bc6b.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/collage-wall](https://motiongit.com/@thepandaq/collage-wall)
 
-### 53. 四种看法与片格 · VIEWS / STRIP
+### 54. 四种看法与片格 · VIEWS / STRIP
 
 ![四种看法与片格 · VIEWS / STRIP · 横屏](https://media.openaicut.com/covers/875/1.0.0-zh-3c1d5e7cd796.jpg)
 
@@ -794,13 +814,11 @@ Demo 视频：[▶ https://media.openaicut.com/previews/874/1.0.0-zh-7831dd69bc6
 
 #875 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
 
-需要准备：要沿用随包预览音乐，还是换成你自己的音乐？ · 随包提供一段与成片同源的预览音乐，导出时可作为 music 输入绑定；不绑定则输出无声。 · 导出无声，画面不受影响。 品牌名 · 片头 HUD / 时间线窗口 / 片尾字标中的品牌名。 长度 1–18 个字符。 片头编号 · 左上角 HUD 的栏目/编号。 长度 1–44 个字符。 标题第一行 · 分屏版面标题第一行。 长度 1–8 个字符。 标题强调词 · 第二行高亮词（后缀“。”）。 长度 1–6 个字符。
-
 Demo 视频：[▶ https://media.openaicut.com/previews/875/1.0.0-zh-cd8ad1570460.mp4](https://media.openaicut.com/previews/875/1.0.0-zh-cd8ad1570460.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/collage-views](https://motiongit.com/@thepandaq/collage-views)
 
-### 54. 产品与品牌 · PRODUCT → BRAND
+### 55. 产品与品牌 · PRODUCT → BRAND
 
 ![产品与品牌 · PRODUCT → BRAND · 横屏](https://media.openaicut.com/covers/877/1.0.0-zh-a24df31e704a.jpg)
 
@@ -812,7 +830,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/877/1.0.0-zh-97910ee1359
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/collage-product](https://motiongit.com/@thepandaq/collage-product)
 
-### 55. DEEP STAGE 产品讲解
+### 56. DEEP STAGE 产品讲解
 
 ![DEEP STAGE 产品讲解 · 横屏](https://media.openaicut.com/covers/881/1.0.0-7dadaa0a595d.jpg)
 
@@ -820,11 +838,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/877/1.0.0-zh-97910ee1359
 
 #648878 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
 
+需要准备：要我先按这个产品段落的节奏推荐一段授权背景音乐吗？还是你自带音乐？ · 可选：一段低频电子或氛围床，衬托产品屏推近与参数切片浮出 · 模板不内置音频；没有音乐时保持静音也成立，画面节奏按 12 秒固定。 把产品名、一句话 tagline、两行正文、三个关键参数（名称 / 数值 / 单位）和一行规格发我。 · 产品名、tagline、正文、3 组参数与规格行都来自你的产品资料 需要我把附带音效混进成片吗？也可以换成你自己的音乐或完全静音。 · 随包附带的可选音效轨：纯合成音调设计，按本模板真实动画时间线对齐；支持音频的宿主在渲染后混入 · 宿主不支持音频时输出静音视频，画面与时长不受影响；不得声称已包含声音。 左上角品牌名 · 1–3 个英文词，全大写最好看；中文也可以但会换字体。 产品屏顶部小标签 · 建议「类别 / 中文说明」，不超过 42 个字符。 产品名 · 1–2 个英文词或 2–6 个中文字，最多 12 字符；这是画面最大的一行。 一句话 tagline · 28 字以内；想强调的词用 &lt;em&gt;…&lt;/em&gt; 包起来，会变成主色。 正文说明 · 56 字以内、建议两行；用 \\n 手动换行，不要靠自动折行硬塞。 3 个参数切片 · 固定 3 组，每组「参数名（10 字内）+ 数值（纯数字，可带 1–2 位小数）+ 单位（4 字内，可空）」；数值会从 0 滚动到终值。 底部规格行 · 一行规格说明，48 字以内，建议用斜杠分隔，例如 1920×1080 / 30FPS / H.264。 主色 · 六位十六进制颜色；默认冷青 #4DE3FF，暖金 #FFB168，紫罗兰 #A78BFF。
+
 Demo 视频：[▶ https://media.openaicut.com/previews/881/1.0.0-bf4d2ce8953d.mp4](https://media.openaicut.com/previews/881/1.0.0-bf4d2ce8953d.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/deep-stage-product-focus](https://motiongit.com/@thepandaq/deep-stage-product-focus)
 
-### 56. 多屏商务 · 动态图表
+### 57. 多屏商务 · 动态图表
 
 ![多屏商务 · 动态图表 · 横屏](https://media.openaicut.com/covers/891/0.1.1-candidate-zh-007e520a3b97.jpg)
 
@@ -840,7 +860,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/891/0.1.1-candidate-zh-a
 
 ## 照片与视觉
 
-### 57. 半调网点 · 人像标题
+### 58. 半调网点 · 人像标题
 
 ![半调网点 · 人像标题 · 横屏](https://media.openaicut.com/covers/615/draft-zh-2de1eb992fcf.jpg)
 
@@ -856,7 +876,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/615/draft-zh-87b41df4a38
 
 技术资料：[https://github.com/motiontemplates/381814](https://github.com/motiontemplates/381814)
 
-### 58. 照片马赛克 · 拼图揭幕
+### 59. 照片马赛克 · 拼图揭幕
 
 ![照片马赛克 · 拼图揭幕 · 横屏](https://media.openaicut.com/covers/616/draft-zh-b95e73a79f9c.jpg)
 
@@ -872,7 +892,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/616/draft-zh-3c3bc74e959
 
 技术资料：[https://github.com/motiontemplates/460349](https://github.com/motiontemplates/460349)
 
-### 59. 几何拼贴 · 动态海报
+### 60. 几何拼贴 · 动态海报
 
 ![几何拼贴 · 动态海报 · 横屏](https://media.openaicut.com/covers/617/draft-zh-84c721155840.jpg)
 
@@ -888,7 +908,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/617/draft-zh-d014a696e0b
 
 技术资料：[https://github.com/motiontemplates/907345](https://github.com/motiontemplates/907345)
 
-### 60. 笔触重绘 · 艺术照片
+### 61. 笔触重绘 · 艺术照片
 
 ![笔触重绘 · 艺术照片 · 横屏](https://media.openaicut.com/covers/618/draft-zh-c88f1a5a67a8.jpg)
 
@@ -904,7 +924,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/618/draft-zh-9a122d6aac1
 
 技术资料：[https://github.com/motiontemplates/328828](https://github.com/motiontemplates/328828)
 
-### 61. 信号故障 · 照片转场
+### 62. 信号故障 · 照片转场
 
 ![信号故障 · 照片转场 · 横屏](https://media.openaicut.com/covers/619/draft-zh-b96f0b6469fe.jpg)
 
@@ -920,7 +940,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/619/draft-zh-567d566f31a
 
 技术资料：[https://github.com/motiontemplates/638039](https://github.com/motiontemplates/638039)
 
-### 62. 双重曝光 · 人像叠影
+### 63. 双重曝光 · 人像叠影
 
 ![双重曝光 · 人像叠影 · 横屏](https://media.openaicut.com/covers/620/draft-zh-d8cadbd1b296.jpg)
 
@@ -936,7 +956,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/620/draft-zh-eb40eb882b4
 
 技术资料：[https://github.com/motiontemplates/800829](https://github.com/motiontemplates/800829)
 
-### 63. 空间画廊 · 回忆相册
+### 64. 空间画廊 · 回忆相册
 
 ![空间画廊 · 回忆相册 · 横屏](https://media.openaicut.com/covers/621/draft-zh-78b8670e7b7d.jpg)
 
@@ -952,7 +972,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/621/draft-zh-13dffcc71ff
 
 技术资料：[https://github.com/motiontemplates/743702](https://github.com/motiontemplates/743702)
 
-### 64. 镜像万花筒 · 照片变幻
+### 65. 镜像万花筒 · 照片变幻
 
 ![镜像万花筒 · 照片变幻 · 横屏](https://media.openaicut.com/covers/622/draft-zh-f09b29170a66.jpg)
 
@@ -968,7 +988,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/622/draft-zh-3a7bf4639a3
 
 技术资料：[https://github.com/motiontemplates/551805](https://github.com/motiontemplates/551805)
 
-### 65. DeepSeek 鲸鱼粒子聚合
+### 66. DeepSeek 鲸鱼粒子聚合
 
 ![DeepSeek 鲸鱼粒子聚合 · 横屏](https://media.openaicut.com/covers/628/1.1.0-a864a56cec62.jpg)
 
@@ -982,7 +1002,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/628/1.1.0-e0d9c9e4a5b8.m
 
 技术资料：[https://github.com/motiontemplates/404937](https://github.com/motiontemplates/404937)
 
-### 66. DeepSeek 粒子形变
+### 67. DeepSeek 粒子形变
 
 ![DeepSeek 粒子形变 · 横屏](https://media.openaicut.com/covers/629/1.1.0-72cc2b4731d0.jpg)
 
@@ -990,13 +1010,15 @@ Demo 视频：[▶ https://media.openaicut.com/previews/628/1.1.0-e0d9c9e4a5b8.m
 
 #380710 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.1.0
 
+需要准备：底部文字 · 一到两个词；不超过 24 个字符。 主色 · 填十六进制颜色，如 #70C9E8。
+
 Demo 视频：[▶ https://media.openaicut.com/previews/629/1.1.0-0892fa4bf82d.mp4](https://media.openaicut.com/previews/629/1.1.0-0892fa4bf82d.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/deepseek-form-morph](https://motiongit.com/@thepandaq/deepseek-form-morph)
 
 技术资料：[https://github.com/motiontemplates/380710](https://github.com/motiontemplates/380710)
 
-### 67. DeepSeek 词语粒子
+### 68. DeepSeek 词语粒子
 
 ![DeepSeek 词语粒子 · 横屏](https://media.openaicut.com/covers/630/1.1.0-7cf1d6e6ddc9.jpg)
 
@@ -1004,15 +1026,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/629/1.1.0-0892fa4bf82d.m
 
 #941301 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.1.0
 
-需要准备：第一个词 · 2 到 4 个字或短英文词，最多 6 个字符。 第二个词 · 同上。 第三个词 · 同上。 第四个词 · 同上。 主色 · 填十六进制颜色。
-
 Demo 视频：[▶ https://media.openaicut.com/previews/630/1.1.0-7b16186bd6b2.mp4](https://media.openaicut.com/previews/630/1.1.0-7b16186bd6b2.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/deepseek-word-morph](https://motiongit.com/@thepandaq/deepseek-word-morph)
 
 技术资料：[https://github.com/motiontemplates/941301](https://github.com/motiontemplates/941301)
 
-### 68. Light Ribbon Word
+### 69. Light Ribbon Word
 
 ![Light Ribbon Word · 横屏](https://media.openaicut.com/covers/872/1.0.0-04d5f44d203b.jpg)
 
@@ -1026,7 +1046,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/872/1.0.0-08a812711d78.m
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/light-ribbon-word](https://motiongit.com/@thepandaq/light-ribbon-word)
 
-### 69. 面板擦除 · WIPE PACK
+### 70. 面板擦除 · WIPE PACK
 
 ![面板擦除 · WIPE PACK · 横屏](https://media.openaicut.com/covers/878/1.0.0-zh-36c9ef9f02df.jpg)
 
@@ -1034,11 +1054,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/872/1.0.0-08a812711d78.m
 
 #878 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
 
+需要准备：要沿用随包预览音乐，还是换成你自己的音乐？ · 随包提供一段与成片同源的预览音乐，导出时可作为 music 输入绑定；不绑定则输出无声。 · 导出无声，画面不受影响。 品牌名 · 片头 HUD / 时间线窗口 / 片尾字标中的品牌名。 长度 1–18 个字符。
+
 Demo 视频：[▶ https://media.openaicut.com/previews/878/1.0.0-zh-be7dc794ab1a.mp4](https://media.openaicut.com/previews/878/1.0.0-zh-be7dc794ab1a.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/collage-wipe](https://motiongit.com/@thepandaq/collage-wipe)
 
-### 70. DEEP STAGE 开场点火标题
+### 71. DEEP STAGE 开场点火标题
 
 ![DEEP STAGE 开场点火标题 · 横屏](https://media.openaicut.com/covers/879/1.0.0-12a34d321725.jpg)
 
@@ -1052,7 +1074,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/879/1.0.0-8e74030d1901.m
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/deep-stage-title-ignition](https://motiongit.com/@thepandaq/deep-stage-title-ignition)
 
-### 71. DEEP STAGE 媒体素材墙
+### 72. DEEP STAGE 媒体素材墙
 
 ![DEEP STAGE 媒体素材墙 · 横屏](https://media.openaicut.com/covers/883/1.0.0-7aea9314e457.jpg)
 
@@ -1060,11 +1082,13 @@ Demo 视频：[▶ https://media.openaicut.com/previews/879/1.0.0-8e74030d1901.m
 
 #430770 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
 
+需要准备：把素材墙标题和六张卡的名字发我：每张一句中文名（八个字内）加一个英文大写标签。如果是作品集，把六个作品的短名给我就行。 · 素材墙标题与六张卡的名字 / 英文标签 要我按这段素材墙的节奏推荐一段授权背景音乐吗？还是你自带音乐？ · 可选：一段低频律动或氛围床，衬托六张卡依次落位 · 模板不内置音频；没有音乐时保持静音也成立，画面节奏按 10 秒固定。 需要我把附带音效混进成片吗？也可以换成你自己的音乐或完全静音。 · 随包附带的可选音效轨：纯合成音调设计，按本模板真实动画时间线对齐；支持音频的宿主在渲染后混入 · 宿主不支持音频时输出静音视频，画面与时长不受影响；不得声称已包含声音。 素材墙标题 · 一行写完，8–14 个中文字；超过 18 个字会被裁掉。 六张卡的文案 · 固定 6 条，每条写中文名（8 字内）和英文大写标签（10 字内）；顺序就是画面里从左上到右下的顺序。 标题上方小标签 · 建议「类别 / 中文说明」，36 字以内；留空则不显示。 左上角品牌名 · 1–3 个英文词，全大写最好看；也会作为左侧竖排小字显示。 右上角章节号 · 写法「05 / 06」；只写一个数字也能显示。 右上角章节名 · 章节号下方的一行小字，如「MEDIA WALL / 媒体素材」。 右下角角标 · 建议「品牌 / 版本 / 画幅」，52 字以内。 底部字幕 · 34 字以内，一行；用 &lt;em&gt;…&lt;/em&gt; 可让局部变主色；留空则不显示字幕带。 主色 · 六位十六进制颜色；默认冷青 #4DE3FF，暖金 #FFB168，紫罗兰 #A78BFF。
+
 Demo 视频：[▶ https://media.openaicut.com/previews/883/1.0.0-a30bac716f4b.mp4](https://media.openaicut.com/previews/883/1.0.0-a30bac716f4b.mp4)
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/deep-stage-media-wall](https://motiongit.com/@thepandaq/deep-stage-media-wall)
 
-### 72. DEEP STAGE 收尾锁版
+### 73. DEEP STAGE 收尾锁版
 
 ![DEEP STAGE 收尾锁版 · 横屏](https://media.openaicut.com/covers/884/1.0.0-1e5dc2b6dbd5.jpg)
 
@@ -1078,7 +1102,7 @@ Demo 视频：[▶ https://media.openaicut.com/previews/884/1.0.0-651f2839086d.m
 
 官网下载 .motion：[https://motiongit.com/@thepandaq/deep-stage-outro-lockup](https://motiongit.com/@thepandaq/deep-stage-outro-lockup)
 
-### 73. 3D 吉祥物手把手教程
+### 74. 3D 吉祥物手把手教程
 
 ![3D 吉祥物手把手教程 · 横屏](https://media.openaicut.com/covers/895/1.0.0-zh-0c4dce4365d8.jpg)
 
@@ -1086,17 +1110,21 @@ Demo 视频：[▶ https://media.openaicut.com/previews/884/1.0.0-651f2839086d.m
 
 #887145 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.0
 
+需要准备：请给我一张透明底的产品 logo 图片（PNG） · 开场从首页揭起来变成 3D 小宠物的贴纸，片尾 logo 请给我产品首页的截图，最好是 16:10、宽度 1880 像素以上 · 开场平板里显示的产品首页 请按操作顺序给我每一步的界面截图，不要包含真实手机号、账号或二维码 · 每一步平板上显示的界面，点了按钮之后的界面也要一张 有没有透明底的品牌文字标？没有也可以 · 片尾字标 · 片尾用品牌名文字代替 想用自己的背景音乐吗？需要告诉我这首歌的节拍速度和第一拍的位置 · 背景音乐，镜头和动作踩它的拍子 · 用模板代码生成的节拍（放克或舒缓两种风格） 开场标题 · 一句话说清这期教什么，18 字以内，例如「3 分钟学会注册登录」 每一步的大字标题和字幕 · 每步标题 14 字以内；字幕说用户此刻要做的动作，36 字以内，重点词用 {} 包起来高亮 片尾标语 · 一句收尾的话，标语加高亮合计 14 字以内，例如「注册完成，开始体验吧」
+
 Demo 视频：[▶ https://media.openaicut.com/previews/895/1.0.0-zh-a15d0b9cfbab.mp4](https://media.openaicut.com/previews/895/1.0.0-zh-a15d0b9cfbab.mp4)
 
 官网下载 .motion：[https://motiongit.com/@xkkiss12/mascot-tutorial-3d](https://motiongit.com/@xkkiss12/mascot-tutorial-3d)
 
-### 74. 可爱角色歌词 MV
+### 75. 可爱角色歌词 MV
 
 ![可爱角色歌词 MV · 横屏](https://media.openaicut.com/covers/920/1.0.0-zh-dc8684015557.jpg)
 
 33 秒横屏歌词 MV 完整模板（1920×1080，30fps），可替换歌词、关键词大字与手写纸条。模板默认采用程序绘制的可爱 chibi 角色。中文 Demo 使用此前完成的《碎碎念》完整成片，未重新渲染；Demo 人物沿用原片风格，与模板默认角色风格不同。音频署名：小天；抖
 
 #161069 · 横屏 · 16:9 · 1920 × 1080 · 30 FPS · v1.0.1
+
+需要准备：请提供歌词或短文案，以及每句的大致出现时间。 · 用歌词文字和时间码替换 content.json 中的 lyrics、keywords、notes；不改动画代码。 如果要配乐，请提供已获授权的音乐文件。 · 将确认可用的音乐文件作为外部输入，通过 SONG 环境变量交给 render.sh。 · 不添加音乐，保留静音音轨；提醒用户之后可加入已授权音乐。
 
 Demo 视频：[▶ https://media.openaicut.com/previews/920/1.0.0-zh-36be1d67dbe0.mp4](https://media.openaicut.com/previews/920/1.0.0-zh-36be1d67dbe0.mp4)
 
