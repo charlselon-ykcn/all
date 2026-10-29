@@ -145,7 +145,7 @@ Technical documentation：[https://github.com/motiontemplates/314486](https://gi
 
 Support structured explanations with paper perspective, layered cards and text-image relationships.
 
-#358192 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.21-alpha.4
+#358192 · Landscape · 16:9 · 1920 × 1080 · 60 FPS · v2.7.21-alpha.5
 
 Demo video：[https://media.openaicut.com/previews/607/draft-en-c751c296f78b.mp4](https://media.openaicut.com/previews/607/draft-en-c751c296f78b.mp4)
 
@@ -249,6 +249,8 @@ Demo video：[https://media.openaicut.com/previews/614/draft-en-6f4079db7a76.mp4
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/template-05-native-portrait](https://motiongit.com/@adunext/template-05-native-portrait)
 
+Technical documentation：[https://github.com/motiontemplates/293151](https://github.com/motiontemplates/293151)
+
 ### 14. Vibrant Poster · Narrated Explainer
 
 <a href="https://media.openaicut.com/covers/623/draft-en-adb5b50af035.jpg"><img src="https://media.openaicut.com/covers/623/draft-en-adb5b50af035.jpg" alt="Vibrant Poster · Narrated Explainer · Landscape" width="640"></a>
@@ -274,6 +276,8 @@ Support narration with high-contrast posters, bold type, lists and graphic relat
 Demo video：[https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4](https://media.openaicut.com/previews/624/draft-en-42518fd309a1.mp4)
 
 Download .motion from MotionGit：[https://motiongit.com/@adunext/vibrant-poster-portrait](https://motiongit.com/@adunext/vibrant-poster-portrait)
+
+Technical documentation：[https://github.com/motiontemplates/721489](https://github.com/motiontemplates/721489)
 
 ### 16. Narrated Promo · 10-Second Intro
 
